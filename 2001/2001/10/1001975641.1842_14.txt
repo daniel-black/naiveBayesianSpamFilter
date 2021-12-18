@@ -1,0 +1,98 @@
+Return-Path: <sgft@msn.com>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 26884 invoked from network); 1 Oct 2001 20:38:06 -0000
+Received: from unknown (HELO notesdemo) (194.89.174.200)
+  by agamemnon.bfsmedia.com with SMTP; 1 Oct 2001 20:38:06 -0000
+Received: from 216.221.15.136 ([216.221.15.136])
+          by notesdemo (Lotus Domino Release 5.0.6a)
+          with SMTP id 2001100112502293:1942 ;
+          Mon, 1 Oct 2001 12:50:22 +0300 
+From: sgft@msn.com
+To: hnmj@msn.com
+Subject: Do You Accept Credit Cards
+Date: Mon, 01 Oct 01 05:19:33 Eastern Daylight Time
+X-Priority: 3 (Normal)
+X-MSMailPriority: Normal
+Importance: Normal
+MIME-Version: 1.0
+X-MIMETrack: Itemize by SMTP Server on HaltonDemo1/HaltonCert/FI(Release 5.0.6a |January
+ 17, 2001) at 01.10.2001 12:50:36,
+	Serialize by Router on HaltonDemo1/HaltonCert/FI(Release 5.0.6a |January 17, 2001) at
+ 01.10.2001 23:40:38,
+	Serialize complete at 01.10.2001 23:40:38
+Message-ID: <OF314940CC.9B343EAA-ONC2256AD8.0036123F@LocalDomain>
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_018C_01BD9940.715D52A0"
+Content-Length: 1783
+Lines: 70
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_018C_01BD9940.715D52A0
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+
+<FONT face="MS Sans Serif">
+<FONT size=2> <CENTER>
+<FONT size=4>
+<FONT color="#0000A0"><B> ACCEPT ALL MAJOR CREDIT CARDS<BR>
+<BR>
+START INCREASING SALES TODAY<BR>
+</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+</FONT>
+<FONT size=3>
+<FONT color="#FF0000"><B> INTERNET MERCHANTS, RETAIL STORES OR MAIL <BR>
+ORDER/TELEPHONE ORDER MERCHANTS.<BR>
+</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+</FONT>
+<FONT size=3>
+<FONT color="#FF0000"><B> 98% OF OUR APPLICANTS ARE ACCEPTED!!<BR>
+</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+</FONT>
+<FONT size=3>
+<FONT color="#000000"><B> TERMINALS & PRINTERS OR PROCESS<BR>
+DIRECTLY THROUGH YOUR WEB SITE OR P.C.<BR>
+</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+</FONT>
+<FONT size=3>
+<FONT color="#FF0000"><B> 0 DOWN W/GOOD CREDIT,<BR>
+BAD CREDIT HISTORY? NO PROBLEM!<BR>
+NO APPLICATION OR SETUP FEE WITH THIS AD.<BR>
+</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+</FONT>
+<FONT size=3>
+<FONT color="#000000"><B> LOWEST RATES, LOW MONTHLY PAYMENTS<BR>
+SUPER QUICK APPROVAL AND SET UP!!<BR>
+</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+</FONT>
+<FONT size=3>
+<FONT color="#FF0000"><B> REAL TIME SECURE PROCESSING FROM YOU<BR>
+WEB SITE OR PHYSICAL STORE FRONT<BR>
+<BR>
+</B></FONT>
+<FONT color="#000000"><B> INCREASE SALES BY UP TO 300%!!</B></FONT>
+<FONT size=3>
+<FONT color="#000000"> <BR>
+<BR>
+</FONT>
+<FONT size=5>
+<FONT color="#0000A0"><B> CALL NOW!!  800-474-9698</B></FONT>
+<FONT size=2>
+<FONT color="#000000"> </CENTER><BR>
+</FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></BODY></HTML>
+
+

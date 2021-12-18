@@ -1,0 +1,530 @@
+Return-Path: <apl876c2784@oceanfree.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29014 invoked from network); 13 May 2001 19:20:46 -0000
+Received: from mail.cite.com.eg (163.121.190.140)
+  by em.ca with SMTP; 13 May 2001 19:20:46 -0000
+Received: from mail1.edbasa.no ([38.33.74.118]) by mail.cite.com.eg (AppleShare IP Mail Server 6.3) id 124300 via TCP with SMTP; Tue, 08 May 2001 16:50:40 +0300
+Message-ID: <00001a935a9b$00002409$000068dd@mail.nci.de>
+To: <Owner>
+From: apl876c2784@oceanfree.net
+Subject: Rates DROPPED! Low Interest Loans From Aggressive Funding Institutions! 
+Date: Tue, 08 May 2001 02:11:10 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: apl876c2784@oceanfree.net
+Content-Length: 22195
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Loan Application Form</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1=
+">
+<META content=3D"Microsoft FrontPage 4.0" name=3DGENERATOR>
+<META content=3D"Cheryl N Knowles" name=3DAuthor>
+<SCRIPT language=3DJavaScript>
+
+<!--
+ function validate(string) {
+     if (!string) return false;
+     var Chars =3D "0123456789 ";
+
+     for (var i =3D 0; i < string.length; i++) {
+        if (Chars.indexOf(string.charAt(i)) =3D=3D -1)
+           return false;
+     }
+     return true;
+ } 
+ //-->
+
+<!--
+function validate_form() {
+	validity =3D true; // assume valid
+	if (!check_empty(document.form.Name.value))
+	{ validity =3D false; alert('Name field is empty!'); }
+	if (!check_empty(document.form.Address.value))
+	{ validity =3D false; alert('Address field is empty!'); }
+	if (!check_empty(document.form.City.value))
+	{ validity =3D false; alert('City field is empty!'); }
+	if (!check_empty(document.form.PostalCode.value))
+	{ validity =3D false; alert('Zip Code field is empty!'); }
+	if (!check_empty(document.form.HPhone.value))
+	{ validity =3D false; alert('Home Phone field is empty!'); }
+	if (!check_empty(document.form.WPhone.value))
+	{ validity =3D false; alert('Work Phone field is empty!'); }
+	if (!check_empty(document.form.PropertyValue.value))
+	{ validity =3D false; alert('Property Value field is empty!'); }
+	if (!check_empty(document.form.Mortgage1.value))
+	{ validity =3D false; alert('Current Mortgage field is empty!'); }
+	if (!check_empty(document.form.PurchasePrice.value))
+	{ validity =3D false; alert('Purchase Price field is empty!'); }
+	if (!check_empty(document.form.YearAcquired.value))
+	{ validity =3D false; alert('Year Acquired field is empty!'); }
+	if (!check_empty(document.form.Employer.value))
+	{ validity =3D false; alert('Employer field is empty!'); }
+	if (!check_empty(document.form.BorrowRequest.value))
+	{ validity =3D false; alert('Amount to borrow field is empty!'); }
+	if (!check_empty(document.form.CurrentIntRate.value))
+	{ validity =3D false; alert('Interest Rate Field is empty!'); }
+	if (!check_empty(document.form.MonthlyGrIncome.value))
+	{ validity =3D false; alert('Monthly Gross Income field is empty!'); }
+	if (!check_empty(document.form.MonthlyDebt.value))
+	{ validity =3D false; alert('Monthly Debt field is empty!'); }
+	(validity)
+	alert ("Thank you for your registration! "
+		+ "Your form is now being passed to your browser's "
+		+ "Mail Delivery Sub-System for NORMAL"
+		+ " NON-ENCRYPTED email delivery."
+		+ " All email addresses are removed from our system"
+	+ " upon registration. Please click OK to proceed");
+	return validity;
+}
+function check_empty(text) 
+	{
+	return (text.length > 0); // returns false if empty
+} // --></SCRIPT>
+</HEAD>
+<BODY text=3D#000040 vLink=3D#800080 aLink=3D#ff0000 link=3D#0000ff bgColo=
+r=3D#ffffff>
+<!-- CHANGE EMAIL ADDRESS IN ACTION OF FORM --><FORM name=3D"form" method=3D=
+"post" action=3D"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#98;&#111;&#110;=
+&#101;&#49;&#49;&#64;&#117;&#111;&#108;&#101;&#46;&#99;&#111;&#109;&#63;&#=
+115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#77;&#111;&#114;&#116;&#45;&#7=
+6;&#111;&#97;&#110;" enctype=3D"text/plain"
+
+    onSubmit=3D"return validate_form()">
+<DIV align=3Dcenter>
+<CENTER>
+<TABLE width=3D600 border=3D0>
+  <TBODY>
+  <TR>
+    <TD background=3D bgColor=3D#ffffff height=3D285>
+
+      <DIV align=3Dcenter>
+
+<p align=3D"left"><font face=3D"Arial" size=3D"4" color=3D"#000080"><b>Int=
+erest Rates have Dropped....Start Saving
+Now!</b></font>
+<p align=3D"left"><b><font face=3D"Arial" size=3D"4" color=3D"#000080">We
+Shop The Best Loan For You!</font></b><br>
+<br>
+<font face=3D"Arial" size=3D"2" color=3D"#000080">
+The Money Lending Network is a 100% free service which lets you shop for a=
+ mortgage&nbsp;conveniently and securely from the comfort of your home. Us=
+ing our vast network&nbsp;of lenders across the U.S., we will search our d=
+atabase of loan programs for the&nbsp;best loans that fit your needs.  Eve=
+n if you're currently working with another&nbsp;lender or have been turned=
+ down before, we can still
+help.<br>
+<br>
+Our loan programs can get you the cash you need for:<br>
+<br>
+Debt Consolidation *
+2nd Mortgage *
+Refinance *
+Credit Repair
+Home Improvement *
+New Car *
+Dream Vacation *
+College Tuition
+To start a new business ..and much, much more!<br>
+<br>
+Funding borrowers with less than perfect credit is our specialty!&nbsp;We =
+can get you the loan you
+need.<br>
+<br>
+Regardless of whether you have good or bad credit, we can help you.
+Ready to get started?<br>
+<br>
+Simply fill out the our 60 second form, and we'll begin shopping for your =
+loan.</font>
+<p align=3D"left"><b><font face=3D"Arial" color=3D"#000080" size=3D"3">It'=
+s that easy!</font></b>
+      <p align=3D"left"><b><font color=3D"#000080" face=3D"Arial" size=3D"=
+3">We Make the
+      Lenders Compete for <u>YOUR</u> Business!</font></b>
+      <p align=3D"left"><font face=3D"Arial" size=3D"3" color=3D"#000080">=
+<b>Please
+      complete this form. Our loan specialist will be contacting you at yo=
+ur
+      convenience. Thank You.</b></font></DIV>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop align=3Dmiddle>
+            <HR align=3Dcenter width=3D"100%" color=3D"#000080">
+
+          </TD></TR></TBODY></TABLE>
+      <DIV align=3Dcenter>
+      <CENTER>
+      <TABLE cellSpacing=3D0 cellPadding=3D2 width=3D599 border=3D0 height=
+=3D"732">
+        <TBODY>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Your 
+            Full Name</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT name=3DName=
+>*</font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Address</b></fo=
+nt></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT name=3DAddress>*</font></T=
+D></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>City</b></font>=
+</TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT name=3DCity>*</font></TD><=
+/TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>State(USA Only)=
+</b></font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 name=3DState max=
+length=3D"7"> <OPTION 
+              value=3DAK selected>AK</OPTION> <OPTION value=3DAL>AL</OPTIO=
+N> <OPTION 
+              value=3DAR>AR</OPTION> <OPTION value=3DAZ>AZ</OPTION> <OPTIO=
+N 
+              value=3DCA>CA</OPTION> <OPTION value=3DCO>CO</OPTION> <OPTIO=
+N 
+              value=3DCT>CT</OPTION> <OPTION value=3DDC>DC</OPTION> <OPTIO=
+N 
+              value=3DDE>DE</OPTION> <OPTION value=3DFL>FL</OPTION> <OPTIO=
+N 
+              value=3DGA>GA</OPTION> <OPTION value=3DHI>HI</OPTION> <OPTIO=
+N 
+              value=3DIA>IA</OPTION> <OPTION value=3DID>ID</OPTION> <OPTIO=
+N 
+              value=3DIL>IL</OPTION> <OPTION value=3DIN>IN</OPTION> <OPTIO=
+N 
+              value=3DKS>KS</OPTION> <OPTION value=3DKY>KY</OPTION> <OPTIO=
+N 
+              value=3DLA>LA</OPTION> <OPTION value=3DMA>MA</OPTION> <OPTIO=
+N 
+              value=3DMD>MD</OPTION> <OPTION value=3DME>ME</OPTION> <OPTIO=
+N 
+              value=3DMI>MI</OPTION> <OPTION value=3DMN>MN</OPTION> <OPTIO=
+N 
+              value=3DMO>MO</OPTION> <OPTION value=3DMS>MS</OPTION> <OPTIO=
+N 
+              value=3DMT>MT</OPTION> <OPTION value=3DNC>NC</OPTION> <OPTIO=
+N 
+              value=3DND>ND</OPTION> <OPTION value=3DNE>NE</OPTION> <OPTIO=
+N 
+              value=3DNH>NH</OPTION> <OPTION value=3DNJ>NJ</OPTION> <OPTIO=
+N 
+              value=3DNM>NM</OPTION> <OPTION value=3DNV>NV</OPTION> <OPTIO=
+N 
+              value=3DNY>NY</OPTION> <OPTION value=3DOH>OH</OPTION> <OPTIO=
+N 
+              value=3DOK>OK</OPTION> <OPTION value=3DOR>OR</OPTION> <OPTIO=
+N 
+              value=3DPA>PA</OPTION> <OPTION value=3DRI>RI</OPTION> <OPTIO=
+N 
+              value=3DSC>SC</OPTION> <OPTION value=3DSD>SD</OPTION> <OPTIO=
+N 
+              value=3DTN>TN</OPTION> <OPTION value=3DTX>TX</OPTION> <OPTIO=
+N 
+              value=3DUT>UT</OPTION> <OPTION value=3DVA>VA</OPTION> <OPTIO=
+N 
+              value=3DVT>VT</OPTION> <OPTION value=3DWA>WA</OPTION> <OPTIO=
+N 
+              value=3DWI>WI</OPTION> <OPTION value=3DWV>WV</OPTION> <OPTIO=
+N 
+              value=3DWY>WY</OPTION></SELECT><U>*UNITED STATES 
+ONLY!</U></font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Zip/Postal Code=
+</b></font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT maxLength=3D15 size=3D10 
+name=3DPostalCode>*</font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Home Phone</b><=
+/font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT maxLength=3D30 size=3D20 n=
+ame=3DHPhone>*</font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Work Phone</b><=
+/font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT maxLength=3D55 name=3DWPho=
+ne></font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Email Address</=
+b></font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT maxLength=3D30 name=3DEmai=
+l size=3D"26">*</font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Best Time To Ca=
+ll</b></font></TD>
+          <TD width=3D346 background=3D"" height=3D"25" bgcolor=3D"#000080=
+"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 n=
+ame=3DCallTime> 
+              <OPTION value=3D"Morning at Home" selected>Morning at Home</=
+OPTION> 
+              <OPTION value=3D"Morning at Work">Morning at Work</OPTION> <=
+OPTION 
+              value=3D"Afternoon at Home">Afternoon at Home</OPTION> <OPTI=
+ON 
+              value=3D"Afternoon at Work">Afternoon at Work</OPTION> <OPTI=
+ON 
+              value=3D"Evening at Home">Evening at Home</OPTION> <OPTION 
+              value=3D"Late Evening at Work">Late Evening at 
+            Home</OPTION></SELECT>&nbsp;*</font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Do 
+            You Own Your Home?</b></font></TD>
+          <TD width=3D346 background=3D"" height=3D"25" bgcolor=3D"#000080=
+"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 n=
+ame=3DHomeowner> 
+              <OPTION value=3DYes selected>Yes</OPTION> <OPTION 
+              value=3DNo>No</OPTION></SELECT><STRONG>*Mobile Homes Do Not 
+        Qualify</STRONG></font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Property Value<=
+/b></font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"><font face=3D"=
+Arial"
+            size=3D"2" color=3D"#FFFFFF"><INPUT 
+            onchange=3D"if (!validate (this.value >=3D 15000)) {&#10;     =
+          alert('Not Valid! Please enter a number greater than 50000 using=
+ only number characters in thousands(000)');&#10;&#9;&#9;&#9;this.focus();=
+&#10;&#9;&#9;&#9;this.select();&#10;&#9;&#9;&#9;return false;&#10;        =
+    }" 
+            size=3D13 name=3DPropertyValue>*  Numeric
+            Character in 000's</font> </TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Property Type</=
+b></font></TD>
+          <TD width=3D346 background=3D"" height=3D"25" bgcolor=3D"#000080=
+"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 n=
+ame=3DPropertyType> 
+              <OPTION value=3D"Single Family Residence" selected>Single Fa=
+mily 
+              Residence</OPTION> <OPTION value=3DCondo>Condo</OPTION> <OPT=
+ION 
+              value=3DTownhouse>Townhouse</OPTION> <OPTION value=3D"2-4 Pl=
+ex">2-4 
+              Plex</OPTION> <OPTION value=3DOther>Other</OPTION></SELECT>*=
+</font></TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Purchase Price<=
+/b></font></TD>
+          <TD width=3D346 height=3D"25" bgcolor=3D"#000080"> <font face=3D=
+"Arial"
+            size=3D"2" color=3D"#FFFFFF"> <INPUT size=3D13 name=3DPurchase=
+Price>* Numeric
+            Character in 000's</font> </TD></TR>
+        <TR>
+          <TD borderColor=3D#008000 align=3Dmiddle width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080">
+            <DIV align=3Dright>
+            <P><font face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Year A=
+cquired</b></font> </P></DIV></TD>
+          <TD borderColor=3D#008000 align=3Dleft width=3D346 height=3D"25"=
+ bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT size=3D13 
+            name=3DYearAcquired>  *</font></TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>1st 
+            Mortgage-Balance Owed</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT 
+               onchange=3D"if (!validate (this.value >=3D 0)) {&#10;      =
+         alert('Not Valid! Please enter a number 0 or greater');&#10;&#9;&=
+#9;&#9;this.focus();&#10;&#9;&#9;&#9;this.select();&#10;&#9;&#9;&#9;return=
+ false;&#10;            }" 
+            size=3D13 name=3DMortgage1>*  Numeric
+            Character in 000's</font></TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>1st 
+            Mortgage-Interest Rate</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT size=3D13 n=
+ame=3DCurrentIntRate>*</font> 
+        </TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Is 
+            1st Adjustable or Fixed?</b></font></TD>
+          <TD align=3Dleft width=3D346 background=3D"" height=3D"25" bgcol=
+or=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 
+            name=3DFirstType maxlength=3D"30"> <OPTION value=3DFixed 
+              selected>Fixed</OPTION> <OPTION 
+              value=3DAdjustable>Adjustable</OPTION></SELECT> *</font></TD=
+></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>2nd 
+            Mortgage Balance owed</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT  
+            onchange=3D"if (!validate (this.value >=3D 0)) {&#10;         =
+      alert('Not Valid! Please enter a number 0 or greater');&#10;        =
+    }" 
+            size=3D13 name=3DMortgage2>  Numeric
+            Character in 000's</font> </TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Amount You Wish=
+ To Borrow</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT  
+            onchange=3D"if (!validate (this.value >=3D 15000)) {&#10;     =
+          alert('Not Valid! Please enter a number of greater than 15000 wi=
+th a combination of the following characters - 0123456789');&#10;&#9;&#9;&=
+#9;this.focus();&#10;&#9;&#9;&#9;this.select();&#10;&#9;&#9;&#9;return fal=
+se;&#10;            }" 
+            size=3D13 name=3DBorrowRequest>* Numeric
+            Character in 000's</font> </TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Employer</b></f=
+ont></TD>
+          <TD align=3Dleft width=3D346 bordercolor=3D"#FFFFFF" height=3D"2=
+5" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><INPUT maxLength=3D=
+30 size=3D15 
+            name=3DEmployer>*</font></TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Monthly Gross&n=
+bsp;Household Income</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"> =
+<font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"> <INPUT maxLength=3D=
+30 size=3D15 name=3DMonthlyGrIncome>*
+            Must use numbers only</font></TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#008000 align=3Dright width=3D296 background=3D=
+"" height=3D"11" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Monthly Debt (E=
+xcluding Mortgage)</b></font></TD>
+        </CENTER></CENTER>
+          <TD align=3Dleft width=3D346 height=3D"11" bgcolor=3D"#000080"> =
+<font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"> <input type=3D"te=
+xt" name=3D"MonthlyDebt" size=3D"15">*
+            Must 
+            use numbers only</font></TD></TR>
+<CENTER>
+      <CENTER>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#FFFFFF align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Credit Rating</=
+b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 n=
+ame=3DCreditRating 
+            maxlength=3D"30"> <OPTION value=3D"Please Select" selected>Ple=
+ase 
+              Select</OPTION> <OPTION value=3DExcellent>Excellent</OPTION>=
+ <OPTION value=3DGood>Good</OPTION> <OPTION 
+              value=3DFair>Fair</OPTION> <OPTION value=3DPoor>Poor</OPTION=
+></SELECT> 
+          *</font></TD></TR>
+        <TR align=3Dmiddle>
+          <TD borderColor=3D#FFFFFF align=3Dright width=3D296 background=3D=
+"" height=3D"25" bgcolor=3D"#000080"><font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><b>Loan Interested=
+ In</b></font></TD>
+          <TD align=3Dleft width=3D346 height=3D"25" bgcolor=3D"#000080"><=
+font
+            face=3D"Arial" size=3D"2" color=3D"#FFFFFF"><SELECT size=3D1 n=
+ame=3DLoanInterested 
+            maxlength=3D"30"> <OPTION value=3D"Debt Consolidation" selecte=
+d>Debt 
+              Consolidation</OPTION> <OPTION value=3D"Second Mortgage">Sec=
+ond 
+              Mortgage</OPTION> <OPTION value=3D"Home Improvement">Home 
+              Improvement</OPTION> <OPTION value=3DRefinance>Refinance</OP=
+TION> 
+              <OPTION value=3DPurchase>Purchase</OPTION></SELECT> *</font>=
+</TD></TR>
+        <TR align=3Dmiddle bgColor=3D#000000>
+          <TD borderColor=3D#008000 align=3Dmiddle width=3D646 colSpan=3D2=
+ bgcolor=3D"#000080" height=3D"46">
+            <DIV align=3Dcenter>
+            <P><font face=3D"Arial" size=3D"2" color=3D"#FFFFFF">Fast &amp=
+; Easy -You Are Done ! 
+            <BR><INPUT type=3Dsubmit value=3D"Submit This Application" nam=
+e=3Dsend> 
+            </font> 
+            </P></DIV></TD></TR></TBODY></TABLE></CENTER></DIV></center></=
+TD></TR></TBODY></TABLE></DIV>
+</FORM>
+<p align=3D"center"><font face=3D"Arial" size=3D"2"><font color=3D"#000080=
+"><b>Removal
+Instructions<br>
+</b>Click on the below link to be exclude from further communication.</fon=
+t><br>
+<b><a href=3D"mailto:a_jose@uole.com?subject=3DDelete-Mort">Click Here</a>=
+</b></font></p>
+</BODY></HTML>
+
+
+
+

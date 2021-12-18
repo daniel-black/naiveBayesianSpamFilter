@@ -1,0 +1,14 @@
+Return-Path: <info@ndpcaucus.sk.ca>
+Return-Path: <info@ndpcaucus.sk.ca>
+Spam-Apparently-To: <info@ndpcaucus.sk.ca>
+Received: (qmail 4392 invoked from network); 28 Jan 2001 07:30:09 -0000
+Received: from 02-104.025.popsite.net (HELO www.programmersavailableImmediately.com) (209.119.188.104)
+  by ndpcaucus.sk.ca with SMTP; 28 Jan 2001 07:30:09 -0000
+Date: Sun, 28 Jan 2001 01:30 GMT
+From: 138.1266@www.programmersavailableImmediately.com
+Subject: Programmers Available Immediately for $29 per hour
+To: info@ndpcaucus.sk.ca
+Mime-version: 1.0
+Content-Type: text/html
+
+ <style>body{font-family:tahoma;font-weight:bold;color:#000066;}span{font-family:verdana;font-size:large;font-weight:bold;color:#cc0099;}h1{font-family:umbra;font-size:xx-large;font-weight:bold;color:#550099;}</style><body bgcolor="#BBD9F2"><center><h1>Programmers Available Immediately</h1><span>for <b><big>$29</b></big> per hour</span><br><br><a href="mailto:elloalan@altavista.com?Subject=Tell Me More Saerweit-11980667020138">Click here for more details by email</a><br><br><a href="mailto:elloalan@altavista.com?Subject=Remove">Remove me NOW!</a>

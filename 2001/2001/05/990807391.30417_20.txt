@@ -1,0 +1,36 @@
+Return-Path: <ala@yadonia.com>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 27697 invoked from network); 25 May 2001 07:39:19 -0000
+Received: from unknown (HELO default) (217.23.33.111)
+  by bfsmedia.sk.ca with SMTP; 25 May 2001 07:39:19 -0000
+From: "Yadonia.com" <ala@yadonia.com>
+To: <info@bfsmedia.com>
+Subject: Hello
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Fri, 25 May 2001 10:36:13
+Content-Length: 442
+Lines: 22
+
+Hello,
+
+My name is Ala, and I own the site Yadonia.com ( http://www.yadonia.com ), 
+I want to invite you to visit my site, and I hope that you find my site useful.
+
+Thank you,
+
+Ala
+
+
+
+
+
+
+
+
+<<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>>
+
+* To remove yourself from this mailing list, Reply to this message with
+the word "remove" in the subject line.
+
+<<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>> <<<>>>

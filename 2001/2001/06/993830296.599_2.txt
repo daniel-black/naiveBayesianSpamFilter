@@ -1,0 +1,27 @@
+Return-Path: <contact@ouestlink.com>
+Delivered-To: em-ca-bait-20010112100314@em.ca
+Received: (qmail 24147 invoked from network); 29 Jun 2001 14:41:05 -0000
+Received: from smtp-rt-8.wanadoo.fr (HELO lantana.wanadoo.fr) (193.252.19.51)
+  by em.ca with SMTP; 29 Jun 2001 14:41:05 -0000
+Received: from andira.wanadoo.fr (193.252.19.152) by lantana.wanadoo.fr; 29 Jun 2001 16:33:40 +0200
+Received: from id (217.128.66.208) by andira.wanadoo.fr; 29 Jun 2001 16:33:19 +0200
+Message-ID: <3b3c91af3ba124dd@andira.wanadoo.fr> (added by andira.wanadoo.fr)
+From: lemeilleurdu.com<contact@ouestlink.com>
+To: 
+CC: bait-20010112100314@em.ca
+Subject: Découvrez lemeilleurdu.com
+X-Mailer: MailExpress Lite
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Length: 355
+Lines: 9
+
+
+<html>
+
+<body>
+<div align="center"><a href="http://lemeilleurdu.com"><img src="http://www.chtemeuleu.com/images/Animation17.gif" border="0"></a><br><br><br>
+<font size="1">Pour vous désabonner et ne plus être informés sur les nouveaux et meilleurs sites web : <a href="mailto:desa@lemeilleurdu.com"> envoyez ce mail</a></font><br>
+</div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+Return-Path: <e4697@slo.net>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 22932 invoked from network); 31 Oct 2001 09:52:07 -0000
+Received: from unknown (HELO ilke01) (212.174.206.226)
+  by agamemnon.bfsmedia.com with SMTP; 31 Oct 2001 09:52:07 -0000
+Received: from slo.net ([65.44.225.12])
+          by ilke01 (Lotus Domino Release 5.0.1a (Intl))
+          with SMTP id 2001103111290773:1606 ;
+          Wed, 31 Oct 2001 11:29:07 +0300 
+Message-ID: <000035536d96$00001b79$00002a1c@188.net>
+To: <ahxiy@188.net>
+From: e4697@slo.net
+Subject: 95,98,Me Versions Of Windows More Fault Tolerant With This..
+Date: Tue, 30 Oct 2001 23:37:02 -0400
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+Errors-To: Microsoft Outlook Express 5.50.4133.2400
+Return-Path: Microsoft Outlook Express 5.50.4133.2400
+X-MIMETrack: Itemize by SMTP Server on ilke01/ilke.com.tr/tr(Release 5.0.1a (Intl)|17
+ August 1999) at 10/31/2001 11:29:09 AM,
+	Serialize by Router on ilke01/ilke.com.tr/tr(Release 5.0.1a (Intl)|17
+ August 1999) at 10/31/2001 04:49:35 PM,
+	Serialize complete at 10/31/2001 04:49:35 PM
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Length: 1278
+Lines: 42
+
+<html>
+<body>
+
+<p>Dear Windows User,<br>
+<br>
+Now you can boost the reliability of ordinary Windows 95, 98 and ME to nea=
+rly
+the level of Windows NT or 2000, Microsoft's professional and industrial v=
+ersion
+of Windows.<br>
+<br>
+The new WinFix is a very effective way to improve the reliability of Windo=
+ws,
+because it makes Windows fault-tolerant and self-repairing.<br>
+<br>
+And WinFix is very safe, because it operates completely independent of Win=
+dows.<br>
+<br>
+<u><font color=3D"#0000ff"><a href=3D"http://three.domainstop.org/">CLICK =
+HERE</a></font></u> to find out more about WinFix, the safest, most effect=
+ive way to keep you working, by keeping your PC working non-stop.<br>
+<br>
+Arlen Dixon, CEO<br>
+Pinewood Software Marketing<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+This announcement is intended for PC users who asked to be kept<br>
+informed about new developments in Windows technology.<br>
+</p>
+<p><font size=3D"1">We apologize for any email you may have inadvertently
+received.<br>
+Please <a href=3D"http://four.domainstop.org">CLICK HERE</a> to be removed=
+ from
+future mailings.</font></p>
+<img src=3D"http://sixteen.domainstop.org/gifcounter.cgi?winfix_ad" border=
+=3D"0" width=3D"1" height=3D"1">
+</body>
+</html>
+
+
+

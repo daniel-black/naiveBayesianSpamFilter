@@ -1,0 +1,129 @@
+Return-Path: <jhunter789@kangaroojumpingallaroundtheforest54678.com>
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 12401 invoked from network); 4 Apr 2001 06:52:49 -0000
+Received: from ns.holonets.co.jp (210.161.252.2)
+  by em.ca with SMTP; 4 Apr 2001 06:52:49 -0000
+Received: from rsvp-208-187-57-63.ac05.rcrd.eli.net_[208.187.57.63] (rsvp-208-187-57-63.ac05.rcrd.eli.net [208.187.57.63])
+          by ns.holonets.co.jp (2.5 Build 2640 (Berkeley 8.8.6)/8.8.4) with SMTP
+	  id PAA27788; Wed, 04 Apr 2001 15:52:30 +0900
+From: jhunter789@kangaroojumpingallaroundtheforest54678.com
+Received: from mail-in.pol.net.uk by rsvp-208-187-57-63.ac05.rcrd.eli.net with ESMTP; Wed, 04 Apr 2001 01:54:18 -0600
+Message-ID: <0000563b32c8$00007945$00007b24@mail-in.pol.net.uk>
+To: <sueallendo4955@desertmail.com>
+Subject: The economy needs a 2nd wind                         31524
+Date: Wed, 04 Apr 2001 01:54:08 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: jhunter789@kangaroojumpingallaroundtheforest54678.com
+Content-Length: 1886
+Lines: 105
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://www.245trees.com","Hello",
+"scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://www.245trees.com","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://www.245trees.com";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>
+
+
+

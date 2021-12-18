@@ -1,0 +1,45 @@
+Return-Path: <philbass12@linkusnow.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 9062 invoked from network); 25 Jan 2001 03:15:27 -0000
+Received: from bevelander.nl (HELO mail.christineleduc.nl) (213.207.20.40)
+  by bfsmedia.sk.ca with SMTP; 25 Jan 2001 03:15:27 -0000
+Received: from mx13.linkusnow.net [63.48.17.60] by mail.christineleduc.nl
+  (SMTPD32-6.05) id A8862500BA; Thu, 25 Jan 2001 04:07:50 +0100
+Subject: Re: contest entry confirmation
+CC: design@bigbirds.com,
+	design@bigbirds.com,
+	design@bigbirds.com,
+	design@bigbirds.com,
+	design@bigbirds.com,
+	design@bigbirds.com
+Date: Wed, 24 Jan 2001 22:18:39 -0500
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Received: from mx13.linkusnow.net [192.168.222.21] by g3872y.mx13.linkusnow.net with SMTP; Wed, 24 Jan 2001 22:18:39 -0500
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Message-Id: <44fw0m4jok0ua3yx2l.pi7u1i1dc8@mx13.linkusnow.net>
+To: linkusnow@bigbirds.com
+From: cormio@linkusnow.net
+Content-Length: 525
+Lines: 19
+
+<HTML><FONT  SIZE=2 PTSIZE=10>Thank you for entering.<BR>
+<BR>
+Grand prize - Florida Bahamas vacation and cruise<BR>
+1st prize - Airline tickets<BR>
+Other Prizes - 3 days and 2 nights hotel accommodations<BR>
+<BR>
+Please confirm your entry within 24 hours of receipt of this confirmation.
+<BR>
+<BR>
+Confirmation number - 11XVJ2500P<BR>
+<A HREF="http://www.linkusnow.net/discover">Click here for more 
+details</A><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+To be removed: <A HREF="http://www.linkusnow.net/remove">Click 
+Here</A></FONT></HTML>
+

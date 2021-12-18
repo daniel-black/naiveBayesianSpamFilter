@@ -1,0 +1,178 @@
+Return-Path: <send@fmailh5.real-net.net>
+Spam-Apparently-To: <rasta@em.ca>
+Received: (qmail 4767 invoked from network); 25 Jun 2001 18:39:22 -0000
+Received: from unknown (HELO fmailh5.real-net.net) (208.147.92.41)
+  by em.ca with SMTP; 25 Jun 2001 18:39:22 -0000
+Received: (from send@localhost)
+	by fmailh5.real-net.net (8.9.3/8.9.3) id LAA22687;
+	Mon, 25 Jun 2001 11:32:26 -0700
+Date: Mon, 25 Jun 2001 11:32:26 -0700
+Message-Id: <200106251832.LAA22687@fmailh5.real-net.net>
+X-Batch-Number: 010531EL1O-46750,rasta@em.ca
+To: rasta@em.ca
+From: "Real.com Accessories" <news@real-net.net>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Subject: Dramatically improve your PC's performance!
+
+<html>
+<!--
+(For e-mailing list removal information see bottom of e-mail.)
+A special announcement from Real.com(TM) Accessories
+
+Dramatically improve your PC's performance! 
+
+We discovered a great new utility called FreeMem Pro that will 
+help you get improved performance from your computer's RAM and 
+give you an even better audio and video experience with 
+RealPlayer(R). 
+
+Download FreeMem Pro Now at
+http://www.real.com/R/EMAL.010531EMAL1B.ac.00..R/www.real.com/accessories/freemem/main.html?src=010531EMAL1B
+
+The secret? FreeMem Pro automatically frees-up RAM wasted by 
+Windows and other large applications. 
+
+The result? In a word: speed. 
+
+You can run multiple large applications without system slow-downs 
+and increase your available RAM performance by over 100%! 
+
+Your computer will run smoother with less wait time and your 
+programs, including RealPlayer, will load and run faster.  It 
+works so well that FreeMem Pro won an Editor's Pick award from 
+ZDNet. 
+
+Try FreeMem Pro today and experience the difference for yourself.
+http://www.real.com/R/EMAL.010531EMAL1B.ac.00..R/www.real.com/accessories/freemem/main.html?src=010531EMAL1B
+
+Sincerely,
+
+David Obelcz
+Group Product Manager
+Real.com Accessories
+RealNetworks, Inc.
+
+P.S. Thanks for your continued support as a RealPlayer user! 
+
+
+
+You are receiving this e-mail because you downloaded RealPlayer or 
+RealJukebox(R) from Real.com and indicated a preference to receive 
+product news, updates, and special offers from RealNetworks(R).  If you 
+do not wish to receive e-mails from us in the future, click on the Remove 
+Me link below.
+
+- Remove Me
+http://www.real.com/R/EMAL.010531EMAL1B.ac.05..R/ml.real.com/mlr/rasta@em.ca
+- Privacy Policy
+http://www.real.com/R/EMAL.010531EMAL1B.ac.06..R/www.realnetworks.com/company/privacy/index.html
+
+RealPlayer, RealJukebox, Real.com and RealNetworks are 
+trademarks or registered trademarks of RealNetworks, Inc. All other 
+companies or products listed herein are trademarks or registered 
+trademarks of their respective owners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+<body link="#0000ee" text="#000000" bgcolor="#ffffff" vlink="#551a8b" alink="#ff0000">
+<center>
+<table border=0 width=500 bgcolor="#000066" cellpadding=0 cellspacing=0>
+<tr>
+<td width=40><img src="http://www.real-net.net/R/EMAL.010531EMAL1Bimg.ac.00..R/html-images.realnetworks.com/pics/clear_.gif" width=40 height=60></td>
+<td width=420><a href="http://www.real.com/R/EMAL.010531EMAL1B.ac.01..R/www.real.com/accessories/freemem/main.html?src=010531EMAL1B"><img src="http://html-images.realnetworks.com/pics/real/email/accessories/freemem.jpg" width=420 height=60 border=0></a></td>
+<td width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40 height=60></td>
+</tr>
+</table>
+<table cellpadding=0 cellspacing=0 border=0 width=500 bgcolor="#ffffff">
+<tr>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40></td>
+<td width=5><img src="http://html-images.realnetworks.com/pics/clear.gif" width=5></td>
+<td width=420 colspan=2 align=top><font face="Arial" size=1 color=#333300>A special announcement from Real.com&#153; Accessories<br>(For e-mailing list removal information see bottom of e-mail.)</font></td>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40></td>
+</tr>
+</table>
+<table cellpadding=0 border=0 width=500 bgcolor="#ffffff" cellspacing=0>
+<tr>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40></td>
+<td width=20><img src="http://html-images.realnetworks.com/pics/clear.gif" width=20></td>
+<td width=380><font face="Arial" size=4 color=#ff9933><b>Dramatically Improve your PC's Performance!</b></font><p><font face="Arial" size=2>We discovered a great new utility called <a href="http://www.real.com/R/EMAL.010531EMAL1B.ac.02..R/www.real.com/accessories/freemem/main.html?src=010531EMAL1B">FreeMem Pro</a> that will help you get improved performance from your computer's RAM and give you an even better audio and video experience with RealPlayer&reg;.<p> 
+<center><a href="http://www.real.com/R/EMAL.010531EMAL1B.ac.03..R/www.real.com/accessories/freemem/main.html?src=010531EMAL1B"><b>Click Here to Download FreeMem Pro</b></a></center><p>The secret? FreeMem Pro automatically frees-up RAM wasted by Windows and other large applications.<p>The result? In a word: <b>speed</b>.<p>You can run multiple large applications without system slow-downs and increase your available RAM performance by over 100%!<p>Your computer will run smoother with less wait time and your programs, including RealPlayer, will load and run faster.  It works so well that FreeMem Pro won an Editor's Pick award from ZDNet.<p>
+<a href="http://www.real.com/R/EMAL.010531EMAL1B.ac.04..R/www.real.com/accessories/freemem/main.html?src=010531EMAL1B">Try FreeMem Pro today</a> and experience the difference for yourself.<p>
+Sincerely,<p> 
+<i>David Obelcz</i><br>
+RealNetworks, Inc.<Br>
+Group Product Manager<br>
+Real.com Accessories
+<p>
+P.S. Thanks for your continued support as a RealPlayer user!</td></font>
+<td width=20><img src="http://html-images.realnetworks.com/pics/clear.gif" width=20></td>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40></td>
+</tr>
+<tr>
+<td bgcolor="#000066" height=10 width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40 height=10></td>
+<td width=20 height=10><img src="http://html-images.realnetworks.com/pics/clear.gif" width=20 height=10></td>
+<td width=380 height=10><img src="http://html-images.realnetworks.com/pics/clear.gif" width=380 height=10></td>
+<td width=20 height=10><img src="http://html-images.realnetworks.com/pics/clear.gif" width=20 height=10></td>
+<td bgcolor="#000066" height=10 width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" height=10 width=40></td>
+</tr>
+</table>
+<table width=500 cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40 height=13></td>
+<td bgcolor="#000066" width=420><img src="http://html-images.realnetworks.com/pics/real/email/accessories/bottomcurve.gif" width=420 height=13></td>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40 height=13></td>
+</tr>
+<tr>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40 height=50></td>
+<td bgcolor="#000066" width=420><img src="http://html-images.realnetworks.com/pics/clear.gif" width=420 height=50></td>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40 height=50></td>
+</tr>
+<tr>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40></td>
+<td bgcolor="#000066" width=420><font face="Arial" size=1 color=ffffff>
+You are receiving this e-mail because you downloaded RealPlayer or RealJukebox&reg; from Real.com and indicated a preference to receive product news, updates, and special offers from RealNetworks&reg;.  If you do not wish to receive e-mails from us in the future, click on the Remove Me link below.
+<p>
+RealPlayer, RealJukebox, Real.com and RealNetworks are trademarks or registered trademarks of RealNetworks, Inc. All other companies or products listed herein are trademarks or registered trademarks of their respective owners.</td>
+<td bgcolor="#000066" width=40><img src="http://html-images.realnetworks.com/pics/clear.gif" width=40></td>
+</tr>
+<tr>
+<td bgcolor="#000066" width=500 colspan=3><img src="http://html-images.realnetworks.com/pics/clear.gif" width=500 height=10></td>
+</tr>
+<tr>
+<td width=500 colspan=3><img src="http://html-images.realnetworks.com/pics/clear.gif" width=500 height=10></td>
+</tr>
+<tr>
+<td width=500 colspan=3><center><font face="Arial" size=1><a href="http://www.real.com/R/EMAL.010531EMAL1B.ac.05..R/ml.real.com/mlr/rasta@em.ca" target=blank>remove me</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.real.com/R/EMAL.010531EMAL1B.ac.06..R/www.realnetworks.com/company/privacy/index.html">privacy policy</a></font></center></td>
+</tr>
+</table>
+</body>
+</html>
+
+

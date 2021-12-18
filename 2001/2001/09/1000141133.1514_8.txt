@@ -1,0 +1,267 @@
+Return-Path: <market.alert@adonis.ias.msk.su>
+Delivered-To: em-ca-user.name@em.ca
+Received: (qmail 22917 invoked from network); 10 Sep 2001 16:03:46 -0000
+Received: from unknown (HELO dns.jpn-kucho.co.jp) (210.254.8.113)
+  by agamemnon.bfsmedia.com with SMTP; 10 Sep 2001 16:03:46 -0000
+Received: from 4.4.49.208 (PPPa19-ResaleFtLauderdaleB1-5R7024.dialinx.net [4.4.49.208])
+          by dns.jpn-kucho.co.jp (2.5 Build 2640 (Berkeley 8.8.6)/8.8.4) with SMTP
+	  id BAA02447; Tue, 11 Sep 2001 01:04:36 +0900
+From: market.alert@adonis.ias.msk.su
+Message-Id: <200109101604.BAA02447@dns.jpn-kucho.co.jp>
+To: 
+Subject: Stock Market News Flash
+Date: Sun, 09 Sep 01 19:00:39 Eastern Daylight Time
+Reply-To: market.alert@adm.nlh.no
+X-Priority: 1
+X-MSMailPriority: High
+Importance: High
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_018C_01BD9940.715D52A0"
+Content-Length: 8607
+Lines: 244
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_018C_01BD9940.715D52A0
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by dns.jpn-kucho.co.jp id BAA02447
+
+<HTML>
+<BODY>
+<html>
+<head>
+<title>Market News</title>
+</head>
+<body lang=3DEN-US bgcolor=3D"#FFFFFF">
+<div class=3DSection1>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"2">You are recei=
+ving this=20
+    email because you previously stated that you where either interested =
+in the=20
+    Stock Market or where interested in Making Money. If you received thi=
+s email=20
+    in error you may OPT-OUT of future mailings at no cost to you simply =
+by visiting=20
+    <a href=3D"http://www.freewebhostingcentral.com/ch10/opt-out/">http:/=
+/www.freewebhostingcentral.com/ch10/opt-out/</a>.</font></p>
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tr>=20
+      <td rowspan=3D"2"><font face=3D"Arial, Helvetica, sans-serif"><b><f=
+ont size=3D"+3">Market=20
+        News</font></b></font></td>
+      <td width=3D"36%"><font face=3D"Arial, Helvetica, sans-serif">Symbo=
+l</font></td>
+      <td width=3D"9%"><font face=3D"Arial, Helvetica, sans-serif"><b>ETP=
+I</b></font></td>
+    </tr>
+    <tr>=20
+      <td width=3D"36%"><font face=3D"Arial, Helvetica, sans-serif">Share=
+s Outstanding</font></td>
+      <td width=3D"9%"><font face=3D"Arial, Helvetica, sans-serif">49,962=
+,919</font></td>
+    </tr>
+    <tr>=20
+      <td width=3D"55%"><font face=3D"Arial, Helvetica, sans-serif">Ratin=
+g: Strong=20
+        Buy</font></td>
+      <td width=3D"36%"><font face=3D"Arial, Helvetica, sans-serif">Float=
+ (est.)</font></td>
+      <td width=3D"9%"><font face=3D"Arial, Helvetica, sans-serif">19,997=
+,412</font></td>
+    </tr>
+    <tr>=20
+      <td width=3D"55%"><font face=3D"Arial, Helvetica, sans-serif">Enter=
+tainment=20
+        Technologies and Programs, Inc.</font></td>
+      <td width=3D"36%"><font face=3D"Arial, Helvetica, sans-serif">3-6 M=
+onth Target</font></td>
+      <td width=3D"9%"><font face=3D"Arial, Helvetica, sans-serif">$.50</=
+font></td>
+    </tr>
+    <tr>=20
+      <td width=3D"55%"><font face=3D"Arial, Helvetica, sans-serif"><font=
+ size=3D"4"><b>(OTC=20
+        BB:</b> </font><font size=3D"4">ETPI)</font></font></td>
+      <td width=3D"36%"><font face=3D"Arial, Helvetica, sans-serif" size=3D=
+"4">12-18=20
+        Month Target</font></td>
+      <td width=3D"9%"><font face=3D"Arial, Helvetica, sans-serif">$ 1.25=
+</font></td>
+    </tr>
+  </table>
+  <p><font face=3D"Arial, Helvetica, sans-serif"><b><i>(OTC BB:=20
+    ETPI) Extremely Under-Valued. Positioned to EXPLODE!</i></b></font></=
+p>
+  <p><font face=3D"Arial, Helvetica, sans-serif">MNA has found=20
+    yet another exceptional opportunity with a 23yr old company that is t=
+he <b>world's=20
+    largest</b> supplier of entertainment to the military. <b>ETPI</b> ha=
+s just=20
+    completed a major turn-around that includes slashing their total liab=
+ilities=20
+    by 60%. The company announced Quarterly financials this week and repo=
+rted=20
+    positive earnings per share for the first time in their history! Furt=
+hermore,=20
+    all three of their subsidiaries have become cash flow positive and gr=
+oss profit=20
+    margin has increased to a whopping 48%. <b>Look at their press releas=
+es!</b>=20
+    Timing is everything! </font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3"><b><u>From=20
+    The Releases</u></b></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif"><u><font size=3D"3">Augu=
+st=20
+    15<sup>th:</sup></font></u><font size=3D"3">  "<b><i>Going forward we=
+ expect=20
+    our fourth quarter to remain strong but more importantly, our project=
+ions=20
+    for next fiscal year, which begins October 1, will show a tremendous =
+improvement=20
+    over this year."</i></b></font></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3">"<b><i>The=20
+    most important factor is the quarter by quarter trend that will be su=
+pported=20
+    by operational budgets for fiscal 2002, which begins October 1 and wi=
+ll be=20
+    released by next week.</i></b></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif"><u><font size=3D"3">July=
+=20
+    2<sup>nd</sup></font></u><font size=3D"3"><sup>:</sup> "<b><i>We have=
+ a tremendous=20
+    opportunity to grow our business by about 40 percent internally for t=
+he next=20
+    year=85"</i></b></font></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3"><u>July=20
+    10<sup>th</sup></u>: "=85<b><i>the current quarter that we're operati=
+ng now=20
+    is going to be our strongest fiscal quarter in the last couple of yea=
+rs, and=20
+    we expect our fourth quarter to remain strong.</i></b>"  <b>The news =
+goes=20
+    on and on!</b></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3"><b><u>The=20
+    Company</u></b></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif"><b><font size=3D"3">ETPI=
+</font><font size=3D"3">=20
+    </font></b><font size=3D"3">is a 23-year old company that has been pu=
+blic for=20
+    six years. It is strategically positioned as the provider of a compre=
+hensive=20
+    array of entertainment products and services to both military and civ=
+ilian=20
+    markets. <b>ETPI</b> is an exclusive supplier of entertainment servic=
+es on=20
+    U.S. military=20
+    bases worldwide and has been awarded an Armed Forces Non-Appropriated=
+ Funds=20
+    (AFNAF) contract that allows them to obtain contracts from the Depart=
+ment=20
+    of Defense without entering into competitive bidding.</font></font></=
+p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3"><b><u>Investm=
+ent=20
+    </u></b><b><u>Opportunity</u></b></font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3">The=20
+    growth potential for Nitelife is enormous. NiteLife, <b>ETPI</b>'s br=
+ead &amp;=20
+    butter, has no competitors except for the military themselves. There =
+are approximately=20
+    1200 bases worldwide and presently they service only 68 but that numb=
+er is=20
+    steadily growing.</font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3">The=20
+    stock is essentially near its all-time low when it should be near it'=
+s all-time=20
+    high. Looking at the new company infrastructure and how the company i=
+s recommitted=20
+    to focusing on core operations, you see the immediate turn from non-p=
+rofitability=20
+    and non-cash flow to positive cash flow and positive earnings per sha=
+re.</font></p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3"><b>From a fun=
+damental=20
+    standpoint, the stock is currently the most attractive an investment =
+that=20
+    its been in the six years they've been public</b>. The return to prof=
+itability,=20
+    and the budget release, should provide the explosion to propel the st=
+ock to=20
+    many times its current level.   <b>Don't miss this outstanding opport=
+unity!</b></font></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"-7">MNA is an in=
+dependent=20
+    research firm with paid subscribers This report is based on MNA's ind=
+ependent=20
+    analysis but also relies on information supplied by sources believed =
+to be=20
+    reliable.  This report may or may not be the opinion of ETPI manageme=
+nt. =20
+    MNA has been retained to create this report on ETPI and has been paid=
+ 1,000,000=20
+    shares of common stock by the company.   MNA and its officers and dir=
+ectors=20
+    may from time to time buy or sell ETPI common shares in the open mark=
+et without=20
+    notice. Ongoing technical analysis may from time to time cause the ta=
+rget=20
+    price to fluctuate without notice.  The information contained in this=
+ report=20
+    is not intended to be, and shall not constitute, an offer to sell or =
+solicitation=20
+    of any offer to buy any security. It is intended for information only=
+. Consult=20
+    with your financial advisor about ETPI. Furthermore, Richard Colbert =
+has been=20
+    paid 200,000 shares of ETPI Common Stock to disseminate this informat=
+ion via=20
+    email.</font></p>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>Market News</title>
+</head>
+<body lang=3DEN-US bgcolor=3D"#FFFFFF">
+<div class=3DSection1>
+  <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"2">You are recei=
+ving this=20
+    email because you previously stated that you where either interested =
+in the=20
+
+
+
+
+
+
+
+
+
+</BODY></HTML>
+
+
+
+------=_NextPart_000_018C_01BD9940.715D52A0--

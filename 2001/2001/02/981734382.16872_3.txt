@@ -1,0 +1,208 @@
+Return-Path: <LSI_Logic@emarkethost.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1571 invoked from network); 9 Feb 2001 15:47:01 -0000
+Received: from unknown (HELO bsd.mktf.net) (216.34.8.5)
+  by em.ca with SMTP; 9 Feb 2001 15:47:01 -0000
+Received: from 216.34.8.66 (unknown [216.34.8.5])
+	by bsd.mktf.net (Postfix) with ESMTP id 6A02120F2D
+	for <bruceg@em.ca>; Fri,  9 Feb 2001 07:39:16 -0800 (PST)
+Date: 9 Feb 2001 15:46:35 GMT
+From: LSI_Logic@emarkethost.net
+Reply-To: Hire.com@emarkethost.net
+To: bruceg@em.ca
+Subject: Only one week left
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------70DC67B31B0E"
+X-MKTFI: ABAANCMAABCAAMCKABDADAHJIADAAMMA-
+Message-Id: <20010209153916.6A02120F2D@bsd.mktf.net>
+Content-Length: 7244
+
+
+This is a multi-part message in MIME format.
+
+--------------70DC67B31B0E
+Content-Type: multipart/alternative; boundary="------------A70DC67B31B0E"
+
+--------------A70DC67B31B0E
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello ,
+
+If you have submitted your profile, please bookmark our site and return
+often to be sure the information is current as your interest and
+experience changes. 
+We invite you to forward this email to your Engineering friends that
+would also like to learn about opportunities at LSI Logic - and maybe
+win a DVD player in the process! 
+
+If you haven't had time to profile - it literally takes 2 minutes. 
+And, for that small investment of your time you might find an
+opportunity that will will change your definition of a job. 
+
+Profile NOW!  
+http://hire.emarkethost.net/mk/get/RELSIL3?_ED=6TmH8gZFIV2Gvwc7ylOj1e 
+
+Our DVD drawing is on Feb. 15, you must profile before then to be
+eligible to win. 
+
+We offer relocation packages, and have openings all over the world.
+Here are some openings in our Wireless Design Center in San Diego right
+now : 
+
+DSP Software Engineer 
+
+Product Application Engineer 
+
+Integration & Test Engineer 
+
+ASIC Design Engineer 
+
+Windows Software Engineer 
+
+Call Processing Software Engineer 
+
+When you complete your profile you become eligible for our Feb 15, 2001
+drawing for a Toshiba DVD player with Progressive Scan. 
+
+Enter now:  http://hire.emarkethost.net/mk/get/RELSIL3?_ED=6TmH8gZFIV2Gvwc7ylOj1e
+
+
+Sincerely,
+
+Vincent Walker
+WDC Staffing Representative
+
+http://idealcareers.lsilogic.com
+
+We hope you enjoyed receiving this message.  If you do not wish to
+receive future news, tips and promotions 
+from LSI Logic, please reply (including all original text) with 
+Unsubscribe in the subject line.
+
+-----------Please do not change the next line-----------
+ABAANCMAABCAAMCKABDADAHJIADAAMMA-
+
+Powered by MarketFirst(TM)
+
+--------------A70DC67B31B0E
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html4.0 transitional//en">
+
+<!---------- Begin document [MarketFirst Software, Inc.] V02.04,P=San Diego Wireless Email 3 to TProfile,A=Email to TProfile 3,D=LSISanDiego3,V=3------->
+
+<HTML> 
+ <HEAD> 
+<TITLE> 
+LSISanDiego3
+</TITLE>
+</HEAD> 
+
+<BODY><TABLE >
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP"  COLSPAN=6>
+<body bgcolor="#FFFFFF">
+<table height="136" border="0" align="center" width="74%" bgcolor="#FFFFFF">
+  <tr> 
+    <td colspan="3" height="152"> 
+      <div align="center"> 
+        <p><IMG SRC="http://hire.emarkethost.net/mk/get?_A=11930&_D=11649&_V=0&_F=10537" ALIGN=TOP> 
+      </div>
+    </td>
+  </tr>
+</table>
+<table height="433" border="0" align="center" width="78%" bgcolor="#FFFFFF">
+  <tr> 
+       
+    <td height="432" align="right" width="22%" valign="top" bgcolor="#CCCCCC" bordercolor="#CCCCCC"> 
+      <p>&nbsp; </p>
+      <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif">At LSI Logic, 
+        we've replaced jobs with adventure, stimulation, excitement, reward, satisfaction, 
+        challenge and the open opportunity to become more of what you want. </font></p>
+      <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif">LSI Logic 
+        is the #2 CDMA company in the industry, we partner with trend-setting 
+        customers to design and build wireless solutions <br>on a single chip. Our 
+        groundbreaking wireless technology will captivate your imagination and 
+        cause your mind to spin - that's not a job but an adventure!</font> </p>
+      <p align="center"> &#160; <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#003366"> <A HREF="http://hire.emarkethost.net/mk/get/RELSIL3?_ED=6TmH8gZFIV2Gvwc7ylOj1e">CLICK HERE TO WIN</A> !</font></b></font><br>
+      </p>
+      <p> <font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">When 
+        you complete your profile you become eligible for our Feb 15, 2001 drawing 
+        for a Toshiba DVD player with progressive scan.<br> </font></p>
+      <p>&nbsp; </p>
+      </td>
+    <td height="432" width="1%" > &#160; </td>
+    <td height="432" width="77%" valign="top"> 
+      <p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hello ,<br>
+        <br>
+        If you have submitted your profile, please bookmark our site and return often to be sure the information is current as your interest and experience changes. <br><br>
+
+We invite you to forward this email to your Engineering friends that would also like to learn about opportunities at LSI Logic - and maybe win a DVD player in the process! <br><br>
+
+If you haven't had time to profile - it literally takes 2 minutes.  And, for that small investment of your time you might find an opportunity that will will change your definition of a job. <br><br>
+
+<A HREF="http://hire.emarkethost.net/mk/get/RELSIL3?_ED=6TmH8gZFIV2Gvwc7ylOj1e">PROFILE NOW!</A> Our DVD drawing is on Feb. 15, you must profile before then to be eligible to win.
+
+We offer relocation packages, and have openings all over the world. Here are some openings in our Wireless Design Center in San Diego right now : 
+       <br>
+        </font> </p>
+      <table border="0" width="96%" align="center">
+        <tr> 
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> DSP 
+            Software Engineer<br>
+            </font> </td>
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> ASIC 
+            Design Engineer</font> </td>
+        </tr>
+        <tr> 
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Product 
+            Application Engineer<br>
+            </font> </td>
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Windows 
+            Software Engineer</font> </td>
+        </tr>
+        <tr> 
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Integration 
+            &amp; Test Engineer<br>
+            </font> </td>
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Call Processing Software Engineer </font> </td>
+        </tr>
+      </table>
+<br>  
+<font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sincerely,<br><br>
+
+Vincent Walker<br>
+WDC Staffing Representative<br><br>
+<A HREF="http://idealcareers.lsilogic.com">http://idealcareers.lsilogic.com</A> 
+    </td>
+  </tr>
+</table>
+<p align="center"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">We hope you enjoyed receiving this message.  If 
+  you do not wish to receive future news, tips and promotions from LSI Logic, 
+  please <A HREF="http://hire.emarkethost.net/mk/get/UNLSI3?_ED=KuN6tGu5uDehqdr-eySi1i">click here.</A> <br>
+  <br>  <br>  <br>  <br>  <br>
+  </font> <br>
+</body>
+</html></TD>
+</TR>
+</TABLE>
+<BR>-----------Please do not change the next line-----------<BR>
+ABAANCMAABCAAMCKABDADAHJIADAAMMA-<BR>
+<p align="right">
+<FONT FACE="Arial,Helvetica" SIZE=-2 >
+Powered by</FONT>
+<a href="http://www.marketfirst.com">
+<FONT FACE="Arial,Helvetica" SIZE=-2 >
+<strong>MarketFirst&#153;</strong></FONT>
+</a></p></BODY>
+</HTML>
+
+<!-- End of document [MarketFirst Software, Inc.-->
+
+
+--------------A70DC67B31B0E--
+
+--------------70DC67B31B0E--
+

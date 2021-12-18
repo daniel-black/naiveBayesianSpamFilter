@@ -1,0 +1,49 @@
+Return-Path: <emails@take-a-wiz.com>
+Delivered-To: em-ca-bob.smith@em.ca
+Received: (qmail 30488 invoked from network); 19 Sep 2001 09:56:49 -0000
+Received: from cr20374-a.ajx1.on.wave.home.com (HELO webs02.ameer.take-a-wiz.com) (24.100.111.100)
+  by agamemnon.bfsmedia.com with SMTP; 19 Sep 2001 09:56:49 -0000
+Received: from rrkhan06 [10.0.0.100] by webs02.ameer.take-a-wiz.com with ESMTP
+  (SMTPD32-6.04) id AB126024A; Tue, 18 Sep 2001 13:27:06 -0400
+From: "Richard Khan" <emails@take-a-wiz.com>
+Subject: For All Canadians
+To: "bob.smith@em.ca" <bob.smith@em.ca>
+Content-Type: text/plain;
+Date: Tue, 18 Sep 2001 13:27:06 -0400
+X-Priority: 3
+X-Library: Indy 8.0.22
+Message-Id: <20010918132700.SM02440@rrkhan06>
+Content-Length: 2003
+Lines: 31
+
+Dear Canadian users,
+
+In light of the tragic and saddening events that occurred in New York last week, the employees and shareholders of Take-A-Wiz Incorporated offer their heart-felt sympathy and condolences to the families and friends of the victims of this heinous attack.  Our thoughts and prayers go 
+out to the victims, the rescue workers, and all the good people involved in this terrible tragedy.
+
+To support the relief efforts for the victims, we will donate 50% of all the proceeds from the sale of our Estate Planning Software, the Will Wizard(tm) and the Power of Attorney Wizard(tm), between September 17 and October 31, 2001 to the UNITED WAY SEPTEMBER 11TH FUND 
+(http://september11fund.org/epledge/sept11.cfm).
+
+Please visit our on-line web-store at http://www.take-a-wiz.com to make your purchases and enter this special Donation Code -- GIVE2NYC, which will be valid up to October 30, 2001.
+
+By purchasing our Wizard(tm) software during this time, not only will you have the tools to create a legal Canadian Will and Power of Attorney, but you will also be supporting the families of the victims during this difficult time.
+
+Thank you for your support.
+
+Yours truly,
+
+Richard Khan,
+President and C.E.O.,
+Take-A-Wiz Incorporated.
+
+For more information on the United Way September 11th Fund, you can visit:
+http://september11fund.org/epledge/sept11.cfm
+
+For contact information for Take-A-Wiz Incorporated, please our website or:
+http://www.take-a-wiz.com/en/scripting/swf/general/contactus.swf
+
+If you wish to be excluded from our mailing list, please click the following link:
+http://www.take-a-wiz.com/emails/remove.asp?email=bob.smith@em.ca
+
+Our site uses Macromedia(r) Flash(tm) 5 graphics and is designed for the Microsoft(r) Internet Explorer(r) browser, version 5.0 and up. The Netscape browser will not work! Don't be alarmed if you are asked to download the Flash(tm) 5 Plug-In, it's quick and commonly used by many, 
+many sites. Your browser probably has the plug-in already!

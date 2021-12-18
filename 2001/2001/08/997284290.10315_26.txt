@@ -1,0 +1,64 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 10425 invoked from network); 8 Aug 2001 15:21:43 -0000
+Received: from garibaldi.untroubled.org (192.168.1.1)
+  by lorien.untroubled.org (192.168.1.3) with SMTP; 08 Aug 2001 15:21:43 -0000
+Received: (qmail 31041 invoked from network); 8 Aug 2001 15:21:43 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by garibaldi.untroubled.org with SMTP; 8 Aug 2001 15:21:43 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S270510AbRHHPUD>; Wed, 8 Aug 2001 11:20:03 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S270509AbRHHPTx>; Wed, 8 Aug 2001 11:19:53 -0400
+Received: from [203.199.83.149] ([203.199.83.149]:41956 "HELO
+	mailweb29.rediffmail.com") by vger.kernel.org with SMTP
+	id <S270508AbRHHPTm>; Wed, 8 Aug 2001 11:19:42 -0400
+Received: (qmail 1430 invoked by uid 510); 8 Aug 2001 15:22:24 -0000
+Date:	8 Aug 2001 15:22:24 -0000
+Message-ID: <20010808152224.1429.qmail@mailweb29.rediffmail.com>
+Received: from unknown (61.1.209.239) by rediffmail.com via HTTP; 08 Aug 2001 15:22:24 -0000
+MIME-Version: 1.0
+To:	vrspnet@rediffmail.com <vrspnet@rediffmail.com>
+Subject:  http:// www.bigmx.com   - Free Email Service , Communities and More...
+From:	"vr  sp" <vrspnet@rediffmail.com>
+Content-ID: <Wed_Aug__8_20_52_24_IST_2001_0@mailweb29.rediffmail.com>
+Content-type:  text/plain
+Content-Description:  Body
+Content-Transfer-Encoding:  7bit
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1024
+
+
+Hai, 
+
+ we are one of the leading free email service providers in india.  We provide email service different from others.  So, we would like to call you to register email address in our service at http://www.bigmx.com .
+
+Time being we have provided some common indian names and some common celebrities in our email service.   
+
+Don't wait ! Receive your perfect email at http://www.bigmx.com.
+
+
+Other Features of this Website :  Sharing Photos , Discussion Forums on Indian cinema. 
+
+yours truly,
+
+Webmaster
+www.bigmx.com
+
+P.S: - For clarifications and more information reach us at 
+
+webmaster@bigmx.com
+
+_________________________________________________________
+For Rs. 2,000,000 worth of Aptech scholarships click below
+http://clients.rediff.com/clients/aptechsch/index.htm
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

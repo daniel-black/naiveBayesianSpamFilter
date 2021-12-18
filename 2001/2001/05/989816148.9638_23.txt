@@ -1,0 +1,35 @@
+Return-Path: <list@list.ser555.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 4820 invoked from network); 13 May 2001 23:14:30 -0000
+Received: from unknown (HELO list.ser555.com) (38.138.29.4)
+  by bfsmedia.sk.ca with SMTP; 13 May 2001 23:14:30 -0000
+From: "List" <list@list.ser555.com>
+Subject: Perfect Enhancement for Your Desktop
+Content-Type: multipart/related;
+	boundary="------NEXT_PART_00000003";
+	type="text/html"
+Content-Length: 1010
+Lines: 22
+
+This is a multi-part message in MIME format.
+
+--------NEXT_PART_00000003
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-ID: <00000003$00000003@list.ser555.com>
+Content-Length: 788
+
+TG9va2luZyBmb3Igc29tZXRoaW5nIHRvIHJlcGxhY2UgdGhvc2UgYW5ub3lpbmcgUG9zdC1JdCBu
+b3Rlcz88YnI+DQpDaGVjayBvdXQgb3VyIG5ldyBEZXNrdG9wU3RpY2tlciE8YnI+DQpJdCdzIGVh
+c3kgdG8gaW5zdGFsbCBhbmQgdXNlLiBTaW1wbHkgdHlwZSBpbiB5b3VyIHJlbWluZGVyIG5vdGUg
+aW4gdGhlIFJVTiBtZW51LCBhbmQgaXQgd2lsbCBhcHBlYXIgb24geW91ciBkZXNrdG9wLiBNb3Zl
+IGl0LCBoYXZlIGl0IHJpZ2h0IGluIGZyb250IG9mIHlvdXIgZXllcyB1bnRpbCB5b3Ugd2FudCBp
+dCBnb25lLjxicj4NCkludGVyZXN0ZWQ/IEdvIGhlcmUgPGEgaHJlZj0iaHR0cDovL3d3dy5kZXNr
+dG9wc3RpY2tlci5jb20vP2FkX3NuZSI+aHR0cDovL3d3dy5kZXNrdG9wc3RpY2tlci5jb20vPC9h
+Pjxicj48YnI+DQoNCjxocj4NCklmIHlvdSB3aXNoIHRvIHVuc3Vic2NyaWJlIHBsZWFzZSBzZW5k
+IGEgbGV0dGVyIHRvIDxhIGhyZWY9Im1haWx0bzp1bnN1YmRzQHNlcjU1NS5jb20iPnVuc3ViZHNA
+c2VyNTU1LmNvbTwvYT48YnI+DQpTdWJqZWN0IGFuZCB0ZXh0IGFyZSB1bmltcG9ydGFudC4NCjxo
+cj4NCg==
+
+--------NEXT_PART_00000003--
+

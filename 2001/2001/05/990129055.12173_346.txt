@@ -1,0 +1,63 @@
+Return-Path: <roi@computerbay.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 32663 invoked from network); 17 May 2001 19:49:49 -0000
+Received: from unknown (HELO computerbay.com) (198.182.126.194)
+  by em.ca with SMTP; 17 May 2001 19:49:49 -0000
+From: "Sales and Service" <roi@computerbay.com>
+To: "Welcome to the club!" <bruceg@em.ca>
+Subject: News: Virus Warning and Free Software Packages
+Sender: "Sales and Service" <roi@computerbay.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Thu, 17 May 2001 12:50:54 -0700
+Content-Transfer-Encoding: 8bit
+Content-Length: 4332
+
+<!Created entirely in RAW HTML by Logan crash2200@yahoo.com>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Virus Alert and Free Office Software!</title>
+</head>
+<body bgcolor="#FFFFFF" text="#808080" link="#0000FF" style="font-size: smaller; font-family: Arial, Helvetica, sans-serif;">
+<center> <A target="_top" href="http://www.computerbay.com/index.html"><img src="http://www.computerbay.com/pics/cblgored.jpg" border="0" ALT="pentium Computer Bay" width="188" height="33" align="center"><br clear="left">Shop Computers and Parts HERE</a><br></center><br clear="all">
+<hr width="300" color="#FF0000">
+NEW WORM SPREADS <strong>DISGUISED AS VIRUS WARNING:</strong>  May 15, 2001 08:18 AM<br>
+ANTI-VIRUS COMPANIES HAVE long cautioned users against opening unexpected e-mail attachments or attachments
+<strong>sent by strangers</strong>, <br>but thanks to a new e-mail worm spreading this week, anti-virus companies can add
+themselves to the list of not-to-be-trusted e-mailers.<br>
+<strong>Better run your Virus Updater NOW !</strong><br>
+<A href="http://www.infoworld.com/articles/hn/xml/01/05/15/010515hnnewworm.xml?0515alert">For Full Story:</A><br>
+<hr align="left" width="300" color="#FF0000">
+MICROSOFT FIXES BUGS IN IIS -- AGAIN -May 15, 2001 12:43 PM<br>
+IT MUST not be much fun to work on Microsoft's Internet Information Services (IIS) 5.0 these days.<br>
+The first two weeks of May saw the discovery of a number of security flaws in IIS, including ones that<br>
+might lead to DoS (denial of service) attacks or allow an attacker to take nearly total control of a system.<br>
+<a href="http://www.infoworld.com/articles/hn/xml/01/05/15/010515hnmorebugs.xml?0515alert" target="_blank">For Full Story:</a>  <br>  
+<hr align="left" width="300" color="#FF0000">
+MICROSOFT GIVES A VIRUS TO ITS SUPPORT CUSTOMERS - April 26, 2001 06:07 AM<br>
+MICROSOFT SAID ON Thursday that files on one of its Web servers had been infected by a virus and could have<br>
+been downloaded by customers of its corporate support services in the United States.<br>
+<a href="http://www.infoworld.com/articles/hn/xml/01/04/26/010426hnmicvir.xml?0426alert" target="_blank">For Full Story: </a>                                        
+<hr align="left" width="300" color="#FF0000">
+<strong>Alternative FREE Software</strong> <br>
+<hr align="left" width="300" color="#FF0000">
+<p>
+READ: Editor's Note:  These are links selected personally by the boss NOT for profitability but for YOU the customer to benefit from.  They're programs he actually has on his <b><i> own personal computer</b></i>.<br>
+<br>
+<b><font color="#FF0000">FREE AntiVirus</font><b> Software!</b><a target="page" href="http://www.grisoft.com/html/us_downl.cfm"> from GriSoft</B></a> <br>
+<b><font color="#FF0000">EZ To Use</b></font> <a href="http://click.linksynergy.com/fs-bin/click?id=JytHSBUwbY4&offerid=26986.10000014&subid=0&type=4" target="_blank">Zone Alarm</a> <b>Firewall</b> <font color="#FF0000">SECURITY</font> program for each PC at home or office.<br>
+<b><font color="#FF0000">FREE BACKUP</font></b> software program from <a href="http://www.centered.com" target="_blank">Centered is Great - Download</a> it and see!<br>
+<br>
+<p>
+<b>Forward this email to your friends and let them get in on the free goodies!</b><br><br>If this email was forwarded to you and you would like to become a member of ComputerBay.com (more free stuff!),<br>simply click on the link below to become a member!<br><a href="mailto:roi@computerbay.com?subject=Add&body=READ: Simply send this message to submit for membership with ComputerBay.com.">Sign me up for membership!</a>
+<br>
+<br>
+How to Cancel your Membership:<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
+WE DON'T WANT TO SEND EMAIL TO PEOPLE or COMPANIES THAT ARE NOT INTERESTED IN PRODUCTS / SERVICES THAT WE  OFFER. If you do not wish to be a member or receive this information, please click  <a href="mailto:roi@computerbay.com?subject=Remove&body=READ: Simply send this message to cancel your ComputerBay.com membership.">here</a>
+This message is being sent to you in compliance with the proposed Federal Legislation for commercial e-mail (H.R.4176-SECTION 101 PARAGRAPH (E) (1) (A)) and S. 1618 TITLE III Sec. 301<br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
+</body>
+</html>

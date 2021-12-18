@@ -1,0 +1,129 @@
+Return-Path: <curtis1433@desertmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4878 invoked from network); 12 Apr 2001 07:50:11 -0000
+Received: from dns1.ksdnet.co.jp (root@211.5.111.26)
+  by em.ca with SMTP; 12 Apr 2001 07:50:11 -0000
+Received: from ip104.kansas-city9.mo.pub-ip.psi.net_[38.27.195.104] (ip104.kansas-city9.mo.pub-ip.psi.net [38.27.195.104])
+	by dns1.ksdnet.co.jp (8.9.3/3.7W) with SMTP id QAA16835;
+	Thu, 12 Apr 2001 16:45:07 +0900
+From: curtis1433@desertmail.com
+Received: from virtual.umb.edu.co by ip104.kansas-city9.mo.pub-ip.psi.net with ESMTP; Thu, 12 Apr 2001 03:46:51 -0600
+Message-ID: <0000593349ba$000019a3$0000426c@virtual.umb.edu.co>
+To: <howard@5Business.cc>
+Subject: Improve your portfolio                         17004
+Date: Thu, 12 Apr 2001 03:46:43 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: cleanme@6kg1pwgz2doqx.com
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 2251
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://386.304.818.21-rxhtle-ozxboayvxm-jplnxs.=
+htm@00000000200.00000000171.00000000125.00000000271/acquisitions/?redirect=
+=3Dhometown.aol.com/xivgr/lmadn/mlueht.htm/","Hello",
+"scrollbars");
+    Hello.focus();
+                
+}
+
+	if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://386.304.818.21-rxhtle-ozxboayvxm-jplnxs.htm@0000000=
+0200.00000000171.00000000125.00000000271/acquisitions/?redirect=3Dhometown=
+.aol.com/xivgr/lmadn/mlueht.htm","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://386.304.818.21-rxhtle-ozxboayvxm-jplnxs.htm@0000=
+0000200.00000000171.00000000125.00000000271/acquisitions/?redirect=3Dhomet=
+own.aol.com/xivgr/lmadn/mlueht.htm";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>
+
+
+

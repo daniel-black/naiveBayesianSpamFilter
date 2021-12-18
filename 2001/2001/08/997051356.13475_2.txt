@@ -1,0 +1,51 @@
+Return-Path: <apache@mk1.unknown.net>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 3897 invoked from network); 5 Aug 2001 21:42:40 -0000
+Received: from dsl-b1-6190dhcp.cftnet.com (HELO mk1.unknown.net) (163.125.6.190)
+  by daedelus.bfsmedia.com with SMTP; 5 Aug 2001 21:42:40 -0000
+Received: by mk1.unknown.net (Postfix, from userid 48)
+	id 7860B5351E; Sat,  4 Aug 2001 02:24:19 -0400 (EDT)
+To: 
+From: emtch@tutoriais.com
+Reply-To: 
+Subject: ONCE IN A LIFETIME                                                   rqffh
+Message-Id: <20010804062419.7860B5351E@mk1.unknown.net>
+Date: Sat,  4 Aug 2001 02:24:19 -0400 (EDT)
+Content-Length: 1058
+Lines: 35
+
+<html>
+<head>
+<title>$10,000 INSTANT CREDIT</TITLE>
+</HEAD>
+
+<BODY link="#DF0000"  vlink="#DF0000"  alink="#DF0000">
+<TABLE WIDTH=450 ALIGN=CENTER BGCOLOR="#DF0000"><TR><TD>
+<B><FONT FACE="BASKERVILLE" SIZE=5 >
+<P ALIGN="CENTER">PRIORITY MESSAGE</TR></TD></TABLE>
+<table width=450 align=center cellpadding=10><tr><td>
+<b><font face="baskerville" size=3 color="#DF0000"><P>
+RECEIVE 2 FREE AIRLINE TICKETS AND<BR>
+THE CREDIT YOU DESERVE!</P></FONT>
+<B><FONT FACE="ARIAL" SIZE=2 COLOR="#000000"><P>
+Bad Credit No Problem  / 85% approval rate<p>
+
+<li>0% introductory interest</li>
+<li>0% on balance transfers</li>
+<li>9.9% interest thereafter</li>
+<li>Credit Limits upto $10,000</li>
+<li>No Annual Fee</li>
+<li>60 second Online Approval</li></font>
+<b><font face="baskerville" size=3><p>
+<a href="http://www.avirtualhosting.com/1000/credit">
+CLICK HERE</A>
+AND VISIT OUR SITE!<BR>
+Start enjoying the Credit You Deserve</p>
+</tr></td></table>
+<font face="arial" size=1><p>
+<A HREF="mailto:response2001@excite.com?subject=REMOVE">
+REMOVE</A></P>
+
+
+</BODY>
+</HTML>

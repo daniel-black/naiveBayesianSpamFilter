@@ -1,0 +1,33 @@
+Return-Path: <Vacation_Giveaway>
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 10727 invoked from network); 19 Jun 2001 05:03:26 -0000
+Received: from unknown (HELO msn.com) (161.58.90.210)
+  by em.ca with SMTP; 19 Jun 2001 05:03:26 -0000
+From: Vacation_Giveaway
+To: Vacationer<>
+Subject: Register Now for a Giveaway Vacation!          21534
+Date: Tue, 19 Jun 2001 00:57:54 -0400
+X-Sender: Vacation_Giveaway
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1
+Content-Type: text/html; charset="iso-8859-1"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 680
+Lines: 16
+
+<html>
+<head>
+<title>Our GIVEAWAY list keeps growing and growing</title>
+</head>
+<body>
+Our GIVEAWAY list keeps growing and growing! Register NOW for your choice of vacation spots all over the USA! 
+Just Imagine..YOU could be sipping a Bahama Mama in a truly tropical paradise, skiing the slopes of snow covered mountains, or dancing the night away in the glitter and excitement of Vegas!<br>
+HURRY and click NOW to register.....<a href="http://161.58.87.34/new_page_1.htm">Giveaway Vacations</a> <br>
+If you wish to be removed, please email to...<a href="mailto:cruzin2000us@yahoo.com">Remove</a> 
+with &quot;REMOVE&quot; in the subject matter.<br>
+&nbsp;</p>
+
+</body>
+
+</html>
+

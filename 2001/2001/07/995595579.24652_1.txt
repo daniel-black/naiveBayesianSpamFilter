@@ -1,0 +1,134 @@
+Return-Path: <etrade@etradecanadamail.com>
+Spam-Apparently-To: <jasmina@em.ca>
+Received: (qmail 24202 invoked from network); 12 Jul 2001 20:27:50 -0000
+Received: from unknown (HELO smtp) (207.236.75.76)
+  by em.ca with SMTP; 12 Jul 2001 20:27:50 -0000
+Received: from 207.236.75.76 ([207.236.75.76]) by smtp with Microsoft SMTPSVC(5.0.2172.1);
+	 Thu, 12 Jul 2001 16:20:20 -0400
+From: etrade@etradecanadamail.com
+To: jasmina@em.ca
+Subject: A reminder from E*TRADE Canada
+Reply-To: etradecanada@etradecanadamail.com
+Date: 12 Jul 2001 16:20:20 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_6vCWKPmo_Bf3zLs3w_MA"
+Return-Path: etrade@etradecanadamail.com
+Message-ID: <SMTPOeB7MGMy64SrmBB0000b0b4@smtp>
+X-OriginalArrivalTime: 12 Jul 2001 20:20:20.0215 (UTC) FILETIME=[1293E870:01C10B10]
+
+
+------=_6vCWKPmo_Bf3zLs3w_MA
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Timing is everything.
+Now's the time to take control of your financial destiny.
+Sign up now and get a $100 gift certificate from Indigo.ca*.
+
+Hello again. A short time ago, we invited you to open an account with E*TRADE Canada. This is just a reminder that you only have until August 15th, 2001 to take advantage of our special offer of a $100 Indigo.ca gift certificate*.
+
+If you have already decided to open an E*TRADE Canada account and your application and this e-mail crossed paths, thank you, and welcome!
+
+Every day, more and more people are taking control of their finances and trading online. What about you? As an E*TRADE Canada customer, you can stay on top of the market by creating your own portfolio, choosing from U.S. and Canadian equities and options, Canadian IPO's, and more than 2,000 no commission Canadian mutual funds**. And more importantly, in today's environment, you can access your account and track your investments 24/7.
+
+So what are you waiting for? Click: http://www.its-time-for-etrade-canada.com/c.asp?c=199-ATF-137 to view our special offer to you. Apply online today and open yourself up to a world of financial opportunity.
+
+We look forward to welcoming you as a customer.
+
+
+Sincerely,
+
+Colleen Moorehead
+President, E*TRADE Canada
+
+
+==============================================
+You received this e-mail because you requested a kit or clicked on apply online on the E*TRADE Canada site. For more information about our privacy policy click http://www.canada.etrade.com/privacy.shtml If you wish to be removed from our e-mail list, click on the link below.
+
+http://www.its-time-for-etrade-canada.com/unsubscribe.asp?c=199-ATF-137&e=jasmina@em.ca&mc=RNTM010628
+
+*Open an E*TRADE Canada account before August 15, 2001 and receive a $100 gift certificate that can be redeemed for merchandise at Indigo.ca. The gift certificate has no cash redemption value. You will receive the $100 Indigo.ca gift certificate provided that your E*TRADE Canada account remains open for a minimum of ninety days and has an average minimum equity balance of at least $1000 during such ninety day period. E*TRADE Canada will then send you specific instructions on how to redeem this offer at the Indigo.ca website. Offer valid for the first account opened by new E*TRADE Canada customers only. This offer cannot be combined with any other promotional offer.
+
+**A 1% transaction fee will be charged on the sale of mutual funds held for less than 90 days. Mutual fund charges imposed by the fund companies are in addition.
+
+E*TRADE Canada is a service of E*TRADE Canada Securities Corporation, a member of the Toronto and Montreal Exchanges, the Canadian Venture Exchange, the Investment Dealers Association and the Canadian Investor Protection Fund. The E*TRADE Canada service is offered in all provinces. E*TRADE Canada is a trademark of E*TRADE Securities, Inc. and is used with its permission.
+
+
+------=_6vCWKPmo_Bf3zLs3w_MA
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>E*TRADE Canada</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<center>
+  <table width="425" border="0" cellpadding="0" cellspacing="0" height="1114">
+    <tr valign="top"> 
+      <td> 
+        <p align="right"><a href="http://www.canada.etrade.com/indigo"><img src="http://www.its-time-for-etrade-canada.com/indigo/images/top_bar.gif" width="425" height="50" border="0"></a><br>
+        <a href="http://www.its-time-for-etrade-canada.com/c.asp?c=199-ATF-137"><img src="http://www.its-time-for-etrade-canada.com/indigo/images/indigo_text_rev.gif" width="424" height="265" border="0" alt="Get $100 Indigo.ca gift certificate"></a> 
+        </p>
+    </td>
+  </tr>
+  <tr valign="top"> 
+      <td height="803"> <font size="2" face="Arial, Helvetica, sans-serif"><br>
+        Hello again. A short time ago, we invited you to open an account with 
+        E*TRADE Canada. This is just a reminder that you only have until August 15th, 2001 
+		to take advantage of our special offer of a <font color="#6666CC"><b>$100 
+        Indigo.ca gift certificate</b></font>*. </font>
+		<BR><BR>
+		<font size="2" face="Arial, Helvetica, sans-serif">If you have already decided to open an E*TRADE Canada account and your 
+		application and this e-mail crossed paths, thank you, and welcome!</font>
+        <p><font size="2" face="Arial, Helvetica, sans-serif">Every day, more 
+          and more people are taking control of their finances and trading online. 
+          What about you? As an E*TRADE Canada customer, you can stay on top of 
+          the market by creating your own portfolio, choosing from U.S. and Canadian 
+          equities and options, Canadian IPO's, and more than 2,000 no commission 
+          Canadian mutual funds**. And more importantly, in today's environment, 
+          you can access your account and track your investments 24/7. </font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif">So what are you 
+          waiting for? <a href="http://www.its-time-for-etrade-canada.com/c.asp?c=199-ATF-137">Click here</a> 
+          to view our special offer to you. Apply online today and open yourself 
+          up to a world of financial opportunity. </font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif">We look forward 
+          to welcoming you as a customer. </font></p>
+        <p><font face="Arial, Helvetica, sans-serif" size="2">Sincerely, </font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2">Colleen Moorehead<br>
+        </font><font face="Arial, Helvetica, sans-serif" size="2">President, E*TRADE 
+        Canada</font></p>
+        <p align="right"><a href="http://www.etrade.ca"><img src="http://www.its-time-for-etrade-canada.com/indigo/images/its_time_logo.gif" width="269" height="41" border="0"></a></p>
+        <p align="center"><img src="http://www.its-time-for-etrade-canada.com/indigo/images/gr_line.gif" width="213" height="17"></p>
+        <p> <font size="1" face="Arial, Helvetica, sans-serif">You received this 
+          e-mail because you requested a kit or clicked on apply online on the 
+          E*TRADE Canada site. For more information about our privacy policy <a href="http://www.canada.etrade.com/privacy.shtml">click 
+          here</a>. If you wish to be removed from our e-mail list, click on the 
+          link below.</font></p>
+        <p align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="http://www.its-time-for-etrade-canada.com/unsubscribe.asp?c=199-ATF-137&e=jasmina@em.ca&mc=RNTM010628">Click here to unsubscribe.</a> </font></p>
+        <p><font size="1" face="Arial, Helvetica, sans-serif">*Open an E*TRADE Canada account before August 15, 2001 and receive 
+		a $100 gift certificate that can be redeemed for merchandise at Indigo.ca.  The gift certificate has no cash redemption 
+		value. You will receive the $100 Indigo.ca gift certificate provided that your E*TRADE Canada account remains open for 
+		a minimum of ninety days and has an average minimum equity balance of at least $1000 during such ninety day period. 
+		E*TRADE Canada will then send you specific instructions on how to redeem this offer at the Indigo.ca website. Offer 
+		valid for the first account opened by new E*TRADE Canada customers only. This offer cannot be combined with any other 
+		promotional offer.</font></p>
+        <p><font size="1" face="Arial, Helvetica, sans-serif">**A 1% transaction fee will be charged on the sale of mutual funds 
+		held for less than 90 days.  Mutual fund charges imposed by the fund companies are in addition.</font></p>
+        <p><font size="1" face="Arial, Helvetica, sans-serif">E*TRADE Canada is a service of E*TRADE Canada Securities 
+		Corporation, a member of the Toronto and Montreal Exchanges, the Canadian Venture Exchange, the Investment Dealers 
+		Association and the Canadian Investor Protection Fund. The E*TRADE Canada service is offered in all provinces. 
+		E*TRADE Canada is a trademark of E*TRADE Securities, Inc. and is used with its permission.</font></p>
+        </td>
+  </tr>
+</table>
+</center>
+
+
+</body>
+</html>
+
+------=_6vCWKPmo_Bf3zLs3w_MA--
+

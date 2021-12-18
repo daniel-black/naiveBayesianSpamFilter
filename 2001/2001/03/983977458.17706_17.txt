@@ -1,0 +1,23 @@
+Return-Path: <catherine_websites@hotmail.com>
+Delivered-To: bfsmedia-sales@bfsmedia.com
+Received: (qmail 28510 invoked from network); 7 Mar 2001 11:45:41 -0000
+Received: from unknown (HELO mail.mountor.com) (210.15.19.43)
+  by bfsmedia.sk.ca with SMTP; 7 Mar 2001 11:45:41 -0000
+Received: from ip229.fmdl-pm3.cyberwarp.net_[209.51.173.229] [209.51.173.229] by mail.mountor.com
+  (SMTPD32-6.04) id A1DA9D011A; Tue, 06 Mar 2001 06:23:22 +0800
+Received: from  by ip229.fmdl-pm3.cyberwarp.net with ESMTP; Mon, 05 Mar 2001 17:19:46 -0500
+Message-ID: <000051cb70b9$00007318$00001780@>
+To: <Undisclosed Recipients>
+From: catherine_websites@hotmail.com
+Subject: Flash Website Design                         6016
+Date: Mon, 05 Mar 2001 17:19:42 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Length: 1
+Lines: 1
+
+

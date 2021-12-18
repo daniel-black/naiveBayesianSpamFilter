@@ -1,0 +1,64 @@
+Return-Path: <achandra@haptimenow.com>
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 6053 invoked from network); 17 May 2001 09:19:23 -0000
+Received: from bss.kyunghee.ac.kr (HELO ile-lidar.re.kr) (163.180.116.116)
+  by em.ca with SMTP; 17 May 2001 09:19:23 -0000
+Received: from mail3.haptimenow.com (ip97.lansing6.mi.pub-ip.psi.net [38.33.20.97])
+	by ile-lidar.re.kr (8.11.0/8.11.0) with SMTP id f4HIG0m16508;
+	Thu, 17 May 2001 13:16:01 -0500
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Date: Thu, 17 May 2001 05:17:37 -0500
+Subject: Repair Windows with Winfix!!
+To: sector63@schwarb.com
+CC: mlwalk@schwarb.com, fellin1@schwarb.com, fellin1@schwarb.com,
+   vkak@schwarb.com, alat@schwarb.com, kurrle@schwarb.com,
+   darklord@schwarb.com, darklord@schwarb.com, mlwalk@schwarb.com,
+   vkak@schwarb.com, slb39@schwarb.com, brad_lightner@schwarb.com,
+   darklord@schwarb.com, vkak@schwarb.com, mlwalker10@schwarb.com,
+   brad_lindsey@schwarb.com, brad_lipson@schwarb.com, vkak@schwarb.com,
+   darklord@schwarb.com
+Message-Id: <21gypyotlv3r70fn6.5uvq8b7o10mb88ff5d1e@mail3.haptimenow.com>
+Reply-To: om98j3ue@ematic.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+From: achandross@haptimenow.com
+Content-Length: 1054
+Lines: 36
+
+<html>
+<body>
+
+<p>Dear Windows User,<br>
+<br>
+Now you can boost the reliability of ordinary Windows 95, 98 and ME to nearly
+the level of Windows NT or 2000, Microsoft's professional and industrial 
+version
+of Windows.<br>
+<br>
+The new WinFix is a very effective way to improve the reliability of Windows,
+because it makes Windows fault-tolerant and self-repairing.<br>
+<br>
+And WinFix is very safe, because it operates completely independent of 
+Windows.<br>
+<br>
+<u><font color="#0000ff"><a href="http://topman.haptimenow.com/">CLICK 
+HERE</a></font></u> to find out more about WinFix, the safest, most effective 
+way to keep you working, by keeping your PC working non-stop.<br>
+<br>
+Arlen Dixon, CEO<br>
+Pinewood Software Marketing<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+This announcement is intended for PC users who asked to be kept<br>
+informed about new developments in Windows technology.<br>
+</p>
+<p>To be removed from future mailings, please reply with REMOVE in the 
+subject
+line.<br>
+</p>
+
+</body>
+</html>
+

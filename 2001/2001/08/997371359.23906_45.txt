@@ -1,0 +1,64 @@
+Return-Path: <usamortgage_37195@att.net>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 6047 invoked from network); 9 Aug 2001 05:37:41 -0000
+Received: from alphadns2.siliconvalley.fr (212.234.127.131)
+  by daedelus.bfsmedia.com with SMTP; 9 Aug 2001 05:37:41 -0000
+Received: from mail. ([12.64.42.46])
+          by alphadns2.SILICONVALLEY.FR (Lotus Domino Release 5.0.6a)
+          with SMTP id 2001080907015362:7340 ;
+          Thu, 9 Aug 2001 07:01:53 +0200 
+Message-ID: <dnk4Yti.B3G5NA.rMa5AxZ4L1FgQTsuOFVm8F@mail.>
+From: usamortgage_37195@att.net <usamortgage_37195@att.net>
+Subject: ATTENTION HOMEOWNERS !!!
+Date: Wed, 07 Aug 2024 22:13:51 -0400 (EDT)
+MIME-Version: 1.0
+X-MIMETrack: Itemize by SMTP Server on EXTRANET/CERTSRV(Release 5.0.6a |January 17, 2001) at
+ 09/08/2001 07:01:54,
+	Serialize by Router on EXTRANET/CERTSRV(Release 5.0.6a |January 17, 2001) at
+ 09/08/2001 07:26:32,
+	Serialize complete at 09/08/2001 07:26:32
+Content-Transfer-Encoding: 7bit
+Content-Type: TEXT/HTML; charset="US-ASCII"
+Content-Length: 1532
+Lines: 40
+
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<B><FONT COLOR="#FF0000">We will help you get the mortgage
+loan you want!</FONT></B>
+
+<P><B>Whether a new home loan is what you seek or</B>
+<BR><B>to refinance your current home loan at a lower interest rate and
+payment, we can help!</B><B></B>
+
+<P><B><FONT SIZE=+1>Mortgage rates haven't been this low in the last 12
+months, take action now!</FONT></B>
+<BR><B>Refinance your home with us and include all of those pesky credit
+card bills or</B>
+<BR><B>use the extra cash for that pool you've always wanted...</B><FONT COLOR="#3333FF"></FONT>
+
+<P><B><FONT COLOR="#3333FF">Where others says NO, we say YES!!!</FONT></B>
+<BR><B>Even if you have been turned down elsewhere, we can help!</B><B></B>
+
+<P><B><FONT COLOR="#3333FF">Easy terms!</FONT> Our mortgage referral service
+combines the</B>
+<BR><B>highest quality loans with most economical rates and the easiest
+qualification!</B><FONT COLOR="#FF0000"></FONT>
+
+<P><B><FONT COLOR="#FF0000"><FONT SIZE=+1>Take just 2 minutes to complete
+the following form.</FONT></FONT></B><B><I></I></B>
+
+<P><B><I>There is no obligation, all information is kept <U>strictly confidential</U>,
+and you must be at least 18 years of age.</I></B>
+<BR><B><I>Service available within the United States only. This service
+is<U> fast and free</U>.</I></B>
+
+<P><B>For a brighter future .... <I><FONT COLOR="#CC0000"><FONT SIZE=+1><A HREF="http://www.sqhosting.org/mortgage/">CLICK
+HERE !</A></FONT></FONT></I></B>
+</BODY>
+</HTML>
+
+************************************************
+

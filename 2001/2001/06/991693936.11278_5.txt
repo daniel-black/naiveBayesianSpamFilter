@@ -1,0 +1,462 @@
+Return-Path: <Wiebe.Nolan@ic.gc.ca>
+Delivered-To: em-ca-info@em.ca
+Received: (qmail 572 invoked from network); 4 Jun 2001 20:33:28 -0000
+Received: from x400gate-01.ic.gc.ca (192.197.186.121)
+  by em.ca with SMTP; 4 Jun 2001 20:33:28 -0000
+Received: by x400gate-01.ic.gc.ca with Internet Mail Service (5.5.2653.19)
+	id <M2XV45WA>; Mon, 4 Jun 2001 16:18:43 -0400
+Message-ID: <A36D0E769D1FD511B3110600000000004B786E@mb-bp-06.ic.gc.ca>
+From: Wiebe.Nolan@ic.gc.ca
+To: :travis@vergewebdesign.com, 100mile@bcinternet.net, 
+	aaron@computerguy.ca, aba@northtown.com, abassett@inroad.net, 
+	abby-mission@dowco.com, abisch@netsource.on.ca, 
+	abrabant@centredaffaires.com, acces@globetrotter.net, 
+	acces@globetrotter.qc.ca, accounting@eagle.ca, accounting@eagle.ca, 
+	accounting@gtn.net, accounts@cable-lynx.net, accounts@inetex.com, 
+	accounts@infomatch.com, accounts@mag-net.com, accounts@seascape.com, 
+	accounts@seascape.com, accts@fsj.net, acg@aylmer.com, action@eighty20.com, 
+	Adel@Dallal.com, admin@access.victoria.bc.ca, admin@aztec-net.com, 
+	admin@butlercomputer.to, admin@cdrom-cafe.qc.ca, admin@citydistrict.com, 
+	admin@clair.net, admin@cwm.qc.ca, admin@cybersolutions.net, 
+	admin@cyberworldgroup.com, admin@cyg.net, admin@das.ca, 
+	admin@dconcept.qc.ca, admin@designsource.bc.ca, admin@dimgroup.com, 
+	admin@elgin.net, admin@francomedia.qc.ca, admin@freespace.net, 
+	admin@galileo-group.com, admin@grey.net, admin@hwy16.com, admin@ils.net, 
+	admin@interspin.com, admin@ironsolutions.com, admin@isp.ca, 
+	admin@jet2.net, admin@jetnet.ab.ca, admin@kenora.com, admin@macneil.com, 
+	admin@mail.caninet.com, admin@microworks.ca, admin@midbc.com, 
+	admin@nanaimo.ark.com, admin@net1fx.com, admin@net2u.com, 
+	admin@netrevolution.ca, admin@netwerx.net, admin@ont.net, admin@ont.net, 
+	admin@pangea.ca, admin@qcislands.net, admin@quebecweb.com, 
+	admin@satelcom.qc.ca, admin@sea-to-sky.net, admin@sentex.net, 
+	admin@skymarkgroup.com, admin@sn200.nb.ca, admin@spreda.sk.ca, 
+	admin@sunsetcountry.com, admin@thenerve.com, admin@thenew.net, 
+	admin@ucbiz.com, admin@vancouver.net, admin@virtualhalifax.ns.ca, 
+	admin@webman1.com, admin@webwoods.com, admin@xspace.com, 
+	admincia.ott@cia.ca, administration@vpntech.com, ais@aiservice.com, 
+	ama@amamarketing.com, ami@advancedmicronics.com, andre@marche.com, 
+	andy@sansys.com, angella@2001dci.com, anicom@anicom.com, 
+	anne@marcotte-multimedia.com, annmor@visiona.com, answering@kelcom.com, 
+	answers@siriussolutions.com, as@activepartners.com, asinet@worldsites.net, 
+	assist@canlan.on.ca, assistance@sympatico.ca, 
+	associates@theassociatesgroup.com, astrauch@hvld.com, astuce@ddi.qc.ca, 
+	astus@astus.com, avantage@avantage.com, avarner@ns.sympatico.ca, 
+	babingil@nbnet.nb.ca, badolph@netra.mysterynet.mb.ca, baxgroup@baxter.net, 
+	bbillings@activeweb.net, bcg@bcgcanada.com, bcg@burnettcouper.com, 
+	bclarey@vbdi.com, bdobson@max.net, bear@bcgrizzly.com, 
+	bell.direct@bell.ca, belliveau@marina.istar.ca, bernie@itcanada.com, 
+	bhart@webhart.com, billp@qtech.ca, blaken@computer-ease.com, 
+	brad@cyberscape-bc.com, brokerware@ems.net, bruce@newphase.com, 
+	brunnet@brunnet.net, bsc@rslcom.ca, bstevens@bcsupernet.com, 
+	business-sales@look.ca, business@attcanada.ca, business@esmgroup.com, 
+	bwklatt@ftcnet.com, c.rioux@communicologues.com, 
+	caber@caber-consultants.com, caci_remigny@temiscamingue.net, 
+	cacik@nbnet.nb.ca, cafeint@kamouraska.com, callme@theoffice.com, 
+	camitel@camitel.com, canaca@canaca.com, canada@pssnet.com, 
+	Canadahelp@aol.com, canindia@canindia.com, capcom@ns.sympatico.ca, 
+	capman@cici.mb.ca, capstone@capstonecomm.com, 
+	carlson@marketingoptions.com, ccai@interlinx.qc.ca, ccw@cintek.com, 
+	ceilidh@mail.ceilidhconnect.ns.ca, celerity@nb.sympatico.ca, 
+	cesart@cesart.com, cgi@bytesinteractive.com, chris@allniagara.com, 
+	chris@iveyleague.com, chris@treefroginteractive.com, 
+	chrish@virtualcity.com, cic@info.london.on.ca, cidm@cidm.qc.ca, 
+	citytel@citytel.net, ckeats@total-communications.nf.ca, 
+	clavoie@mediabahn.qc.ca, clic@addr.com, club@backboys.qc.ca, 
+	clukidis@clinfo.qc.ca, colouring@odellwebdesign.com, 
+	columbia@revelstoke.net, comment@unitz.on.ca, commentaire@cgocable.ca, 
+	comments@embanet.com, comments@thewing.com, commerce@t-landmark.com, 
+	communications@lodgenet.com, communications@online-can.com, 
+	company@tribe-x.com, compgate@idirect.com, conseil@carpediem.qc.ca, 
+	consulting@ajja.com, contact@btlf.qc.ca, contact@eyenok.com, 
+	contact@impactweb.ca, contact@inonmedia.com, contact@intoinfo.com, 
+	contact@macrosonicinc.net, contact@mulderslater.com, 
+	contact@netmarketingsolution.com, contact@pacisun.com, 
+	contact@principle.com, contact@publisoft.com, contact@rampageweb.com, 
+	contact@target.ca, contact@zox.net, contactus@fyao.com, 
+	contactus@islandtel.pe.ca, contactus@mysask.com, contactus@surfmap.com, 
+	coopsac@cooptel.qc.ca, cornerstones@sandfordgroup.com, corp@execulink.com, 
+	corp@execulink.com, corp@hbs.ca, corpinfo@701.com, corpinfo@wwonline.com, 
+	cosl@nb.aibn.com, courrier@cablevision.qc.ca, courrier@cyberzone.qc.ca, 
+	cr.cn@crcn.net, crcs@canadianrural.com, creative@mediacollision.com, 
+	creeves@isourcecom.com, crm@saglac.qc.ca, croy@osiris.com, 
+	cservice@vtc.ca, customer@glink2.com, customerservice@videotron.ca, 
+	custserv-ont@BellActiMedia.com, cworld@awink.com, cyan@cyancorp.com, 
+	cyberbia@fastfind.com, d4m@d4m.com, dan@reidgroup.com, 
+	danam@tamarack.nt.ca, dandee@adss.on.ca, daniel@progressive-insights.com, 
+	danr@mediaglue.net, darryl@cshop.net, datacorp@datanet.ab.ca, 
+	datanet@datanetsolutions.com, datatel@datatel-systems.com, 
+	dave@comsvc.on.ca, daven@ssimicro.com, dctech@dctech.com, 
+	ddufour@ihcn.qc.ca, ddwyer@intelink.com, dean@ccd.on.ca, 
+	debij@sbrwebworks.com, demersn@arcaf.net, design@c-level.com, 
+	design@infografik.qc.ca, design@mondata.com, design@reactiongrafix.com, 
+	design@smapmedia.com, design@virtuo.com, designs@lmgraphics.on.ca, 
+	desktop@gutenberg.com, details@mediaplanet.ca, dewayne@warpseed.com, 
+	dforster@betweencovers.com, digmedia@dmns.nf.ca, dimitri@binex.com, 
+	dis@dryden.net, djpelton@wie.com, dloignon@microtec.net, 
+	dmcgrath@websmith.ca, don@miditech.com, doss@nexicom.net, dot@outcrop.com, 
+	dreamteam@dreamcite.com, dsi@incentre.net, dspyker@vaxxine.com, 
+	duclos@duclos.net, duff@systemscope.com, dusty@webpoint.ner, 
+	dusty@webpoint.net, ecommerce@the-wire.com, editors@valleynet.on.ca, 
+	edt@edt.on.ca, eldon@edoucet.com, email@vari-media.com, 
+	emorissette@idlc.net, eric@cwave.com, ericgalton@equisd.com, 
+	esalem@nxtwv.com, escapade@netscapades.com, etheridg@nbnet.nb.ca, 
+	etradeome@basis100.com, evancom@hwcn.org, everest@grpeverest.ca, 
+	everything@hostsite.net, evink@egweb.ca, executive@inasec.com, 
+	f.robert@rocler.com, fallos@eldarnet.com, faq@eastlink.ca, 
+	farmgate@sk.sympatico.ca, FBN_Software@juno.com, fbrodeur@citenet.net, 
+	feedback@itservices.ubc.ca, feedback@recorder.ca, feedback@stockhouse.com, 
+	felix.h@neographik.com, fhi@filehills.com, flis@flk.auracom.com, 
+	flora@blueskyinteractive.com, flying-colors@ssimicro.com, 
+	fohara@ohara.com, founder@sipgroup.org, franchise@imag.net, 
+	francis@montland.com, fromthewebsite@teaminternetcanada.com, 
+	frontdesk@aisl.bc.ca, gajenkins@isainfo.net, gary@klis.com, 
+	gbridges@gbdl.com, gds@projectconsultants.com, geminfo@gem.sk.ca, 
+	general@in.on.ca, genesis@theedge.ca, getconnected@tvnwt.com, 
+	getmore@global-services.on.ca, gjung@sphere.ca, goyette@canada.com, 
+	graff@colba.net, groovesc@groovesociety.com, groves@nt.net, 
+	guy@virtualworldinc.com, hamilton@myriadgate.net, hcl@commercial.net, 
+	hcs@heydon.com, heat@ember.ca, hello@okeedokee.ca, hello@reinvented.net, 
+	help@bfree.on.ca, help@intergate.ca, help@maxlink.com, help@solutions.net, 
+	help@therockies.com, helpdesk@becon.org, helpdesk@fan.nb.ca, 
+	helpdesk@golden.net, helpdesk@nexicom.net, helpdesk@replink.com, 
+	helpdesk@x5ca.net, hispanet@hispanosinternet.com, 
+	hq@freenet.victoria.bc.ca, hwl@idbt.com, ian@target2k.com, iaw@iaw.on.ca, 
+	ic@icactive.com, ice@ice-berg.com, icinfo@mibc.nb.ca, ideas@harvmock.com, 
+	ignite@enginecreative.com, ihor@encorecomm.com, ijb@deitechcomputing.com, 
+	illico@illico.ca, image@redgull.com, imageland@cableworks.org, 
+	imagep@award.ca, iman@access.tkm.mb.ca, img@groupmedia.com, 
+	indianam@globalserve.net, info-graffiti@megaquebec.net, 
+	info@1computers.com, info@2shoes.com, info@3da.com, info@3net.ca, 
+	info@3netmedia.com, info@9bit.qc.ca, info@aardvark.on.ca, info@abacom.com, 
+	info@abacom.com, info@aboutcity.com, info@accel.net, info@accessv.com, 
+	info@accessweb.com, info@accuracyontheweb.com, info@acr.com, 
+	info@activus.com, info@adline.com, info@adometer.com, info@aebc.com, 
+	info@aei.net, info@agora.ca, info@agribiz.net, info@alberni.net, 
+	info@alis.com, info@alliance-core.com, info@alliance-web.net, 
+	info@allstartech.com, info@androide.com, info@androide.com, info@ansa.com, 
+	info@aperfectwebsite.com, info@aptilon.com, info@arcticdata.nt.ca, 
+	info@argun.com, info@ark.com, info@arobas.net, info@attcanada.ca, 
+	Info@Autobahn.MB.CA, info@autoconnex.com, info@autoroute.net, 
+	info@avamultimedia.com, info@avenuedigital.com, info@avint.net, 
+	info@axion.net, info@bam.net, info@bangarts.com, info@bar.imag.net, 
+	info@bc-alter.net, info@bc.net, info@beanfield.com, info@bfsmedia.com, 
+	info@bigtreemultimedia.com, info@biznets.com, info@bleuquest.com, 
+	info@bluepeak.com, info@bmts.com, info@boonemedia.com, 
+	info@bristolgroup.ca, info@brodie.com, info@bronskill.com, 
+	info@buybuddy.com, info@buystream.com, info@c1communications.com, 
+	info@ca.doubleclick.net, info@ca.inter.net, info@ca.inter.net, 
+	info@ca.inter.net, info@cable.com, info@cableatlantic.nf.ca, 
+	info@cablelab.net, info@cadvision.com, info@cam.org, info@cam.org, 
+	info@canlinc.com, info@canlink.com, info@canweb.ca, info@caspar.net, 
+	info@catech.net, info@cbizesolutions.com, info@ccai.com, 
+	info@cdnwebdesign.com, info@cecs.on.ca, info@certaintysolutions.com, 
+	info@cescom.ca, info@cetsi.com, info@chaos-tech.com, info@cidc.net, 
+	info@cite.net, info@CityVU.com, info@clearpicture.com, 
+	info@click-zone.com, info@clickon.com, info@clogiweb.qc.ca, 
+	info@cmsecurenet.com, info@cnx.net, info@coastal-internet.com, 
+	info@codaction.com, info@cogitex.com, info@cois.on.ca, info@colba.net, 
+	info@collectivart.com, info@collettdesigns.com, info@colosseum.com, 
+	info@colourlab.com, info@comcomvirtuel.com, info@comfo.ca, 
+	info@communicopia.net, info@communitybuyandsell.com, 
+	info@communityinternet.com, info@compass360.com, info@compelis.com, 
+	info@compmore.net, info@compusmart.ab.ca, info@compusult.nf.ca, 
+	info@computan.on.ca, info@computrust.com, info@connect.ab.ca, 
+	info@connection.ca, info@contact.net, info@conveyor.com, info@cool.mb.ca, 
+	info@cormierpub.qc.ca, info@creationsmultimages.com, 
+	info@crookedstick.com, info@csolve.net, info@custom.ab.ca, 
+	info@cyberbeach.net, info@cybergarden.ca, info@cybergeneration.com, 
+	info@cyberlink.bc.ca, info@cyberplex.com, info@cybersurf.net, 
+	info@cyberus.ca, info@cyrenix.com, info@daedalian.com, info@databox.net, 
+	info@databox.net, info@databridge.com, info@dataperceptions.com, 
+	info@dcsnet.com, info@dda.ns.ca, info@ddt1.com, info@deev.com, 
+	info@delweb.com, info@demonsys.com, info@designplus.pe.ca, 
+	info@destination.ca, info@destratek.ca, info@digistar.mb.ca, 
+	info@digital-u.com, info@dimalt.com, info@dimension6.com, 
+	info@directvox.com, info@ditton.net, info@dmw.sk.ca, info@dompteurs.com, 
+	info@dowco.com, info@drakeintl.on.ca, info@drw.net, info@dscribe.com, 
+	info@durham.net, info@e-plicity.com, info@e-scape.net, info@ebsi.ca, 
+	info@echarge.ca, info@echelon.ca, info@echo.uqam.ca, info@ecom-ca.com, 
+	info@egate.net, info@eieihome.com, info@eis.ca, info@elink.ca, 
+	info@elkabong.mb.ca, info@em.ca, info@emazingsolutions.com, 
+	info@emergence.com, info@emergeonline.com, info@endeavor-networks.com, 
+	info@enginex.com, info@enter-net.com, info@entis.com, info@epaquin.com, 
+	info@esaglac.com, info@escape.ca, info@escape.ca, info@escape.ca, 
+	info@eservus.com, info@eskynet.com, info@espacecourbe.com, 
+	info@essexmall.com, info@estation.com, info@excalibur-network.com, 
+	info@expresso.qc.ca, info@eyecatchers.ca, info@ezpost.com, info@f1help.ca, 
+	info@faltec.com, info@familynet.bc.ca, info@fifty-plus.net, 
+	info@firstchoiceinc.com, info@flarenet.com, info@fnc.ca, 
+	info@focalpoint.net, info@fokusgroup.com, info@followme.com, 
+	info@fortfrancesonline.com, info@frantel.com, info@fscinternet.com, 
+	info@fuelindustries.com, info@gallmark.mb.ca, info@gatewest.net, 
+	info@generation.net, info@generation.net, info@gespro.com, 
+	info@global-village.net, info@global.proximity.on.ca, info@globale.net, 
+	info@globale.net, info@globalinnovations.com, info@globalwebcom.net, 
+	info@globatran.com, info@globetete.com, info@globility.com, 
+	info@globion.com, info@go-networks.com, info@goltier.com, 
+	info@gowebgate.com, info@gpcomp.com, info@gpr-projex.com, 
+	info@granite.mb.ca, info@grant.ca, info@gretmar.com, info@griffintown.com, 
+	info@groupeicom.com, info@groupeiweb.com, info@gt.ca, info@haicheng.ca, 
+	info@headwaters.ca, info@healthware.on.ca, info@hmtnet.com, 
+	info@horizons.net, info@hyperborean.com, info@hyperlinx.net, 
+	info@i4design.ca, info@ia.mb.ca, info@ibeetle.com, info@ibs.ca, 
+	info@ibsltd.nb.ca, info@iceinc.com, info@iconographe.com, 
+	info@icrossroads.com, info@ideasource.com, info@igs.net, info@igs.net, 
+	info@ihcom.com, info@ihermes.com, info@ilos.net, info@imagebusiness.com, 
+	info@imason.com, info@imc.ns.ca, info@imetrix.ca, info@imf.nb.ca, 
+	info@imp.mongeon.qc.ca, info@incentre.net, info@incyedge.com, 
+	info@inex.com, info@infinity.net, info@info-internet.net, 
+	info@info-maniacs.net, info@infoharvest.ab.ca, info@infonet.ca, 
+	info@infopreneur.net, info@information-highway.com, info@inovaweb.com, 
+	info@insidewire.com, info@insite.ns.ca, info@integranetworks.com, 
+	info@inter-pc.com, info@interactif.com, info@interfleet.com, 
+	info@internauts.ca, info@internetworks.ca, info@internic.ca, 
+	info@internode.net, info@interra.net, info@intertrek.com, 
+	info@intertrek.com, info@intervisual.com, info@intisoft.com, 
+	info@intouch.bc.ca, info@intown.net, info@intrasof.com, info@involv.com, 
+	info@iosphere.net, info@ipnetsolutions.com, info@iponline.com, 
+	info@iprimus.ca, info@iprimus.ca, info@ireseau.com, info@isl.ca, 
+	info@ismg.com, info@isn.net, info@isys.ca, info@itactics.com, 
+	info@itecs.net, info@iti.qc.ca, info@iti.qc.ca, info@itnweb.com, 
+	info@itpath.com, info@itracks.com, info@iweb-hosting.com, 
+	info@ixmedia.com, info@junction.net, info@justweb.com, 
+	info@kastlebreck.com, info@kayhay.com, info@kendid.com, info@kezber.com, 
+	info@kingston.net, info@kmtechnologies.com, info@knsi.net, 
+	info@komputech.com, info@konektix.com, info@korax.net, info@korrnet.com, 
+	info@kyberpass.com, info@lafirme.com, info@lara.on.ca, info@lavenue.qc.ca, 
+	info@legacyarchives.com, info@leweb.qc.ca, info@lexsysnetworks.com, 
+	info@lfchosting.com, info@lgs.ca, info@lights.com, info@logif.com, 
+	info@logix.ca, info@lpgallery.mb.ca, info@lriweb.com, info@lweb.net, 
+	info@lynx.org, info@maginet.com, info@mail.osiem.org, 
+	info@mail.transdata.ca, info@makaera.com, info@maknet.com, 
+	info@maniacom.com, info@manlab.com, info@maplecom.net, 
+	info@marianpress.sk.ca, info@marketsoft.ca, info@marshallforbes.com, 
+	info@mchsolutions.com, info@mckconsultinginc.com, info@mdi.ca, 
+	info@mediaforce1.com, info@mediaglobe.com, info@mediatouch.com, 
+	info@mediawurx.com, info@medius.com, info@meep.com, info@megacom.net, 
+	info@meglomaniac.nf.ca, info@meskino.qc.ca, info@messagecentre.com, 
+	info@metafore.ca, info@meteko.com, info@metronome.ca, info@metronome.ca, 
+	info@microware.net, info@midmultimedia.com, info@minfox.com, 
+	info@mintarix.com, info@mipps.net, info@misterwebpage.com, 
+	info@miteinc.com, info@mknet.com, info@mlink.net, info@mmic.net, 
+	info@mohawk.ca, info@monisys.com, info@mortonweb.com, 
+	info@mountain-inter.net, info@mountaincable.net, info@mousechasers.com, 
+	info@multi-liens.com, info@muskoka.com, info@mv.igs.net, info@nas.net, 
+	info@nation.org, info@nciconnect.com, info@nebula.on.ca, info@nebular.ca, 
+	info@neomedia.com, info@nesdatech.com, info@net-inst.com, 
+	info@net-sweeper.com, info@netacces.com, info@netaxis.ca, 
+	info@netcoder.com, info@netdata4.net, info@netgraphe.com, info@netinc.ca, 
+	info@netinc.ca, info@netinstinct.com, info@netmediapro.com, 
+	info@netpcs.com, info@netpostmaster.com, info@netvulive.com, 
+	info@netwave.ca, info@newland.com, info@nexware.net, info@nexx.com, 
+	info@nidi.net, info@nkaos.com, info@nobelmed.com, info@nomex.net, 
+	info@norcom.mb.ca, info@norcomcable.ca, info@norlink.net, 
+	info@nova-networks.com, info@novalink.ca, info@novator.com, 
+	info@npsnet.com, info@nsmwebtech.com, info@ntcare.com, info@ntic.qc.ca, 
+	info@ntic.qc.ca, info@ntk.com, info@ntnet.nt.ca, info@nutechdigital.com, 
+	info@nway.net, info@nwb.qc.ca, info@oceanoinc.com, info@ohmega.nb.ca, 
+	info@oladesign.com, info@omnia.ca, info@onet.on.ca, info@onlink.net, 
+	info@onlink.net, info@onlink.net, info@onramp.ca, info@onyris.com, 
+	info@openvenue.com, info@oricom.ca, info@osg.net, info@outer-net.com, 
+	info@overdrive.ca, info@p2net.ca, info@pacificcoast.net, 
+	info@pacificcoast.net, info@pacificcoast.net, info@palmermuzzin.com, 
+	info@paradivision.com, info@parador.com, info@parasun.com, 
+	info@passionvillage.com, info@passport.ca, info@pcmsite.com, 
+	info@pdgmedia.com, info@peachmanent.com, info@pearle.net, 
+	info@performance-net.com, info@pertech.com, info@pgfn.bc.ca, 
+	info@pincomm.com, info@pittresearch.com, info@pixelar.com, 
+	info@plandevol.qc.ca, info@planet-int.net, info@planeteer.com, 
+	info@planetintra.com, info@platform.com, info@pods.net, 
+	info@pointsnorth.com, info@portal.ca, info@powerdot.net, 
+	info@powerskor.com, info@prairie.ca, info@prime-online.com, 
+	info@prime-online.com, info@primeline.net, info@primustel.ca, 
+	info@prismnet.bc.ca, info@pro.net, info@progisia.com, 
+	info@progression.net, info@prolink.ca, info@prospection.qc.ca, 
+	info@pubnix.net, info@pvdd.com, info@pya.ca, info@qc.net, 
+	info@qcctech.com, info@quadrant.net, info@quadro.net, info@quesoft.com, 
+	info@quicklinks.on.ca, info@qunara.com, info@r2media.com, 
+	info@rapidnet.com, info@raremedium.com, info@reach.net, info@real.ca, 
+	info@reconpro.com, info@renfrew.net, info@resorttowork.com, 
+	info@rgdirect.com, info@ripperlandgraphix.com, info@riq.qc.ca, 
+	info@rivernet.net, info@rockies.net, info@ronnex.com, info@s-scape.ca, 
+	info@sabradesign.com, info@saglac.qc.ca, info@sar-net.com, 
+	info@sceneskape.com, info@screamingsolutions.com, info@selgro.com, 
+	info@servicad.com, info@seventwentyfour.com, info@sgci.com, 
+	info@shareline.com, info@shop.net, info@shopsmartonline.net, 
+	info@showgigs.com, info@silverstream.com, info@sites-to-see.com, 
+	info@skulogix.com, info@slantproductions.com, info@sliq.com, 
+	info@smartt.com, info@smokesignal.net, info@snti.com, info@softcom.ca, 
+	info@solarwinds.com, info@solucom.com, info@solutioninc.com, 
+	info@spanit.com, info@sparkice.com, info@spectranet.ca, 
+	info@sportsrocket.com, info@sportstrading.com, info@stargate.com, 
+	info@station-internet.qc.ca, info@std.net, info@stockgroup.com, 
+	info@storm.ca, info@sunnyoasis.com, info@sunshinecable.com, 
+	info@supcom.net, info@superaje.com, info@superaje.com, info@surenet.net, 
+	info@surrealty.com, info@swagsys.com, info@symedia.com, info@symedia.com, 
+	info@synapse.net, info@taalwood.com, info@tactika.com, info@tason.com, 
+	info@tbaytel.net, info@tcaps.com, info@tcel.com, info@tcns.com, 
+	info@tct.net, info@teamworx.net, info@techlordsonline.com, 
+	info@technisource.com, info@techno-sphere.com, info@telepres.com, 
+	info@terapixel.net, info@theciti.com, info@thefocus.com, 
+	info@think-global.com, info@thunderline.com, info@tic.ab.ca, 
+	info@tic.ab.ca, info@tieus.com, info@timehawk.com, info@tnsoft.com, 
+	info@top.ca, info@torada.com, info@tornade.com, info@torweb.com, 
+	info@tpsnetwork.com, info@travel-net.com, info@trendbuilder.com, 
+	info@trends.ca, info@trigger.net, info@trimaxinc.com, info@triton.bc.ca, 
+	info@trivedicommunications.com, info@trxn.com, info@tube.com, 
+	info@unik.net, info@uniserve.com, info@uniserve.com, info@urbanweb.net, 
+	info@ussweb.net, info@uunet.ca, info@valadeo.com, info@vanderpas.com, 
+	info@vcn.bc.ca, info@vcni.on.ca, info@vcpro.com, info@ve.ca, 
+	info@veccon.on.ca, info@velocet.ca, info@versalys.com, info@vfxi.com, 
+	info@vial.com, info@vicsurf.com, info@vipnet.qc.ca, info@vipnet.qc.ca, 
+	info@visinet.ca, info@vision-max.com, info@visuallizard.com, 
+	info@vividworks.com, info@vkool.com, info@vortex.qc.ca, info@vrx.net, 
+	info@w3internet.com, info@w3media.com, info@w4technology.com, 
+	info@wabang.com, info@warplink.com, info@wasaga.com, info@watco.ca, 
+	info@wavefire.com, info@waverider.com, info@wavetechnet.com, 
+	info@web-impact.com, info@web-sights.com, info@web401.com, 
+	info@webaxisalliance.com, info@webbtech.net, info@webcommconsulting.com, 
+	info@webera.com, info@webexceed.com, info@webit.on.ca, 
+	info@weblinksoftware.com, info@webruler.com, info@webserverco.com, 
+	info@webslingers.mb.ca, info@webstadium.com, info@websterscafe.com, 
+	info@webusiness.com, info@webweiler.com, info@webwizmedia.com, 
+	info@webworksinc.com, info@webzdezignz.com, info@wetcreative.com, 
+	info@whistlerweb.net, info@willcam.com, info@wincom.net, info@wincom.net, 
+	info@windnetcs.com, info@wiredsolutions.com, info@wiznet.ca, 
+	info@xbase.com, info@xcelco.on.ca, info@xe.net, info@xpressnet.com, 
+	info@ycs.net, info@yellow-net.com, info@yenius.com, info@yfactor.com, 
+	info@zaq.com, info@zoneweb.com, info@zoo.net
+Subject: =?iso-8859-1?Q?Telecommunications_Service/Service_de_t=E9l=E9c?=
+	=?iso-8859-1?Q?ommunication?=
+Date: Mon, 4 Jun 2001 16:28:08 -0400 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 4031
+Lines: 123
+
+	        Industry Canada Releases=20
+                    Telecom Services Overview=20
+
+                    OTTAWA, June 1, 2001 -- The Telecommunications =
+Policy
+Branch of
+                    Industry Canada today announced the release of its =
+new
+reference tool
+                    Telecommunications Service in Canada: An Industry
+Overview 1999-2000.
+
+                    This reference tool is more than an update of =
+previous
+versions. It incorporates
+                    new delivery methods, a new structure, and new
+information.
+
+                    The reference tool is available in PDF and HTML. =
+The
+full document is
+                    available for download in PDF (colour or black and
+white). Specific tables,
+                    charts (colour) and sections (colour or black and =
+white)
+are retrievable through
+                    the HTML version. The downloadable version also =
+contains
+hyperlinks for
+                    access to further information about the companies =
+listed
+in the overview.
+
+                    The reference tool's new format will allow =
+continuous
+updates and contains
+                    new sections on the changing features of the
+telecommunications industry. To
+                    be put on our e-mail update list, please contact =
+Josie
+Bacile at
+                    bacile.josie@ic.gc.ca.
+
+                    This reference tool can be accessed on Industry =
+Canada's
+Strategis web site
+                    at http://strategis.gc.ca/SSG/sf05414e.htm.
+
+                    Dora Mozes
+                    Telecommunications Policy Branch
+                    Industry Canada
+                    E-mail: macgillivray.allan@ic.gc.ca
+
+************************************************************************=
+****
+********************
+
+
+	        Industrie Canada publie son analyse=20
+                    sur le service de t=E9l=E9communications=20
+
+                    OTTAWA, le 1er juin 2001 -- La Direction =
+g=E9n=E9rale de la
+Politique des
+                    t=E9l=E9communications d'Industrie Canada a =
+annonc=E9
+aujourd'hui la parution de
+                    son nouvel outil de r=E9f=E9rence intitul=E9 =
+Service de
+t=E9l=E9communications au
+                    Canada : Un aper=E7u de l'industrie 1999-2000.
+
+                    Cet outil de r=E9f=E9rence est plus qu'une mise =E0 =
+jour des
+versions ant=E9rieures,
+                    car il pr=E9sente aussi de nouvelles m=E9thodes de
+prestation des services, une
+                    nouvelle structure et de nouveaux =E9l=E9ments
+d'information.
+
+                    Le document existe en format PDF ou HTML; la =
+version
+compl=E8te peut =EAtre
+                    t=E9l=E9charg=E9e en format PDF (en couleurs ou en =
+noir et
+blanc). On peut aussi
+                    t=E9l=E9charger des tableaux, des graphiques (en =
+couleurs)
+et des chapitres (en
+                    couleurs ou en noir et blanc) =E0 m=EAme la version =
+HTML. La
+version
+                    t=E9l=E9chargeable contient aussi des liens =
+hypertexte
+donnant acc=E8s =E0 d'autres
+                    renseignements sur les entreprises mentionn=E9es =
+dans
+l'analyse.
+
+                    Gr=E2ce au nouveau format de cet outil, il sera =
+possible
+de le mettre =E0 jour
+                    constamment; l'ouvrage contient aussi de nouvelles
+parties sur l'=E9volution du
+                    secteur des t=E9l=E9communications. Afin de vous =
+inscrire
+sur la liste des
+                    destinataires des mises =E0 jour =E9lectroniques,
+communiquez avec Josie
+                    Bacile, =E0 (bacile.josie@ic.gc.ca).
+
+                    Afin d'acc=E9der =E0 cet outil de r=E9f=E9rence sur =
+le site Web
+Strategis d'Industrie
+                    Canada, il suffit d'aller =E0
+(http://strategis.gc.ca/SSGF/sf05414f.htm).
+
+                   =20
+                    Dora Mozes
+                    Direction g=E9n=E9rale de la politique des
+t=E9l=E9communications
+                    Industrie Canada
+                    Courriel : mozes.dora@ic.gc.ca

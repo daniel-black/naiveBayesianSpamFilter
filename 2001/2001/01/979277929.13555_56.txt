@@ -1,0 +1,222 @@
+Return-Path: <LSI_Logic@emarkethost.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1109 invoked from network); 12 Jan 2001 05:13:55 -0000
+Received: from unknown (HELO bsd.mktf.net) (216.34.8.5)
+  by em.ca with SMTP; 12 Jan 2001 05:13:55 -0000
+Received: from host3 (unknown [216.34.8.66])
+	by bsd.mktf.net (Postfix) with ESMTP id 0865B20F3E
+	for <bruceg@em.ca>; Thu, 11 Jan 2001 21:08:08 -0800 (PST)
+Date: 12 Jan 2001 05:13:21 GMT
+From: LSI_Logic@emarkethost.net
+Reply-To: Hire.com@emarkethost.net
+To: bruceg@em.ca
+Subject: No one here has a JOB
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------70DC67B31B0E"
+X-MKTFI: ABAAOCOIABCAAMCKABFADAHJIAFAAMOI-
+Message-Id: <20010112050808.0865B20F3E@bsd.mktf.net>
+Content-Length: 8104
+
+
+This is a multi-part message in MIME format.
+
+--------------70DC67B31B0E
+Content-Type: multipart/alternative; boundary="------------A70DC67B31B0E"
+
+--------------A70DC67B31B0E
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello ,
+
+Top engineering talent is at a premium. In fact, for people with top
+skills there has never been a better time to be in the job market. But
+if you're happily employed and not currently looking for a new
+position, how can you make sure that key opportunities do not pass you
+by? 
+
+Just let the ideal career find you! 
+
+Now, LSI Logic makes it painless for you to engage your own, private
+search agent - presenting only the positions that meet "your" unique
+qualifications 24 x 7. 
+
+It's quick. It's easy. It's completely confidential. And, best of all,
+you control the process. 
+
+LSI Logic is the #2 CDMA company in the industry, we partner with
+trend-setting customers to design and build wireless solutions on a
+single chip. Our groundbreaking wireless technology will captivate your
+imagination and cause your mind to spin -  that's not a job but an
+adventure! 
+
+Take two minutes and describe your ideal career by clicking  here:
+
+http://hire.emarkethost.net/mk/get/RELSIL1?_ED=ARcDkm47XgESqZMxGm0tGE 
+
+Once you have joined our talent pool, your requirements will be
+immediately matched against all open positions. The second there's a
+match, you'll instantly be notified via email. 
+
+Did you know about the cutting edge technology that is coming out of
+our Wireless Design Center in San Diego, CA?  With relocation packages
+available, here are just a few positions we are ready to fill, so don't
+miss out!
+
+DSP Software Engineer 
+
+Product Application Engineer 
+
+Integration & Test Engineer 
+
+ASIC Design Engineer 
+
+Windows Software Engineer 
+
+Call Processing Software Engineer 
+
+When you complete your profile you become eligible for our Feb 15, 2001
+drawing for a Toshiba DVD player with Progressive Scan. 
+
+Enter now:  http://hire.emarkethost.net/mk/get/RELSIL1?_ED=ARcDkm47XgESqZMxGm0tGE
+
+
+http://idealcareers.lsilogic.com/register.html
+
+We hope you enjoyed receiving this message.  If you do not wish to
+receive future news, tips and promotions 
+from LSI Logic, please reply (including all original text) with 
+Unsubscribe in the subject line.
+
+-----------Please do not change the next line-----------
+ABAAOCOIABCAAMCKABFADAHJIAFAAMOI-
+
+Powered by MarketFirst(TM)
+
+--------------A70DC67B31B0E
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html4.0 transitional//en">
+
+<!---------- Begin document [MarketFirst Software, Inc.] V02.04,P=San Diego Wireless to TalentPool,A=Email to TProfile Final,D=Please profile,V=5------->
+
+<HTML> 
+ <HEAD> 
+<TITLE> 
+Please profile
+</TITLE>
+</HEAD> 
+
+<BODY><TABLE >
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP"  COLSPAN=6>
+<body bgcolor="#FFFFFF">
+<table height="136" border="0" align="center" width="74%" bgcolor="#FFFFFF">
+  <tr> 
+    <td colspan="3" height="152"> 
+      <div align="center"> 
+        <p><IMG SRC="http://hire.emarkethost.net/mk/get?_A=11544&_D=11431&_V=0&_F=10537" ALIGN=TOP> 
+      </div>
+    </td>
+  </tr>
+</table>
+<table height="433" border="0" align="center" width="78%" bgcolor="#FFFFFF">
+  <tr> 
+       
+    <td height="432" align="right" width="22%" valign="top" bgcolor="#CCCCCC" bordercolor="#CCCCCC"> 
+      <p>&nbsp; </p>
+      <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif">At LSI Logic, 
+        we've replaced jobs with adventure, stimulation, excitement, reward, satisfaction, 
+        challenge and the open opportunity to become more of what you want. </font></p>
+      <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif">LSI Logic 
+        is the #2 CDMA company in the industry, we partner with trend-setting 
+        customers to design and build wireless solutions <br>on a single chip. Our 
+        groundbreaking wireless technology will captivate your imagination and 
+        cause your mind to spin - that's not a job but an adventure!</font> </p>
+      <p align="center"> &#160; <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#003366"> <A HREF="http://hire.emarkethost.net/mk/get/RELSIL1?_ED=ARcDkm47XgESqZMxGm0tGE">CLICK HERE TO WIN</A> !</font></b></font><br>
+      </p>
+      <p> <font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">When 
+        you complete your profile you become eligible for our Feb 15, 2001 drawing 
+        for a Toshiba DVD player with progressive scan.<br> </font></p>
+      <p>&nbsp; </p>
+      </td>
+    <td height="432" width="1%" > &#160; </td>
+    <td height="432" width="77%" valign="top"> 
+      <p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hello ,<br>
+        <br>
+        Top engineering talent is at a premium. In fact, for people with top skills 
+        there has never been a better time to be in the job market. But if you're 
+        happily employed and not currently looking for a new position, how can 
+        you make sure that key opportunities do not pass you by?<br>
+        <br>
+        Just let the ideal career find you!<br>
+        <br>
+        Now, LSI Logic makes it painless for you to engage your own, private search 
+        agent - presenting only the positions that meet &quot;your&quot; unique 
+        qualifications 24 x 7.<br>
+        <br>
+        It's quick. It's easy. It's completely confidential. And you control the process.</font> </p>
+      <p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Take two 
+        minutes, <A HREF="http://hire.emarkethost.net/mk/get/RELSIL1?_ED=ARcDkm47XgESqZMxGm0tGE">click here</A> and describe your ideal career.
+        Once you have joined our talent pool, your requirements will be immediately 
+        matched against all open positions. When there's a match, you'll 
+        instantly be notified via email.<br>
+        </font> </p>
+      <p> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Did you 
+        know about the cutting edge technology that is coming out of our Wireless 
+        Design Center in San Diego CA? ;With relocation packages available, 
+        here are just a few positions we are ready to fill - don't miss out!<br>
+        </font> </p>
+      <table border="0" width="96%" align="center">
+        <tr> 
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> DSP 
+            Software Engineer<br>
+            </font> </td>
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> ASIC 
+            Design Engineer</font> </td>
+        </tr>
+        <tr> 
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Product 
+            Application Engineer<br>
+            </font> </td>
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Windows 
+            Software Engineer</font> </td>
+        </tr>
+        <tr> 
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Integration 
+            &amp; Test Engineer<br>
+            </font> </td>
+          <td> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Call Processing Software Engineer </font> </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">We hope you enjoyed receiving this message.  If 
+  you do not wish to receive future news, tips and promotions from LSI Logic, 
+  please reply (including all original text) with Unsubscribe in the subject line.<br>
+  <br>  <br>  <br>  <br>  <br>
+  </font> <br>
+</body>
+</html></TD>
+</TR>
+</TABLE>
+<BR>-----------Please do not change the next line-----------<BR>
+ABAAOCOIABCAAMCKABFADAHJIAFAAMOI-<BR>
+<p align="right">
+<FONT FACE="Arial,Helvetica" SIZE=-2 >
+Powered by</FONT>
+<a href="http://www.marketfirst.com">
+<FONT FACE="Arial,Helvetica" SIZE=-2 >
+<strong>MarketFirst&#153;</strong></FONT>
+</a></p></BODY>
+</HTML>
+
+<!-- End of document [MarketFirst Software, Inc.-->
+
+
+--------------A70DC67B31B0E--
+
+--------------70DC67B31B0E--
+

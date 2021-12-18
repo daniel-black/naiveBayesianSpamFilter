@@ -1,0 +1,28 @@
+Return-Path: <spider@localhost.localdomain>
+Spam-Apparently-To: <webmaster@reginaphotoclub.com>
+Received: (qmail 17526 invoked from network); 25 Mar 2001 13:49:08 -0000
+Received: from host212-140-126-243.host.btclick.com (HELO localhost.localdomain) (212.140.126.243)
+  by reginaphotoclub.com with SMTP; 25 Mar 2001 13:49:08 -0000
+Received: (from spider@localhost)
+	by localhost.localdomain (8.11.0/8.8.7) id f2PDsWm05464;
+	Sun, 25 Mar 2001 14:54:32 +0100
+Date: Sun, 25 Mar 2001 14:54:32 +0100
+Message-Id: <200103251354.f2PDsWm05464@localhost.localdomain>
+To: webmaster@reginaphotoclub.com
+Subject: reginaphotoclub.co.uk is available
+from: spider@domains2000.co.uk
+
+Hello,
+	
+This is the Domains2000.co.uk spider informing you that your domain reginaphotoclub.com is also available as reginaphotoclub.co.uk.
+	
+If you want to research this domain just use the following link:
+	
+http://www.domains2000.co.uk/search/domain_search.php3?short_domain=reginaphotoclub&domain_ext=.co.uk
+	
+This is a one-time notice, there is no need to reply and you are not on a mailing list.
+	
+	
+Regards,
+	
+www.domains2000.co.uk Spider - UK Domains from £7.99 for two years.

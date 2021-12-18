@@ -1,0 +1,63 @@
+Return-Path: <anonymous@tvsecure.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4805 invoked from network); 13 Jun 2001 20:43:16 -0000
+Received: from vs01.tvsecure.com (qmailr@208.184.79.135)
+  by em.ca with SMTP; 13 Jun 2001 20:43:16 -0000
+Received: (qmail 8584 invoked by uid 99); 13 Jun 2001 20:11:55 -0000
+Date: 13 Jun 2001 20:11:55 -0000
+Message-ID: <20010613201155.8583.qmail@vs01.tvsecure.com>
+Content-type: text/html
+To: bruceg@em.ca
+From: "pius@airtabinc.com" <pius@airtabinc.com>
+Subject: AirTAB, Inc. Completes HVAC SystemsTAB
+Content-Length: 2010
+
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="550" border="0">
+  <tr> 
+    <td colspan="2"> 
+      <div align="center"><img src="http://jmpinc.com/airtabinc/mailer/airtabART.jpg" width="120" height="40"></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2"> 
+      <div align="center"><font face="VAG Rounded Light" size="4"><b><font color="#333366">A</font><font color="#CC3333">ir</font><font color="#333366">TAB, 
+        Inc. <font color="#000000">Completes HVAC SystemsTAB<br>
+        on Two More Landmark Projects</font></font></b></font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2"><img src="http://jmpinc.com/airtabinc/mailer/a1.gif" width="396" height="160"></td>
+  </tr>
+  <tr> 
+    <td width="190"><img src="http://jmpinc.com/airtabinc/mailer/a2.gif" width="188" height="319"></td>
+    <td width="350"><img src="http://jmpinc.com/airtabinc/mailer/text.gif" width="275" height="350"></td>
+  </tr>
+  <tr> 
+    <td width="190">&nbsp;</td>
+    <td width="350">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2"> 
+      <p align="center"><font face="VAG Rounded Light" size="2">For Information 
+        or Bids...Call toll free ... or visit our Website:</font><font face="VAG Rounded Light"><br>
+        (800)644-3355<br>
+        or<br>
+        <a href="http://www.jmpinc.com/airtabinc/"><b>www.airtabinc.com</b></a> 
+        </font></p>
+      <p align="center"><font face="VAG Rounded Light" size="4"><b><font size="7" color="#333366">A</font></b><font size="7" color="#CC3333"><i><font face="VAG Rounded Thin">ir</font></i></font><font size="7"><font color="#333366"></font></font><b><font size="7"><font color="#333366">TAB<font face="Times New Roman, Times, serif">,</font> 
+        Inc<br>
+        <font size="2">Member NEBB</font> </font></font></b></font></p>
+      </td>
+  </tr>
+</table>
+</body>
+</html>
+

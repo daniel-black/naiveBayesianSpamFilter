@@ -1,0 +1,21 @@
+Return-Path: <1PLACEMENTservicexx@hotmail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 7269 invoked from network); 21 Dec 2001 10:22:33 -0000
+Received: from base.abacus.com.tw (HELO localhost.localdomain) (203.74.224.14)
+  by agamemnon.bfsmedia.com with SMTP; 21 Dec 2001 10:22:33 -0000
+Received: from fc2 ([10.112.2.253])
+	by localhost.localdomain (8.11.0/8.11.0) with SMTP id f9KA9hD31967;
+	Sat, 20 Oct 2001 18:09:43 +0800
+Message-Id: <200110201009.f9KA9hD31967@localhost.localdomain>
+From: 1PLACEMENTservicexx@hotmail.com
+To: 
+Subject: Marketing Services
+Date: Sat, 19 Oct 2002 21:02:30 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_15B8_00001B7A.00001AF2"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 0
+Lines: 0
+

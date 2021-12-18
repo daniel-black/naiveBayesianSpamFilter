@@ -1,0 +1,21 @@
+Return-Path: <andnewsletters@email-prom.net>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 6008 invoked from network); 18 Mar 2001 07:26:01 -0000
+Received: from unknown (HELO email-prom.net) (12.42.24.23)
+  by bfsmedia.sk.ca with SMTP; 18 Mar 2001 07:26:01 -0000
+From: andnewsletters@email-prom.net
+Reply-To: andnewsletters@email-prom.net
+To: andnewsletters@email-prom.net
+X-Mailer: QI03122001MDNZ
+Return-Path: andnewsletters@email-prom.net
+Message-Id: <3kj06.6kh54r7di5vy1n0wbd@email-prom.net>
+Date: Sun, 18 Mar 2001 02:30:48 +0000
+Subject: Hi!
+Content-Type: text/plain;
+	 charset=us-ascii
+Content-Transfer-Encoding: 8BIT
+Content-Length: 31
+Lines: 2
+
+http://www.andnewsletters.com
+

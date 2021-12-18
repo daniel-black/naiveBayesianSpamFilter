@@ -1,0 +1,108 @@
+Return-Path: <service@k2college.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 7321 invoked from network); 2 May 2001 02:04:32 -0000
+Received: from k2college.com (HELO tiger2) (66.20.6.167)
+  by em.ca with SMTP; 2 May 2001 02:04:32 -0000
+From: "Services" <service@k2college.com>
+To: <bait@em.ca>
+Subject: New education website (www.k2college.com)
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 1 May 2001 22:03:47
+Content-Length: 3623
+Lines: 94
+
+<html>
+<head>
+<title>New Education Website</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+  <table width="520" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td colspan="3" width="518">
+
+<a href="http://www.k2college.com/">
+
+<img src="http://www.k2college.com/EmailSender/Opening/heading.gif" width="325" height="46" border="0"></a></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><br>
+        <b><font face="Arial" size="2">
+        A PERSONAL INVITATION TO STUDENTS, TEACHERS, AND PARENTS</font></b></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="268"><font face="Arial" size="2"><b><a href="http://www.k2college.com/">K2College.com</a></b> 
+        is a new e-learning Web site that provides Internet-based learning contents, 
+        technology, and services that support the <b> kindergarten 
+        through college </b> learning community. There are both free and subscription-based 
+        learning programs and tools through our <b> Premium Program</b>. We feature hundreds of learning activities that are highlighted 
+        throughout the site.</font></td>
+      <td width="15">&nbsp;&nbsp;</td>
+      <td width="231"><img src="http://www.k2college.com/EmailSender/Opening/photo.jpg" width="100" height="130"></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2"><b>Our site provides 
+        content in:</b></font><br>
+        <br>
+        </td>
+    </tr>
+    <tr> 
+      <td height="4" colspan="3" width="518"> 
+        <p><font face="Arial" size="2"><a href="http://www.k2college.com/Webs/math/Main.asp">Math</a></font></p>
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2">English Language Arts (in preparation)</font></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2"><a href="http://www.k2college.com/Webs/CadCam/Main.asp">CAD/CAM</a></font></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2"><a href="http://www.k2college.com/Webs/InfoTech/Main.asp">Information Technology</a></font></td>
+    </tr>
+    <tr> 
+      <td width="268"><font face="Arial" size="2">&nbsp;</font></td>
+      <td width="248" colspan="2"><font face="Arial" size="2">&nbsp;</font></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2">Teachers, both in classrooms and for 
+        homeschoolers, may benefit from streamlining their courses with our <b> Course 
+        Management Tool (CMT)</b> available in May.</font></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2">&nbsp;</font></td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"> 
+        <p><font face="Arial" size="2">We invite you to explore our site at <a href="http://www.k2college.com/"><b>www.K2College.com</b></a> 
+          and provide us your valuable feedback.&nbsp;</font></p>
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518"><font face="Arial" size="2"><br>
+        If you do not wish to receive further e-mail notifications from us, please 
+        click on <a href="mailto:Unsubscribed@K2College.com?Subject=Unsubscribe"><b>Unsubscribed@K2College.com</b></a> 
+        and ask us to delete your name. <br>
+        </font>
+        </td>
+    </tr>
+    <tr> 
+      <td colspan="3" width="518">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td width="268">&nbsp;</td>
+      <td width="248" colspan="2">&nbsp;</td>
+    </tr>
+  </table>
+
+  &nbsp;</body>
+  
+</html>

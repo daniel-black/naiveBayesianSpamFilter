@@ -1,0 +1,34 @@
+Return-Path: <cadomainame@yahoo.ca>
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 18894 invoked from network); 12 Feb 2001 05:47:42 -0000
+Received: from unknown (HELO yahoo.ca) (154.5.157.202)
+  by em.ca with SMTP; 12 Feb 2001 05:47:42 -0000
+To: smith.family@em.ca
+From: .CA Registration <cadomainame@yahoo.ca>
+X-Mailer: 31B2F08E.40A1A61B.5fad39f57b0cfeb4b1250087269e724f
+Subject: Are you canadian?
+Organization: 
+Content-Length: 1024
+Lines: 21
+
+
+If you are Canadian, your Internet address should reflect this. If you have already 
+have a .com name, you should consider adding a .CA name.  In the past, .CA names 
+were not readily available to the public as there were many restrictions as to who 
+can register.  However, recent regulatory changes have since made .CA registrations 
+easily available...
+
+As of November 1, 2000, CIRA, the authoritative body for Canada's domain name 
+registry, has reformed the .CA registration requirements.  Registrations for 
+.CA domain names are now open for any business or individual residing in Canada.  
+Since there can only be one registrant per unique .CA name, thousands of Canadians 
+businesses and individuals are rushing to reserve their .CA name before it's taken.  
+Registration is on a first come, first served basis and costs only CAN$29.95 per name.  
+For more information on how to secure your .CA name, go to http://www.RegisterInCanada.com.
+
+Yours truly,
+
+
+RegisterInCanada.com
+Web:	http://www.RegisterInCanada.com
+

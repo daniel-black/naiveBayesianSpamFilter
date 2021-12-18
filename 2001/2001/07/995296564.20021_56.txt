@@ -1,0 +1,25 @@
+Return-Path: <friends@openxxx.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 14485 invoked from network); 15 Jul 2001 01:09:57 -0000
+Received: from w005.z064001190.sjc-ca.dsl.cnc.net (HELO exchange.rescap.com) (64.1.190.5)
+  by daedelus.bfsmedia.com with SMTP; 15 Jul 2001 01:09:57 -0000
+Received: by EXCHANGE with Internet Mail Service (5.5.2650.21)
+	id <36PZZSZG>; Sat, 14 Jul 2001 18:00:37 -0700
+Received: from localhost (211.75.142.146 [211.75.142.146]) by exchange.rescap.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id 36PZZSZC; Sat, 14 Jul 2001 18:00:33 -0700
+From: friends@openxxx.net
+To: design@bfsmedia.com
+X-Mailer: Perl+Mail::Sender 0.7.10 by Jan Krynicky
+Subject: Hello, your friend recommended openxxx to you
+Content-Length: 154
+Lines: 9
+
+
+
+You have been invited to check out this adult site
+by one of your friends who visited us.
+
+our URL is http://www.openxxx.net/
+enjoy,
+OpenXXX TEAM 2001
+

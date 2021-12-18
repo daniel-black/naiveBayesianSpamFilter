@@ -1,0 +1,42 @@
+Return-Path: <adminnews891@hotmail.com>
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 25411 invoked from network); 1 Nov 2001 00:09:52 -0000
+Received: from unknown (HELO srvuptfi) (195.191.63.234)
+  by agamemnon.bfsmedia.com with SMTP; 1 Nov 2001 00:09:52 -0000
+Received: from client2 ([198.142.181.100])
+          by srvuptfi (Lotus Domino Build 166.1)
+          with SMTP id 2001110100492877:279 ;
+          Thu, 1 Nov 2001 00:49:28 +0100 
+From: adminnews891@hotmail.com
+To: 
+Subject: new account details
+Date: Thu, 01 Nov 2001 09:53:00 -0200
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+Reply-To: adminnews891@hotmail.com
+X-MIMETrack: Itemize by SMTP Server on SRVUPTFI/CoopLat(Versione 5.0 (Intl)|14 Aprile
+ 1999) at 11/01/2001 12:49:29 AM,
+	Serialize by Router on SRVUPTFI/CoopLat(Versione 5.0 (Intl)|14 Aprile 1999) at
+ 11/01/2001 01:09:48 AM,
+	Serialize complete at 11/01/2001 01:09:48 AM
+Message-ID: <OF31F1F7A2.E7779CDF-ONC1256AF6.0082DFE0@LocalDomain>
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_02B5_00004FA5.00001F0B"
+Content-Length: 243
+Lines: 14
+
+------=_NextPart_000_02B5_00004FA5.00001F0B
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+
+<FONT size=2> new account set-up <a href="http://www.fuzbal459.thx.to/">click here</a><BR>
+</FONT><p><p><p><p><p><p><p><p><p><p>
+
+
+
+<p><p><p></BODY></HTML>
+
+

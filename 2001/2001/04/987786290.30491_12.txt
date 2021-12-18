@@ -1,0 +1,40 @@
+Return-Path: <macuiping@btamail.net.cn>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 23360 invoked from network); 20 Apr 2001 14:27:36 -0000
+Received: from unknown (HELO inproxy.infotel.es) (212.163.204.3)
+  by bfsmedia.sk.ca with SMTP; 20 Apr 2001 14:27:36 -0000
+Received: from html (61.153.122.207 [61.153.122.207]) by inproxy.infotel.es with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id JC09V53F; Wed, 18 Apr 2001 05:20:58 +0200
+From: macuiping@btamail.net.cn
+To: design@bithell.com
+Subject: Fix Your Bad Credit NOW!  Free Info
+Date: Wed, 18 Apr 2001 11:14:36
+Mime-Version: 1.0
+Content-Type: text/html; charset="ANSI_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 863
+Lines: 20
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<p><font size="4" color="#CC0000" face="Verdana, Arial, Helvetica, sans-serif"><b>Credit 
+  Problems? </b></font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif">How would you like to have 
+  <b> <font color="#CC0000">PERFECT CREDIT</font></b>? </font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif">Thanks to the U.S. Government 
+  & The Fair Credit Reporting Act, You Have Rights!<br>
+  </font><font face="Verdana, Arial, Helvetica, sans-serif">And some Real Options! 
+  </font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif">For <font color="#CC0000"><b>FREE 
+  INFO</b></font> <b><a href="http://www.renetcom.net/debtfree">CLICK HERE</a></b> 
+  </font></p>
+</body>
+</html>

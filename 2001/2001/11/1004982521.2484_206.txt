@@ -1,0 +1,228 @@
+Return-Path: <comp_protecamersey@mailexcite.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 31386 invoked from network); 5 Nov 2001 06:46:49 -0000
+Received: from ip-35-102-134-202.rev.dyxnet.com (HELO mailserver.midiltd.com.hk) (202.134.102.35)
+  by agamemnon.bfsmedia.com with SMTP; 5 Nov 2001 06:46:49 -0000
+Received: from midi01.hk.midi.com (ip-34-102-134-202.rev.dyxnet.com [202.134.102.34])
+	by mailserver.midiltd.com.hk (8.10.2/8.10.2) with SMTP id fA56eok22145;
+	Mon, 5 Nov 2001 14:40:50 +0800
+Received: from 209.31.208.86 by midi01.hk.midi.com (InterScan E-Mail VirusWall NT); Mon, 05 Nov 2001 14:58:46 +0800
+Message-ID: <000043851247$0000034d$0000087c@>
+To: <Undisclosed.Recipients@mailserver.midiltd.com.hk>
+From: comp_protecamersey@mailexcite.com
+Subject: Protect Yourself From Computer Problems 23
+Date: Sun, 04 Nov 2001 22:09:40 -1200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: comp_protecamersey@mailexcite.com
+Content-Length: 8918
+Lines: 204
+
+<html>
+<head>
+	<title>Unlimited PC Support</title>
+    <style>
+		h1, .clsHead1 {font-size: 16pt; font-weight: bold; color: #8b93cf}
+		h2, .clshead2 {font-size: 12pt; font-weight: bold; color:#000080}
+		h3, .clshead3 {font-size: 10pt; font-weight: bold; color:#000080}
+		p, li {font-size: 10pt; font-weight: normal; color:#000000}
+		.clsNote {font-size: 8pt; font-weight: normal; color:#000080}
+		.clsSuperEmph {font-size: 12pt; font-weight: bold; font-style: italic; c=
+olor: #0000ff}
+	</style>
+</head>
+
+<body>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+	<tr valign=3D"top">
+		<td width=3D"100%">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+				<tr valign=3D"top">
+					<td><img src=3D"http://www.liverepair.com/directmail/images/wheel.gif=
+" width=3D"40" height=3D"43" border=3D"0" alt=3D""></td>
+					<td><img src=3D"http://www.liverepair.com/directmail/images/logo.gif"=
+ width=3D"295" height=3D"43" border=3D"0" alt=3D""></td>
+					<!--
+					<td background=3D"bgr_top.gif" width=3D"100%"><img src=3D"pix.gif" wi=
+dth=3D"1" height=3D"1" border=3D"0" alt=3D""></td>
+					-->
+					<td width=3D"100%">
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+							<tr><td><img src=3D"http://www.liverepair.com/directmail/images/pix=
+.gif" width=3D"1" height=3D"6" border=3D"0" alt=3D""></td></tr>
+							<tr><td bgcolor=3D"#0c1c8c"><img src=3D"http://www.liverepair.com/d=
+irectmail/images/pix.gif" width=3D"1" height=3D"23" border=3D"0" alt=3D"">=
+</td></tr>
+							<tr><td><img src=3D"http://www.liverepair.com/directmail/images/pix=
+.gif" width=3D"1" height=3D"14" border=3D"0" alt=3D""></td></tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+<tr valign=3D"top">
+				<td width=3D"5"><img src=3D"http://www.liverepair.com/directmail/image=
+s/pix.gif" width=3D"5" height=3D"1" border=3D"0" alt=3D""></td>
+				<td width=3D"100%">
+
+<br>
+
+<h1><font size=3D4 weight=3Dbold color=3D#8b93cf>Get rid of pesky computer=
+ problems &#151; permanently</font></h1>
+<h2><font size=3D4 weight=3Dbold color=3D#000080>Dear Computer User,</font=
+></h2>
+<p>You can't afford to have your business disrupted because of pesky PC pr=
+oblems, can you? If not, click on
+<a href=3D"http://www.liverepair.com/default.asp?campaign=3D0522A0007B">Li=
+veRepair.com</a> right now to sign up for a FREE 30-day trial of LiveRepai=
+r.</p>
+<p>LiveRepair, the Web's premiere online PC support service, can help you:=
+</p>
+<ul type=3D"disc">
+	<li>Eliminate PC repair headaches.</li>
+	<li>Recover lost or damaged files.</li>
+	<li>Minimize down-time.</li>
+	<li>Keep your business's computer running at peak performance.</li>
+	<li>Easily install new upgrades and enhancements.</li>
+	<li>Fix crashes, freezes, memory run-out, and other common PC problems.</=
+li>
+</ul>
+<table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"100%" bgc=
+olor=3D"#eeeeee"><tr><td>
+	<div align=3D"center"><span class=3DclsHead3><a href=3D"https://www.liver=
+epair.com/newuser/default.asp?campaign=3D0522A0007B">Unlimited live tech s=
+upport for your PC over the Internet</a></span></div>
+</td></tr></table>
+<p>LiveRepair can help you get your PC problems resolved quickly, easily, =
+and professionally 24 hours a day, 7 days a week. No more waiting for a re=
+pair person to show up (late as usual). No more big repair bills from cost=
+ly PC service firms.</p>
+<p>To get your 30-day free trial, click on <a href=3D"http://www.liverepai=
+r.com/default.asp?campaign=3D0522A0007B">LiveRepair.com</a> today. Spend y=
+our time running your business using your PC -- not running after your com=
+puter dealer to fix it.</p>
+<p>P.S. Accept our risk-free 30-day trial offer at <a href=3D"http://www.l=
+iverepair.com/default.asp?campaign=3D0522A0007B">LiveRepair.com</a> now an=
+d you can download a free copy of LiveRepair version of firewall and anti-=
+virus=FFFFFF85 nifty little programs that give you many of the anti-virus =
+and security features found in expensive corporate firewalls.</p>
+
+<p>REMOVE LINK:</p><p>We respect your online time and privacy, and pledge =
+not to abuse this medium.  If you prefer not to receive further e-mails fr=
+om us of this type, please <a href=3D"http://www.directforcemarketing.com/=
+kromus/remove.htm">Click Here</a> to be removed.  ThankYou</p>
+
+<h1><font size=3D4 weight=3Dbold color=3D#8b93cf>5 reasons why you should =
+get rid of PC problems forever with LiveRepair.com ...</font></h1>
+<ol type=3D"1">
+	<li class=3D"clsHead3">
+		<h3><font size=3D2 weight=3Dbold color=3D#000080>The price is right.</fo=
+nt></h3>
+		<p>Local PC tech support specialists charge from $50 to $175 an hour or =
+more.</p>
+		<p>But because LiveRepair is an online service, our price is incredibly =
+low: just $75 for a full year of unlimited live tech support for your PC -=
+- over the Internet.</p>
+		<p>It's like having a full-time PC tech support specialist on site full-=
+time ... at a very reasonable "retainer" of less than 21 cents a day.</p>
+	</li>
+	<li class=3D"clsHead3">
+		<h3><font size=3D2 weight=3Dbold color=3D#000080>We work round the clock=
+ ... just like you.</font></h3>
+		<p>LiveRepair operates 24 hours a day, 7 days a week. So if you're worki=
+ng at 3 am and your PC freezes, we can get you back up and running in a fl=
+ash. How fast does your local PC service guy respond at 3 in the morning?<=
+/p>
+	</li>
+	<li class=3D"clsHead3">
+		<h3><font size=3D2 weight=3Dbold color=3D#000080>We're computer geeks &#=
+151; and proud of it.</font></h3>
+		<p>Our help-desk staff has decades of experience in PC support and repai=
+r. These experts use sophisticated remote diagnostics -- plus downloadable=
+ fixes and patches -- to repair your PC as you watch. </p>
+		<p>And, with LiveRepair.com there are no surprise bills. Everything is c=
+overed by our low monthly rate (at $6.25 per month, we're practically givi=
+ng our support services away!).</p>
+	</li>
+	<li class=3D"clsHead3">
+		<h3><font size=3D2 weight=3Dbold color=3D#000080>We guarantee immediate =
+results.</font></h3>
+		<p>Try our online PC support for a full month risk-free. (When you sign =
+up, we won't charge your credit card for the first 30 days.)</p>
+		<p>Have we solved all your PC problems to your total satisfaction? You a=
+re the final judge. If we don't, you don't pay us a cent. It's that simple=
+.</p>
+	</li>
+	<li class=3D"clsHead3">
+		<h3><font size=3D2 weight=3Dbold color=3D#000080>A FREE bonus gift just =
+for giving LiveRepair.com a try.</font></h3>
+		<p>When you sign up for your no-risk 30-day trial, you'll get a LiveRepa=
+ir version of firewall and anti-virus for free. A $69 value, it's yours to=
+ keep at no cost, even if you decide against becoming a LiveRepair subscri=
+ber.</p>
+	</li>
+</ol>
+<p>To sign up for your free 30-day trial, <a href=3D"https://www.liverepai=
+r.com/newuser/default.asp?campaign=3D0522A0007B">click here</a> now.</p>
+
+				</td>
+				<td width=3D"10"><img src=3D"http://www.liverepair.com/directmail/imag=
+es/pix.gif" width=3D"10" height=3D"1" border=3D"0" alt=3D""></td>
+			</tr></table>
+			
+		</td>
+		<td width=3D"129" background=3D"../Getrelevant/bgr_blue.gif" bgcolor=3D"=
+#0c1c8c">
+			<img src=3D"http://www.liverepair.com/directmail/images/corner.gif" wid=
+th=3D"129" height=3D"29" border=3D"0" alt=3D""><br>
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_1a.jpg" w=
+idth=3D"129" height=3D"165" border=3D"0" alt=3D""><br>
+			<!--
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_1b.gif" w=
+idth=3D"129" height=3D"28" border=3D"0" alt=3D""><br>
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_2.gif" wi=
+dth=3D"129" height=3D"113" border=3D"0" alt=3D""><br>
+			-->
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_3.jpg" wi=
+dth=3D"129" height=3D"107" border=3D"0" alt=3D""><br>
+	                <a href=3D"https://www.liverepair.com/newuser/default.asp=
+?campaign=3D0522A0007B">
+                           <img src=3D"http://www.liverepair.com/directmai=
+l/images/side1_4.gif" width=3D"129" height=3D"39" border=3D"0" alt=3D""><b=
+r>
+			</a>
+            		<a href=3D"https://www.liverepair.com/newuser/default.asp?ca=
+mpaign=3D0522A0007B">
+			  <img src=3D"http://www.liverepair.com/directmail/images/side1_5a.gif"=
+ width=3D"129" height=3D"26" border=3D"0" alt=3D""><br>
+			</a>
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_5b.jpg" w=
+idth=3D"129" height=3D"68" border=3D"0" alt=3D""><br>
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_5c.gif" w=
+idth=3D"129" height=3D"25" border=3D"0" alt=3D""><br>
+			<img src=3D"http://www.liverepair.com/directmail/images/side1_6.gif" wi=
+dth=3D"129" height=3D"42" border=3D"0" alt=3D""><br>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
+
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+
+
+
+
+<html><p><head><p><p><p><p><p></BODY></HTML>
+
+

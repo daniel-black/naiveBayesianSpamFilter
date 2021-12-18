@@ -1,0 +1,293 @@
+Return-Path: <matthew6543k@hotpop.com>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 18732 invoked from network); 24 Mar 2001 08:12:03 -0000
+Received: from tpa.tpa.gov.tw (210.69.134.1)
+  by bfsmedia.sk.ca with SMTP; 24 Mar 2001 08:12:03 -0000
+Received: from 210.69.134.253 by tpa.tpa.gov.tw with SMTP (Microsoft Exchange Internet Mail Service Version 5.0.1458.49)
+	id FHGP021Y; Sat, 24 Mar 2001 16:21:13 +0800
+From: <matthew6543k@hotpop.com>
+Subject: How serious are you....?
+Date: Mon, 28 Feb 2000 04:27:27
+Message-Id: <0.187780.880692@hotpop.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 13763
+Lines: 277
+
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" topmargin="0">
+<bgsound src="http://1078390162/dh/adloop.mid" loop="2"> 
+<div align="center">
+  <table width="600" border="0" cellspacing="0" cellpadding="5">
+    <tr> 
+      <td> 
+        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000">You 
+          are receiving this e-mail because you opted-in by requesting information 
+          or requested to receive <br>
+          special offers from an online purchase, in the last 6 months. To unsubscribe, 
+          please click <a href="mailto:gx4629@yahoo.com?subject=remove">HERE</a> 
+          </font></div>
+      </td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0" background="top.jpg">
+    <tr> 
+      <td><object 
+            codebase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#4,0,2,0 
+            classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 width=600 
+            height=95>
+          <param name="SRC" value="http://1078390162/dh/burst2.swf">
+          <param name="QUALITY" value="high">
+          <param name="TYPE" value="application/x-shockwave-flash">
+          <img 
+            src="http://1078390162/dh/burst5.gif" width="600" height="95"> 
+        </object></td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="155" bgcolor="#006699" valign="middle"> 
+        <div align="right"> 
+          <p><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><br>
+            <img src="http://1078390162/dh/moretabs.gif" width="137" height="81"></font></b></font></b></font></p>
+        </div>
+      </td>
+      <td colspan="2" valign="middle" bgcolor="#e2ebfa"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="4" color="#006699">We 
+          craft distinctive corporate identity with</font><font size="4"><br>
+          <font color="#666666">unique images, animation and sound</font></font></b></font></b></font></div>
+      </td>
+      <td width="24" valign="middle" bgcolor="#e2ebfa">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="154" bgcolor="#006699" valign="middle"> 
+        <div align="right"> 
+          <p><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><br>
+            </font><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><font color="#0099CC">New<br>
+            </font></font><font size="5" color="#0099CC"> <font 
+            size=6>Look</font></font></b></font></b></font><font size=3> </font></b></font></b></font></p>
+        </div>
+      </td>
+      <td width="21" valign="middle" bgcolor="#e2ebfa"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font></div>
+      </td>
+      <td width="401" valign="middle" bgcolor="#e2ebfa"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b>Our 
+        mission is to project your company in the best possible image, to the 
+        greatest number of your potential clients. Our goal is to create and implement 
+        the most sophisticated and successful ad campaign possible for your company.</b></font></b></font></td>
+      <td width="24" valign="middle" bgcolor="#e2ebfa">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="155" bgcolor="#006699" valign="middle"> 
+        <div align="right"> 
+          <p><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><br>
+            <img src="http://1078390162/dh/morclients.gif" width="137" height="81"><br>
+            </font></b></font></b></font></p>
+        </div>
+      </td>
+      <td colspan="2" valign="middle" bgcolor="#e2ebfa"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif"><b><font size="4" color="#006699">We 
+          deliver the most dynamic e!mail</font><font size="4"><br>
+          <font color="#666666">marketing campaign in the world</font></font></b></font></div>
+      </td>
+      <td width="24" valign="middle" bgcolor="#e2ebfa">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="154" bgcolor="#006699" valign="middle"> 
+        <div align="right"> 
+          <p><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><br>
+            </font><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><font color="#0099CC">More<br>
+            </font></font><font size="5" color="#0099CC"> <font 
+            size=6>Clients</font></font></b></font></b></font></b></font></b></font></p>
+        </div>
+      </td>
+      <td width="21" valign="middle" bgcolor="#e2ebfa"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font></div>
+      </td>
+      <td width="401" valign="middle" bgcolor="#e2ebfa"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b>Our 
+        professional techniques of marketing and the quality of our ad copy, generates 
+        more quality potential customers per marketing dollar than any other form 
+        of marketing. With custom graphics, images and bullet descriptions, your 
+        potential client will not miss your message.</b></font></b></font></td>
+      <td width="24" valign="middle" bgcolor="#e2ebfa">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="155" bgcolor="#006699" valign="middle"> 
+        <div align="right"> 
+          <p><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><br>
+            <img src="http://1078390162/dh/moremoney.gif" width="137" height="81"><br>
+            </font></b></font></b></font></p>
+        </div>
+      </td>
+      <td colspan="2" valign="middle" bgcolor="#e2ebfa"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"><b><font size="4" color="#006699">Direct 
+          e!mail marketing</font><font face="Arial, Helvetica, sans-serif"><b><font size="4" color="#006699"> 
+          generates</font></b></font><font size="4" color="#006699"> more<br>
+          </font></b></font><font face="Arial, Helvetica, sans-serif"><b><font size="4" color="#006699"> 
+          <font color="#666666"> qualified leads which generate greater sales</font></font></b></font></b></font></div>
+      </td>
+      <td width="24" valign="middle" bgcolor="#e2ebfa">&nbsp;</td>
+    </tr>
+  </table>
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="154" bgcolor="#006699" valign="top"> 
+        <div align="right"> 
+          <p><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><br>
+            </font><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font face="Arial, Helvetica, sans-serif" 
+            color=#025a9e><b><font size=3><font color="#0099CC"><br>
+            More<br>
+            </font></font><font size="5" color="#0099CC"> <font 
+            size=6>Money</font></font></b></font></b></font></b></font></b></font></p>
+        </div>
+      </td>
+      <td width="21" valign="middle" bgcolor="#e2ebfa"> 
+        <div align="right"><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font></div>
+      </td>
+      <td width="401" valign="middle" bgcolor="#e2ebfa"> 
+        <p><font face="Arial, Helvetica, sans-serif"><b>Conventional methods of 
+          marketing (i.e. snail mail) are 100 times more expensive, with only 
+          one tenth of the response. It is undisputable, that warm qualified leads 
+          generate greater sales. Without professional marketing, your product/service 
+          will never reach its potential growth or sales.</b></font></p>
+        <p align="center"><b><font size="3" color="#006699" face="Arial, Helvetica, sans-serif">If 
+          you're serious about your business then this is for you!</font></b></p>
+        <p align="center"><font face="Arial, Helvetica, sans-serif" 
+            size=3><b>Fill out the following form and one <br>
+          of our consultants will contact you.</b></font></p>
+        <div align=center> 
+          <center>
+          </center>
+        </div>
+        <div align="center"> 
+          <table cellspacing=0 bordercolordark=#333300 cellpadding=3 
+bordercolorlight=#ffffcc width=347>
+            <tbody> 
+            <tr> 
+              <td> 
+                <form 
+      action="mailto:dawn1166@excite.com?cc=wilshire25@mail.com&subject=DHM" 
+      method=post enctype=text/plain>
+                  <table width="100%">
+                    <tbody> 
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Your 
+                          Name:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input name=NAME2>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Your 
+                          Web Address:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input value=http:// name=URL2>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Company 
+                          Name:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input name=Input2 coname="COMPANY_NAME">
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">State:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input size=2 name=STATE2>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Business 
+                          Phone:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input name=BUS_PHONE2>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Home 
+                          Phone:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input name=HOME_PHONE2>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Email:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input name=EMAIL2>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="49%"> 
+                        <div align=right><font color="#006699"><b><font face="Arial, Helvetica, sans-serif" size="3">Type 
+                          of Business:</font></b></font></div>
+                      </td>
+                      <td width="51%"> 
+                        <input name=TYPE_OF_BUSINESS2>
+                      </td>
+                    </tr>
+                    </tbody> 
+                  </table>
+                  <div 
+      align=center><br>
+                    <input type=submit value="Submit Information" name=submit2>
+                  </div>
+                </form>
+              </td>
+            </tr>
+            </tbody> 
+          </table>
+          <p>&nbsp;</p>
+        </div>
+        <font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font><font face="Arial, Helvetica, sans-serif"><b><font face="Arial, Helvetica, sans-serif"></font></b></font></td>
+      <td width="24" valign="middle" bgcolor="#e2ebfa">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

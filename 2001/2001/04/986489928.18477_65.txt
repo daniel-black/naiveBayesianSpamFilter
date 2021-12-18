@@ -1,0 +1,134 @@
+Return-Path: <tomgjh576@ozemail.com.au>
+Delivered-To: em-ca-user.name@em.ca
+Received: (qmail 18108 invoked from network); 5 Apr 2001 11:43:22 -0000
+Received: from unknown (HELO mailgw.ellos.se) (root@193.14.8.165)
+  by em.ca with SMTP; 5 Apr 2001 11:43:22 -0000
+Received: from trend.ellos.se (trend.ellos.se [10.52.0.65])
+	by mailgw.ellos.se (8.9.3/8.9.3) with SMTP id NAA12100;
+	Thu, 5 Apr 2001 13:43:12 +0200
+From: tomgjh576@ozemail.com.au
+Received: from 207.173.147.112 by trend.ellos.se (InterScan E-Mail VirusWall NT); Thu, 05 Apr 2001 13:43:57 +0200 (W. Europe Daylight Time)
+Received: from pop2.wespe.de by rsvp-207-173-147-112.ac05.rcrd.eli.net with ESMTP; Thu, 05 Apr 2001 06:44:03 -0600
+Message-ID: <00001bfd735c$00007c42$00002727@pop2.wespe.de>
+To: <sueallendo4955@desertmail.com>
+Subject: The dow is dead. Long live the currency market                         10023
+Date: Thu, 05 Apr 2001 06:43:53 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: lily5010@kangaroojumpingallaroundtheforest54678.com
+Content-Length: 2354
+Lines: 109
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else
+	{
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://195.43.968.19-qxkzxhbqeu-jpbsegwbix-ruqp=
+.htm@00000000317.00000000341.00000000274.00000000364/FreeHosting/695350/de=
+fault.asp?redirect=3Dwww.theglobe.com/irletaq/lgkwl/vvlwb.htm","Hello","sc=
+rollbars");
+    Hello.focus();
+
+}
+
+
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://195.43.968.19-qxkzxhbqeu-jpbsegwbix-ruqp.htm@000000=
+00317.00000000341.00000000274.00000000364/FreeHosting/695350/default.asp?r=
+edirect=3Dwww.theglobe.com/irletaq/lgkwl/vvlwb.htm","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://195.43.968.19-qxkzxhbqeu-jpbsegwbix-ruqp.htm@000=
+00000317.00000000341.00000000274.00000000364/FreeHosting/695350/default.as=
+p?redirect=3Dwww.theglobe.com/irletaq/lgkwl/vvlwb.htm";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+
+
+

@@ -1,0 +1,30 @@
+Return-Path: <list@list.top555.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 1901 invoked from network); 23 May 2001 01:06:39 -0000
+Received: from dispatchservices.com (HELO list.top555.net) (38.186.175.2)
+  by bfsmedia.sk.ca with SMTP; 23 May 2001 01:06:39 -0000
+From: "List" <list@list.top555.net>
+Subject: Check out new Kama Sutra e-book!
+Content-Type: multipart/related;
+	boundary="------NEXT_PART_0000000C";
+	type="text/html"
+Content-Length: 629
+Lines: 17
+
+This is a multi-part message in MIME format.
+
+--------NEXT_PART_0000000C
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-ID: <0000000B$0000000C@list.top555.net>
+Content-Length: 402
+
+VGhlIEZJUlNUIGlsbHVzdHJhdGVkIHZlcnNpb24gb2YgS2FtYSBTdXRyYSBpbiBJbnRlcm5ldDxi
+cj4NCjxhIGhyZWY9Imh0dHA6Ly93d3cudG9wNTU1Lm5ldC8iPmh0dHA6Ly93d3cudG9wNTU1Lm5l
+dC88L2E+PGJyPjxicj4NCg0KDQo8aHI+SWYgeW91IHdpc2ggdG8gdW5zdWJzY3JpYmUgcGxlYXNl
+IHNlbmQgYSBsZXR0ZXIgdG8gPGEgaHJlZj0ibWFpbHRvOnVuc3Via3NAdG9wNTU1Lm5ldCI+dW5z
+dWJrc0B0b3A1NTUubmV0PC9hPjxicj4NClN1YmplY3QgYW5kIHRleHQgYXJlIHVuaW1wb3J0YW50
+Lg0KPGhyPg0K
+
+--------NEXT_PART_0000000C--
+

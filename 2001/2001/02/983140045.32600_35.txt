@@ -1,0 +1,118 @@
+Return-Path: <ydaw@usa.net>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 28424 invoked from network); 25 Feb 2001 20:31:03 -0000
+Received: from liste.antwerpes.de (HELO mail2.antwerpes.de) (postfix@195.82.66.140)
+  by snssoftware.com with SMTP; 25 Feb 2001 20:31:02 -0000
+Received: from ap101.antwerpes.de (ap101.antwerpes.de [195.82.85.101])
+	by mail2.antwerpes.de (Postfix) with ESMTP
+	id A179A48371; Sun, 25 Feb 2001 22:24:59 +0100 (CET)
+Received: from 203.243.112.4 ([206.172.212.118])
+	by ap101.antwerpes.de (8.8.8+Sun/8.8.8) with SMTP id VAA02651;
+	Sun, 25 Feb 2001 21:19:46 +0100 (MET)
+From: ydaw@usa.net
+Message-ID: <00006ebd1dbe$0000243f$000058a3@203.243.112.4>
+To: <tkonig@hotmail.com>
+Subject: The Richest People On Earth Do This
+Date: Sat, 20 Jan 2001 09:46:20 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 6109
+Lines: 93
+
+<HTML><head><META HTTP-EQUIV=3DContent-Type CONTENT=3Dtext/html;charset=3Di=
+so-8859-1><META content=3D"text/html; charset=3Dwindows-1252" http-equiv=3D=
+Content-Type><SCRIPT>
+function stopmouse(e) { 
+  if (navigator.appName =3D=3D 'Netscape' && (e.which =3D=3D 3 || e.which =
+=3D=3D 2))  
+   return false; 
+      else if  
+      (navigator.appName =3D=3D 'Microsoft Internet Explorer' && (event.bu=
+tton =3D=3D 2 || event.button =3D=3D 3)) {  
+   alert("Please fill out form and hit submit");
+  return false;  
+   }
+  return true; 
+      } 
+      document.onmousedown=3Dstopmouse;  
+      if (document.layers) 
+      window.captureEvents(Event.MOUSEDOWN); 
+       window.onmousedown=3Dstopmouse;  
+
+</SCRIPT></HEAD><BODY><p align=3Dcenter><b><font color=3D#FF0000 size=3D6>=
+Creating A Wealthy Future</font></b><p align=3Dleft><b><font color=3D#0080=
+00 size=3D4>Question?</font></b></p><p align=3Dleft><font color=3D#0000FF>=
+When you have troubles making ends meet on today's income, how do you expe=
+ct to retire and live on less money than you earn now?&nbsp;</font><font c=
+olor=3D#ff0000><br> </font><font color=3D#800000>Ask yourself, are you.</f=
+ont><font color=3D#ff0000>....<br> <br> </font><font color=3D#0000FF>* Tir=
+ed of working and not getting anywhere?<br> * Do your debts just keep grow=
+ing with no end in sight?<br> * Looking for REAL wealth?</font></p><div st=
+yle=3D"width: 643; height: 45"><font face=3DArial size=3D3 color=3D#FF0000=
+><b>I</b></font><font color=3D#FF0000><font face=3DArial size=3D3><b>ntrod=
+ucing A 14 Year Old Stable Company That Will Help You Instantly</b></font>=
+<font face=3DArial size=3D2>:</font></font><p><font face=3DArial size=3D2 =
+color=3D#0000FF>*Create Cash Flow</font></div><div><font face=3DArial size=
+=3D2 color=3D#0000FF>*Eliminate all Your debts</font></div><div><font face=
+=3DArial size=3D2 color=3D#0000FF>*Create an opportunity for you to make $=
+122,400 In your pocket Risk Free within 60-90 days</font></div><div><font =
+color=3D#0000FF>&nbsp;</font></div><div><font face=3DArial size=3D2 color=3D=
+#0000FF>Our Team Members are looking for individuals that want to overcome=
+ their Financial wall.</font></div><div><font face=3DArial size=3D2 color=3D=
+#0000FF>Do you have the desire to change your life.&nbsp; We will show you=
+ how to take immediate</font></div><div><font face=3DArial size=3D2 color=3D=
+#0000FF>care of your bills, and show you how to make $2000-$10,000 to $20,=
+000 wk Consistently.</font></div><div><font face=3DArial size=3D2 color=3D=
+#0000FF>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; You Can Retire Wealthy...</font></div><P><b><font color=3D#FF0000 size=3D=
+4>Please Fill Out The Form&nbsp; Below&nbsp; And Someone Will Contact You =
+To Explain This One Of A Kind Opportunity.</font></b></P><TABLE><TBODY><TR=
+><TD align=3Dmiddle colSpan=3D2 width=3D100%><FORM action=3Dmailto:trendin=
+g@arabia.com?SUBJECT=3DLeads encType=3Dtext/plain method=3Dpost><INPUT nam=
+e=3DAID type=3Dhidden value=3DDSours> <INPUT name=3DProduct type=3Dhidden =
+value=3DLeads.><TABLE border=3D0 cellPadding=3D3 cellSpacing=3D0 width=3D4=
+00><TBODY><TR><TD align=3Dright width=3D49%><FONT color=3D#800000 face=3DV=
+erdana size=3D2>Your Name:</FONT></TD><TD width=3D51%><FONT color=3D#80000=
+0 face=3DVerdana><INPUT name=3Drequiredname size=3D24></FONT></TD></TR><TR=
+><TD align=3Dright width=3D49%><FONT color=3D#800000 face=3DVerdana size=3D=
+2>Home Phone w/ Area Code:</FONT></TD><TD width=3D51%><FONT face=3DVerdana=
+ color=3D#800000><INPUT name=3Drequiredhomephone size=3D24><BR><FONT color=
+=3D#993366 face=3DArial size=3D1>Example: (205) 123-4567</FONT></FONT></TD=
+></TR><TR><TD align=3Dright width=3D49%><FONT color=3D#800000 face=3DVerda=
+na size=3D2>Work Phone w/ Area Code:</FONT></TD><TD width=3D51%><FONT face=
+=3DVerdana color=3D#800000><INPUT name=3Drequiredworkphone size=3D24><BR><=
+FONT color=3D#993366 face=3DArial size=3D1>Example: (205) 567-8901</FONT><=
+/FONT></TD></TR><TR><TD align=3Dright width=3D49%><FONT color=3D#800000 fa=
+ce=3DVerdana size=3D2>Best Time To Contact You:</FONT></TD><TD width=3D51%=
+><FONT color=3D#800000 face=3DVerdana><SELECT name=3DrequiredBestTimeToCon=
+tactYou size=3D1 style=3D"COLOR: #000080; FONT-FAMILY: Verdana"> <OPTION s=
+elected value=3D"Choose one...">Choose one...</OPTION> <OPTION value=3D"Mo=
+rning at Work">Morning at Work</OPTION> <OPTION value=3D"Afternoon at Work=
+">Afternoon at Work</OPTION> <OPTION value=3D"Evening at Work">Evening at =
+Work</OPTION> <OPTION value=3D"Morning at Home">Morning at Home</OPTION> <=
+OPTION value=3D"Afternoon at Home">Afternoon at Home</OPTION> <OPTION valu=
+e=3D"Evening at Home">Evening at Home</OPTION></SELECT></FONT></TD></TR><T=
+R><TD align=3Dright width=3D49%><FONT color=3D#800000 face=3DVerdana size=3D=
+2>Your E-Mail Address:</FONT></TD><TD width=3D51%><FONT face=3DVerdana col=
+or=3D#800000><INPUT name=3Drequiredemailaddress size=3D24><BR><FONT size=3D=
+1>Must be in form: name@domain.com</FONT></FONT></TD></TR><TR><TD align=3D=
+right width=3D49%><FONT face=3DVerdana color=3D#800000>&nbsp;</FONT></TD><=
+TD width=3D51%><FONT face=3DVerdana color=3D#800000>&nbsp;</FONT></TD></TR=
+><TR><TD align=3Dmiddle colSpan=3D2 width=3D100%><B><FONT color=3D#800000 =
+face=3DVerdana size=3D2>Please verify your information. Thank you!</FONT><=
+/B></TD></TR><TR><TD align=3Dmiddle colSpan=3D2 width=3D100%><font color=3D=
+#800000><FONT face=3DVerdana><INPUT border=3D0 type=3Dsubmit value=3D"Clic=
+k for A Wealthy Future!"></FONT><BR><BR><FONT color=3D#800000 face=3DVerda=
+na size=3D2>This form is being submitted via email. Simply click OK on the=
+ box that pops up, and we will process your information promptly.</FONT></=
+font></TD></TR></TBODY></TABLE></TD></TR></FORM></TAB></TBODY></TABLE><p>T=
+o be removed from our mailing list reply to <a href=3Dmailto:kulasse@jetai=
+me.as>kulasse@jetaime.as</a> with remove in the subject</p></BODY></HTML>
+
+

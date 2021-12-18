@@ -1,0 +1,267 @@
+Return-Path: <kbnqf@mail.farrells.ie>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 29761 invoked from network); 8 May 2001 20:02:52 -0000
+Received: from oznet16.ozemail.com.au (203.2.192.109)
+  by bfsmedia.sk.ca with SMTP; 8 May 2001 20:02:52 -0000
+Received: from aokth.mail.farrells.ie ([216.177.33.31]) by oznet16.ozemail.com.au (8.11.1/8.6.12) with SMTP id f48Jxel25866; Wed, 9 May 2001 05:59:40 +1000 (EST)
+Date: Wed, 9 May 2001 05:59:40 +1000 (EST)
+Message-Id: <200105081959.f48Jxel25866@oznet16.ozemail.com.au>
+From: kbnqf@mail.farrells.ie
+To: stdqi@mail.ertms.be
+Reply-To: 
+Subject: <<< Here's What You Were Waiting For!! >>>                                    [dherf]
+Content-Type: text/html;
+Content-Length: 13123
+Lines: 251
+
+
+<html>
+
+<head>
+<title>Página nueva 1</title>
+<meta name="Microsoft Theme" content="none">
+</head>
+
+<body bgcolor="#000040">
+
+<p><script language="JavaScript">
+<!--
+ function scrollit_r2l(seed)
+{ 
+	var m1 = "Find  Out  How  to  Make  a  Serious  Income  with  Manual's World free copyrights!........"; 
+	var m2 = "This is The Turn Key to Success! ..... "; 
+   var m3 = "This  offer  was  sent  by  an  independent  marketing  service.  Fax  your  order now  to:  775 - 618 -  8542 .....    ";
+	var msg=m1+m2+m3;        
+	var out = " ";        
+	var c   = 1;        
+	if (seed > 100) 
+		{                
+		seed--;
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                timerTwo=window.setTimeout(cmd,100);        
+		}
+        else if (seed <= 100 && seed > 0) 
+		{
+                for (c=0 ; c < seed ; c++) 
+			{                        
+			out+=" ";
+        		}       
+		out+=msg;
+        	seed--;
+        	var cmd="scrollit_r2l(" + seed + ")";                    
+		window.status=out;                
+		timerTwo=window.setTimeout(cmd,100);        
+	}
+	else if (seed <= 0) 
+		{
+                if (-seed < msg.length) 
+			{                        
+			out+=msg.substring(-seed,msg.length);
+        		seed--;                        
+			var cmd="scrollit_r2l(" + seed + ")";
+        		window.status=out;
+        		timerTwo=window.setTimeout(cmd,100);                
+			}
+                else 
+			{
+	          	window.status=" ";                        
+			timerTwo=window.setTimeout("scrollit_r2l(100)",75);                
+			}        
+		}
+	};
+	scrollit_r2l(100);
+
+//-->
+</script></p>
+<div align="center"><center>
+
+<table border="2" cellPadding="5" cellSpacing="3" height="364" width="618">
+<tbody>
+  <tr>
+    <td bgColor="#ffffff" height="364" width="1272"><div><div><div><div= align="center">
+<div align="center"><center><table
+    border="0" cellpadding="0" cellspacing="0" width="99%" height="=&quot;149&quot;">
+      <tr>
+        <td width="100%" bgcolor="#000000" height="149"><p align="center"><font size="6"
+        face="Times New Roman" color="#0000FF"><strong>Become the owner of more than 750 <br>
+        How To Manuals &amp; <u>Start Making Money</u>!</strong>!!</font></td>
+      </tr>
+    </table>
+    </center></div></div><p align="left" style="text-align:center"><strong><fo= nt face="Arial"><font
+    color="#008000"><br>
+    </font></strong><big><font color="#000080">Manual's World gives you the opportunity to
+    make money giving you all the Copyrights Absolutely Free!!!</font><font color="#008000"><br>
+    </font><br>
+    </big><strong><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&amp;qu=
+ot;Times New Roman&quot;;
+color:blue;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-langu=
+age:
+AR-SA"><br>
+    </span></strong><span lang="EN-US"
+    style="font-size:18.0pt;font-family:Arial;
+color:red;background:white"><b>Discover
+    valuable secrets to become wealthy, learn all what you need to start a business!</b></span></p>
+    <p style="text-align:center" align="left"><font color="#000080"><big>Manual's World E-book
+    contains more than 750 titles with information and secrets that can lead you to succeed in
+    different areas.</big></font></p>
+    <p style="text-align:center" align="left"><font face="Times New Roman" color="#0000FF"><strong>Secrets
+    To Successfully Starting Your Own Business<br>
+    How To Use The Internet to Make Real Money<br>
+    How to Profit from Distributing Public Domains<br>
+    Tax Tips For Investors &amp; Entrepreneurs<br>
+    Principles Of Direct Marketing<br>
+    Secrets And Top-Tips Of Mailorder Advertising<br>
+    Secrets Of The Richest People<br>
+    How To Influence Poeple And Win Them Over<br>
+    Reports &amp; Ads - How To Win At Gaming</strong></font></p>
+    <p style="text-align:center" align="left"><font face="Times New Roman" color="#0000FF"><strong>AND
+    HUNDREDS MORE...</strong></font></p>
+    <p style="text-align:center" align="left">&nbsp;</p>
+    <p style="text-align: justify" align="left"><font face="Times New Roman" color="#000080"><strong><big>&nbsp;&nbsp;&nbsp;
+    Manual's World normal cost is $99.99, but if you order now you get</big>:</strong></font></p>
+    <ul>
+      <li><p style="text-align: justify" align="left"><font face="Times New Roman" color="#000080"><strong>Manuals
+        World E- Book for just $49.99 with Copyrights FREE for re-sell, re-write, re-print, it is
+        all yours, and if you order NOW you will get:</strong></font></p>
+      </li>
+    </ul>
+    <p style="text-align: justify" align="center"><strong><font face="Times New Roman"
+    color="#000080">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </font><big><big><big><font face="Times New Roman" color="#800000">BONUS # 1</font></big></big></big></strong></p>
+    <ul>
+      <li><p style="text-align: left; margin-left: 0px; margin-right: 0px" align="left"><font
+        face="Times New Roman" color="#000080"><strong>Capistran &amp; Vazquez International
+        Cuisine E-Book with more than 100 illustrated recipes. </strong><big><big>C &amp; V</big> </big><strong>have
+        carefully selected the best recipes so that you can share them with your family, friends
+        or your loved person. With</strong><big> <big>C &amp; V</big> </big><strong>recipes you
+        will really cook like an expert in a very simple way.</font><font face="Times New Roman"
+        color="#000040"> </font></strong></p>
+      </li>
+    </ul>
+    <p style="text-align: left; margin-left: 0px; margin-right: 0px" align="left"><strong><font
+    face="Times New Roman" color="#000080">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </font><font face="Times New Roman" color="#800000"><big><big><big>BONUS # 2</big></big></big></font></strong></p>
+    <ul>
+      <li><p style="text-align: left; margin-left: 0px; margin-right: 0px" align="left"><font
+        face="Times New Roman" color="#000080"><strong>A complete and illustrated Tourist Guide of
+        Cancun, one of the most exciting beach resorts around the world. Enjoy the best holidays
+        of your life, this can be possible if you know just the right places to visit and all the
+        wonders that this beautiful paradise has to offer.</strong></font></p>
+      </li>
+    </ul>
+    <p style="text-align: left; margin-left: 0px; margin-right: 0px" align="left"><strong><font
+    face="Times New Roman" color="#000080">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </font><font face="Times New Roman" color="#800000"><big><big><big>BONUS # 3</big></big></big></font></strong></p>
+    <ul>
+      <li><p style="text-align: left; margin-left: 0px; margin-right: 0px" align="left"><strong><font
+        color="#000080">&quot;Better Life Software&quot; will give you important tips to enjoy of
+        a safer, healthier, wealthier home life. Not only does it show how to keep away criminals,
+        con artists, bill collectors and traffic cops, it tells you how to sleep better, lose
+        weight, have a better diet and much, much more.</font></strong></p>
+      </li>
+    </ul>
+    <p style="text-align: left; margin-left: 0px; margin-right: 0px" align="left">&nbsp;</p>
+    <p style="text-align:center" align="left"><font color="#FF0000"><big><big>Don't waste any
+    more valuable time...</big></big></font></p>
+    <p style="text-align:center" align="left"><font color="#FF0000"><big><big>... Manual's
+    World is The Turn Key to Success</big></big></font></p>
+    <p style="text-align:center" align="left"><span lang="EN-US"
+    style="font-family:
+Arial;color:blue;background:white"><b><i><br>
+    </i></b></span></p>
+    <p align="center"><font face="Times New Roman" color="#000080">= = = = = = = ORDER
+    AUTHORIZATION FORM Start Here = = = = = = =</font></p>
+    <p align="left">&nbsp;</p>
+    <p align="left"><font color="#000080"><font face="Times New Roman"><strong>You MUST put
+    your initials next to the statement below.</strong><br>
+    <br>
+    _____Yes!&nbsp; I am convinced I need this book, please process my order for <br>
+    The Manual's World E-book immediately!!!&nbsp; Please process my order with the $50
+    discount and the FREE BONUSES worth over $65. I understand <u>I will be paying only $49.99</u>
+    for The Manual's World. <br>
+    <br>
+    Here's what to do:<br>
+    <br>
+    STEP 1 : Print this order form.<br>
+    STEP 2 : Fill out the form completely.<br>
+    STEP 3 : Be sure to print your email address clearly,,, TWICE.<br>
+    STEP 4 : Attach your check at the bottom of this Order Form<br>
+    STEP 4 : Fax this application form to: 775-618-8542<br>
+    <br>
+    Authorization: Manual's World + 3 Free Bonuses<br>
+    <br>
+    <br>
+    Today's Date:_______________<br>
+    <br>
+    <u><strong>BILLING INFO</strong></u>:<br>
+    <br>
+    Your Name:___________________________________<br>
+    <br>
+    <br>
+    Your Company or Business Name:___________________________________<br>
+    <br>
+    <br>
+    Address:_________________________________________________________<br>
+    <br>
+    <br>
+    City, State, Zip:________________________________________________<br>
+    <br>
+    <br>
+    County (not country):____________________________________________<br>
+    <br>
+    <br>
+    Your Email Address:____________________________________________<br>
+    <br>
+    Your Email Address <u>Again</u>:_______________________________________<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (Required for immediate order fulfillment.)<br>
+    <br>
+    </font>CHECK BY FAX SERVICES<br>
+    When your check is faxed to us, a single payment from your checking account is <br>
+    drafted for the total amount of $49.99 Make payable to: The Marketing Group<br>
+    <br>
+    Your purchase CANNOT be processed without your signature on your check.</font></p>
+    <p align="left"><font color="#000080"><strong>NOTE: You will have to wait from 7 to 10
+    days until the check is cleared to receive your product.</strong><br>
+    <br>
+    <br>
+    <br>
+    - ATTACH YOUR CHECK HERE. MAKE PAYABLE TO: THE MARKETING GROUP -<br>
+    </font></p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <p align="left"><font color="#000080"><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    - - - - - - - - - - - C U T H E R E - - - - - - - - - - </font></p>
+    <div><div><p style="text-align:center" align="left">&nbsp;</p>
+    <div><div align="center"><center><table border="3" cellpadding="10" cellspacing="0"
+    width="80%">
+      <tr>
+        <td width="75%"><font color="#0000ff"><div><p align="center"><u><strong><small><font
+        face="Arial">Your E-mail Address Removal/Deletion Instructions:</font></small></strong></u></p>
+        </div><div><p align="center"><font face="Arial"><small>&nbsp; &nbsp; The marketing company
+        who sent you this advertisement </small><br>
+        <small>complies</small> <small>with all proposed federal legislation regarding unsolicited<br>
+        &nbsp; &nbsp; commercial e-mail by providing you with a method for your </small><br>
+        <small>e-mail address to be permanently removed from our database </small><br>
+        <small>and any future mailings from our company.</small></font></p>
+        </div><div><p align="center"><small><font face="Arial">&nbsp; &nbsp; To permanently remove
+        your address, please </font></font><font face="Arial" color="#0000ff"><a
+        href="mailto:rem_log@europe.com?subject=REMOVE">CLICK HERE</a> </small><br>
+        <small>to send your request.</small></font></p>
+        </div></td>
+      </tr>
+    </table>
+    </center></div></div><p><font color="3D&quot;#0000ff&quot;"></tbody>&nbsp;</p>
+    </font></div></div></div></div></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
+
+

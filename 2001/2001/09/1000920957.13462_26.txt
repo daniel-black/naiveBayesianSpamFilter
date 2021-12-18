@@ -1,0 +1,164 @@
+Return-Path: <Stealth123@btamail.net.cn>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 21706 invoked from network); 19 Sep 2001 05:32:34 -0000
+Received: from nautilus.marsnet.hu (213.163.9.1)
+  by agamemnon.bfsmedia.com with SMTP; 19 Sep 2001 05:32:34 -0000
+Received: from ntserver.kunsagvolan.hu (mail.kunsagvolan.hu [213.163.17.245])
+	by nautilus.marsnet.hu (8.9.3/8.9.3) with ESMTP id HAA31961;
+	Wed, 19 Sep 2001 07:33:14 +0200
+From: Stealth123@btamail.net.cn
+Message-Id: <200109190533.HAA31961@nautilus.marsnet.hu>
+Received: from orgasm.co.kr (129.1.1.9 [129.1.1.9]) by ntserver.kunsagvolan.hu with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id TCN1VDC5; Wed, 19 Sep 2001 07:35:44 +0200
+To: <Undisclosed.Recipients@nautilus.marsnet.hu>
+Subject: Programmers Available Now!
+Date: Tue, 18 Sep 2001 22:46:33 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: Stealth123@btamail.net.cn
+Content-Length: 5237
+Lines: 139
+
+<html>
+<head>
+<title>nt</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<style type=3D"text/css">
+<!--
+.text {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-s=
+tyle: normal; font-weight: bold; color: #666666}
+.t3 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-sty=
+le: normal; color=3D"#ff9900" ; color: #FFFFCC; font-weight: bold}
+.ft { font-family: "Times New Roman", Times, serif; font-size: 12pt; font-=
+style: italic ; font-weight: bold; color: #666666}
+.t2 { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-styl=
+e: normal; font-weight: normal}
+.t2s { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-sty=
+le: normal }
+-->
+</style>
+</head>
+
+<body bgcolor=3D"#999999">
+<table width=3D"600" align=3D"center">
+  <tr> 
+    <td width=3D"65%" valign=3Dtop> 
+          <table width=3D"100%" cellspacing=3D"2" cellpadding=3D"0">
+          <tr bgcolor=3D"#0066CC"> 
+            <td bgcolor=3D"#000099"> 
+              <table width=3D"100%" cellspacing=3D"2" cellpadding=3D"10">
+                <tr> 
+                  <td bgcolor=3D"#FFFFFF"> 
+                    <p class=3D"ft">Dear Sir/Madam,</p>
+                    <p class=3D"text">We are glad to announce that hundred=
+s of the 
+                      best offshore developers are now available at your f=
+ingertips. 
+                      The quality you receive is equivalent or superior to=
+ that 
+                      offered by domestic companies, but at a fraction of =
+the 
+                      cost.</p>
+                    <p class=3D"text">Here is just a short list representi=
+ng just 
+                      a small fraction of their skills and talents</p>
+                    <ul class=3D"text">
+                      <li>Off-shore/on-site software development and codin=
+g</li>
+                      <li>Development of Internet / Intranet / Extranet ap=
+plications</li>
+                      <li>e-Business solutions - Development of Client-Ser=
+ver 
+                        applications</li>
+                      <li>Web design</li>
+                      <li>Wireless applications</li>
+                      <li>Software testing and porting</li>
+                    </ul>
+                    <p class=3D"text">The developers are experienced in:<b=
+r>
+                      All WINDOWS, UNIX and Mac platforms!</p>
+                    <p class=3D"text">Rates starting at <font color=3D"#00=
+0099">USD25/h</font></p>
+                    
+                  <p class=3D"text">For more information on these services=
+ please 
+                    click 	 <a href=3D"mailto:Stealth123@btamail.net.cn?Su=
+bject=3DTell Me More Saerweit-157768784"><b><font color=3D"#0066CC">HERE <=
+/font></b></a></p>
+                    <p class=3D"text" align=3D"center"><font color=3D"#666=
+666" class=3D"ft">"Only 
+                      the best programmers <br>
+                      are offered!" </font></p>
+                    
+                  <p class=3D"text"> If you received this letter by mistak=
+e, please click "Remove".</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        
+      
+    </td>
+    <td>
+<p class=3D"t3">Programmers Available Immediately</p>
+          <p class=3D"t2">Excellent programmers available immediately to w=
+ork on 
+            all your E-commerce, Web, and software development projects.</=
+p>
+          
+      <p class=3D"t3">Specializing in </p>
+                  
+      <p class=3D"t2"> <font color=3D"#000099">Internet:</font> HTML 4, DH=
+TML, WML, 
+        JavaScript and VBScript; Java Applets; CGI with Perl, C/C++, Java =
+Servlets, 
+        REXX; MS ASP; Sun JSP; PHP; MS Site Server; VRML 2.0; ActiveX; SSL=
+; CyberCash.<br>
+          <font color=3D"#000099">Databases</font>: DB2 Universal, DB2 MVS=
+, MS SQL 
+          Server, Oracle, Paradox, DBASE clones, Sybase, Any clones of SQL=
+.<br>
+          <font color=3D"#000099"> Object-oriented techniques:</font> Full=
+ scale 
+          object-oriented analysis and design, Unified Modeling Language, =
+Analysis 
+          Patterns, Design Patterns, CORBA Meta Object Framework (MOF).<br=
+>
+          <font color=3D"#000099"> Development Environments: </font>Micros=
+oft Developer 
+          Studio, IBM Visual Age for C++ and Java, Java Foundation Classes=
+, JavaMail, 
+          JMAPI, JNDI, Rational Rose98, Borland C/C++, Inprise JBuilder, S=
+emantic 
+          Cafe for Java, GNU C/C++ 2.7, Delphi, Microsoft Visual Studio, P=
+aradox, 
+          PowerBuilder. </p>
+        <a href=3D"mailto:Stealth123@btamail.net.cn?Subject=3DTell Me More=
+ Saerweit-157768784"><b><font color=3D"#0066CC"><p class=3D"t3" align=3D"c=
+enter">Free Quotes!</p></font></b></a>
+                  
+      <div align=3D"center"> </div>
+      <p align=3D"center" class=3D"t2s">
+	 <a href=3D"mailto:Stealth123@btamail.net.cn?Subject=3DTell Me More Saerw=
+eit-157768784"><b><font color=3D"#0066CC">[More Info] </font></b></a>&nbsp=
+;&nbsp;&nbsp;
+
+<a href=3D"mailto:Stealth123@btamail.net.cn?Subject=3DRemove"><b><font col=
+or=3D"#0066CC">[Remove]</font></b></p></div></a>
+
+      
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+

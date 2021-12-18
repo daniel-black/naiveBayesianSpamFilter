@@ -1,0 +1,53 @@
+Return-Path: <dinozine@address.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 6072 invoked from network); 21 Aug 2001 14:44:37 -0000
+Received: from mail.asig.co.uk (HELO asig?nt1.lgw.asig.co.uk) (195.157.153.61)
+  by daedelus.bfsmedia.com with SMTP; 21 Aug 2001 14:44:37 -0000
+Received: from _[40.112.221.243]_by (PPPa2-ResaleMiamiB1-1R7353.dialinx.net [4.48.70.31]) by asig_nt1.lgw.asig.co.uk with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id RK8NA309; Tue, 21 Aug 2001 15:23:03 +0100
+Received: from  [246.82.72.231] by _[40.112.221.243]_by with SMTP id A49C14E2 Tue, 21 Aug 2001 09:54:59 PDT
+From: <dinozine@address.com>
+To: design@bfsmedia.com
+Subject: This magazine kids love         
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Tue, 21 Aug 2001 10:12:15
+Content-Length: 1485
+Lines: 36
+
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>DINOZINE&nbsp; is a educational publication for kids and the entire
+family</title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>DINOZINE&nbsp; is a educational publication for kids and the entire
+family</title>
+</head>
+
+<body>
+
+<p><b><font color="white" face="Arial Rounded MT Bold"><img height="181" src="http://www.1xin.net/dinozine/dinocover.gif" width="137" align="left" border="0"></font>DINOZINE</b>&nbsp; is a educational publication for kids and the entire family. A new concept in magazine publishing for children...one that uses
+dinosaurs as a vehicle for creating <u> educational entertainment</u>. Subscribe
+now.&nbsp;&nbsp;</p>
+<p><a href="http://www.1xin.net/dinozine/">Click Here To Learn More</a></p>
+<p><font color="#000000" size="3" PTSIZE="10">This is a one time transmission you
+will not receive this again, therefore removal is not necessary, however you may
+opt-out at <a href="mailto:remedy0678@email.com?subject=Unsubscribe Dino">CLICK HERE TO BE REMOVED</a>
+and your request will be honored.&nbsp;&nbsp;<br>
+</font></p>
+
+</body>
+
+</html>
+
+
+

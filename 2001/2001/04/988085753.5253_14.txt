@@ -1,0 +1,289 @@
+Return-Path: <jethgjfneaudj@topmail.de>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 4312 invoked from network); 24 Apr 2001 02:57:48 -0000
+Received: from unknown (HELO brontolo.ixmedia.it) (213.140.0.195)
+  by bfsmedia.sk.ca with SMTP; 24 Apr 2001 02:57:48 -0000
+Received: from Toronto-ppp273071.sympatico.ca_[64.228.53.72] ([64.228.53.72]) by brontolo.ixmedia.it with Microsoft SMTPSVC(5.0.2195.1600);
+	 Tue, 24 Apr 2001 04:56:54 +0200
+Received: from mail-in.pol.net.uk by Toronto-ppp273071.sympatico.ca with ESMTP; Mon, 23 Apr 2001 21:58:44 -0600
+Message-ID: <00006fcb4b03$00004291$000061b5@mail-in.pol.net.uk>
+To: <sueallendo4955@desertmail.com>
+From: jethgjfneaudj@topmail.de
+Subject: The dow is dead!                         25013
+Date: Mon, 23 Apr 2001 21:58:43 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: stockman454@qudsmail.com
+Return-Path: stockman454@qudsmail.com
+Reply-To: samfg465@desertmail.com
+X-OriginalArrivalTime: 24 Apr 2001 02:56:56.0703 (UTC) FILETIME=[3957D0F0:01C0CC6A]
+Content-Length: 6652
+Lines: 263
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<SCRIPT LANGUAGE=3D"JavaScript1.1">
+
+
+
+<!-- Begin
+function right(e)
+
+
+ {
+
+
+var msg =3D "Not Available";
+
+
+if (navigator.appName =3D=3D 'Netscape' && e.which =3D=3D 3)
+
+
+ {
+
+
+alert(msg);  // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+else
+
+
+if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && event.button=
+=3D=3D2)
+
+
+ {
+
+
+alert(msg); // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+return true;
+
+
+}
+var mclick =3D  0;
+function cy(form)
+{
+    var mthanks =3D 'Thank  You For Your Interest';
+    var mclick =3D mclick+1;
+    var remmsg =3D "Error! Missing Data.";
+    if (!form.removeemail.value)
+         {
+         var remmsg =3D" Error!  Please enter an email address";
+         alert(remmsg);
+          return;
+          }
+    else
+         {
+            form.submit();
+            return;  
+         }
+           
+       
+} // End of function validate_remove
+
+
+function cyorder(form)
+{
+  var x=3D1;
+  var ordermsg =3D "Error!  Missing Data";
+  
+
+
+if (!form.Email.value) {
+        var ordermsg =3D "Error!  Please enter your email address.";
+         x=3D2; } 
+if (!form.Time.value) {
+        var ordermsg =3D "Error!  Please enter the best time to contact yo=
+u.";
+         x=3D2; } 
+
+if (!form.Phone.value) {
+        var ordermsg =3D "Error!  Please enter your phone number.";
+         x=3D2; } 
+ if (!form.Zip.value){
+        var ordermsg =3D "Error!  Please enter your zip.";
+          x=3D2; } 
+ if (!form.State.value){
+        var ordermsg =3D "Error!  Please enter your state.";
+          x=3D2; } 
+ if (!form.City.value){
+        var ordermsg =3D "Error!  Please enter your city.";
+          x=3D2; }
+ if (!form.Address.value){
+        var ordermsg =3D "Error!  Please enter your city.";
+          x=3D2; }
+ if (!form.Last.value){
+        var ordermsg =3D "Error!  Please enter your last name.";
+          x=3D2; }
+ if (!form.First.value){
+        var ordermsg =3D "Error!  Please enter your first name.";
+          x=3D2; }
+if (x=3D=3D2) 
+{
+   alert(ordermsg);
+   return false; 
+}else{
+      form.submit();
+     return true; }
+   
+} // End of function validate_remove
+  
+
+document.onmousedown =3D right;
+
+// End -->
+
+
+</SCRIPT>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>This Automatic Money Magnet is Incredibley Easy 8215</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#FFFFFF">
+
+<P>
+<TABLE BORDER=3D"0" WIDTH=3D"563">
+	<TR>
+		<TD WIDTH=3D"555">
+			<P><FORM ACTION=3D"mailto:noneedtono@cairomail.com?subject=3DAcquisitio=
+nsPleaseASAP" METHOD=3D"POST" ENCTYPE=3D"text/plain"><FONT
+			SIZE=3D"4" COLOR=3D"#008800" color=3D"3D" #FF0000""><B>INVESTORS ALERT:=
+</B></FONT></P>
+			<P><FONT SIZE=3D"4" color=3D"3D" #FF0000""><B>If Stock Market Volatilit=
+y has you worried,<BR>
+			join the flight to quality.<BR>
+			<BR>
+			Make 36% annually, paid 3% monthly through<BR>
+			Guaranteed - Fully Secured Account Receivable Acquisitions.<BR>
+			<BR>
+			</B>Discover what banks have been doing for decades. Harness the power =
+and liquidity of Guaranteed - Fully Secured
+			Account Receivable Acquisitions. <BR>
+			<BR>
+			A safe haven to make strong returns, while the stock market is in turmo=
+il.<BR>
+			There is no cost or obligation. <B><BR>
+			</B></FONT><B><BR>
+			</B><FONT color=3D"3D" #FF0000""><B>For Free In-Depth Information Packa=
+ge</B></FONT><FONT COLOR=3D"#0033FF"><B>, send
+			us an E-Mail<BR>
+			with the following information by filling in the fields below and then<=
+BR>
+			clicking the</B></FONT><FONT COLOR=3D"#FF0000"><B> </B></FONT><FONT COL=
+OR=3D"#000000"><B>&quot;I Authorize&quot;</B></FONT><FONT
+			COLOR=3D"#FF0000"><B> </B></FONT><FONT COLOR=3D"#0033FF"><B>button. We =
+will then<BR>
+			contact you by phone just as soon as possible. </B></FONT><FONT COLOR=3D=
+"#FF0000"><B><BR>
+			</B></FONT><B>YOU<STRONG> MUST</STRONG> INCLUDE THE FOLLOWING INFO:</B>=
+</P>
+			<P>
+			<TABLE BORDER=3D"0" WIDTH=3D"90%">
+				<CAPTION><FONT COLOR=3D"#FF0000" face=3D"Arial,Helvetica"><B>All field=
+s must be completed</B></FONT></CAPTION>
+				<TR>
+					<TD><B>First Name</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"First" SIZE=3D"25"></TD>
+				</TR>
+				<TR>
+					<TD><B>Last Name</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"Last" SIZE=3D"25"></TD>
+				</TR>
+				<TR>
+					<TD><B>Street Address</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"Address" SIZE=3D"35"></TD>
+				</TR>
+				<TR>
+					<TD><B>City</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"35"></TD>
+				</TR>
+				<TR>
+					<TD><B>State</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"State" SIZE=3D"35"></TD>
+				</TR>
+				<TR>
+					<TD><B>Zip</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"Zip" SIZE=3D"12" MAXLENGTH=3D"12"></=
+TD>
+				</TR>
+				<TR>
+					<TD><B>Phone Number&nbsp;</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"Phone" SIZE=3D"25" MAXLENGTH=3D"25">=
+</TD>
+				</TR>
+				<TR>
+					<TD><B>Best time to call for shipping verification&nbsp;</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"Time" SIZE=3D"15" MAXLENGTH=3D"15"><=
+/TD>
+				</TR>
+				<TR>
+					<TD><B>Email&nbsp;</B></TD>
+					<TD><INPUT TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"25" MAXLENGTH=3D"25">=
+</TD>
+				</TR>
+			</TABLE>
+<INPUT TYPE=3D"HIDDEN" NAME=3D"Subject" SIZE=3D"-1" VALUE=3D"Auth for Acqu=
+isitions Package."><A NAME=3D"order"></A></P>
+			<P ALIGN=3D"CENTER"><B>Please click only once it may take up to 30 seco=
+nds.</B></P>
+			<CENTER>
+			<P><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"I Authorize" onClick=
+=3D"cyorder(this.form)"></P>
+</CENTER>
+			<P><B>(REMOVAL INSTRUCTIONS) <BR>
+			</B>This mailing is done by an independent marketing company.<BR>
+			Please do not reply to this e-mail, an e-mail reply cannot be read!<BR>
+			If you would like to be removed from our mailing list just click<BR>
+			below and send us a remove request email.<BR>
+			<B>Please click only once it may take up to 30 seconds.</B><BR>
+						</FORM>
+<FORM ACTION=3D"mailto:noneedtono@cairomail.com?subject=3DRemoveAcquisitio=
+ns" METHOD=3D"POST" ENCTYPE=3D"text/plain"><INPUT
+			TYPE=3D"HIDDEN" NAME=3D"RemoveIt" SIZE=3D"-1" VALUE=3D"Remove My Email =
+>From Any Future Acquisitions Mailings" ."> 
+			<TABLE BORDER=3D"0" WIDTH=3D"398" BGCOLOR=3D"#DDDDDD">
+				<TR>
+					<TD WIDTH=3D"100%" HEIGHT=3D"44" VALIGN=3D"TOP"><INPUT TYPE=3D"TEXT" =
+NAME=3D"removeemail" SIZE=3D"34"><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VA=
+LUE=3D"Remove" onClick=3D"cy(this.form)"></TD>
+				</TR>
+			</TABLE>
+
+		</TD>
+	</TR>
+</TABLE>
+
+</FORM>
+
+
+</BODY>
+
+</HTML>
+
+
+

@@ -1,0 +1,65 @@
+Return-Path: <info@metaccess.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 4090 invoked from network); 23 Jan 2001 16:08:19 -0000
+Received: from smtp-rt-10.wanadoo.fr (HELO camelia.wanadoo.fr) (@193.252.19.59)
+  by bfsmedia.sk.ca with SMTP; 23 Jan 2001 16:08:19 -0000
+Received: from citronier.wanadoo.fr (193.252.19.222) by camelia.wanadoo.fr; 23 Jan 2001 17:08:11 +0100
+Received: from localhost (213.56.44.101) by citronier.wanadoo.fr; 23 Jan 2001 17:07:45 +0100
+Message-ID: <3a6dac513a754028@citronier.wanadoo.fr> (added by citronier.wanadoo.fr)
+X-Sender: info@metaccess.com
+From: Metaccess <info@metaccess.com>
+To: design@bfsmedia.com
+Date: Tue, 23 Jan 2001 17:06:22 +0000
+Subject: Internet and Web service providers directory
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Content-Length: 1476
+Lines: 46
+
+The registration of Internet and Web Service Providers in Metaccess.com (http://www.metaccess.com) 
+- the leading Internet and Web service providers directory – started on December 
+1, 2000, before the search launching wich will occure in a few days (you can 
+see an example of the search by choosing "France" as the search country).
+
+Metaccess enables any user to search for Internet and Web Service Providers based 
+on over 400 search criteria. It puts providers directly in contact with thousands 
+of decision-makers, purchasers and trendsetters.
+
+Currently, over 3,200 Internet and Web Service Providers have already been registered 
+in this new search engine that will be launched officially in a few days.
+
+If your company is not yet registered in the Metaccess.com search engine, you 
+can register your business if it provides one or several services in the following 
+fields :
+
+Advertising
+Applications development
+Database
+Domain name
+E-commerce
+Graphic design
+Hosting
+Internet access
+Online marketing, promotion
+Online payment
+Registration, web positioning
+Surveys, web monitoring, etc.
+Technologies, languages
+Traffic analysis
+Training
+Translation
+Website, Intranet or Extranet creation or update
+
+You can access the site at the following address : http://www.metaccess.com.
+
+To register your business, click on "Submit a site".
+
+See you soon on Metaccess.com...
+
+
+
+-----
+Metaccess, the first Internet and Web service providers directory.
+http://www.metaccess.com
+

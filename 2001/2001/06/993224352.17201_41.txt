@@ -1,0 +1,55 @@
+Return-Path: <username@earthlink.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 18269 invoked from network); 22 Jun 2001 12:22:10 -0000
+Received: from dawn.barak.net.il (212.150.150.43)
+  by bfsmedia.sk.ca with SMTP; 22 Jun 2001 12:22:10 -0000
+Received: from mail.barak.net.il (mail6.barak.net.il [212.150.150.141])
+	by dawn.barak.net.il (8.11.1/8.11.1) with ESMTP id f5MCFr026522;
+	Fri, 22 Jun 2001 15:15:54 +0300 (IDT)
+Received: from exchange.tis.co.il ([209.88.156.89])
+	by mail.barak.net.il (8.11.2/8.9.1) with ESMTP id f5MCE3J23093;
+	Fri, 22 Jun 2001 15:14:04 +0300 (IDT)
+From: username@earthlink.net
+Message-Id: <200106221214.f5MCE3J23093@mail.barak.net.il>
+Received: from html (E1 [12.108.61.213]) by exchange.tis.co.il with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id MS5C9DZL; Fri, 22 Jun 2001 15:11:38 +0200
+To: design@davicon.com
+Subject: 
+Date: Fri, 22 Jun 2001 08:10:26
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 3210
+Lines: 28
+
+<HTML><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=11 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=12 FAMILY="SERIF" FACE="Times New Roman" LANG="0">Congratulations!</FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=11 FAMILY="SERIF" FACE="Times New Roman" LANG="0"> You've been selected<BR>
+for a chance to win one of the exclusive <BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=11 FAMILY="SERIF" FACE="Times New Roman" LANG="0">Vacation Packages and/or a Pentium PC</FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=11 FAMILY="SERIF" FACE="Times New Roman" LANG="0"> <BR>
+below courtesy of...</FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><BR>
+</FONT><FONT  COLOR="#ff0000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=12 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><B>National Vacation Promotions!</FONT><FONT  COLOR="#0000ff" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0"></B><BR>
+</FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0">This is the real thing! <BR>
+Simply fill out the form below<BR>
+and register to win - 5 drawings weekly.<BR>
+<BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=12 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><B><A HREF="http://user9new.8mail.net">Register Below and Win Today!</A></B></FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0"></B><BR>
+<BR>
+</P><P ALIGN=LEFT><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=1 PTSIZE=8 FAMILY="SERIF" FACE="Times New Roman" LANG="0">You were sent this message because your address is in our subscriber database. <BR>
+If you wish to be removed, please <B><A HREF="http://user9remove.8mail.net">CLICK HERE</A></B></FONT><FONT  COLOR="#ff0000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=1 PTSIZE=8 FAMILY="SERIF" FACE="Times New Roman" LANG="0"></B> </FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=1 PTSIZE=8 FAMILY="SERIF" FACE="Times New Roman" LANG="0">and we will remove you from our subscriber list.</FONT><FONT  COLOR="#ff0000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=1 PTSIZE=8 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><BR>
+<BR>
+</P></FONT></HTML>

@@ -1,0 +1,27 @@
+Return-Path: <StockInfo@ilikefox.goldschool.co.kr>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 5939 invoked from network); 3 Apr 2001 17:55:01 -0000
+Received: from unknown (HELO ilikefox.goldschool.co.kr) (211.189.131.1)
+  by bfsmedia.sk.ca with SMTP; 3 Apr 2001 17:55:01 -0000
+Received: from Xz6UH5Gja (unverified [32.101.153.205]) by ilikefox.goldschool.co.kr
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000078911@ilikefox.goldschool.co.kr>;
+ Wed, 04 Apr 2001 00:33:20 +0900
+DATE: 03 Apr 01 10:32:04 AM
+FROM: StockInfo
+Message-ID: <o2qdD9D5Qa>
+SUBJECT: WOW! Recession proof STOCK
+Content-Length: 347
+Lines: 12
+
+Investors, this is our penny stock pick of the week! 
+
+With the market in such a slump let's all pull together and focus.
+
+Click these links to see recent news and up to the minute stats:
+
+http://biz.yahoo.com/bw/010328/0069.html
+http://biz.yahoo.com/bw/010327/0420.html
+http://biz.yahoo.com/bw/010319/0103.html
+
+
+Remove: stockinfo23332@yahoo.com

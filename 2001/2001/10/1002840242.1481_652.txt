@@ -1,0 +1,136 @@
+Return-Path: <provideasecurefuture@excite.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 13062 invoked from network); 7 Oct 2001 20:53:05 -0000
+Received: from c1647201-a.fgrund1.ia.home.com (HELO localhost.localdomain) (65.10.167.201)
+  by agamemnon.bfsmedia.com with SMTP; 7 Oct 2001 20:53:05 -0000
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by localhost.localdomain (Postfix) with SMTP id ACECC48010
+	for <design@bfsmedia.com>; Sun,  7 Oct 2001 10:48:55 -0500 (CDT)
+Date: Sun, 7 Oct 2001 10:48:11 -0500
+From: provideasecurefuture@excite.com
+Subject: No Cost Quote 200110070950x3835
+To: 200110070950x3835-devnul@excite.com
+Precedence: junk
+BANNED: /etc/BadDomains
+X-uid: 200110070950x3835
+envelope_limit: 17
+Content-type: text/html
+X-Bulkmail: 2.04
+Message-Id: <20011007154855.ACECC48010@localhost.localdomain>
+Content-Length: 4694
+Lines: 114
+
+<html>
+<head>
+<style type="text/css">
+<!--
+SPAN  { font-family: times }
+TD  { font-family: times }
+TD  { font-size: 12px }
+A   { font-family: times }
+A:Link    { color:#FF6633; text-decoration: none }
+A:Visited { color:#FF6633 }
+A:Hover,A:Active { color:#FF6633}
+-->
+</style>
+</head>
+
+<body bgcolor=#ffffff marginwidth="0" marginheight="0" topmargin=0 leftmargin=0>
+<script language="JavaScript">
+function click() {
+if (event.button==2) {
+alert('Sorry.... Right Click denied');
+}
+}
+document.onmousedown=click
+// --> 
+</script>
+<table border=0 cellspacing=0 cellpadding=0 width=600>
+  <tr>
+    <td bgcolor=#e3e3e3 width=600 colspan=2><IMG height=131 alt="Life  Insurance Quotes Online" src  ="http://www.angelfire.com/ab6/zxy001/images/1/head_mail.jpg" width=600 border=0 ></td>
+  </tr>
+  <tr>
+    <td colspan=2><table border=0 cellspacing=0 cellpadding=0 width="100%">
+      <tr><td valign=top align=middle><br><span style="FONT-SIZE: 20px; COLOR: #000000">Best Life Insurance, Lowest Cost!</span></td>
+          <td valign=top align=middle><br><a href="" style="FONT-SIZE: 20px; COLOR: #cc0000">Shop, Compare and Save</a><br>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table border=0 cellspacing=0 cellpadding=0 width=600>
+  <tr>
+    <td width=182><IMG height=120 src="http://www.angelfire.com/ab6/zxy001/images/1/ad_block1.jpg" width=182 border=0 ></td>
+    <td width=40>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td width="100%" align=left><span style="FONT-SIZE: 24px; COLOR: #6d8bb3">
+        1. get your FREE instant quotes<br>
+        2. compare the lowest prices<br>
+        3. select the company of your choice<br>
+        4. apply online</span>
+          
+    </td>
+  </tr>
+</table>
+<table border=0 cellspacing=0 cellpadding=0 width=600>
+  <tr>
+    <td bgcolor=#ffffff colspan=3><br>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor=#e3e3e3 width=290>
+<table border=0 cellspacing=0 cellpadding=10 width="100%">
+  <tr><td align=middle>
+<b>You'll have 15 custom quotes from the nation's top insurance companies on your screen in less than 1 minute!</b>
+  </td></tr>
+</table>
+    </td>
+    <td bgcolor=#ffffff width=20>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td bgcolor=#e3e3e3 width=290 align=middle>
+<table border=0 cellspacing=0 cellpadding=10 width="100%">
+  <tr><td align=middle>
+<b>It's fast, easy and free!<br>
+<a href="http://www.xy199.com/index.htm?ID=pb6t" style="FONT-SIZE: 12px; COLOR: #cc0000">Click here to compare rates</a>!</b>
+  </td></tr>
+</table>
+    </td>
+  </tr>
+</table>
+<table border=0 cellspacing=0 cellpadding=0 width=600>
+ <!--  <tr>
+    <td align=right colspan=2><A href="http://www.angelfire.com/ab6/zxy001/images/1/templ6send.html"><IMG src="http://www.angelfire.com/ab6/zxy001/images/1/pass.jpg" border=0 ></A></td>
+  </tr> -->
+  <tr><td width=10>&nbsp;&nbsp;&nbsp;</td><td width="100%"><hr size=1 color=#000000></td></tr>
+  <tr>
+    <td bgcolor=#ffffff colspan=2><br>
+<table border=0 cellspacing=0 cellpadding=10 width="100%">
+  <tr><td style="FONT-SIZE: 10px; FONT-FAMILY: verdana, arial, helvetica" 
+         >
+            <P>THIS MESSAGE IS BEING SENT IN COMPLIANCE WITH PENDING EMAIL BILLS 
+            &amp; LAWS: SECTION 301. PER SECTION, PARAGRAPH (a) (2) (c) of S. 
+            1618.<BR>This message <STRONG>is not intended</STRONG> for any 
+            prospect who is <STRONG>under the&nbsp;legal age of 18</STRONG> , or 
+            those who do not wish to receive these e-mail's &nbsp;or those 
+            persons whom are residents in the State of WA, NV, CA &amp; 
+            VA.&nbsp;If you wish to be removed automaticlly or are&nbsp;a 
+            Washington, Virginia, or California resident:</P>
+            <P align=center><A 
+            href="mailto:200110070950x3835remove@remove.lynxdata.net?Subject=Please_remove_from_pb6t"><FONT 
+            size=3><FONT size=3><FONT face=Times color=#0000ff><STRONG>Please 
+            Remove&nbsp;Your Address 
+            Here</STRONG></FONT></FONT></FONT></A>
+            <P align=center><STRONG>Failure to click here will not remove your 
+            address automaticly.</STRONG></P>
+            <P align=left><STRONG><SELECT size=1 name=.> <OPTION 
+              value=pb6e010908gl001 
+            selected>pb6e010908gl001&nbsp;</OPTION></SELECT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We 
+            honor all removal requests.&nbsp;&nbsp;<BR></STRONG>Copyright (c) 2001 Insurance Quotes. All Rights 
+            Reserved.<BR>Designated trademarks and brands are the 
+            property of their respective owners. 
+  </P>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+

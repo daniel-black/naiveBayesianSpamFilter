@@ -1,0 +1,74 @@
+Return-Path: <4Yx7vnMy0@compuserve.com>
+Delivered-To: em-ca-design@em.ca
+Received: (qmail 20429 invoked from network); 3 Jul 2001 00:24:56 -0000
+Received: from mail.astg.net (HELO mailsrv.astg.net) (203.75.191.83)
+  by em.ca with SMTP; 3 Jul 2001 00:24:56 -0000
+Received: from vD7X2tau5 (slip-12-64-78-229.mis.prserv.net [12.64.78.229]) by mailsrv.astg.net with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.1960.3)
+	id NNF71FZS; Tue, 3 Jul 2001 07:44:00 +0800
+DATE: 02 Jul 01 4:36:27 PM
+FROM: 4Yx7vnMy0@compuserve.com
+Message-ID: <0u8qu0Mud9>
+Content-Type: text/htmlSUBJECT: Resume
+Content-Length: 3123
+Lines: 60
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<style>
+black-n {color: #330099; font-family: Arial,Verdana,MS Sans Serif,Helvetica; font-size: 13px;}
+</style>
+<TITLE>Resumesion.com</TITLE>
+</HEAD>
+<BODY>
+<DIV align="center">
+  <TABLE border="0" cellpadding="0" cellspacing="0" width="700">
+    <TR>
+      <TD colSpan="3"><a href="http://www.resumesion.com" target="_top"><IMG border="0" src="http://www.resumesion.com/resumesion/images/mark/mail/resumesion_1.jpg" width="700" height="121" alt=" Resumesion.com "></a></TD>
+    </TR>
+    <TR>
+      <TD valign="top" align="left" width="245"><a href="http://www.resumesion.com" target="_top"><IMG border="0" src="http://www.resumesion.com/resumesion/images/mark/mail/resumesion_2.gif" width="243" height="278" alt=" Resumesion.com "></a></TD>
+      <TD valign="top" align="left"  width="452"><span class="black-n"><BR>
+        How well does your existing resume distinguish you from other
+        candidates?&nbsp;<BR>
+ 	  For most people it simply doesn't.<BR>
+        <BR>
+        Stand out from the crowd with a dynamic interactive resume. It's as
+        simple as <B>1-2-3</B>!<BR>
+        <BR>
+        Resumesion is a powerful tool for anyone with a resume!&nbsp; <B>
+        <BR>
+        <a href="http://www.resumesion.com" target="_top">Click Here</a></B>
+        and in minutes you can transform your text resume into an interactive
+        resume that will get you noticed! You can choose from thousands of
+        template combinations!<BR>
+        <BR>
+        Now, <B>YOU</B> are in control with real-time reporting features!
+        <BR>
+        <BR>
+        See the Resumesion <a href="http://www.resumesion.com" target="_top"><B>Tour</B></a>
+        from our homepage.</span></TD>
+      <TD align="right" width="3"><IMG border="0" src="http://www.resumesion.com/resumesion/images/mark/mail/resumesion_3.gif" width="1" height="278"></TD>
+    </TR>
+    <TR>
+      <TD align="right"><IMG border="0" src="http://www.resumesion.com/resumesion/images/mark/mail/resumesion_3.gif" width="245" height="1"></TD>
+      <TD align="right"><IMG border="0" src="http://www.resumesion.com/resumesion/images/mark/mail/resumesion_3.gif" width="452" height="1"></TD>
+      <TD width="3" align="right"><IMG border="0" src="http://www.resumesion.com/resumesion/images/mark/mail/resumesion_3.gif" width="3" height="1"></TD>
+    </TR>
+  </TABLE>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p><br>
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<br>
+    This mailing is done by an independent marketing co.<br>
+    We apologize if this message has reached you in error.<br>
+    Save the Planet, Save the Trees! Advertise via Email.<br>
+    No wasted paper! Delete with one simple keystroke!<br>
+    Less refuse in our Dumps! This is the new way of the new millennium<br>
+    To be removed please email optmeoutnow@aol.com with the word &quot;remove&quot; 
+    in the subject line.<br>
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</p>
+</DIV>
+</BODY>
+</HTML>
+

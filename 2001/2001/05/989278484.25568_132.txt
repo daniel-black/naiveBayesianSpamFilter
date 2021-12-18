@@ -1,0 +1,64 @@
+Return-Path: <lucchesi@northstar.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10306 invoked from network); 7 May 2001 23:26:44 -0000
+Received: from dellserver.northstar.com (149.81.0.2)
+  by em.ca with SMTP; 7 May 2001 23:26:44 -0000
+Received: by DELLSERVER with Internet Mail Service (5.5.2650.21)
+	id <2THRVD8K>; Mon, 7 May 2001 19:32:40 -0400
+Message-ID: <1F2A186FD340D411AFAC00D0B7695D93137B9D@DELLSERVER>
+From: Jennifer Lucchesi <lucchesi@northstar.com>
+To: Jennifer Lucchesi <lucchesi@northstar.com>
+Subject: opportunities
+Date: Mon, 7 May 2001 19:32:08 -0400 
+Return-Receipt-To: Jennifer Lucchesi <lucchesi@northstar.com>
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Length: 1792
+
+> Hello,
+>  
+> I found your contact information while searching for Information
+> Technology and Business professionals.
+>  
+> My firm has several opportunities with some fantastic companies in the NY
+> Metro area as well as Denver, Boston, Florida, upstate New York
+> (Westchester area) and Central New Jersey.
+>  
+> Our clients have great need for Software Engineers (C++, Sybase, Oracle,
+> Unix, NT, etc...), Business and Web Application Developers (C++, Java,
+> Vignette, WebLogic, etc...), Middleware Experts (MQSeries, MSMQ, NEON,
+> e*Gate, etc...), Web/E-commerce and System Architects, Database Developers
+> (Oracle and/or Sybase), Technology Managers and Executives (CTOs, CIOs,
+> Directors and VPs), Industry Leaders and Experts (Brokerage, Banking,
+> Insurance, E-commerce and B2B), Data Modelers, Business Analysts,
+> Technical Writers, and Techncial Sales and Business Development
+> professionals.
+> 
+> If you are currently on the market, or will be considering it shortly,
+> please email your latest Word-format resume to careers@NorthStar.com. 
+> 
+> To expedite the process, please also include the breakdown (base + bonus)
+> of your current and desired compensation package, and your U.S.
+> citizenship/work authorization status. Also let me know if you would be
+> willing to relocate and/or travel as certain opportunities may require it.
+> 
+> I'll then follow up with you to discuss the opportunities I have.
+> 
+> Also, if you know of anyone that may also be interested, please do forward
+> this message to them.
+>  
+> Thanks,
+> Jennifer
+>  
+> Jennifer Lucchesi
+> Executive/Technical Recruiter
+> NorthStar Technologies, Inc.
+> 132 Nassau Street, Suite 309
+> New York, NY 10038
+> PHONE: 212-267-4100 x185
+FAX: 212-267-4468
+EMAIL: lucchesi@NorthStar.com
+http://NorthStar.com
+

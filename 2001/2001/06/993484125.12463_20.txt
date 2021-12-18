@@ -1,0 +1,168 @@
+Return-Path: <jakub.dosoudil@cleverlance.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 29825 invoked from network); 24 Jun 2001 12:52:16 -0000
+Received: from cleverlance.cust.nextra.cz (HELO marvin.cleverlance.com) (195.47.110.242)
+  by bfsmedia.sk.ca with SMTP; 24 Jun 2001 12:52:16 -0000
+Received: from speedyevoj ([192.168.1.101])
+	by marvin.cleverlance.com (8.9.3/8.9.3) with SMTP id OAA05386;
+	Sun, 24 Jun 2001 14:25:43 +0200
+Message-ID: <007f01c0fca9$e9fcdf30$6501a8c0@speedyevoj>
+From: "Jakub Dosoudil" <jakub.dosoudil@cleverlance.com>
+To: <jd@cleverlance.com>
+Subject: Contact for outsourced development
+Date: Sun, 24 Jun 2001 14:24:15 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0049_01C0FCB9.58A5E3F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Content-Length: 5808
+Lines: 145
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0049_01C0FCB9.58A5E3F0
+Content-Type: text/plain;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+Dear partners,
+
+I have been informed, that your company is in the need of software =
+development services, therefore we are approaching you with an offer of =
+cooperation which could help you to save your resources, and reduce your =
+expenses as well as make you more flexible for your clients.
+Who we are? We are a well established company specializing in Internet =
+Software Development, Project Management, Consulting and Education. Our =
+headquarters are located in Prague (Czech - very popular offshore =
+development location) and we have 3 branches in others cities. We are =
+not new to the business and all the members of our team have a great =
+deal of previous experiences in different types of Internet projects, =
+worldwide.
+
+
+We are able to serve in many areas of development, but we have extensive =
+knowledge and many years of experiences especially with those products =
+(our top) and we can support them as senior developers or senior =
+consultants.
+1) J2EE (EJB, JSP, JMS, CORBA, JCE/JCA, JavaMail ...)
+2) Sybase (we as a formal Sybase employees we know very well all Sybase =
+products)
+3) Oracle (Oracle 7.x, 8i, Oracle Application Server, ....)
+4) IBM (Lotus Notes, AS/400, AIX ...)=20
+5) Microsoft (COM/DCOM/COM+, Visual C++, C#, MTS, SQL Server, Exchange, =
+IIS ...)
+6) BEA (WebLogic, Tuxedo ...)=20
+
+=20
+If you would like to know more about us please see below listed =
+materials on our webpage www.cleverlance.com:
+.    A detailed company profile
+.    A description of the advantages of outsourcing=20
+.    A list of our services, project steps, and types of cooperation
+.    A list of our experience
+.    References
+
+If you require any further information about us, please do not hesitate =
+to contact me and I will be more than pleased to answer your questions.
+
+Jakub Dosoudil
+Sales Manager
+Cleverlance
+--
+ Cleverlance - The Clever JAVA Programming
+ www.cleverlance.com=20
+Mozartova 12
+150 00 Praha 5
+Czech Republic
+Tel.: +420 2 57 09 01 55
+Mobile Tel.: +420 724 02 03 04
+Fax: +420 2 57 09 01 59=20
+
+------=_NextPart_000_0049_01C0FCB9.58A5E3F0
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-2" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.3103.1000" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>
+<DIV><FONT size=3D2>Dear partners,<BR><BR>I have been informed, that =
+your company=20
+is in the need of software development services, therefore we are =
+approaching=20
+you with an offer of cooperation which could help you to save your =
+resources,=20
+and reduce your expenses as well as make you more flexible for your=20
+clients.<BR>Who we are? We are a well established company specializing =
+in=20
+Internet Software Development, Project Management, Consulting and =
+Education. Our=20
+headquarters are located in Prague (Czech - very popular offshore =
+development=20
+location) and we have 3 branches in others cities. We are not new to the =
+
+business and all the members of our team have a great deal of previous=20
+experiences in different types of Internet projects, =
+worldwide.<BR><BR></FONT>
+<DIV class=3Dmoz-text-plain style=3D"FONT-FAMILY: Courier New; =
+FONT-SIZE: 13px"=20
+graphical-quote=3D"true" wrap=3D"true"><FONT face=3D"Times New Roman" =
+size=3D2>We are=20
+able to serve in many areas of development, but we have extensive =
+knowledge and=20
+many years of experiences especially with those products (our top) and =
+we can=20
+support them as senior developers or senior consultants.<BR>1) J2EE =
+(EJB, JSP,=20
+JMS, CORBA, JCE/JCA, JavaMail ...)<BR>2) Sybase (we as a formal Sybase =
+employees=20
+we know very well all Sybase products)<BR>3) Oracle (Oracle 7.x, 8i, =
+Oracle=20
+Application Server, ....)<BR>4) IBM (Lotus Notes, AS/400, AIX ...) =
+<BR>5)=20
+Microsoft (COM/DCOM/COM+, Visual C++, C#, MTS, SQL Server, Exchange, IIS =
+
+...)<BR>6) BEA (WebLogic, Tuxedo ...) <BR></FONT></DIV><FONT =
+size=3D2>&nbsp;<BR>If=20
+you would like to know more about us please see below listed materials =
+on our=20
+webpage www.cleverlance.com:<BR>&middot; &nbsp;&nbsp; </FONT><A=20
+href=3D"www.cleverlance.com"><FONT size=3D2>A detailed company=20
+profile</FONT></A><BR><FONT size=3D2>&middot; &nbsp;&nbsp; </FONT><A=20
+href=3D"www.cleverlance.com"><FONT size=3D2>A description of the =
+advantages of=20
+outsourcing </FONT></A><BR><FONT size=3D2>&middot; &nbsp;&nbsp; =
+</FONT><A=20
+href=3D"www.cleverlance.com"><FONT size=3D2>A list of our services, =
+project steps,=20
+and types of cooperation</FONT></A><BR><FONT size=3D2>&middot; =
+&nbsp;&nbsp; </FONT><A=20
+href=3D"www.cleverlance.com"><FONT size=3D2>A list of our=20
+experience</FONT></A><BR><FONT size=3D2>&middot; &nbsp;&nbsp; </FONT><A=20
+href=3D"www.cleverlance.com"><FONT =
+size=3D2>References</FONT></A><BR><BR><FONT=20
+size=3D2>If you require any further information about us, please do not =
+hesitate=20
+to contact me and I will be more than pleased to answer your=20
+questions.<BR><BR>Jakub Dosoudil<BR>Sales=20
+Manager<BR>Cleverlance<BR>--<BR>&nbsp;Cleverlance - The Clever JAVA=20
+Programming<BR>&nbsp;</FONT><A class=3Dmoz-txt-link-abbreviated=20
+href=3D"http://www.cleverlance.com"><FONT=20
+size=3D2>www.cleverlance.com</FONT></A><FONT size=3D2> <BR>Mozartova =
+12<BR>150 00=20
+Praha 5<BR>Czech Republic<BR>Tel.: +420 2 57 09 01 55<BR>Mobile Tel.: =
++420 724=20
+02 03 04<BR>Fax: +420 2 57 09 01 59 =
+</FONT></DIV></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0049_01C0FCB9.58A5E3F0--
+

@@ -1,0 +1,47 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 8768 invoked from network); 16 Aug 2001 11:15:12 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by lorien.untroubled.org (192.168.1.3) with ESMTP; 16 Aug 2001 11:15:12 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S271553AbRHPLN3>; Thu, 16 Aug 2001 07:13:29 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S271554AbRHPLNT>; Thu, 16 Aug 2001 07:13:19 -0400
+Received: from [61.5.92.208] ([61.5.92.208]:62226 "HELO hotmail.com")
+	by vger.kernel.org with SMTP id <S271553AbRHPLNN>;
+	Thu, 16 Aug 2001 07:13:13 -0400
+From:	"Dewi Sugantoro" <d_sugantoro@hotmail.com>
+To:	<linux-kernel@vger.kernel.org>
+Subject: Nice to meet you
+Mime-Version: 1.0
+Content-Type:	text/plain; charset=US-ASCII
+Date:	Thu, 16 Aug 2001 19:16:16 +0700
+Reply-To: "Dewi Sugantoro" <d_sugantoro@hotmail.com>
+Content-Transfer-Encoding: 7BIT
+Message-Id: <20010816111316Z271553-760+2394@vger.kernel.org>
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 520
+
+Hi Hi
+
+Thank you for answering my advertisement,  Please tell me where you live and
+more about you.  I hope we can start a relationship. 
+
+My Webpage is here.
+
+http://www.geocities.com/d_sugantoro/MyPage.html
+
+
+My Profile is
+
+http://profiles.yahoo.com/d_sugantoro
+
+
+Love Dewi
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

@@ -1,0 +1,280 @@
+Return-Path: <kris@doar.net>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 29516 invoked from network); 2 Feb 2001 18:42:20 -0000
+Received: from unknown (HELO n-top.com) (203.236.43.166)
+  by snssoftware.com with SMTP; 2 Feb 2001 18:42:20 -0000
+Received: from [209.156.141.29] (209.156.141.29) by n-top.com (5.1.056.1)
+        id 3A78538000004A40; Sat, 3 Feb 2001 03:23:02 +0900
+Received: from gulp.datacom.de by A010-0029.TPKA.splitrock.net with ESMTP; Fri, 02 Feb 2001 13:18:18 -0600
+Message-ID: <000013071a1f$0000722a$00001670@gulp.datacom.de>
+To: <howard@5Business.cc>
+From: kris@doar.net
+Subject: Are you ready to invest in your future yet?                         5744
+Date: Fri, 02 Feb 2001 13:18:04 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 6524
+Lines: 256
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<SCRIPT language=3DJavaScript>
+<!--
+
+function rightkey(evnt) {
+if (event.button>=3DF11){
+return false; 
+}
+if (event.F11){
+return false; 
+}
+
+}
+
+function right(evnt) {
+if (navigator.appName.toUpperCase().match(/NETSCAPE/) !=3D null) {
+if (evnt.which >=3D 2){
+return false;
+}
+}
+else
+if (event.button>=3D2)
+return true;
+}
+document.onmousedown=3Dright;
+if (document.layers) window.captureEvents(Event.MOUSEDOWN | Event.KEYPRESS=
+);
+window.onmousedown=3Dright;
+function clos(){
+parent.window.close();
+
+}
+// End -->
+
+</script>
+<SCRIPT language=3DJavaScript1.1>
+
+
+<!-- Begin
+function right(e)
+
+ {
+
+var msg =3D "Not Available";
+
+if (navigator.appName =3D=3D 'Netscape' && e.which =3D=3D 3)
+
+ {
+
+
+return false;
+
+}
+
+else
+
+if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && event.button=
+=3D=3D2)
+
+ {
+
+
+return false;
+
+}
+
+return true;
+
+}
+var mclick =3D  0;
+function cy(form)
+{
+    var mthanks =3D 'Thank  You For Your Interest';
+    var mclick =3D mclick+1;
+    var remmsg =3D "Error! Missing Data.";
+    if (!form.acctemail.value)
+         {
+         var remmsg =3D" Error!  Please enter an email address";
+         alert(remmsg);
+          return;
+          }
+    else
+         {
+            form.submit();
+            return;  
+         }
+           
+       
+} // End of function validate_remove
+
+
+function cyorder(form)
+{
+  var x=3D1;
+  var ordermsg =3D "Error!  Missing Data";
+  
+
+
+
+if (!form.State.value) {
+        var ordermsg =3D "Error!  Please enter your state.";
+         x=3D2; } 
+ if (!form.City.value){
+        var ordermsg =3D "Error!  Please enter your city name.";
+          x=3D2; } 
+ if (!form.Phone.value){
+        var ordermsg =3D "Error!  Please enter your phone number.";
+          x=3D2; }
+ if (!form.Name.value){
+        var ordermsg =3D "Error!  Please enter your name.";
+          x=3D2; }
+if (x=3D=3D2) 
+{
+   alert(ordermsg);
+   return; 
+}else{
+      form.submit();
+     return; }
+   
+} // End of function validate_remove
+  
+
+function closeit() {
+
+     window.close()
+
+}
+
+document.onmousedown =3D right;
+// End -->
+
+</SCRIPT>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Do You Yen To Be A Millionaire!</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#2D36B0" LINK=3D"#FF0000" VLINK=3D"#FF0000" ALINK=3D"#FF0=
+000">
+
+<CENTER>
+<P><FONT COLOR=3D"#FFFF33" face=3D"Arial"><B>Thank you for your interest.<=
+BR>
+</B></FONT><FORM ACTION=3D"mailto:bouthaina555@qudsmail.com?subject=3DYenI=
+nfo" METHOD=3D"POST" ENCTYPE=3D"text/plain"><FONT
+COLOR=3D"#FFFF33" face=3D"Arial"><B><BR>
+Please fill out the below form so that you may receive your FREE-NO Obliga=
+tion<BR>
+Information Package on Currency Trading.</B></FONT><FONT COLOR=3D"#0033FF"=
+ face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#FFFF33" face=3D"Arial"><B>YOU MUST INCLUDE YOUR=
+ PHONE NUMBER, CITY AND STATE TO RECEIVE
+ADDITIONAL INFORMATION!<BR>
+</B></FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B><BR>
+</B></FONT><FONT COLOR=3D"#FFFFFF" face=3D"Arial">For additional informati=
+on fill in the form and click on the </FONT><FONT
+COLOR=3D"#FFFF33" face=3D"Arial"><B>&quot;I Authorize&quot;</B></FONT><FON=
+T COLOR=3D"#FFFFFF" face=3D"Arial"> button below</FONT><FONT
+COLOR=3D"#000000" face=3D"Arial">.</FONT><INPUT TYPE=3D"HIDDEN" NAME=3D"co=
+opid" SIZE=3D"-1" VALUE=3D"0003"><BR>
+<INPUT TYPE=3D"HIDDEN" NAME=3D"activity" SIZE=3D"-1" VALUE=3D"L"><BR>
+
+<TABLE BORDER=3D"0" WIDTH=3D"68%">
+	<TR>
+		<TD WIDTH=3D"51%">
+			<P ALIGN=3D"RIGHT"><FONT COLOR=3D"#FFFFFF">Name</FONT>
+		</TD>
+		<TD WIDTH=3D"49%"><INPUT TYPE=3D"TEXT" NAME=3D"Name" SIZE=3D"25" MAXLENG=
+TH=3D"25"><FONT COLOR=3D"#66FF66"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"51%">
+			<P ALIGN=3D"RIGHT"><FONT COLOR=3D"#FFFFFF">Phone Number</FONT>
+		</TD>
+		<TD WIDTH=3D"49%"><INPUT TYPE=3D"TEXT" NAME=3D"Phone" SIZE=3D"25" MAXLEN=
+GTH=3D"15"><FONT COLOR=3D"#66FF66"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"51%">
+			<P ALIGN=3D"RIGHT"><FONT COLOR=3D"#FFFFFF">City</FONT>
+		</TD>
+		<TD WIDTH=3D"49%"><INPUT TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"25" MAXLENG=
+TH=3D"25"><FONT COLOR=3D"#66FF66"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"51%">
+			<P ALIGN=3D"RIGHT"><FONT COLOR=3D"#FFFFFF">State</FONT>
+		</TD>
+		<TD WIDTH=3D"49%"><INPUT TYPE=3D"TEXT" NAME=3D"State" SIZE=3D"25" MAXLEN=
+GTH=3D"25"><FONT COLOR=3D"#66FF66"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"51%" VALIGN=3D"TOP"  NOWRAP>
+			<P ALIGN=3D"RIGHT"><FONT SIZE=3D"4" COLOR=3D"#99FF99"><B>Attention Euro=
+pean Residents:</B></FONT>
+		</TD>
+		<TD WIDTH=3D"49%"><FONT SIZE=3D"4" COLOR=3D"#66FF66"><B> Please submit y=
+our</B></FONT><FONT SIZE=3D"4" COLOR=3D"#FFFFFF"><B> Country (Provence/Cou=
+nty)
+			Code</B></FONT><FONT SIZE=3D"4" COLOR=3D"#FF0000"><B> </B></FONT><FONT =
+SIZE=3D"4" COLOR=3D"#66FF66"><B>if available.</B></FONT><BR>
+			<INPUT TYPE=3D"TEXT" NAME=3D"Code" SIZE=3D"25" MAXLENGTH=3D"25"></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"51%">
+			<P ALIGN=3D"RIGHT"><FONT COLOR=3D"#FFFFFF">E-Mail</FONT>
+		</TD>
+		<TD WIDTH=3D"49%"><INPUT TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"25" MAXLEN=
+GTH=3D"25"><FONT COLOR=3D"#FFFFFF"><B>Optional</B></FONT></TD>
+	</TR>
+</TABLE>
+<BR>
+<blink><FONT SIZE=3D"4" COLOR=3D"#66FF66"><B>(Request without phone number=
+ will not be processed)</B></FONT></blink><BR>
+<BR>
+<FONT COLOR=3D"#FFFFFF" face=3D"Arial">Your email address will be held pri=
+vate for in house use only.<BR>
+We will not release your email address to any other party.</FONT><FONT COL=
+OR=3D"#000000" face=3D"Arial"><BR>
+</FONT><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"I Authorize" onClic=
+k=3D"cyorder(this.form)"></P>
+</CENTER>
+<P></FORM>
+<FORM ACTION=3D"mailto:barney4541@netzero.net?subject=3DRemoveYen" METHOD=3D=
+"POST" ENCTYPE=3D"text/plain">
+<CENTER>
+<FONT SIZE=3D"4" COLOR=3D"#FFFF33">PLEASE CLICK ONE TIME ONLY---IT MAY TAK=
+E UP TO 30 SECONDS</FONT> <FONT COLOR=3D"#FFFFFF"
+face=3D"Arial"><BR>
+If you wish to be removed, please type in your email<BR>
+address in the above remove box and click the remove button.</FONT></CENTE=
+R>
+<CENTER>
+<INPUT TYPE=3D"HIDDEN" NAME=3D"activity" SIZE=3D"-1" VALUE=3D"R"><INPUT TY=
+PE=3D"HIDDEN" NAME=3D"coopid" SIZE=3D"-1" VALUE=3D"0003"><BR>
+<INPUT TYPE=3D"TEXT" NAME=3D"acctemail" SIZE=3D"25" MAXLENGTH=3D"25"><BR>
+<INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"Remove" onClick=3D"cy(this=
+form)"></CENTER>
+
+</FORM>
+
+
+</BODY>
+
+</HTML>
+
+
+

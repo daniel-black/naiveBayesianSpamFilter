@@ -1,0 +1,98 @@
+Return-Path: <ayuen@operationit.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 438 invoked from network); 13 Apr 2001 14:39:26 -0000
+Received: from operationit30.operationit.com (HELO opit?mail1.operationit.com) (209.208.206.189)
+  by em.ca with SMTP; 13 Apr 2001 14:39:26 -0000
+Received: from Sales12 [192.168.0.92] by opit_mail1.operationit.com
+  (SMTPD32-6.06) id A4AC60354; Fri, 13 Apr 2001 09:52:44 -0400
+Message-ID: <012301c0c41e$fabc95e0$5c00a8c0@Sales12>
+From: "Alana Yuen" <ayuen@operationit.com>
+To: <Undisclosed-Recipient:;>
+Subject: Available For Work?
+Date: Fri, 13 Apr 2001 09:38:02 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0120_01C0C3FD.71936080"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Content-Length: 2805
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0120_01C0C3FD.71936080
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear IT Professional,
+=20
+We are contacting you to see if you would consider other career =
+opportunities.  If so, OperationIT.com, has thousands of IT positions =
+from the Fortune 500 to Internet startups. OperationIT.com is dedicated =
+exclusively to IT professionals. =20
+We have thousands of clients searching the database daily so don't =
+forget to post your resume so they can find you!  Click here to post =
+your resume: http://www.OperationIT.com/AddResume.asp.   =20
+=20
+Click here to search current jobs. =
+http://www.operationit.com/SearchType.asp.=20
+
+Thank you,
+=20
+The www.OperationIT.com Team
+
+Click here to be removed from our mailing list.=20
+
+
+------=_NextPart_000_0120_01C0C3FD.71936080
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office"><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 5.50.4134.600" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+9.5pt">Dear IT=20
+Professional,<BR>&nbsp;<BR>We are contacting you to see if you would =
+consider=20
+other career opportunities.&nbsp; If so, <B>OperationIT</B>.com, has =
+thousands=20
+of&nbsp;IT positions from the Fortune 500 to Internet startups.=20
+<B>OperationIT</B>.com is dedicated exclusively to IT=20
+professionals.&nbsp;</SPAN><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+9.5pt"> </DIV>
+<DIV>
+<P class=3DMsoNormal>We have thousands of clients searching the database =
+daily so=20
+don&#8217;t forget to post your resume so they can find you!<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>Click here to post your =
+resume: <A=20
+href=3D"http://www.operationit.com/AddResume.asp">http://www.OperationIT.=
+com/AddResume.asp</A>.&nbsp;&nbsp;&nbsp;&nbsp;<BR>&nbsp;<BR>Click=20
+here to search current jobs. <A=20
+href=3D"http://www.operationit.com/SearchType.asp">http://www.operationit=
+.com/SearchType.asp</A>.<o:p></o:p>=20
+</P>
+<P class=3DMsoNormal>Thank you,<BR>&nbsp;<BR>The =
+www.<B>OperationIT</B>.com=20
+Team</P>
+<P><A href=3D"mailto:remove@operationit.com?subject=3DRemove%20Me"><SPAN =
+
+style=3D"FONT-SIZE: 7.5pt; FONT-FAMILY: Arial">Click =
+here</SPAN></A><SPAN=20
+style=3D"FONT-SIZE: 7.5pt; FONT-FAMILY: Arial"> to be removed from our =
+mailing=20
+list. </SPAN></P></SPAN></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0120_01C0C3FD.71936080--
+

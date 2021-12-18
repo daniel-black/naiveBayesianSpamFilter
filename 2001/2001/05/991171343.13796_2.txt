@@ -1,0 +1,108 @@
+Return-Path: <capnet002@excite.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 15394 invoked from network); 29 May 2001 19:50:03 -0000
+Received: from unknown (HELO wss01.work-system.co.jp) (210.161.226.242)
+  by em.ca with SMTP; 29 May 2001 19:50:03 -0000
+Received: from 216.97.194.156 (216-97-194-156.ppp.mpinet.net [216.97.194.156])
+          by wss01.work-system.co.jp (2.5 Build 2640 (Berkeley 8.8.6)/8.8.4) with SMTP
+	  id EAA02653; Wed, 30 May 2001 04:51:48 +0900
+From: capnet002@excite.com
+Message-ID: <000038855522$00000fa3$00004059@216.97.194.156>
+To: <ammiller72@hotmail.com>
+Subject: 35 Titles on One CD
+Date: Tue, 29 May 2001 08:23:36 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: capnet002@excite.com
+Content-Length: 3647
+Lines: 85
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table width="65%" border="0" cellspacing="8" cellpadding="4" align="center" bordercolor="#FF0033">
+  <tr valign="top" bgcolor="#000000"> 
+    <td>
+      <div align="center"><img src="http://www.bulletproofwebhosting.net/iwpartners/header004g.gif"></div>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td><font face="Arial, Helvetica, sans-serif" size="3"><b>As the giant Dot.coms 
+      struggle, Internet users everywhere are quietly earning thousands of dollars...</b></font></td>
+  </tr>
+  <tr valign="top"> 
+    <td height="43"> 
+      <div align="center"> 
+        <table width="70%" border="0" cellspacing="0" cellpadding="4">
+          <tr> 
+            <td height="71"> 
+              <ul>
+                <li><font face="Arial, Helvetica, sans-serif" size="2">By managing 
+                  Online Auctions</font></li>
+                <li><font face="Arial, Helvetica, sans-serif" size="2">E-Publishing 
+                  Original Information</font></li>
+                <li><font face="Arial, Helvetica, sans-serif" size="2">and Growing 
+                  Low-Overhead E-Commerce Businesses.</font></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td><font face="Arial, Helvetica, sans-serif" size="2"><b>Home based businesses 
+      are flourishing and have become a respected source of expertise and an important 
+      part of our economy. </b></font></td>
+  </tr>
+  <tr valign="top"> 
+    <td><font face="Arial, Helvetica, sans-serif" size="2">Discover how to prosper 
+      online and <b>"Design Your Own Success" - At The SPEED OF LIGHT!</b></font></td>
+  </tr>
+  <tr valign="top"> 
+    <td> 
+      <p><font face="Arial, Helvetica, sans-serif" size="2">At The SPEED OF LIGHT 
+        CD is the most fully featured resource ever!!!</font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2"> Literally a digital 
+        encyclopedia of the highest quality how to information ever released on 
+        a single CD! For anyone considering an online business or even those who 
+        think they know it all, this is a MUST HAVE item. </font></p>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td><font face="Arial, Helvetica, sans-serif" size="2"><b>FREE Software with 
+      Registration Keys and Thousands of READY-to-USE resources all on a single 
+      amazing CD.</b></font></td>
+  </tr>
+  <tr valign="top"> 
+    <td> 
+      <p align="center">&nbsp;</p>
+      <p align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000"><a href="http://www.bulletproofwebhosting.net/iwpartners/"><b>To 
+        learn more Click Here</b></a></font></p>
+      <p>&nbsp;</p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Please 
+        call 1-888-248-4550 to report any problem with the web site or to request 
+        information.</font> </p>
+    </td>
+  </tr>
+  <tr> 
+    <td height="65"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">NOTE 
+      - This message complies with the United States Federal requirements for 
+      commercial e-mail bill, Section 301. Per Section 301, Paragraph (a) (2) 
+      ( c) of S. 1618, further transmissions to you by the sender of this e-mail 
+      may be stopped at no cost to you by clicking on this <a href="mailto:remove@excite.com">hyperlink</a> 
+      and you will be removed from further notifications. Just click and send. 
+      </font></td>
+  </tr>
+</table>
+</body>
+</html>
+

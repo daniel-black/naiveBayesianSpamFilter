@@ -1,0 +1,113 @@
+Return-Path: <general28-owner@good-will.org>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 30363 invoked from network); 21 Dec 2001 02:30:49 -0000
+Received: from unknown (HELO good-will.org) (203.199.107.114)
+  by agamemnon.bfsmedia.com with SMTP; 21 Dec 2001 02:30:49 -0000
+Received: from server.cti.com.au [144.132.219.144] by good-will.org with ESMTP
+  (SMTPD32-6.06) id A9919A900AA; Thu, 20 Dec 2001 08:52:57 +0530
+Received: by server.cti.com.au with Internet Mail Service (5.5.2653.19)
+	id <ZBLHPP8F>; Thu, 20 Dec 2001 14:15:31 +1100
+Received: from server.cti.com.au (SERVER [192.168.0.2]) by server.cti.com.au with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id ZBLHPP81; Thu, 20 Dec 2001 14:15:23 +1100
+Received: by server.cti.com.au (Microsoft Exchange Connector for POP3 Mailboxes 4.50.2113) with SMTP (Global POP3 Download)
+	 id MSG12202001-141520-33.MMD@cti.com.au; Thu, 20 Dec 2001 14:15:20 +1100
+Received: by mangalore (mbox cti)
+ (with Cubic Circle's cucipop (v1.31 1998/05/13) Thu Dec 20 14:19:09 2001)
+Received: from good-will.org ([203.199.107.114])
+	by mangalore.zipworld.com.au (8.9.3/8.9.3) with ESMTP id OAA28465;
+	Thu, 20 Dec 2001 14:18:25 +1100
+Received: from kingimail [203.199.107.114] by good-will.org
+  (SMTPD32-6.06) id A82F122005C; Wed, 19 Dec 2001 17:59:35 +0530
+From: Varsha <listmanager@good-will.org>
+To: general28@good-will.org
+X-From_: general28-owner@good-will.org  Thu Dec 20 14:18:39 2001
+Return-Path: <general28-owner@good-will.org>
+Message-ID: <000801c18888$d19a3a80$8764a8c0@kingimail>
+Subject: ... save a life 
+Date: Wed, 19 Dec 2001 17:59:35 +0530
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C188B6.EB41ADA0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Precedence: bulk
+Sender: general28-owner@good-will.org
+Content-Length: 2646
+Lines: 74
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0005_01C188B6.EB41ADA0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Good Samaritan,
+=20
+As a good humane, you know, there are needy and the poor and the
+helpless and the godforsaken who need all the help that we, the
+fortunate ones can muster. A simple gesture, a token of affection from
+you can bring a smile on some unknown face rekindling the hope in the
+innate goodness of human nature.
+=20
+Please spare a moment and visit  www.sambhavonline.org
+<http://www.sambhavonline.org>  to see how you can make a difference.
+Sometimes, you can also save a life in a country like India where
+several souls succumb to even starvation deaths.
+=20
+God bless,
+Krishna
+=20
+Note:-Click here to unsubscribe=20
+=20
+http://www.good-will.org/unsubscribe.asp?list=3Dgeneral28
+<http://www.good-will.org/unsubscribe.asp?list=3Dgeneral18&domain=3Dgood=
+-wil
+l.org> &domain=3Dgood-will.org
+
+------=_NextPart_000_0005_01C188B6.EB41ADA0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+
+<META content=3D"MSHTML 5.00.3315.2870" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Dear Good Samaritan,</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>As a good humane, you know, there are =
+needy and the=20
+poor and the helpless and the godforsaken who need all the help that =
+we, the=20
+fortunate ones can muster. A simple gesture, a token of affection from =
+you can=20
+bring a smile on some unknown face rekindling the hope in the innate =
+goodness of=20
+human nature.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Please spare a moment and =
+visit&nbsp;<A=20
+href=3D"http://www.sambhavonline.org">www.sambhavonline.org</A> to see =
+how you can=20
+make a difference. Sometimes, you can also save a life in a country =
+like India=20
+where several souls succumb to even starvation deaths.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>God bless,</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Krishna</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Note:-Click here to unsubscribe =
+</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2><A=20
+href=3D"http://www.good-will.org/unsubscribe.asp?list=3Dgeneral18&amp;do=
+main=3Dgood-will.org">http://www.good-will.org/unsubscribe.asp?list=3Dge=
+neral28&amp;domain=3Dgood-will.org</A></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0005_01C188B6.EB41ADA0--

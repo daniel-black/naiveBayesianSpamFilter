@@ -1,0 +1,370 @@
+Return-Path: <fran572@oceanfree.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 11604 invoked from network); 26 Apr 2001 19:35:54 -0000
+Received: from unknown (HELO serpa01.serpaprosa.com.mx) (200.38.93.1)
+  by bfsmedia.sk.ca with SMTP; 26 Apr 2001 19:35:54 -0000
+Received: from caen.socs.fr (tnt11a-15.focal-chi.corecomm.net [216.214.86.15])
+ by serpa01.serpaprosa.com.mx
+ (Sun Internet Mail Server sims.4.0.2000.05.17.04.13.p6)
+ with SMTP id <0GCE00J1RV1AGI@serpa01.serpaprosa.com.mx> for
+ design@bfsmedia.com; Thu, 26 Apr 2001 12:54:50 -0500 (CDT)
+Date: Thu, 26 Apr 2001 08:25:31 -0600
+From: fran572@oceanfree.net
+Subject: Need Money? Quick Approvals!
+To: WeLend@tnt11a-15.focal-chi.corecomm.net
+Reply-to: fran572@oceanfree.net
+Message-id: <00001fbc1fe1$000044df$00005dc9@caen.socs.fr>
+MIME-version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: 7BIT
+X-Priority: 3
+X-MSMail-priority: Normal
+Content-Length: 20540
+Lines: 346
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Loan Application Form</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="Microsoft FrontPage 4.0" name=GENERATOR>
+<META content="Cheryl N Knowles" name=Author>
+<SCRIPT language=JavaScript>
+
+<!--
+ function validate(string) {
+     if (!string) return false;
+     var Chars = "0123456789 ";
+
+     for (var i = 0; i < string.length; i++) {
+        if (Chars.indexOf(string.charAt(i)) == -1)
+           return false;
+     }
+     return true;
+ }
+ //-->
+
+<!--
+function validate_form() {
+	validity = true; // assume valid
+	if (!check_empty(document.form.Name.value))
+	{ validity = false; alert('Name field is empty!'); }
+	if (!check_empty(document.form.Address.value))
+	{ validity = false; alert('Address field is empty!'); }
+	if (!check_empty(document.form.City.value))
+	{ validity = false; alert('City field is empty!'); }
+	if (!check_empty(document.form.PostalCode.value))
+	{ validity = false; alert('Zip Code field is empty!'); }
+	if (!check_empty(document.form.HPhone.value))
+	{ validity = false; alert('Home Phone field is empty!'); }
+	if (!check_empty(document.form.WPhone.value))
+	{ validity = false; alert('Work Phone field is empty!'); }
+	if (!check_empty(document.form.PropertyValue.value))
+	{ validity = false; alert('Property Value field is empty!'); }
+	if (!check_empty(document.form.Mortgage1.value))
+	{ validity = false; alert('Current Mortgage field is empty!'); }
+	if (!check_empty(document.form.PurchasePrice.value))
+	{ validity = false; alert('Purchase Price field is empty!'); }
+	if (!check_empty(document.form.YearAcquired.value))
+	{ validity = false; alert('Year Acquired field is empty!'); }
+	if (!check_empty(document.form.Employer.value))
+	{ validity = false; alert('Employer field is empty!'); }
+	if (!check_empty(document.form.BorrowRequest.value))
+	{ validity = false; alert('Amount to borrow field is empty!'); }
+	if (!check_empty(document.form.CurrentIntRate.value))
+	{ validity = false; alert('Interest Rate Field is empty!'); }
+	if (!check_empty(document.form.MonthlyGrIncome.value))
+	{ validity = false; alert('Monthly Gross Income field is empty!'); }
+	if (!check_empty(document.form.MonthlyDebt.value))
+	{ validity = false; alert('Monthly Debt field is empty!'); }
+	(validity)
+	alert ("Thank you for your registration! "
+		+ "Your form is now being passed to your browser's "
+		+ "Mail Delivery Sub-System for NORMAL"
+		+ " NON-ENCRYPTED email delivery."
+		+ " All email addresses are removed from our system"
+	+ " upon registration. Please click OK to proceed");
+	return validity;
+}
+function check_empty(text)
+	{
+	return (text.length > 0); // returns false if empty
+} // --></SCRIPT>
+</HEAD>
+<BODY text=#000040 vLink=#800080 aLink=#ff0000 link=#0000ff bgColor=#ffffff>
+<!-- CHANGE EMAIL ADDRESS IN ACTION OF FORM --><FORM name="form" method="post" action="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#101;&#111;&#112;&#111;&#115;&#116;&#105;&#64;&#117;&#111;&#108;&#101;&#46;&#99;&#111;&#109;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&#61;&#77;&#111;&#114;&#116;&#45;&#76;&#111;&#97;&#110;" enctype="text/plain"
+
+    onSubmit="return validate_form()">
+<DIV align=center>
+<CENTER>
+<TABLE width=600 border=0>
+  <TBODY>
+  <TR>
+    <TD background= bgColor=#ffffff height=285>
+
+      <DIV align=center>
+
+<p align="left"><font face="Arial" size="4" color="#000080"><b>Interest Rates have Dropped....Start Saving
+Now!</b></font>
+<p align="left"><b><font face="Arial" size="4" color="#000080">We
+Shop The Best Loan For You!</font></b><br>
+<br>
+<font face="Arial" size="2" color="#000080">
+The Money Lending Network is a 100% free service which lets you shop for a mortgage&nbsp;conveniently and securely from the comfort of your home. Using our vast network&nbsp;of lenders across the U.S., we will search our database of loan programs for the&nbsp;best loans that fit your needs.  Even if you're currently working with another&nbsp;lender or have been turned down before, we can still
+help.<br>
+<br>
+Our loan programs can get you the cash you need for:<br>
+<br>
+Debt Consolidation *
+2nd Mortgage *
+Refinance *
+Credit Repair
+Home Improvement *
+New Car *
+Dream Vacation *
+College Tuition
+To start a new business ..and much, much more!<br>
+<br>
+Funding borrowers with less than perfect credit is our specialty!&nbsp;We can get you the loan you
+need.<br>
+<br>
+Regardless of whether you have good or bad credit, we can help you.
+Ready to get started?<br>
+<br>
+Simply fill out the our 60 second form, and we'll begin shopping for your loan.</font>
+<p align="left"><b><font face="Arial" color="#000080" size="3">It's that easy!</font></b>
+      <p align="left"><b><font color="#000080" face="Arial" size="3">We Make the
+      Lenders Compete for <u>YOUR</u> Business!</font></b>
+      <p align="left"><font face="Arial" size="3" color="#000080"><b>Please
+      complete this form. Our loan specialist will be contacting you at your
+      convenience. Thank You.</b></font></DIV>
+      <TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top align=middle>
+            <HR align=center width="100%" color="#000080">
+
+          </TD></TR></TBODY></TABLE>
+      <DIV align=center>
+      <CENTER>
+      <TABLE cellSpacing=0 cellPadding=2 width=599 border=0 height="732">
+        <TBODY>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Your
+            Full Name</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT name=Name>*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Address</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT name=Address>*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>City</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT name=City>*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>State(USA Only)</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><SELECT size=1 name=State maxlength="7"> <OPTION
+              value=AK selected>AK</OPTION> <OPTION value=AL>AL</OPTION> <OPTION
+              value=AR>AR</OPTION> <OPTION value=AZ>AZ</OPTION> <OPTION
+              value=CA>CA</OPTION> <OPTION value=CO>CO</OPTION> <OPTION
+              value=CT>CT</OPTION> <OPTION value=DC>DC</OPTION> <OPTION
+              value=DE>DE</OPTION> <OPTION value=FL>FL</OPTION> <OPTION
+              value=GA>GA</OPTION> <OPTION value=HI>HI</OPTION> <OPTION
+              value=IA>IA</OPTION> <OPTION value=ID>ID</OPTION> <OPTION
+              value=IL>IL</OPTION> <OPTION value=IN>IN</OPTION> <OPTION
+              value=KS>KS</OPTION> <OPTION value=KY>KY</OPTION> <OPTION
+              value=LA>LA</OPTION> <OPTION value=MA>MA</OPTION> <OPTION
+              value=MD>MD</OPTION> <OPTION value=ME>ME</OPTION> <OPTION
+              value=MI>MI</OPTION> <OPTION value=MN>MN</OPTION> <OPTION
+              value=MO>MO</OPTION> <OPTION value=MS>MS</OPTION> <OPTION
+              value=MT>MT</OPTION> <OPTION value=NC>NC</OPTION> <OPTION
+              value=ND>ND</OPTION> <OPTION value=NE>NE</OPTION> <OPTION
+              value=NH>NH</OPTION> <OPTION value=NJ>NJ</OPTION> <OPTION
+              value=NM>NM</OPTION> <OPTION value=NV>NV</OPTION> <OPTION
+              value=NY>NY</OPTION> <OPTION value=OH>OH</OPTION> <OPTION
+              value=OK>OK</OPTION> <OPTION value=OR>OR</OPTION> <OPTION
+              value=PA>PA</OPTION> <OPTION value=RI>RI</OPTION> <OPTION
+              value=SC>SC</OPTION> <OPTION value=SD>SD</OPTION> <OPTION
+              value=TN>TN</OPTION> <OPTION value=TX>TX</OPTION> <OPTION
+              value=UT>UT</OPTION> <OPTION value=VA>VA</OPTION> <OPTION
+              value=VT>VT</OPTION> <OPTION value=WA>WA</OPTION> <OPTION
+              value=WI>WI</OPTION> <OPTION value=WV>WV</OPTION> <OPTION
+              value=WY>WY</OPTION></SELECT><U>*UNITED STATES
+ONLY!</U></font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Zip/Postal Code</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT maxLength=15 size=10
+name=PostalCode>*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Home Phone</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT maxLength=30 size=20 name=HPhone>*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Work Phone</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT maxLength=55 name=WPhone></font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Email Address</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT maxLength=30 name=Email size="26">*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Best Time To Call</b></font></TD>
+          <TD width=346 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><SELECT size=1 name=CallTime>
+              <OPTION value="Morning at Home" selected>Morning at Home</OPTION>
+              <OPTION value="Morning at Work">Morning at Work</OPTION> <OPTION
+              value="Afternoon at Home">Afternoon at Home</OPTION> <OPTION
+              value="Afternoon at Work">Afternoon at Work</OPTION> <OPTION
+              value="Evening at Home">Evening at Home</OPTION> <OPTION
+              value="Late Evening at Work">Late Evening at
+            Home</OPTION></SELECT>&nbsp;*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Do
+            You Own Your Home?</b></font></TD>
+          <TD width=346 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><SELECT size=1 name=Homeowner>
+              <OPTION value=Yes selected>Yes</OPTION> <OPTION
+              value=No>No</OPTION></SELECT><STRONG>*Mobile Homes Do Not
+        Qualify</STRONG></font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Property Value</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"><font face="Arial"
+            size="2" color="#FFFFFF"><INPUT
+            onchange="if (!validate (this.value >= 15000)) {&#10;               alert('Not Valid! Please enter a number greater than 50000 using only number characters in thousands(000)');&#10;&#9;&#9;&#9;this.focus();&#10;&#9;&#9;&#9;this.select();&#10;&#9;&#9;&#9;return false;&#10;            }"
+            size=13 name=PropertyValue>*  Numeric
+            Character in 000's</font> </TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Property Type</b></font></TD>
+          <TD width=346 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><SELECT size=1 name=PropertyType>
+              <OPTION value="Single Family Residence" selected>Single Family
+              Residence</OPTION> <OPTION value=Condo>Condo</OPTION> <OPTION
+              value=Townhouse>Townhouse</OPTION> <OPTION value="2-4 Plex">2-4
+              Plex</OPTION> <OPTION value=Other>Other</OPTION></SELECT>*</font></TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Purchase Price</b></font></TD>
+          <TD width=346 height="25" bgcolor="#000080"> <font face="Arial"
+            size="2" color="#FFFFFF"> <INPUT size=13 name=PurchasePrice>* Numeric
+            Character in 000's</font> </TD></TR>
+        <TR>
+          <TD borderColor=#008000 align=middle width=296 background="" height="25" bgcolor="#000080">
+            <DIV align=right>
+            <P><font face="Arial" size="2" color="#FFFFFF"><b>Year Acquired</b></font> </P></DIV></TD>
+          <TD borderColor=#008000 align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT size=13
+            name=YearAcquired>  *</font></TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>1st
+            Mortgage-Balance Owed</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT
+               onchange="if (!validate (this.value >= 0)) {&#10;               alert('Not Valid! Please enter a number 0 or greater');&#10;&#9;&#9;&#9;this.focus();&#10;&#9;&#9;&#9;this.select();&#10;&#9;&#9;&#9;return false;&#10;            }"
+            size=13 name=Mortgage1>*  Numeric
+            Character in 000's</font></TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>1st
+            Mortgage-Interest Rate</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT size=13 name=CurrentIntRate>*</font>
+        </TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Is
+            1st Adjustable or Fixed?</b></font></TD>
+          <TD align=left width=346 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><SELECT size=1
+            name=FirstType maxlength="30"> <OPTION value=Fixed
+              selected>Fixed</OPTION> <OPTION
+              value=Adjustable>Adjustable</OPTION></SELECT> *</font></TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>2nd
+            Mortgage Balance owed</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT
+            onchange="if (!validate (this.value >= 0)) {&#10;               alert('Not Valid! Please enter a number 0 or greater');&#10;            }"
+            size=13 name=Mortgage2>  Numeric
+            Character in 000's</font> </TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Amount You Wish To Borrow</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT
+            onchange="if (!validate (this.value >= 15000)) {&#10;               alert('Not Valid! Please enter a number of greater than 15000 with a combination of the following characters - 0123456789');&#10;&#9;&#9;&#9;this.focus();&#10;&#9;&#9;&#9;this.select();&#10;&#9;&#9;&#9;return false;&#10;            }"
+            size=13 name=BorrowRequest>* Numeric
+            Character in 000's</font> </TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Employer</b></font></TD>
+          <TD align=left width=346 bordercolor="#FFFFFF" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><INPUT maxLength=30 size=15
+            name=Employer>*</font></TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Monthly Gross&nbsp;Household Income</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"> <font
+            face="Arial" size="2" color="#FFFFFF"> <INPUT maxLength=30 size=15 name=MonthlyGrIncome>*
+            Must use numbers only</font></TD></TR>
+        <TR align=middle>
+          <TD borderColor=#008000 align=right width=296 background="" height="11" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Monthly Debt (Excluding Mortgage)</b></font></TD>
+        </CENTER></CENTER>
+          <TD align=left width=346 height="11" bgcolor="#000080"> <font
+            face="Arial" size="2" color="#FFFFFF"> <input type="text" name="MonthlyDebt" size="15">*
+            Must
+            use numbers only</font></TD></TR>
+<CENTER>
+      <CENTER>
+        <TR align=middle>
+          <TD borderColor=#FFFFFF align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Credit Rating</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><SELECT size=1 name=CreditRating
+            maxlength="30"> <OPTION value="Please Select" selected>Please
+              Select</OPTION> <OPTION value=Excellent>Excellent</OPTION> <OPTION value=Good>Good</OPTION> <OPTION
+              value=Fair>Fair</OPTION> <OPTION value=Poor>Poor</OPTION></SELECT>
+          *</font></TD></TR>
+        <TR align=middle>
+          <TD borderColor=#FFFFFF align=right width=296 background="" height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><b>Loan Interested In</b></font></TD>
+          <TD align=left width=346 height="25" bgcolor="#000080"><font
+            face="Arial" size="2" color="#FFFFFF"><SELECT size=1 name=LoanInterested
+            maxlength="30"> <OPTION value="Debt Consolidation" selected>Debt
+              Consolidation</OPTION> <OPTION value="Second Mortgage">Second
+              Mortgage</OPTION> <OPTION value="Home Improvement">Home
+              Improvement</OPTION> <OPTION value=Refinance>Refinance</OPTION>
+              <OPTION value=Purchase>Purchase</OPTION></SELECT> *</font></TD></TR>
+        <TR align=middle bgColor=#000000>
+          <TD borderColor=#008000 align=middle width=646 colSpan=2 bgcolor="#000080" height="46">
+            <DIV align=center>
+            <P><font face="Arial" size="2" color="#FFFFFF">Fast &amp; Easy -You Are Done !
+            <BR><INPUT type=submit value="Submit This Application" name=send>
+            </font>
+            </P></DIV></TD></TR></TBODY></TABLE></CENTER></DIV></center></TD></TR></TBODY></TABLE></DIV>
+</FORM>
+<p align="center"><font face="Arial" size="2"><font color="#000080"><b>Removal
+Instructions<br>
+</b>Click on the below link to be exclude from further communication.</font><br>
+<b><a href="mailto:a_jose@uole.com?subject=Delete-Mort">Click Here</a></b></font></p>
+</BODY></HTML>
+
+
+

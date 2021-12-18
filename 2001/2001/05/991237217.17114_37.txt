@@ -1,0 +1,39 @@
+Return-Path: <svean_densonmail@yahoo.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 8123 invoked from network); 30 May 2001 09:58:39 -0000
+Received: from unknown (HELO yahoo.com) (38.193.3.136)
+  by bfsmedia.sk.ca with SMTP; 30 May 2001 09:58:39 -0000
+From: "Svean Denson" <svean_densonmail@yahoo.com>
+Subject: www.superfastreader.com
+Content-Type: multipart/related;
+	boundary="------NEXT_PART_00000004";
+	type="text/html"
+Content-Length: 1377
+Lines: 26
+
+This is a multi-part message in MIME format.
+
+--------NEXT_PART_00000004
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-ID: <00000004$00000004@yahoo.com>
+Content-Length: 1164
+
+PGJvZHk+DQpTYXZlIG9uIHJlYWRpbmcgd2l0aCBTdXBlciBGYXN0IFJlYWRlci48YnI+DQo8YnI+
+DQpBdmVyYWdlIHBlcnNvbiBzcGVuZHMgYWJvdXQgMTYgaG91cnMgYSB3ZWVrIHJlYWRpbmcuPGJy
+Pg0KUHV0ICQgOCBhbiBob3VyIGFzIGFuIGF2ZXJhZ2UgdmFsdWUgYW5kIHlvdSBnZXQgb3ZlciAk
+IDYnMDAwIGEgeWVhci48YnI+DQpSb3VnaGx5IGVzdGltYXRlZCBzcGVlZCBhbmQgY29tcHJlaGVu
+c2lvbiBwcm9ncmVzcyBhZnRlcjxicj4NCnRyYWluaW5nIHdpdGggU3VwZXIgRmFzdCBSZWFkZXIg
+aXMgMzAgJSAoYW5kIG1hbnkgdXNlcnMgcmVwb3J0PGJyPg0KdXAgdG8gMTAwICUgaW5jcmVhc2Up
+OiB5b3UgZ2V0IGFib3V0ICQgMicwMDAgc2F2aW5nIGEgeWVhci48YnI+DQpUaGlzIG1lYW5zIHlv
+dSBzYXZlIDMwICUgb2YgdGltZSBmb3IgeW91ciBmYW1pbHksIHJlY3JlYXRpb24sPGJyPg0KZWR1
+Y2F0aW9uLCBjbHVicywgY29tbXVuaXRpZXMgb3IganVzdCByZWludmVzdGluZyBpdCBpbnRvIG1v
+cmUgcmVhZGluZyw8YnI+DQppLiBlLiBhYnNvcmJpbmcgbW9yZSBpbmZvcm1hdGlvbiBhbmQgZ2Fp
+bmluZyBrbm93bGVkZ2UgYWR2YW50YWdlcy48YnI+DQpJdCdzIGFsbW9zdCAxMCB0aW1lcyBtb3Jl
+IHRoZW4geW91IGluaXRpYWxseSBzcGVuZCBvbiB0aGUgc29mdHdhcmUuPGJyPg0KPGJyPg0KPGEg
+aHJlZj0iaHR0cDovL3d3dy5zdXBlcmZhc3RyZWFkZXIuY29tIj53d3cuc3VwZXJmYXN0cmVhZGVy
+LmNvbTwvYT48YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8QSBocmVmPSJtYWls
+dG86dW5zdWJmckBzdXBlcmZhc3RyZWFkZXIuY29tIj5UbyByZW1vdmU8L0E+DQo8L2JvZHk+
+
+--------NEXT_PART_00000004--
+

@@ -1,0 +1,76 @@
+Return-Path: <jjjdh999@msn.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 23491 invoked from network); 3 Apr 2001 07:13:21 -0000
+Received: from cpimssmtpoa01.msn.com (207.46.181.111)
+  by snssoftware.com with SMTP; 3 Apr 2001 07:13:21 -0000
+Received: from cpimssmtpu13.email.msn.com ([207.46.181.88]) by cpimssmtpoa01.msn.com with Microsoft SMTPSVC(5.0.2195.3225);
+	 Tue, 3 Apr 2001 00:12:54 -0700
+Received: from _[51.151.227.109]_by ([199.183.173.59]) by cpimssmtpu13.email.msn.com with Microsoft SMTPSVC(5.0.2195.3225);
+	 Tue, 3 Apr 2001 00:12:52 -0700
+Received: from  [188.162.116.154] by _[51.151.227.109]_by with SMTP id A53C43E0 Tue, 3 Apr 2001 22:43:10 PDT
+From: <jjjdh999@msn.com>
+Subject: Increase Your Sales - Accept Credit Cards!     
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Tue, 3 Apr 2001 23:00:27
+Bcc:
+Return-Path: jjjdh999@msn.com
+Message-ID: <CPIMSSMTPU13PpKQoCl00003c10@cpimssmtpu13.email.msn.com>
+X-OriginalArrivalTime: 03 Apr 2001 07:12:54.0487 (UTC) FILETIME=[809EEE70:01C0BC0D]
+Content-Length: 1439
+Lines: 54
+
+
+
+
+
+
+<html>
+
+<head>
+<title>New Page 2</title>
+</head>
+
+<body>
+<div align="left">
+
+<table border="2" cellpadding="3" width="320" bgcolor="#800080" bordercolor="#C0C0C0"
+bordercolorlight="#FFFFFF" bordercolordark="#C0C0C0">
+  <tr>
+    <td colspan="3" bordercolor="#800080"><h2>&nbsp; <font face="Verdana" color="#E4C95A"> Do
+    you want to <br>
+    &nbsp;&nbsp; accept credit cards?</font></h2>
+    </td>
+  </tr>
+  <tr>
+    <td bordercolor="#800080">&nbsp;</td>
+    <td bordercolor="#800080" bordercolorlight="#800080" bordercolordark="#800080"><h1><font
+    face="Arial Rounded MT Bold"><big><big><font color="#FFFFFF">&nbsp;&nbsp; apply</font></big></big><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#E4C95A">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>now!</em></font></font></h1>
+    </td>
+    <td bordercolor="#800080">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor="#800080">&nbsp;</td>
+    <td bordercolor="#800080"><h2 align="center"><font face="Verdana" color="#FFFFFF">It's
+    FREE!</font></h2>
+    </td>
+    <td bordercolor="#800080">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor="#800080">&nbsp;</td>
+    <td bordercolor="#800080" bgcolor="#FFFFFF"><font face="Verdana" color="#FFFFFF"><p
+    align="center"><a href="http://www.geocities.com/boziq9/m03.htm">Click to find out more.</a></font></td>
+    <td bordercolor="#800080">&nbsp;</td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
+
+
+
+
+
+

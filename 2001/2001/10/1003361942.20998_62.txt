@@ -1,0 +1,72 @@
+Return-Path: <owner-openssl-dev@openssl.org>
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 22753 invoked from network); 7 Oct 2001 21:31:22 -0000
+Received: from ossp1.ossp.org (HELO ossp.org) (62.208.181.50)
+  by lorien.untroubled.org (192.168.1.3) with ESMTP; 07 Oct 2001 21:31:22 -0000
+Received: by mail.ossp.org (Sendmail 8.11.0+/smtpfeed 1.12) for openssl-dev-L2
+	id f97LTMD87252; Sun, 7 Oct 2001 23:29:22 +0200 (CEST)
+Received: by mail.ossp.org (Sendmail 8.11.0+) via ESMTP for <openssl-dev-L@ossp.org>
+	from opensource.ee.ethz.ch id f97LTKL87249; Sun, 7 Oct 2001 23:29:20 +0200 (CEST)
+Received: by en5.engelschall.com (Sendmail 8.9.2/smtpfeed 1.06) for openssl-dev-L
+	id XAA06320; Sun, 7 Oct 2001 23:28:37 +0200 (MET DST)
+Received: by en5.engelschall.com (Sendmail 8.9.2) via SMTP
+	from iit-gw.nord.nw.ru id XAA06247; Sun, 7 Oct 2001 23:27:04 +0200 (MET DST)
+From: kim45@aemail4u.com
+Received: from 158.252.61.228 (unverified [158.252.61.228]) by mit.nord.nw.ru
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000105911@mit.nord.nw.ru>;
+ Mon, 08 Oct 2001 01:26:06 +0400
+Message-ID: <000034944035$00002864$000001ae@>
+To: <Undisclosed.Recipients@opensource.ee.ethz.ch>
+Subject: Anytime, day or night, 2.9 cent per min!
+Date: Sun, 07 Oct 2001 14:28:51 -0500
+X-Priority: 1
+X-MSMail-Priority: High
+Sender: owner-openssl-dev@openssl.org
+Precedence: bulk
+Reply-To: openssl-dev@openssl.org
+X-Sender: kim45@aemail4u.com
+X-List-Manager: OpenSSL Majordomo [version 1.94.4]
+X-List-Name: openssl-dev
+Content-Length: 1350
+
+* * * * * * * For The First Time in Telecom History * * * * * * *
+
+* * * * * * * You Can Have Your Cake and Eat It Too! * * * * * * 
+
+* * * * * * * * * * * The Best of Both Worlds! * * * * * * * * * *
+
+* * * * * * * * 2.9 Cents per Minute Long Distance * * * * * * * * *
+
+                             OR
+
+* * * * * * * UNLIMITED FLAT RATE LONG DISTANCE * * * * * * * *
+
+
+********************  YOU MAKE THE CALL!   ********************** 
+
+
+
+No Credit Check! No Contracts or long Term Obligations! No More
+"Local Long Distance" Calling! No Fine Print, or Hidden Fees!
+No Changing Carriers! Just TALK as much as you want with these 
+incredible low rates 2.9 cents a minute or Flate Rate  
+
+* * * * * * * * * * * ABSOLUTELY NO GIMMICKS  * * * * * * * * * *
+
+* * * * * * * * * * * ACTIVATION IN 48 HOURS * * * * * * * * * * 
+
+
+FOR MORE INFORMATION: on our 2.9 cents a minute Long Distance
+OR our Unlimited Long Distance click on the hyperlink below and 
+mailto: bestinflatrate@aemail4u.com Type=more info in the subjct
+box.    
+
+
+
+
+To unsubscribe:ilike2_9_ld@yahoo.com
+
+______________________________________________________________________
+OpenSSL Project                                 http://www.openssl.org
+Development Mailing List                       openssl-dev@openssl.org
+Automated List Manager                           majordomo@openssl.org

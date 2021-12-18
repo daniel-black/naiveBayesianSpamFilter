@@ -1,0 +1,27 @@
+Return-Path: <friends@openxxx.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13103 invoked from network); 15 Jul 2001 00:39:31 -0000
+Received: from w076.z064001165.sjc-ca.dsl.cnc.net (HELO gateway.allmopars.com) (64.1.165.76)
+  by em.ca with SMTP; 15 Jul 2001 00:39:31 -0000
+Received: from [211.75.142.146] (HELO localhost)
+  by gateway.allmopars.com (CommuniGate Pro SMTP 3.4)
+  with SMTP id 142737 for bruceg@em.ca; Sat, 14 Jul 2001 17:24:40 -0700
+To: bruceg@em.ca
+From: friends@openxxx.net
+X-Mailer: Perl+Mail::Sender 0.7.10 by Jan Krynicky
+Subject: Hello, your friend recommended openxxx to you
+Date: Sat, 14 Jul 2001 17:24:41 -0700
+Message-ID: <auto-000000142737@gateway.allmopars.com>
+Content-Length: 230
+
+*This message was transferred with a trial version of CommuniGate(tm) Pro*
+
+
+You have been invited to check out this adult site
+by one of your friends who visited us.
+
+our URL is http://www.openxxx.net/
+enjoy,
+OpenXXX TEAM 2001
+
+

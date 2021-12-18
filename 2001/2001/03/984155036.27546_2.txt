@@ -1,0 +1,144 @@
+Return-Path: <david@amazonline.com.br>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 12819 invoked from network); 9 Mar 2001 16:17:02 -0000
+Received: from hbp04.lapostefinance.fr (HELO lapostefinance.fr) (160.92.124.4)
+  by em.ca with SMTP; 9 Mar 2001 16:17:02 -0000
+Received: from hbp05.lapostefinance.fr (hbp05.lapostefinance.fr [160.92.124.5])
+	by lapostefinance.fr (8.9.3/8.9.3/[Atos Multimedia]) with ESMTP id RAA02890;
+	Fri, 9 Mar 2001 17:16:17 +0100 (MET)
+From: david@amazonline.com.br
+Received: from kcx-ks18a-183.rasserver.net_[205.185.0.183] (kcx-ks18a-183.rasserver.net [205.185.0.183])
+	by hbp05.lapostefinance.fr (8.9.3/8.8.9) with SMTP id RAA04987;
+	Fri, 9 Mar 2001 17:16:05 +0100 (MET)
+Received: from alpha.gns.cri.nz by kcx-ks18a-183.rasserver.net with ESMTP; Fri, 09 Mar 2001 10:18:10 -0600
+Message-ID: <000077780344$00007e1f$00003b6a@alpha.gns.cri.nz>
+To: <joe454@desertmail.com>
+Subject: World's largest market                         15210
+Date: Fri, 09 Mar 2001 10:18:03 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: andreak@sudanmail.com
+X-Mailer: USANET web-mailer (34WB1.4.03)
+Content-Length: 2783
+Lines: 116
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//htt=
+p://3472742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-ny=
+ry.htm@3487677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.=
+com/ogoqstn/purvbrqfb/ufzd.htm","Hello","scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472742=
+688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@3487=
+677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.com/ogoqstn=
+/purvbrqfb/ufzd.htm","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472=
+742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@3=
+487677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.com/ogoq=
+stn/purvbrqfb/ufzd.htm";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2/=
+/EN"><p><HTML><p><p><HEAD><p><meta http-equiv=3D"Page-Enter" CONTENT=3D"Re=
+vealTrans(Duration=3D4,Transition=3D10)"><p><script language=3D"JavaScript=
+"> <!--<p><p><p><p><p><p><p><p>
+</BODY>
+</HTML>
+
+

@@ -1,0 +1,120 @@
+Return-Path: <mjar@marblejar.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10823 invoked from network); 16 Apr 2001 22:35:01 -0000
+Received: from repulse.concentric.net (HELO repulse.cnchost.com) (207.155.248.4)
+  by em.ca with SMTP; 16 Apr 2001 22:35:01 -0000
+Received: from dsnyder3 ([208.233.17.136])
+	by repulse.cnchost.com
+	id RAA28108; Mon, 16 Apr 2001 17:01:53 -0400 (EDT)
+	[ConcentricHost SMTP Relay 1.10]
+Date: Mon, 16 Apr 2001 17:01:53 -0400 (EDT)
+From: mjar@marblejar.com
+Message-ID: <200104162101.RAA28108@repulse.cnchost.com>
+Errors-To: <mjar@marblejar.com>
+To: mjar@marblejar.com
+X-Mailer: AMLC v2.8
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D1_01C0C27E.E504AA90"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Content-Length: 3763
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_01D1_01C0C27E.E504AA90
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Marblejar is national company that specializes in sourcing IT =
+professionals. We would like to assist your office on any current job =
+orders you may have for IT professionals. Our technology and experience =
+allows us to do this faster and at a much lower cost than most other =
+companies. If we are able to help you locate a candidate our fee is 5% =
+of the base salary, regardless of what your fee is with your client. All =
+fees are on a contingency basis and we only expect to be compensated if =
+the candidate we provide you is chosen by your client.
+=20
+You can post your open job requisitions on our site or just send me an =
+e-mail. We will begin immediately searching our database for IT =
+professionals with skills that match your posting, if we do not have a =
+match we will utilize our technology to locate candidates for you.=20
+=20
+We want you to spend your time doing what you do best which is to =
+service your clients and bring in the job postings, outsource the =
+legwork to Marblejar and reduce your overhead.
+=20
+There is no cost to you unless we deliver.
+=20
+I look forward to hearing from you.
+
+Thank you for your time,
+Tricia Henry
+Marblejar
+Business Development Manager
+1-412-341-9527 ext. 100
+1-877-9thejar ext. 100
+
+
+------=_NextPart_000_01D1_01C0C27E.E504AA90
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2314.1000" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>
+<DIV><FONT color=3D#000000 size=3D2>Marblejar is national company that =
+specializes=20
+in sourcing IT professionals. We would like to assist your office on any =
+current=20
+job orders you may have for IT professionals. Our technology and =
+experience=20
+allows us to do this faster and at a much lower cost than most other =
+companies.=20
+If we are able to help you locate a candidate&nbsp;our fee is&nbsp;5% of =
+the=20
+base salary, regardless of what your fee is with your client. All fees =
+are on a=20
+contingency basis and we only expect to be compensated if the candidate =
+we=20
+provide you is chosen by your client.</FONT></DIV>
+<DIV><FONT color=3D#000000 size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000000 size=3D2>You can post your open job =
+requisitions on our=20
+site or just send me an e-mail. We will begin immediately searching our =
+database=20
+for IT professionals with skills that match your posting, if we do not =
+have a=20
+match we will utilize our technology to locate candidates for you. =
+</FONT></DIV>
+<DIV><FONT color=3D#000000 size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000000 size=3D2>We want you to spend your time doing =
+what you do=20
+best which is to service your clients and bring in the job postings, =
+outsource=20
+the legwork to Marblejar and reduce your overhead.</FONT></DIV>
+<DIV><FONT color=3D#000000 size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000000 size=3D2>There is no cost to you unless we=20
+deliver.</FONT></DIV>
+<DIV><FONT color=3D#000000 size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000000 size=3D2>I look forward to hearing&nbsp;from=20
+you.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Thank you for your time,</DIV>
+<DIV>Tricia Henry<BR>Marblejar<BR>Business Development =
+Manager<BR>1-412-341-9527=20
+ext. 100<BR>1-877-9thejar ext. 100</DIV>
+<DIV>&nbsp;</DIV></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_01D1_01C0C27E.E504AA90--
+
+

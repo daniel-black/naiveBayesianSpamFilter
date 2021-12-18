@@ -1,0 +1,266 @@
+Return-Path: <info@robbinstrading.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18806 invoked from network); 6 Nov 2001 06:39:54 -0000
+Received: from unknown (HELO servernetmail.servernetmail.COM) (65.209.159.3)
+  by agamemnon.bfsmedia.com with SMTP; 6 Nov 2001 06:39:54 -0000
+Received: from ANTHONYIBM ([65.209.159.99]) by servernetmail.servernetmail.COM with Microsoft SMTPSVC(5.0.2195.3779);
+	 Tue, 6 Nov 2001 00:44:45 -0600
+Reply-To: <info@robbinstrading.com>
+From: "Robbins Trading Company" <info@robbinstrading.com>
+To: <bruceg@em.ca>
+Subject: Actual trade results now available
+Date: Mon, 5 Nov 2001 18:29:15 -0800
+Message-ID: <cae501c1669f$3135d7d0$639fd141@ANTHONYIBM>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_CAE6_01C1665C.231297D0"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Return-Path: info@robbinstrading.com
+X-OriginalArrivalTime: 06 Nov 2001 06:44:45.0468 (UTC) FILETIME=[8586D5C0:01C1668E]
+Content-Length: 7412
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_CAE6_01C1665C.231297D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+ 
+
+
+ 
+
+
+Dear Trader,             
+
+           The phrase ?due to popular demand? is often overused, but in
+this case it?s never been more accurate.  I?m please to announce that
+actual performance data is now available at
+www.robbinstrading.com/system/futures
+<http://www.robbinstrading.com/system/futures>  for selected System
+Assist? automated futures trading programs.            
+
+           This innovation gives traders the information they need to
+make the most informed decisions possible on our popular System Assist?
+accounts.  Traders can now monitor the performance of selected systems
+on a daily basis to effectively evaluate program alternatives.  Call a
+Robbins Account Executives today at 
+1-800-453-4444 to discuss which of our varied programs may fit your
+personal objectives.  We?ve been matching traders with appropriate
+automated systems for 15 years.
+
+
+                    Sincerely,                    
+      Joel Robbins
+President
+
+Trading futures and options on futures is not suitable for everyone.
+There is a substantial risk of loss in trading futures and options on
+futures.  Past performance is not necessarily indicative of future
+results.
+  
+If you would like to be removed from this list, please click on the
+following link or reply to this message with remove in the subject.
+info@robbinstrading.com <mailto:info@robbinstrading.com?subject=remove> 
+
+
+------=_NextPart_000_CAE6_01C1665C.231297D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DWindows-1252">
+
+
+<title>System Assist email 10-26-01</title>
+<style><!--
+.Normal
+	{font-size:12.0pt;
+	font-family:"Times New Roman";}
+-->
+</style>
+
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+				}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{
+	margin:0in;
+	margin-bottom:.0001pt;
+		font-size:12.0pt;
+	font-family:"Times New Roman";
+	}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+			}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{		}
+@list l0:level1
+	{				text-indent:-.25in;
+		font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{
+	margin:0in;
+	margin-bottom:.0001pt;
+		font-size:12.0pt;
+	font-family:"Times New Roman";
+	}
+h1
+	{	margin:0in;
+	margin-bottom:.0001pt;
+	=09
+		font-size:12.0pt;
+	font-family:"Times New Roman";
+	}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+			}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+<body bgcolor=3D#ffffff lang=3DEN-US link=3Dblue vlink=3Dpurple =
+class=3D"Normal">
+<table border=3D0 cellpadding=3D0 width=3D600>
+  <tr>=20
+    <td class=3D"Normal">=20
+      <p align=3D"center"><img =
+src=3D"http://www.robbinstrading.com/ad/rtc_logo.gif" width=3D"539" =
+height=3D"55"></p>
+    </td>
+  </tr>
+  <tr>=20
+    <td class=3D"Normal">=20
+      <div class=3DSection1>=20
+        <h1>&nbsp;</h1>
+        <p><font face=3D"Arial, Helvetica, sans-serif" size=3D"3">Dear =
+Trader, </font>=20
+          <font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 </font></p>
+        <p><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0The phrase=20
+          &#147;due to popular demand&#148; is often overused, but in =
+this case=20
+          it&#146;s never been more accurate.=A0 I&#146;m please to =
+announce that=20
+          actual performance data is now available at <a
+href=3D"http://www.robbinstrading.com/system/futures">www.robbinstrading.=
+com/system/futures</a>=20
+          for selected System Assist&#153; automated futures trading =
+programs.</font><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+          </font></p>
+        <p align=3D"left"><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0This=20
+          innovation gives traders the information they need to make the =
+most=20
+          informed decisions possible on our popular System Assist&#153; =
+accounts.=A0=20
+          Traders can now monitor the performance of selected systems on =
+a daily=20
+          basis to effectively evaluate program alternatives.=A0 Call a =
+Robbins=20
+          Account Executives today at <br>
+          1-800-453-4444 to discuss which of our varied programs may fit =
+your=20
+          personal objectives.=A0 We&#146;ve been matching traders with =
+appropriate=20
+          automated systems for 15 years.=A0 </font><font face=3D"Arial, =
+Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=20
+          </font><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+          </font></p>
+        <p align=3D"center"><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=20
+          </font><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0Si=
+ncerely,</font><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0</font><font face=3D"Arial, Helvetica, =
+sans-serif" size=3D"3">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+          <br>
+          =A0</font><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">=A0=A0=A0=A0=A0Joel=20
+          Robbins<br>
+          </font><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"3">President</font></p>
+        <p align=3D"left"><font face=3D"Arial, Helvetica, sans-serif" =
+size=3D"2">Trading=20
+          futures and options on futures is not suitable for =
+everyone.=A0 There=20
+          is a substantial risk of loss in trading futures and options =
+on futures.=A0=20
+          Past performance is not necessarily indicative of future =
+results.<br>
+          =A0 <br>
+          <span style=3D'font-size:10.0pt;
+color:black'>If you would like to be removed from this list, please =
+click on the=20
+          following link or reply to this message with remove in the =
+subject.=20
+          <a
+href=3D"mailto:info@robbinstrading.com?subject=3Dremove">info@robbinstrad=
+ing.com<span
+style=3D'font-size:12.0pt;'> </span></a></span></font><font =
+size=3D"2"><span
+style=3D'color:black'></span></font></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_000_CAE6_01C1665C.231297D0--
+

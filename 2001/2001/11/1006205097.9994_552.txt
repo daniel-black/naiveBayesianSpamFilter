@@ -1,0 +1,54 @@
+Return-Path: <mailop@optinglobal.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 21795 invoked from network); 15 Nov 2001 18:26:18 -0000
+Received: from opt003.optinglobal.com (HELO optinglobal.com) (209.114.218.117)
+  by agamemnon.bfsmedia.com with SMTP; 15 Nov 2001 18:26:18 -0000
+Date: 16 Nov 2001 07:31:55 -0000
+X-Sender: optinglobal.com
+X-MailID: 3042422
+Errors-To: report@optinglobal.com
+Complain-To: abuse@optinglobal.com
+Reply-To: Mail OP <mailop@optinglobal.com>
+To: training@bfsmedia.com
+From: TurboSurfer <turbosurfer@optinglobal.com>
+Subject: Boosting your internet speed by up to 220%!
+Content-Type: text/html;
+Content-Length: 2109
+Lines: 36
+
+
+<html>
+<body>
+<table border=0 align="center" width=80%>
+<tr>
+<td>
+<font face=Verdana size=2>
+<a href="http://affiliates.optinglobal.com/cgi-bin/d?e=training@bfsmedia.com"><h4>Want blistering FAST web speed, without the high cost of broadband access?</h4></a>
+
+<p align="center"><a href="http://affiliates.optinglobal.com/cgi-bin/d?e=training@bfsmedia.com"><img src="http://www.optinglobal.com/promotion/loadfast.gif" border=0></a>
+
+<p>Dear friend:
+<p>Are you tired if waiting FOREVER for a web page to load or a file to download?
+<p>Turbo Charge your internet connection speed quickly and easily Guaranteed!
+<ul>
+<li><b>Turbo Surfer automatically optimizes your internet connection boosting your internet speed by up to 220%.</b>
+<li><b>Turbo Surfer optimizes your PC's internet connections to maximum efficiency. </b>
+<li><b>Web pages will load faster. </b>
+<li><b>You can send and receive email much faster. </b>
+<li><b>You will get quicker downloads of MP3s, AVI files, graphics, movies, and more. </b>
+<li><b>File transfers, online games and all internet related software will perform faster. </b>
+<li><b>You'll get faster internet speeds without buying costly hardware, or a new computer. </b>
+<li><b>Works with all browsers, including Explorer, Netscape, and, Windows 95and 98. </b>
+<li><b>Works with ALL connections - America Online, Cable Modem, ALL phone modems, even DSL. </b>
+</ul>
+<p>With those frustrating waits and delays eliminated, you'll find your internet surfing experience EASIER, FASTER, AND MUCH MORE FUN! 
+<p><a href="http://affiliates.optinglobal.com/cgi-bin/d?e=training@bfsmedia.com"><h4>Click here for instant download now!</h4></a>
+</font>
+</td>
+</tr>
+</table>
+<p>&nbsp;</p> 
+<p>&nbsp;</p>   
+<p><font face=Arial size=1>You received this email because you signed up at one of OptinGlobal's websites or you signed up with a party that has contracted with OptinGlobal. To unsubscribe from the OptinGlobal list, visit <a href=http://www.optinglobal.com/cgi-bin/r.pl?e=training@bfsmedia.com>http://www.optinglobal.com/cgi-bin/r.pl?e=training@bfsmedia.com</a>. </font>
+</body>
+</html>

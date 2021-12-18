@@ -1,0 +1,71 @@
+Return-Path: <www@vesta.cavecreek.net>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 23937 invoked from network); 29 Oct 2001 16:26:50 -0000
+Received: from vesta.cavecreek.net (64.38.209.222)
+  by agamemnon.bfsmedia.com with SMTP; 29 Oct 2001 16:26:50 -0000
+Received: (from www@localhost)
+	by vesta.cavecreek.net (8.9.3/8.9.3) id JAA31023;
+	Mon, 29 Oct 2001 09:32:10 -0700 (MST)
+Date: Mon, 29 Oct 2001 09:32:10 -0700 (MST)
+Message-Id: <200110291632.JAA31023@vesta.cavecreek.net>
+To: bluegoose.kennels@bfsmedia.com
+From: orders@rhinointl.com
+Subject: Boost Your Cell Phone Reception
+Content-type: text/html
+Content-Length: 2274
+Lines: 54
+
+<html>
+
+</head>
+
+<body>
+
+<div align="center">
+  <center>
+  <table border="0" width="80%">
+    <tr>
+      <td width="100%">
+        <p align="center"><font color="#FF0000"><font face="Verdana"><b>Boost Your Cell Phones
+        Reception</b></font><br>
+        </font><i><font size="4">It's like having a 4 Foot Antenna!</font></i>
+        <table border="0" width="100%">
+          <tr>
+            <td width="50%">
+              <p align="center"><img border="0" src="http://www.rhinointl.com/images/ant_pkg100.jpg" width="100" height="176"></p>
+              <p align="center"><img border="0" src="http://www.rhinointl.com/images/bonus_star_trans.gif" width="78" height="78"></td>
+            <td width="50%"><font face="Verdana">Don't accept imitations. This
+              is not a sticker with gold paint sprayed on. This is the original
+              and ONLY AS SEEN ON TV - Internal Antenna. </font>
+              <p><font face="Verdana">This device easily places inside your
+              phones battery pack. We've sold millions and we keep selling them
+              because they work. </font></p>
+              <p><font face="Verdana">Order now and receive a free Wave
+              Scrambler - Protect yourself from harmful EMF. </font></p>
+              <p><font face="Verdana">For more information and ordering
+              please </font></p>
+              <p><font face="Verdana"><b><a href="http://www.rhinointl.com">CLICK
+              HERE</a></b></font></p>
+              <p><font face="Verdana" size="1">You were sent email because you
+              asked to receive related product. To remove yourself from this
+              list, see the remove link below.</font></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center"> </p>
+<p align="center"> </p>
+
+</body>
+
+</html>
+
+
+<hr><center><font face=verdana size=2><a href="http://64.38.197.194/cgi-script/csNewsletter/csNewsletter.cgi?command=unsubscribe&email=bluegoose.kennels@bfsmedia.com&list=outdoorone">Click here to unsubscribe</a></font><br></center>
+<p align="center"><font size=2 face=verdana><b><a href="http://www.cgiscript.net"><font color="#3366FF" size="1">Powered
+        by csNewsletter - © 2000,2001 CGIScript.net</font></a></b></font>
+

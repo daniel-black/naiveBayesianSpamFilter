@@ -1,0 +1,99 @@
+Return-Path: <return@trafficmagnet.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 27994 invoked from network); 14 Nov 2001 12:08:52 -0000
+Received: from unknown (HELO ns4.trafficmagnet.net) (211.101.236.28)
+  by agamemnon.bfsmedia.com with SMTP; 14 Nov 2001 12:08:52 -0000
+Received: from sendmail ([211.101.236.29])
+	by ns4.trafficmagnet.net (8.9.3/8.9.3) with SMTP id AAA31412
+	for <design@bfsmedia.com>; Wed, 14 Nov 2001 00:06:41 +0800
+Message-Id: <200111131606.AAA31412@ns4.trafficmagnet.net>
+From: Christine Hall <return@trafficmagnet.net>
+To: "design@bfsmedia.com" <design@bfsmedia.com>
+Subject: WWW.BFSMEDIA.COM
+Date: Wed, 14 Nov 2001 20:12:49 +0800
+X-Mailer: CSMTPConnection v2.17
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="92263038-4d8b-4889-8feb-0355f2153d7a"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: Christine Hall <christine@trafficmagnet.net>
+Content-Length: 2754
+Lines: 78
+
+This is a multi-part message in MIME format
+--92263038-4d8b-4889-8feb-0355f2153d7a
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!-- saved from url=3D(0022)http://internet.e-mail -->
+<html>
+<head>
+<title>Traffic Magnet</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+iso-8859-1">
+</head>
+<body bgcolor=3D"#FFFFFF">
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D=
+"2">Hi<br>
+      <br>
+      I visited <a href=3D=
+"http://www.trafficmagnet.net">WWW.BFSMEDIA.COM</a>, and 
+      noticed that you're not listed on some search engines! I think we can =
+offer 
+      you a service which can help you increase traffic and the number of =
+visitors 
+      to your website.<br>
+      <br>
+      I would like to introduce you to TrafficMagnet. We offer a unique =
+technology 
+      that will submit your website to over 300,000 search engines and =
+directories 
+      every month.<br>
+      <br>
+      </font> 
+      <table width=3D"396" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+align=3D"center">
+        <tr> 
+          <td><a href=3D"http://www.trafficmagnet.net"><img src=3D=
+"http://image10.trafficmagnet.net/image/logo.gif" width=3D"137" height=3D=
+"136" border=3D"0"></a></td>
+          <td><a href=3D"http://www.trafficmagnet.net"><img src=3D=
+"http://image10.trafficmagnet.net/imagenew/CRAWLER/001/368/313.jpg" width=3D=
+"197" height=3D"141" border=3D"1"></a></td>
+          <td><a href=3D"http://www.trafficmagnet.net"><img src=3D=
+"http://image10.trafficmagnet.net/image/signup.gif" width=3D"62" height=3D=
+"136" border=3D"0"></a></td>
+        </tr>
+      </table>
+      <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"2"><br>
+      You'll be surprised by the low-cost, and by how effective this website =
+promotion 
+      method can be. <br>
+      <br>
+      To find out more about TrafficMagnet and the cost for submitting your =
+website 
+      to over 300,000 search engines and directories, visit <a href=3D=
+"http://www.trafficmagnet.net">www.TrafficMagnet.net</a>. 
+      <br>
+      <br>
+      Would you like me to send you an introduction to how we can make <a =
+href=3D"http://www.trafficmagnet.net">WWW.BFSMEDIA.COM</a> 
+      listed on more search engines?<br>
+      <br>
+      I would love to hear from you. <br>
+      <br>
+      Best Regards <br>
+      <br>
+      Christine Hall <br>
+      Sales and Marketing <br>
+      E-mail: christine@trafficmagnet.net <br>
+      <b><a href=3D=
+"http://www.trafficmagnet.net">http://www.trafficmagnet.net</a></b> 
+      </font> </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--92263038-4d8b-4889-8feb-0355f2153d7a--

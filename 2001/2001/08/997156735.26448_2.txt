@@ -1,0 +1,203 @@
+Return-Path: <qtd5nmwir84en@hotmail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 15820 invoked from network); 6 Aug 2001 23:02:29 -0000
+Received: from mail.sesa.com.ar (HELO gateway.sesa.com.ar) (200.41.237.242)
+  by em.ca with SMTP; 6 Aug 2001 23:02:29 -0000
+Received: from ntrosario.sesa.com.ar (ntrosario.sesa.com.ar [192.168.1.2]) by gateway.sesa.com.ar (8.8.8/SCO5) with ESMTP id UAA07322; Mon, 6 Aug 2001 20:48:19 -0400 (EDT)
+From: qtd5nmwir84en@hotmail.com
+Received: from 208.187.96.15 ([208.187.96.15])
+          by ntrosario.sesa.com.ar (Lotus Domino Release 5.0.2a (Intl))
+          with SMTP id 2001080616415859:8416 ;
+          Mon, 6 Aug 2001 16:41:58 -0300 
+To: <qtd5nmwir84en@hotmail.com>
+Subject: Send a dozen roses for under $29.95! - plus 10% off all bouquets
+Date: Mon, 06 Aug 2001 14:17:31 -0400
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+Errors-To: ptypzpeoz7iho@eon.dk
+X-MIMETrack: Itemize by SMTP Server on Rosario02/SESA/AR(Release 5.0.2a (Intl)|23 November 1999) at 08/06/2001 04:42:04 PM,
+	Serialize by Router on Rosario02/SESA/AR(Release 5.0.2a (Intl)|23 November 1999) at 08/06/2001 08:21:34 PM,
+	Serialize complete at 08/06/2001 08:21:34 PM
+Message-ID: <OF8F6FBB77.397EA35D-ON03256AA0.006C38CF@sesa.com.ar>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Length: 6838
+Lines: 175
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>Receive 10</title>
+</head>
+
+<body>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"500" bgco=
+lor=3D"#0033cc" style=3D"width:375.0pt;mso-cellspacing:0in;background:#003=
+3CC;mso-padding-alt:
+ 1.5pt 1.5pt 1.5pt 1.5pt">
+  <tr>
+    <td style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt">
+      <div align=3D"center">
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"5=
+00" bgcolor=3D"white" style=3D"width:375.0pt;mso-cellspacing:0in;backgroun=
+d:white;mso-padding-alt:
+   0in 0in 0in 0in">
+          <tr>
+            <td style=3D"background:#FFFFCC;padding:0in 0in 0in 0in">
+              <p class=3D"MsoNormal" align=3D"center" style=3D"mso-margin-=
+top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:center"><span style=3D"font-size:18.0pt;color:red">Rec=
+eive 10%
+              off each Bouquet!<br>
+              </span><span style=3D"font-size:18.0pt;color:#FF6600">Get a =
+Dozen
+              Roses starting as<br>
+              low as $29.95 - less 10%!<br>
+              </span><span style=3D"font-size:18.0pt;color:blue">Birthday?
+              Anniversary? Any occasion!<br>
+              </span><span style=3D"font-size:18.0pt;color:fuchsia">Show y=
+ou care
+              with</span><span style=3D"font-size:18.0pt"> </span><span st=
+yle=3D"font-size:18.0pt;color:red">Flowers!</span><o:p>
+              </o:p>
+              </p>
+              <div align=3D"center">
+                <table border=3D"0" cellpadding=3D"0" width=3D"75%" style=3D=
+"width:75.0%;mso-cellspacing:
+     1.5pt;mso-padding-alt:0in 0in 0in 0in">
+                  <tr>
+                    <td style=3D"padding:.75pt .75pt .75pt .75pt">
+                      <p class=3D"MsoNormal"><a href=3D"http://service.bfa=
+st.com/bfast/click?bfmid=3D70780&amp;sourceid=3D38571493&amp;categoryid=3D=
+roses" target=3D"_top"><span style=3D"text-decoration:none;text-underline:=
+none"><!--[if gte vml 1]><v:shapetype
+       id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferre=
+lative=3D"t"
+       path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" stroked=3D"f">
+       <v:stroke joinstyle=3D"miter"/>
+       <v:formulas>
+        <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+        <v:f eqn=3D"sum @0 1 0"/>
+        <v:f eqn=3D"sum 0 0 @1"/>
+        <v:f eqn=3D"prod @2 1 2"/>
+        <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+        <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+        <v:f eqn=3D"sum @0 0 1"/>
+        <v:f eqn=3D"prod @6 1 2"/>
+        <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+        <v:f eqn=3D"sum @8 21600 0"/>
+        <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+        <v:f eqn=3D"sum @10 21600 0"/>
+       </v:formulas>
+       <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"=
+rect"/>
+       <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+      </v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" alt=3D=
+"Red Roses"
+       style=3D'width:122.25pt;height:107.25pt'>
+       <v:imagedata src=3D"Proflowersfinal_files/S163x143FRedRoses2_tn.jpe=
+g"/>
+      </v:shape><![endif]-->
+                      <img border=3D"0" width=3D"163" height=3D"143" src=3D=
+"http://a1128.g.akamai.net/7/1128/497/0001/www.proflowers.com/prodimg/RedR=
+oses2_sm.jpg" alt=3D"Red Roses" v:shapes=3D"_x0000_i1025"></span></a><!--[=
+if gte vml 1]><v:shape
+       id=3D"_x0000_i1026" type=3D"#_x0000_t75" alt=3D"" style=3D'width:.7=
+5pt;height:.75pt'>
+       <v:imagedata src=3D"Proflowersfinal_files/serve.gif"/>
+      </v:shape><![endif]-->
+                      <img border=3D"0" width=3D"1" height=3D"1" src=3D"fi=
+le:///C:/Documents%20and%20Settings/nmolina/Desktop/Proflowersfinal_files/=
+serve.gif" NOSAVE v:shapes=3D"_x0000_i1026"><a href=3D"http://service.bfas=
+t.com/bfast/click?bfmid=3D70780&amp;sourceid=3D38571493&amp;categoryid=3Do=
+ddsizes" target=3D"_top"><span style=3D"text-decoration:none;text-underlin=
+e:none"><!--[if gte vml 1]><v:shape
+       id=3D"_x0000_i1027" type=3D"#_x0000_t75" alt=3D"Carnival of Color" =
+style=3D'width:122.25pt;
+       height:107.25pt'>
+       <v:imagedata src=3D"Proflowersfinal_files/NewCarnival_tn.jpeg"/>
+      </v:shape><![endif]-->
+                      <img border=3D"0" width=3D"163" height=3D"143" src=3D=
+"http://a1128.g.akamai.net/7/1128/497/0001/www.proflowers.com/prodimg/mixe=
+droses_sm.jpg" alt=3D"Carnival of Color" v:shapes=3D"_x0000_i1027"></span>=
+</a><o:p>
+                      </o:p>
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:=
+center"><o:p>
+              </o:p>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style=3D"background:#FFFFCC;padding:0in 0in 0in 0in">
+              <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:=
+center">Send
+              flowers direct from the grower at low summer prices with a 1=
+0% off
+              limited time offer. Shop by flower type or choose from a myr=
+iad of
+              beautiful bouquets<span style=3D"font-family:Garamond;layout=
+-grid-mode:line">.</span><b><span style=3D"font-size:11.0pt;mso-bidi-font-=
+size:12.0pt;font-family:Arial;
+    color:blue"><a href=3D"http://www.iexpect.com/ProflowersM.shtml?n=3D3"=
+><br>
+              US Deliveries</a></span></b><span style=3D"font-size:10.0pt;=
+mso-bidi-font-size:
+    12.0pt"><o:p>
+              </o:p>
+              </span></p>
+              <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:=
+center">&nbsp;<o:p>
+              </o:p>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">=
+<o:p>
+      </o:p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt">
+      <p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-b=
+ottom-alt:auto"><span style=3D"font-size:8.0pt;mso-bidi-font-size:12.0pt;c=
+olor:#FFFF99">This
+      email was sent to you because your email is part of a targeted opt-i=
+n
+      list.&nbsp; If you do not wish to receive further mailings, please c=
+lick
+      below and enter your email at the bottom of the page.&nbsp; You may =
+then
+      rest-assured that you will never receive another email from us again=
+&nbsp;&nbsp;<a href=3D"http://www.removeyou.com/" onmouseover=3D"window.s=
+tatus=3D'Remove me!';return true;"><span style=3D"color:
+  #FFFF99">UNSUBSCRIBE ME PLEASE</span></a> #022481</span><font vilfflepii=
+@yahoo.com<span style=3D"font-size:8.0pt;
+  mso-bidi-font-size:18.0pt;color:#FFFF99"><o:p>
+      </o:p>
+      </span></p>
+    </td>
+  </tr>
+</table>
+
+
+
+<br>                                        
+
+</BODY>
+</HTML>
+
+

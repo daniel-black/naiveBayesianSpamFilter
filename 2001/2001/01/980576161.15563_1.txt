@@ -1,0 +1,35 @@
+Return-Path: <info@bfsmedia.com>
+Return-Path: <info@bfsmedia.com>
+Spam-Apparently-To: <info@bfsmedia.com>
+Received: (qmail 16952 invoked from network); 27 Jan 2001 06:15:27 -0000
+Received: from 03-112.025.popsite.net (HELO www.programmersavailableImmediately.com) (209.119.188.112)
+  by bfsmedia.sk.ca with SMTP; 27 Jan 2001 06:15:27 -0000
+Date: Sat, 27 Jan 2001 00:15 GMT
+From: 111.100@www.programmersavailableImmediately.com
+Subject: Programmers Available Immediately for $29 per hour
+To: info@bfsmedia.com
+Mime-version: 1.0
+Content-Type: text/html
+
+ 
+<style type="text/css">
+body{font-family:tahoma;font-weight:bold;color:#000066;}
+span{font-family:verdana;font-size:large;font-weight:bold;color:#cc0099;} 
+h1{font-family:umbra;font-size:xx-large;font-weight:bold;color:#550099;}
+</style>
+<body bgcolor="#BBD9F2">
+<center>
+<h1>Programmers Available Immediately</h1>
+<span>for <b><big>$29</b></big> per hour</span>
+<p>Quality programmers available immediately to work on all your E-commerce, Web, and software development projects on:
+<p><span>All WINDOWS, UNIX and Linux platforms!</span><br>
+<p>Specializing in
+<p>mySQL, PHP, JSP, ASP, JavaScript, Java, Perl, XML, WML, Oracle 8i, Informix, Sybase, VC++, VB, VBScript, MS Access, MS Sql, Cold Fusion, CGI, Lotus Notes, Domino, Linux, NT, Win 2000, Internet, Sap R/3
+<br><br>
+<p><span>Free Quotes!</span><br><br>
+<A href="mailto:exanencang@altavista.com?Subject=Tell Me More Saerweit-11980576121111">Click here for more details by email</A>
+<p>Or call 713-339-2991
+<h1>Our no results, no pay guarantee insures your complete satisfaction</h1>
+<p><span>ACCEPT CREDIT CARDS:- $1 per day, no term commitment, 1-800-214-7256</span>
+</CENTER>
+<FONT size=-1><br><br><A href="mailto:exanencang@altavista.com?Subject=Remove Saerweit-99980576121111">Remove me NOW!</A></FONT>

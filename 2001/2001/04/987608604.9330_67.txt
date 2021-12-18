@@ -1,0 +1,179 @@
+Return-Path: <ahvri@calypso.qwertynet.hu>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 30992 invoked from network); 18 Apr 2001 06:00:41 -0000
+Received: from mail.tt.rbtt.com (HELO test4.faxdemo.com) (196.32.34.76)
+  by em.ca with SMTP; 18 Apr 2001 06:00:41 -0000
+Received: from netraj (172.25.45.1 [172.25.45.1]) by test4.faxdemo.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id J1MQT845; Wed, 18 Apr 2001 01:42:00 -0400
+From: ahvri@calypso.qwertynet.hu
+To: kjuxz@srv01.drama.dk
+Reply-To: 
+Subject: RE: Thank's for the Financial Tip!!                                    [dioye]
+Content-Type: text/html;
+Content-Length: 8659
+Lines: 164
+
+
+<html>
+
+<head><script LANGUAGE="JavaScript">
+<!--
+ function scrollit_r2l(seed)
+{ 
+ 	var m1 = "IT'S  A  FACT,  1  out  of  4  Internet  users  will  purchase  'on-line'  this  year ... ";	
+   var m2 = "QUESTION:  Will  they  buy  from  you? ... ";
+	var m3 = "Don't  wait  for  your  prospects  to  find  you  on  the  net ... "; 
+	var m4 = "when  you  can  have  your  offer  delivered  to  millions  of  people  'everyday'  using  colorful  Direct  Email  advertisements  for  your  business ... "; 
+   var m5 = "FAX  YOUR  INQUIRY  to  us  now  at  1 - 8 0 0 - 7 6 5 - 5 4 4 1  !!! ";
+	var msg=m1+m2+m3+m4+m5;        
+	var out = " ";        
+	var c   = 1;        
+	if (seed > 100) 
+		{                
+		seed--;
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                timerTwo=window.setTimeout(cmd,100);        
+		}
+        else if (seed <= 100 && seed > 0) 
+		{
+                for (c=0 ; c < seed ; c++) 
+			{                        
+			out+=" ";
+        		}       
+		out+=msg;
+        	seed--;
+        	var cmd="scrollit_r2l(" + seed + ")";                    
+		window.status=out;                
+		timerTwo=window.setTimeout(cmd,100);        
+	}
+	else if (seed <= 0) 
+		{
+                if (-seed < msg.length) 
+			{                        
+			out+=msg.substring(-seed,msg.length);
+        		seed--;                        
+			var cmd="scrollit_r2l(" + seed + ")";
+        		window.status=out;
+        		timerTwo=window.setTimeout(cmd,100);                
+			}
+                else 
+			{
+	          	window.status=" ";                        
+			timerTwo=window.setTimeout("scrollit_r2l(100)",75);                
+			}        
+		}
+	};
+	scrollit_r2l(100);
+
+//-->
+</script>
+
+<title> $100,000.00 Check for you NOW!! </title>
+</head>
+
+<body bgcolor="#8777E3">
+<div align="center"><center>
+
+<table border="10" width="59%" cellspacing="0" cellpadding="10" bgcolor="#FFFFFF" height="1244">
+  <tr>
+    <td width="81%" bgcolor="#000080" height="1"><p align="center"><big><big><b><font color="#008000">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</font></b><font color="#FFFFFF"><br>
+      </font><font color="#FF0000">
+    $100,000.00 Check for you NOW!!</font><font color="#FFFFFF"><br>
+      </font><font color="#008000"><b>
+    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</b></font></big></big></td>
+  </tr>
+  <tr>
+    <td width="81%" height="1199">&nbsp;<div align="center"><center><table border="0" cellpadding="5" width="93%"
+    cellspacing="0">
+      <tr>
+        <td width="100%">
+        <p align="left"><b><font ptsize="14" size="3"><font color="#ff0000" lang="0" FAMILY="SANSSERIF">Congratulations</font><font color="#000000">!
+        You have taken a beginning step<br>
+        in Changing your life</font><font color="#000000" PTSIZE="14">.</font></font><br>
+        </b><br>
+        <font size="3"><b><font lang="0" FAMILY="SANSSERIF" PTSIZE="12">Hi, my
+        name is Don. If you are someone who is ready for a Financial Change
+        please read this. I assure you that your time will not be wasted.</font></b></font> </p>
+          <p align="left"><font size="3"><b>Are you tired of your J.O.B. (<font color="#FF0000"><span style="background-color: #FFFFFF">J</span></font>ust<font color="#FF0000">
+          O</font>ver <font color="#FF0000">B</font>roke)? Do you feel like
+          there is just never enough money? Feel </b></font><font size="3"><b>insecure?
+          Even the Dot Coms are going belly up!</b></font> </p>
+          <p align="left"><font color="#000000" lang="0" family="SANSSERIF" ptsize="12" size="3"><b>Security
+          starts at HOME. </b></font><font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12"><b><font size="3">I
+          am willing to show you how to make</font></b></font><b><font size="3"><font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">
+          $</font><font color="#ff0000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">100,000</font>
+          <font color="#0000ff" PTSIZE="12">+</font> <font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">from
+          Home with your telephone and computer.<br>
+          <br>
+          Serious about making </font><font color="#ff0000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">$2500
+          </font><font color="#0000ff" PTSIZE="12">+</font> <font color="#000000" PTSIZE="12">per
+          week with a<br>
+          </font><font color="#008000" PTSIZE="12">simple</font> <font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">system
+          where the customer contacts you and you<br>
+          do absolutely NO selling?<br>
+          <br>
+          If You can follow simple, step-by-step instructions and put<br>
+          forth the effort to make this a reality Starting Immediately,<br>
+          then we need to talk.</font></font></b><font color="#000000" lang="0" size="4" FAMILY="SANSSERIF" PTSIZE="12"><br>
+          <br>
+          </font><b><font size="3"><font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">It's
+          in my best interest to train you for success. In fact, I'm so<br>
+          sure that I can do so, </font><font color="#0000ff" lang="0" FAMILY="SANSSERIF" PTSIZE="12">I'm
+          willing to put my money where<br>
+          my mouth is</font> <font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">!
+          I will provide you with complete Professional<br>
+          Training and Advertising Assistance to put you immediately<br>
+          on the road to success.</font></font></b><font color="#000000" lang="0" size="4" FAMILY="SANSSERIF" PTSIZE="12"><br>
+          <br>
+          </font><b><font lang="0" family="SANSSERIF" ptsize="12" size="3">There's
+          no experience necessary.. However you must</font><font color="#000000" lang="0" family="SANSSERIF" ptsize="12" size="3">
+          have two </font><font lang="0" family="SANSSERIF" ptsize="12" color="#FF0000" size="3"><font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">qualities:<br>
+          </font><font color="#008000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">1</font>
+          <font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">)
+          Moderate People Skills<br>
+          </font><font color="#008000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">2</font>
+          <font color="#000000" lang="0" FAMILY="SANSSERIF" PTSIZE="12">) A
+          Burning Desire for a Personal and Financial Change</font></font></b> </p>
+          <p align="left"><b><font lang="0" family="SANSSERIF" ptsize="12" size="3">Take
+          a moment to take the next step by calling me at my<br>
+          Home Office I will provide you with further information.</font><font face="Arial" lang="0" family="SANSSERIF" ptsize="12" size="3"><br>
+          </font><font face="Arial" lang="0" family="SANSSERIF" ptsize="12" color="#FF0000" size="3"><font color="#000000" face="Arial" lang="0" size="4" FAMILY="SANSSERIF" PTSIZE="12"><br>
+          </font></font></b><strong><font color="#FF0000">Toll Free</font>
+        <font color="#0000FF"> <font size="5">1-800-263-2672 </font></font><font size="3" color="#FF0000">24
+          hours/ 7&nbsp; days</font></strong><br>
+        <br>
+          <b><font size="3">To Your Success, <br>
+        <br>
+        Don</font></b></p>
+        <p align="left">&nbsp;</p>
+        <p align="left">&nbsp;</p>
+        <p align="left">&nbsp;</p>
+        <p align="left">&nbsp;</p>
+        <font color="#0000ff"><div><p align="center"><font face="Arial"><small>&nbsp;~
+          ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~<br>
+          &nbsp; Your E-mail Address Removal/Deletion Instructions:</small></font></p>
+        </div><div><p><small><font face="Arial">&nbsp;&nbsp; We comply with proposed federal
+        legislation regarding unsolicited<br>
+        &nbsp;&nbsp; commercial e-mail by providing you with a method for your e-mail<br>
+        &nbsp;&nbsp; address to be permanently removed from our database and any future<br>
+        &nbsp;&nbsp; mailings from our company.</font></small></p>
+        </div><div><p><small><font face="Arial">&nbsp;&nbsp; To permanently remove your address,
+        please </font></font><font face="Arial" color="#0000ff"><a
+        href="mailto:off_list@cheerful.com?subject=REMOVE">CLICK HERE</a></font><font
+        color="#0000ff"><font face="Arial"> to send <br>
+        &nbsp;&nbsp; your request.</small><br>
+        <small>&nbsp;&nbsp; ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~</small></font></p>
+        </div></font></td>
+      </tr>
+      <tr>
+        <td width="100%"></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
+
+

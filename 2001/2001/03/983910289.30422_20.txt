@@ -1,0 +1,23 @@
+Return-Path: <thinkingriver@jovita.jovita.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16060 invoked from network); 6 Mar 2001 20:09:23 -0000
+Received: from jovita.jovita.net (@209.150.128.146)
+  by em.ca with SMTP; 6 Mar 2001 20:09:23 -0000
+Received: (from thinkingriver@localhost)
+	by jovita.jovita.net (8.8.5/8.8.5) id OAA27883;
+	Tue, 6 Mar 2001 14:09:21 -0600
+Date: Tue, 6 Mar 2001 14:09:21 -0600
+Message-Id: <200103062009.OAA27883@jovita.jovita.net>
+Subject: Job Opportunities - UNIX/LINUX, TCP/IP, Networking experts wanted
+To: bruceg@em.ca
+From: tcpip_expert@hotmail.com
+Content-Length: 404
+
+Come join the rank of Juniper, Qwest, Redback, Cerent, ONI system,..., etc.
+The opportunity is so hard to come by....
+Command your salary if you have the right skills....
+
+Please visit http://aboutbook.hypermart.net/tcpip_expert/index.html
+If you don't want to hear new job opportunities from us in the future,
+plese cancel the subscription at 
+http://aboutbook.hypermart.net/tcpip_expert/cancelmail.cgi

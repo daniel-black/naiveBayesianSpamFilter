@@ -1,0 +1,41 @@
+Return-Path: <sectoradam@coloringup.com>
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 4331 invoked from network); 10 Aug 2001 03:22:27 -0000
+Received: from unknown (HELO ns1.finecad.com) (qmailr@211.63.77.213)
+  by em.ca with SMTP; 10 Aug 2001 03:22:27 -0000
+Received: (qmail 25703 invoked from network); 26 Jul 2001 15:29:45 -0000
+Received: from sdn-ar-001ilchicp161.dialsprint.net (HELO gw02??192.168.227.26?) (206.133.102.97)
+  by ns1.finecad.com with SMTP; 26 Jul 2001 15:29:45 -0000
+Received: from mail3.coloringup.com by gw02 with ESMTP; Thu, 26 Jul 2001 10:28:07 -0400
+Message-ID: <00005ecf2b3a$00005978$000053a8@mail3.coloringup.com>
+To: <sectoradam@coloringup.com>
+From: sectoradam@coloringup.com
+Subject: You Won The First Round! claim#	3180                         21416
+Date: Thu, 26 Jul 2001 10:28:01 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: lloovvee@mailandnews.com
+Content-Length: 537
+Lines: 17
+
+<html>
+<body>
+<p align=3D"center"><b><font color=3D"#FF0000" size=3D"5">You Have Won The=
+ First Round!<br>
+Claim Your Entry Now!<br>
+Collect The Prize Of The Week!</font></b></p>
+<p align=3D"center"><a href=3D"http://west.haretoday.com"><b><font size=3D=
+"5">Click Here To Collect!</font></b></a></p>
+<p align=3D"center"><font size=3D"1">We apologize for any email you may ha=
+ve inadvertently received.<br>
+Please <a href=3D"http://east.haretoday.com">CLICK HERE</a> to be removed =
+from future mailings.</font></p>
+</body>
+</html>
+
+
+

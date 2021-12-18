@@ -1,0 +1,61 @@
+Return-Path: <Goodbizop@angelfire.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 23692 invoked from network); 27 Jun 2001 15:40:39 -0000
+Received: from unknown (HELO mail.roc-on.nl) (root@194.171.69.3)
+  by bfsmedia.sk.ca with SMTP; 27 Jun 2001 15:40:39 -0000
+Received: from _[73.185.235.67]_by (root@[194.171.69.6])
+	by mail.roc-on.nl (8.11.2/8.11.2) with SMTP id f5RFXgX24847
+	for <gn@bfsmedia.com>; Wed, 27 Jun 2001 17:33:42 +0200
+Message-Id: <200106271533.f5RFXgX24847@mail.roc-on.nl>
+Received: from  [114.247.161.174] by _[73.185.235.67]_by with SMTP id A28C1E3 Wed, 27 Jun 2001 10:11:06 PDT
+From: <Goodbizop@angelfire.com>
+To: gn@bfsmedia.com
+Subject: Let your money work for you    
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Wed, 27 Jun 2001 10:28:23
+Content-Length: 5142
+Lines: 42
+
+
+
+
+
+
+<html><head><title>(YOUR FINANCIAL PAST DOES NOT HAVE TO BE YOUR FINANCIAL FUTURE! )</title><meta name="GENERATOR" content="Arachnophilia 4.0"><meta name="FORMATTER" content="Arachnophilia 4.0"></head><body bgcolor="#ffffff" text="#000000" link="#e7163a" vlink="#e7163a" alink="#e7163a" border="1"><br><table  width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ff00ff" bordercolor="#00ff00"><tr><td ><br><center><font size="+2">YOUR FINANCIAL PAST DOES NOT HAVE TO BE YOUR FINANCIAL FUTURE! <br><br></center></td></tr></table><table  width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#45a74d" bordercolor="#00ff00"><tr><td ><br><center><font size="+2">"You can either take action or you can hang back and hope for a miracle." <br>- Peter Drucker <br><br></center></td></tr></table><table  width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffe1ff" bordercolor="#8000ff"><tr><td ><br><center><table  width="70%" border="0" cellspacing="0" cellpa!
+dding="0" bgcolor="#ffe1ff" bordercolor="#8000ff"><tr><td ><font size="+1">Serious Entrepreneurs Wanted:<br><br>Are you still looking for a very real Home Based Business that can provide you and your family with the lifestyle you desire and deserve? <br><br>Our team of professionals is looking for 10 quality individuals with a strong work ethic and the INTENTION to generate $10,000 PER MONTH OR MORE from the comfort of their home. <br><br>Unlimited global market, unlimited income, all confidential.<br><br>You can:<br><ul type="circle">	<li> Eliminate your debt<li> Reduce your taxes	<li> Secure your Assets 	<li> Retain ALL your hard earned money	<li> And pass your wealth on to your heirs</ul><br>When would you like to get started?<br><br>We market a real product, you make real profits, $1,000.00 - $5000 per sale, JUST FOR MAKING THE INITIAL CONTACTS. <br><br>OUR SYSTEM WILL DO ALL THE SELLING AND CLOSING! <br><br>With our turn-key lead generation systems you'll always talk to!
+ people who actually WANT to talk to you.<br><br>For the serious entrepreneur we invite you to fill out the questionnaire and either I or one of my associates will promptly respond to your request.<br><br>This is not an MLM offer or a get rich quick scheme! <br><br></td></tr></table><br><table  width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#45a74d" bordercolor="#00ff00"><tr><td ><br><center><font size="+2">"Whenever you see a successful business, someone once made a courageous decision." <br>- Peter Daucher<br><br></center></td></tr></table></td></tr></table><br><font size="+1"><center>* Please take a moment to fill out the form completely.  <br>Without complete information, you are telling me that you are NOT serious about gaining financial freedom in your life!<br></center></font>
+
+<SCRIPT language=JavaScript>
+<!--
+function validate_form() {
+validity = true; // assume valid
+if (!check_empty(document.form.phone.value))
+{ validity = false; alert('Telephone field is empty It must be filled to get report !'); 
+document.forms[0].elements[3].focus();
+return false;}
+(validity) 
+alert ("Thank you for your interest. "
++ "Your form is now being passed to your browser's "
++ "Mail Delivery Sub-System for NORMAL"
++ " NON-ENCRYPTED email delivery."
++ " Please click OK to proceed");
+return validity;
+}
+function check_empty(text) {
+return (text.length > 0); // returns false if empty
+}
+// -->
+</SCRIPT> 
+<!-- CHANGE EMAIL ADDRESS IN ACTION OF FORM -->
+<FORM action="mailto:sucess8000@excite.com?SUBJECT=change70-72" encType=text/plain 
+method=post name=form onsubmit="return validate_form()">
+<table  width="100%" border="0" cellspacing="1" cellpadding="3" bgcolor="#ffe1ff" bordercolor="#8000ff"><tr><td >Name:</td><td >City/state:</td><td >Email address:</td><td >Phone #:<br>(with area code)</td><td >Age</td></tr><tr><td ><input TYPE="TEXT" NAME="Name" VALUE="" SIZE="10" MAXLENGTH="60"><br><br></td><td ><input TYPE="TEXT" NAME="city/state" VALUE="" SIZE="10" MAXLENGTH="60"><br><br></td><td ><input TYPE="TEXT" NAME="email" VALUE="" SIZE="10" MAXLENGTH="60"><br><br></td><td ><input TYPE="TEXT" NAME="phone" VALUE="" SIZE="10" MAXLENGTH="60"><br><br></td><td ><input TYPE="TEXT" NAME="age" VALUE="" SIZE="10" MAXLENGTH="60"><br><br></td></tr><br><br><tr><td >Current Income:</td><td >Desired Income:</td><td >Why do you desire to <br>start your own business?</td><td >What do you intend to <br>change in your life?</td><td >Best time to contact you</td></tr><tr><td ><input TYPE="TEXT" NAME="currentincome" VALUE="" SIZE="10" MAXLENGTH="60"></td><td ><input TYPE="TEXT" NAME="!
+desiredincome" VALUE="" SIZE="10" MAXLENGTH="60"></td><td ><input TYPE="TEXT" NAME="whystartbiz" VALUE="" SIZE="10" MAXLENGTH="60"></td><td ><input TYPE="TEXT" NAME="lifechange" VALUE="" SIZE="10" MAXLENGTH="60"></td><td ><input TYPE="TEXT" NAME="besttimetocall" VALUE="" SIZE="10" MAXLENGTH="60"><br></td></tr></table><p align="center"><input Type="Submit"!
+ VALUE="Submit Form" name="Submit"></form><br><br><br><p align=left><br><br><br><br><a href="mailto:removefromlist12@excite.com">click here</a> to be removed<br><br></body></html>
+
+
+
+
+
+

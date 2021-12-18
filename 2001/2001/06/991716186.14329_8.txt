@@ -1,0 +1,21 @@
+Return-Path: <tester1211@earthlink.net>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 3651 invoked from network); 5 Jun 2001 03:27:38 -0000
+Received: from eu238.st56-net74.ip.superonlinecorporate.com (HELO smtist1.samet.com.tr) (213.74.56.238)
+  by snssoftware.com with SMTP; 5 Jun 2001 03:27:38 -0000
+Received: from 209.142.33.224 (user224.pop2.cwia.com [209.142.33.224]) by smtist1.samet.com.tr with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id LL0PZA7G; Tue, 5 Jun 2001 06:08:35 +0300
+Message-ID: <000078f25452$00004c77$00005200@>
+To: <tester1211@earthlink.net>
+From: tester1211@earthlink.net
+Subject: .
+Date: Mon, 04 Jun 2001 10:55:18 -1200
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: tester1211@earthlink.net
+Return-Path: tester1211@earthlink.net
+Reply-To: tester1211@earthlink.net
+X-Mailer: outlook express
+Content-Length: 0
+Lines: 0
+

@@ -1,0 +1,25 @@
+Return-Path: <friends@openxxx.net>
+Delivered-To: em-ca-bait-excelled@em.ca
+Received: (qmail 12725 invoked from network); 15 Jul 2001 00:30:30 -0000
+Received: from w179.z064001219.mem-tn.dsl.cnc.net (HELO mail.mcwhirter-wyatt.com) (64.1.219.179)
+  by em.ca with SMTP; 15 Jul 2001 00:30:30 -0000
+Received: from localhost
+	([211.75.142.146])
+	by mail.mcwhirter-wyatt.com; Sat, 14 Jul 2001 19:17:08 -0500
+To: bait-excelled@em.ca
+From: friends@openxxx.net
+X-Mailer: Perl+Mail::Sender 0.7.10 by Jan Krynicky
+Subject: Hello, your friend recommended openxxx to you
+Content-Length: 155
+Lines: 10
+
+
+
+You have been invited to check out this adult site
+by one of your friends who visited us.
+
+our URL is http://www.openxxx.net/
+enjoy,
+OpenXXX TEAM 2001
+
+

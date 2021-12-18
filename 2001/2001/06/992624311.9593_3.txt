@@ -1,0 +1,62 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 5882 invoked from network); 15 Jun 2001 06:10:00 -0000
+Received: from garibaldi.untroubled.org (192.168.1.1)
+  by lorien.untroubled.org (192.168.1.3) with SMTP; 15 Jun 2001 06:10:00 -0000
+Received: (qmail 10985 invoked from network); 15 Jun 2001 05:30:41 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by garibaldi.untroubled.org with SMTP; 15 Jun 2001 05:30:41 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S264248AbRFOF34>; Fri, 15 Jun 2001 01:29:56 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S264252AbRFOF3g>; Fri, 15 Jun 2001 01:29:36 -0400
+Received: from [202.102.242.178] ([202.102.242.178]:49674 "HELO 371.net")
+	by vger.kernel.org with SMTP id <S264248AbRFOF32>;
+	Fri, 15 Jun 2001 01:29:28 -0400
+Received: (umta 31797 invoked from network); 15 Jun 2001 05:10:22 -0000
+Received: from unknown (HELO Clansoft) (61.136.90.70)
+  by localhost with SMTP; 15 Jun 2001 05:10:22 -0000
+Date:	01-6-15 13:11:00
+From:	<art30@371.net>
+Reply-to: art30@371.net
+To:	<linux-kernel@vger.kernel.org>
+CC:	<fluido@fluido.as>, <martg@tin.it>, <bbi@bbi.ch>,
+	<tothl@inf.u-szeged.hu>, <sales@pugh.co.uk>,
+	<rokontheshaman@hotmail.com>, <owner-hist-games@pbm.com>,
+	<nathalie_van_helle@datawatch.co.uk>, <r.stone@vrsolns.co.uk>
+Subject: Chinese friend
+X-mailer: Clansoft CDmail1.0(beta)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encodeing: 8bit
+Message-Id: <20010615052935Z264248-17720+4126@vger.kernel.org>
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1055
+
+Hallo:
+     
+    My name is Ma Hong Wei,I'm glad to meet you.Do you like antigues
+with oriental style? From no on,I believe ,we'll become friends.
+     I like antigues very much and loun a small antigue shop selling
+porcelain and pottery wares, jade articles,fossils,calligrapiy and
+paintings and some bronze, brass or copper wares,My shop is in Xin
+Zheng of Henan Province,the middle part of China,It was an ancient 
+capital of 3000 years ago with a long cultural heritage Its old city
+walls have been reserved to this day.
+     Welcome to Xin Zheng, What do you like to collect? please tall
+me in lotters,My addreos.
+   Ma Hong Wei
+   25 Dong Cheng Road,
+   Xin Zheng,
+   Henan,China,
+   Tel:0086-371-2698337
+-------------------------------------------------
+  CDmail by ClanSoft    http://clansoft.yeah.net
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

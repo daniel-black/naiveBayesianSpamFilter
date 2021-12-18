@@ -1,0 +1,49 @@
+Return-Path: <nobody@smtp.hanimail.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 19827 invoked from network); 10 Nov 2001 17:23:49 -0000
+Received: from 1cust233.tnt2.geelong.au.da.uu.net (HELO smtp.hanimail.com) (210.84.253.233)
+  by agamemnon.bfsmedia.com with SMTP; 10 Nov 2001 17:23:49 -0000
+Received: (from nobody@localhost)
+	by smtp.hanimail.com (8.9.3/8.9.3) id EAA16529;
+	Sun, 11 Nov 2001 04:20:49 +1100
+Date: Sun, 11 Nov 2001 04:20:49 +1100
+Message-Id: <200111101720.EAA16529@smtp.hanimail.com>
+Content-type: text/html
+To: 
+From: moneynow22@hanimail.com
+Reply-To: 
+Subject: Attention: Your Check is Waiting                                                   nkzbn
+Content-Length: 1280
+Lines: 31
+
+<HTML>
+<BODY>
+<FONT face="ARIAL" SIZE="4"><B><center>Refinance Your Home While RATES ARE LOW!</B></center>
+<P></FONT><FONT face="ARIAL" SIZE="2">
+Let Your Home's Equity Work For You!
+<P>
+<A HREF="http://www.raymitch.net/mortgage">Click Here</A> for full details!
+<P>
+We can help <B>YOU LOWER YOUR MONTHLY PAYMENTS!</B>
+<P>
+If you are a homeowner located in the U.S., you are eligible to receive money for:<P><UL>
+<LI>Debt Consolidation (combine all your bills into one!)</LI>
+<LI>Home Refinancing (reduce your monthly payments and get cash back!)</LI>
+<LI>Second Mortgages (receive up to 125% of your home value!)</LI>
+</UL>
+For a <B>FREE APPLICATION</B> or to receive a <B>FREE NO OBLIGATION</B> consultation <A HREF="http://www.raymitch.net/mortgage">CLICK HERE</A>
+<P>
+<B>NOW YOU CAN:</B>
+<P><UL>
+<LI>Pay off all your debts</LI>
+<LI>Cut down your home's mortgage interest</LI>
+<LI>Cut your current credit card payments</LI>
+<LI>Lower your mortgage payment and Save Money</LI>
+</UL><P>
+For a <B>FREE APPLICATION</B> or to receive a <B>FREE NO OBLIGATION</B>
+consultation <AHREF="http://www.raymitch.net/mortgage">CLICK HERE NOW!!</A>
+<P><HR><P>
+To be removed from future mailings, please <A HREF="http://www.raymitch.net/mortgage/remove.html">Click Here</A>
+<P>
+</BODY>
+</HTML>

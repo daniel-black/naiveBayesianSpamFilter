@@ -1,0 +1,33 @@
+Return-Path: <mailop@optinglobal.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22774 invoked from network); 19 Dec 2001 14:10:53 -0000
+Received: from opt004.optinglobal.com (HELO optinglobal.com) (209.114.218.118)
+  by agamemnon.bfsmedia.com with SMTP; 19 Dec 2001 14:10:53 -0000
+Date: 20 Dec 2001 03:12:23 -0000
+X-Sender: optinglobal.com
+X-MailID: 438540.2
+Errors-To: report@optinglobal.com
+Complain-To: abuse@optinglobal.com
+Reply-To: Mail OP <mailop@optinglobal.com>
+To: bruceg@em.ca
+From:
+Subject: bruceg, get 4 Harry Potter books for ONLY $.99 cents
+Content-Type: text/html;
+Content-Length: 750
+
+
+<HTML><HEAD><TITLE>Harry Potter 4 Books for $0.99</TITLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<center>
+<br>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=660>
+  <TBODY>
+  <TR>
+    <TD align=middle><FONT color=#ff0000 face=arial size=3><B><a href="http://affiliates.optinglobal.com/cgi-bin/u?e=bruceg@em.ca">Celebrate Harry Potter and take advantage of this Magical Deal offered by The Doubleday Book Club®!  Get 4 Harry Potter Books for ONLY $.99 Cents!</a></B></FONT></TD></TR>
+  <TR>
+    <TD align=middle><br><A href="http://affiliates.optinglobal.com/cgi-bin/u?e=bruceg@em.ca"><IMG border=0 
+      src="http://affiliates3.optinglobal.com/promotions/Harry-Potter_350x350b.gif"></A> 
+      <P></P></TD></TR></TBODY></TABLE>
+</center>
+</BODY></HTML>

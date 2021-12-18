@@ -1,0 +1,45 @@
+Return-Path: <achandrase@elvisisthebomb.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 29715 invoked from network); 24 May 2001 22:15:40 -0000
+Received: from ns.ensho.co.jp (211.17.211.18)
+  by bfsmedia.sk.ca with SMTP; 24 May 2001 22:15:40 -0000
+Received: from mail2.elvisisthebomb.com (ip94.detroit12.mi.pub-ip.psi.net [38.33.140.94])
+	by ns.ensho.co.jp (8.11.0/3.7W) with SMTP id f4OLhpf10231;
+	Fri, 25 May 2001 06:43:52 +0900
+From: achandrash@elvisisthebomb.com
+Date: Thu, 24 May 2001 17:35:54 -0500
+To: mikeecu92@clatsop.com
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Subject: re: contest confirmation
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Message-Id: <3ukj6.16a13mhd@mail2.elvisisthebomb.com>
+Reply-To: walt8373@oceanfree.net
+Content-Length: 899
+Lines: 24
+
+<HTML><font face="Verdana" size="3" ptsize="10"><b>Thank you for entering.
+</b><BR>
+<BR>
+<b>You have been specially selected to qualify for the following:</b></font>
+<p><font face="Verdana" size="3" ptsize="10"><b>Grand prize &nbsp;&nbsp;- 
+Florida Bahamas vacation and cruise<BR>
+1st prize &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Airline tickets<BR>
+Other Prizes - 3 days and 2 nights hotel accommodations<BR>
+<BR>
+Please confirm your entry within 24 hours of receipt of this confirmation.
+</b><BR>
+<BR>
+<a HREF="http://disc.elvisisthebomb.com"><b>Click here to 
+confirm</b></a></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>
+Confirmation number - zy345ki490a</b></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>Batch number - 
+2189</b></font></p>
+<p>&nbsp;</p>
+<p><font size="1">to be removed reply to this message with &quot;remove' in 
+the
+subject line</font></p>
+</HTML>
+

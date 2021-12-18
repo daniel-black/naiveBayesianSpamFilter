@@ -1,0 +1,65 @@
+Return-Path: <bob707@sudanmail.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 8812 invoked from network); 26 Aug 2001 15:48:52 -0000
+Received: from unknown (HELO deccanmail.com) (210.212.219.2)
+  by daedelus.bfsmedia.com with SMTP; 26 Aug 2001 15:48:52 -0000
+Received: from oracle_serv.hd1.vsnl.net.in [127.0.0.1] by deccanmail.com
+  (SMTPD32-6.04) id A1A0119F01A0; Sun, 26 Aug 2001 09:18:48 +0530
+Received: from 65.44.204.151 by oracle_serv.hd1.vsnl.net.in (InterScan E-Mail VirusWall NT); Sun, 26 Aug 2001 09:18:46 +0530
+Received: from middletown.total.net by PPPa151-nas3rack6016.dialinx.net with ESMTP; Sat, 25 Aug 2001 22:41:14 -0500
+Message-ID: <00006ace006a$00002c11$00005abd@middletown.total.net>
+To: <50b5baeq5yg7x@mail.flowserve.nl>
+From: bob707@sudanmail.com
+Subject: Cellular Phone Accessories Incredible Savings!!                         23229
+Date: Sat, 25 Aug 2001 22:41:13 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: bob707@sudanmail.com
+Content-Length: 1405
+Lines: 41
+
+<html>
+<head>
+<title>Nationwide Cellular Phone</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#000000" background=3D"http://nationwide=
+cellularphone.com/images/cdbk007.jpg">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+  <tr> 
+    <td valign=3D"top" colspan=3D2><img src=3D"http://nationwidecellularph=
+one.com/images/promo.gif" usemap=3D"#Map" border=3D"0"> 
+      <map name=3D"Map"> 
+        <area shape=3D"rect" coords=3D"141,267,202,302" href=3D"http://nat=
+ionwidecellularphone.com/cgi-bin/respond.cgi" target=3D"_blank" alt=3D"Inq=
+uiry Form" title=3D"Inquiry Form">
+        <area shape=3D"rect" coords=3D"117,323,372,353" href=3D"http://nat=
+ionwidecellularphone.com" target=3D"_blank" alt=3D"Nationwide Cellular Pho=
+ne Home Page" title=3D"Nationwide Cellular Phone Home Page">
+      </map>
+    </td>
+  </tr>
+</table>
+<table width=3D"499" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+  <tr> 
+    <td>
+      <div align=3D"center"><font size=3D"2" face=3D"Times New Roman, Time=
+s, serif"><font face=3D"Arial, Helvetica, sans-serif"><br>
+        FOR REMOVAL FROM OUR MAILING LIST PLEASE CLICK <a href=3D"http://w=
+ww.nationwidecellularphone.com/remove.htm" target=3D"_blank"><b>HERE</b></=
+a>.</font></font></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+

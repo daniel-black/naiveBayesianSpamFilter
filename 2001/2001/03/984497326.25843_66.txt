@@ -1,0 +1,136 @@
+Return-Path: <tomjonee454@ozemail.com.au>
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 13170 invoked from network); 13 Mar 2001 02:44:02 -0000
+Received: from dns.dobokukanri.co.jp (HELO mail.dobokukanri.co.jp) (210.160.167.130)
+  by em.ca with SMTP; 13 Mar 2001 02:44:02 -0000
+Received: from YOULHO06_[207.221.70.69] ([207.221.70.69])
+	by mail.dobokukanri.co.jp (8.8.8/3.6W) with SMTP id LAA27587;
+	Tue, 13 Mar 2001 11:10:31 +0900 (JST)
+From: tomjonee454@ozemail.com.au
+Received: from mail.chel.com.ru by YOULHO06 with ESMTP; Mon, 12 Mar 2001 21:35:13 -0600
+Message-ID: <00005ff44856$00005289$00002aec@mail.chel.com.ru>
+To: <howard@5Business.cc>
+Subject: Foreign Currency Market: Look inside for more details                         10988
+Date: Mon, 12 Mar 2001 21:35:04 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 2508
+Lines: 111
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//htt=
+p://3472742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-ny=
+ry.htm@3487677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.=
+com/ogoqstn/purvbrqfb/ufzd.htm","Hello","scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472742=
+688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@3487=
+677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.com/ogoqstn=
+/purvbrqfb/ufzd.htm","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472=
+742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@3=
+487677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.com/ogoq=
+stn/purvbrqfb/ufzd.htm";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+
+
+

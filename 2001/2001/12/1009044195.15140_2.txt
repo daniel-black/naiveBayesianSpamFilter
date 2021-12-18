@@ -1,0 +1,87 @@
+Return-Path: <info-sather-admin@gnu.org>
+Delivered-To: bruce-lists-sather@bruce-guenter.dyndns.org
+Received: (qmail 3738 invoked from network); 22 Dec 2001 02:43:01 -0000
+Received: from fencepost.gnu.org (199.232.76.164)
+  by lorien.untroubled.org (192.168.1.3) with ESMTP; 22 Dec 2001 02:43:01 -0000
+Received: from localhost ([127.0.0.1] helo=fencepost.gnu.org)
+	by fencepost.gnu.org with esmtp (Exim 3.22 #1 (Debian))
+	id 16Hc6s-00053X-00; Fri, 21 Dec 2001 21:42:02 -0500
+Received: from pdns.ndu.edu.cn ([202.205.32.253] helo=ndu.edu.cn)
+	by fencepost.gnu.org with smtp (Exim 3.22 #1 (Debian))
+	id 16Hc4O-0004vM-00; Fri, 21 Dec 2001 21:39:29 -0500
+Received: from yahoo.com by ndu.edu.cn (SMI-8.6/SMI-SVR4)
+	id KAA03008; Sat, 22 Dec 2001 10:38:23 +0800
+From: Elizabeth Bell <arpa_inform@yahoo.com>
+Subject: How's it going.
+Message-Id: <74.486240.250493@yahoo.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Apparently-To: <info-sather-request@gnu.org>
+Apparently-To: <info-sather@gnu.org>
+X-RBL-Warning: (inputs.orbz.org) Open relay.  Please see http://orbz.org/?202.205.32.253
+X-RBL-Warning: (relays.ordb.org) Blackholed by ORDB -- see http://ordb.org/lookup/?host=202.205.32.253
+Bcc:
+Sender: info-sather-admin@gnu.org
+Errors-To: info-sather-admin@gnu.org
+X-BeenThere: info-sather@gnu.org
+X-Mailman-Version: 2.0.5
+Precedence: bulk
+List-Help: <mailto:info-sather-request@gnu.org?subject=help>
+List-Post: <mailto:info-sather@gnu.org>
+List-Subscribe: <http://mail.gnu.org/mailman/listinfo/info-sather>,
+	<mailto:info-sather-request@gnu.org?subject=subscribe>
+List-Id: Announcements and discussions about the GNU Sather object oriented language <info-sather.gnu.org>
+List-Unsubscribe: <http://mail.gnu.org/mailman/listinfo/info-sather>,
+	<mailto:info-sather-request@gnu.org?subject=unsubscribe>
+List-Archive: <http://mail.gnu.org/pipermail/info-sather/>
+Date: Fri, 21 Dec 2001 18:37:52
+Content-Length: 1654
+
+
+FREE SEDUCTION eBOOK:
+
+Sweep Women Off Their Feet and Into Your Bed!!! (120 Full Pages!)
+
+One of the best books ever written on the subject of dating and seduction, all your's, all 120 pages, absolutely, 100% FREE!!!
+Just subscribe to our FREE newsletter, and you'll get the book, FREE!!!
+
+...FREE Newsletter, FREE eBOOK, how can you go wrong?!
+
+Presenting the Top Secret Seduction Newsletter:
+
+This week's topic:
+
+Seduction/Dating Sites and Online Personals - Which one is the Best?
+
+Get indepth advice on how to chose the best sites for you. Determine for yourself what works and what doesn't.
+You'll have more women than you can handle...now that's a problem we know you would LOVE to have! It will set 
+your sex life on fire! Shift your dating life into overdrive! But only if you read this HOT article...
+
+FEATURED SECTIONS:
+
+The Seduction Top Five
+- the top five seduction sites, giving you the best Bang for your buck!
+Personals
+- find your special someone for a relationship, friendship, or just about anything AND everything!
+Dating, personals, and seduction directory
+- tons of links to tons of great sites...
+Books, magazines, online guides
+- hardback, softback, mags...
+FREE TIPS on how to SCORE, and SCORE OFTEN!!!
+
+..and .much, much more!.
+
+
+To subscribe to our FREE newsletter, and to receive your FREE SEDUCTION eBOOK, opt in by sending an email to the following:
+
+secretsofseduction@yahoo.com
+
+To be remove from our mailing list, please send an email to the following:
+
+rem_lstsrve@yahoo.com
+
+
+_______________________________________________
+Info-sather mailing list
+Info-sather@gnu.org
+http://mail.gnu.org/mailman/listinfo/info-sather

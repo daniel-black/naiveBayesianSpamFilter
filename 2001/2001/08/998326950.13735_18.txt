@@ -1,0 +1,62 @@
+Return-Path: <jake@term12.mkt-central.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 15763 invoked from network); 16 Aug 2001 21:32:49 -0000
+Received: from unknown (HELO mkt-central.com) (64.55.184.12)
+  by em1.net with SMTP; 16 Aug 2001 21:32:49 -0000
+Date: Thu, 16 Aug 2001 17:27:28 -0400
+Message-Id: <200108162127.f7GLRSp06678@mkt-central.com>
+To: "jake@term12.mkt-central.com" <jake@term12.mkt-central.com>
+From: "jake@term12.mkt-central.com" <jake@mkt-central.com>
+Subject: ADV: Instant Online Business!!
+Errors-To: "jake@term12.mkt-central.com" <jake@mkt-central.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="==__SENDMAIL__QhbH6VjCNs6kF59PKj1J0QvIB__=="
+Content-Length: 2713
+Lines: 46
+
+--==__SENDMAIL__QhbH6VjCNs6kF59PKj1J0QvIB__==
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: base64
+
+ICAgIA==
+
+
+--==__SENDMAIL__QhbH6VjCNs6kF59PKj1J0QvIB__==
+Content-Type: text/html; name="countymail.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="countymail.html"
+
+PGh0bWw+DQo8aGVhZD4NCjx0aXRsZT5Db3VudHkgZS1CaXo8L3RpdGxlPg0KDQo8L2hlYWQ+DQo8
+Ym9keSAgbGluaz0iIzAwMDAwMCIgIHZsaW5rPSIjMDAwMDAwIiBhbGluaz0iIzAwMDAwMCI+DQo8
+dGFibGUgd2lkdGg9NjAwIGNlbGxwYWRkaW5nPTEwIGFsaWduPWNlbnRlcj48dHI+DQo8dGQgd2lk
+dGg9ODAlIHZhbGlnbj10b3A+PGI+PGZvbnQgZmFjZT0iYXJpYWwiIHNpemU9NT48cD48aW1nIHNy
+Yz0iaHR0cDovLzE2My4xMjUuNi4xOTIvY291bnR5Mi9pbWFnZXMvbGdvLmdpZiI+PGJyPg0KPGEg
+aHJlZj0iaHR0cDovLzE2My4xMjUuNi4xOTIvZWJpei82MDFqciI+IExpc3QgWW91ciBCdXNpbmVz
+cyAgRlJFRSE8L2E+PC9wPjwvYj48L2ZvbnQ+DQo8Zm9udCBmYWNlPSJhcmlhbCIgc2l6ZT0yPjxw
+PjxibG9ja3F1b3RlPg0KPGxpPkNvdW50eSBlLUJpeiBwcm92aWRlcyBtb3JlIHRoYW4ganVzdCBJ
+bnRlcm5ldCBNYXJrZXRpbmcgU2VydmljZXMuIENvdW50eSBlLUJpeidzLCBTZWFyY2ggRW5naW5l
+IFByb21vdGlvbiwgVGFyZ2V0dGVkIA0KRW1haWwgQ2FtcGFpZ25zIGFuZCBWZXJ0aWNhbCBBbGxp
+YW5jZXMgd2lsbCAgQnJpbmcgWW91IENvbnN1bWVycyB3aXRoIERpc3Bvc2FibGUgSW5jb21lIDwv
+bGk+PHA+DQo8bGk+V2UgdW5kZXJzdGFuZCB3aGF0IEFtZXJpY2FuIEJ1c2luZXNzIG5lZWRzISBJ
+bmNyZWFzZWQgTG9jYWwgYW5kIEludGVybmV0IFRyYWZmaWMNCiB3aGljaCB0cmFuc2xhdGVzIGlu
+dG8gbW9yZSBDb25zdW1lcnMga25vY2tpbmcgYXQgWW91ciBEb29yPC9saT48cD4NCjxsaT5Vbmxp
+a2UgdGhlIFllbGxvdyBQYWdlcyBvciB5b3VyIExvY2FsIE5ld3MgUGFwZXIsIFlvdSB3aWxsIGhh
+dmUgMjQvNyBhY2Nlc3MuIE1vZGlmeSBZb3VyIGxpc3RpbmcgdG8gZml0IHRoZSBjaGFuZ2luZyBu
+ZWVkcyBvZiBZb3VyIEJ1c2luZXNzLA0KIEFubm91bmNlIFNwZWNpYWwgUHJvbW90aW9uLCBEYWls
+eSBNZW51IFNwZWNpYWxzLCBEaXNjb3VudCBDb3Vwb25zLCBGZWF0dXJlZCBQcm9kdWN0czwvbGk+
+PHA+DQo8bGk+Q291bnR5IGUtQml6ICB3aWxsIGhhdmUgWW91IHNlbGxpbmcgeW91ciBwcm9kdWN0
+cyBXb3JsZHdpZGUuDQpUb3VyaXN0IExvdmUgQW1lcmljYW4gUHJvZHVjdHMsIGNhc2ggaW4gb24g
+dGhlIEludGVybmF0aW9uYWwgTWFya2V0IFBsYWNlIDwvbGk+PHA+DQo8bGk+TGV0IG91ciBJbnRl
+cm5ldCBNYXJrZXRpbmcgUHJvZmVzc2lvbmFscyBnaXZlIHlvdXIgQnVzaW5lc3MgdGhlIEV4cG9z
+dXJlIGl0IGRlc2VydmVzLiANCkdyYWIgWW91ciBTaGFyZSBvZiB0aGUgQmlsbGlvbiBEb2xsYXIg
+V29ybGR3aWRlIE1hcmtldCBQbGFjZTwvbGk+PHA+IA0KPHAgYWxpZ249ImNlbnRlciI+PGEgaHJl
+Zj0iaHR0cDovLzE2My4xMjUuNi4xOTIvZWJpei82MDFqciI+PGI+U2lnbiBVcCBUb2RheTxicj5S
+ZWNlaXZlIDIgTW9udGhzIEZyZWU8L2E+PC9iPjwvcD48L2ZvbnQ+PC90ZD4NCjx0ZCB3aWR0aD0y
+MCUgdmFsaWduPXRvcD48aW1nIHNyYz0iaHR0cDovLzE2My4xMjUuNi4xOTIvY291bnR5Mi9pbWFn
+ZXMvc2lkZV9sb2dvLmdpZiIgd2lkdGg9OTAgaGVpZ2h0PTUyNT48L3RkPg0KPC90cj48L3RhYmxl
+Pg0KPEZPTlQgRkFDRT0iQVJJQUwiIFNJWkU9Mj48cD48QSBIUkVGPSJNQUlMVE86UmVtb3ZlTWU0
+ZXZlckBUaGVGaW5hbFJlbW92ZS5jb20iPlJlbW92ZSBNZSA0IEV2ZXI8L0E+PC9QPjwvRk9OVD4N
+Cg0KDQo8L2JvZHk+DQo8L2h0bWw+
+
+--==__SENDMAIL__QhbH6VjCNs6kF59PKj1J0QvIB__==--
+

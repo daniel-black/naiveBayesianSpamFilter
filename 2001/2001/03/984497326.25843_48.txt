@@ -1,0 +1,51 @@
+Return-Path: <build@buildnow.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 23498 invoked from network); 13 Mar 2001 06:40:31 -0000
+Received: from best.micron.net (204.229.122.199)
+  by bfsmedia.sk.ca with SMTP; 13 Mar 2001 06:40:31 -0000
+Return-Path: <build@buildnow.com>
+Received: from 10.224.0.199 ([10.224.0.199]) by best.micron.net
+          (Netscape Messaging Server 4.1) with SMTP id GA4HWR00.P5C; Mon,
+          12 Mar 2001 23:26:51 -0700 
+Received: from  (golax7-216.dialup.optusnet.com.au [198.142.181.216]) by  with SMTP (MailShield v1.5); Mon, 12 Mar 2001 23:26:50 -0700
+From: build@buildnow.com
+To: 
+Subject: # 1 E-commerce solution!  Online Website Bulder
+Date: Tue, 13 Mar 2001 15:32:48 -0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_4510_00007A2A.00000621"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-SMTP-HELO: paulhome
+X-SMTP-MAIL-FROM: build@buildnow.com
+X-SMTP-PEER-INFO: golax7-216.dialup.optusnet.com.au [198.142.181.216]
+Content-Length: 1077
+Lines: 26
+
+------=_NextPart_000_4510_00007A2A.00000621
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+
+<FONT face="MS Sans Serif">
+<FONT size=2> <font size="4" face="Arial, Helvetica, sans-serif">Don't let your money sail <BR>
+away while creating your online presence. <br><BR>
+USA Bizlinks can save you valuable time and money. </font><br><BR>
+<br><BR>
+<font size="4" face="Arial, Helvetica, sans-serif" color="#FF9966">No Long delays <BR>
+building your on-line presence <br><BR>
+No Lack of state of the art promotional and marketing tools <br><BR>
+No Website downtime due to unreliable hosting <br><BR>
+No Massive development costs into the $1,000's <br><BR>
+No On going maintenance expenditure and contracts <br><BR>
+No Lack of shopping carts, photo gallery and e-commerce business tools.<br><BR>
+No HTMl, Graphic Design or Complex programming needed.. </font><br><BR>
+<br><BR>
+<font size="4" face="Arial, Helvetica, sans-serif">For Just Pennies each month! <BR>
+<a href="http://203.46.218.160/">Click here to build your online Presence Today!</a> </font><BR>
+</FONT></FONT></BODY></HTML>
+
+
+

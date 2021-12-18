@@ -1,0 +1,34 @@
+Return-Path: <mailer10@n2.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15326 invoked from network); 7 Jan 2001 13:58:08 -0000
+Received: from unknown (HELO axp-alias.cip-tramelan.ch) (194.11.196.6)
+  by em.ca with SMTP; 7 Jan 2001 13:58:08 -0000
+Received: from 194.11.196.6 by axp-alias.cip-tramelan.ch (8.9.3/1.1.29.3/14Dec00-0746PM)
+	id OAA0001414668; Sun, 7 Jan 2001 14:22:56 +0100 (CET)
+From: <mailer10@n2.com>
+Message-Id: <200101071322.OAA0001414668@axp-alias.cip-tramelan.ch>
+To: Friend@public.com
+Date: Sat, 06 Jan 01 21:33:52 EST
+Subject: Safe, Secure, Servers so you can mail everyday!
+Content-Length: 546
+
+Are you tired of waiting on Mailers?
+
+If you are looking for a reliable bulk email ISP, 
+this is it. We have servers that will strip 
+your dialup ISP info from the headers, protecting 
+you from getting shut down! 
+
+Stop Losing MONEY Start Mailing Today!
+
+For more information:
+
+mailto:bulk-isp@n2.com?subject=send-more-info
+
+==========BONUS===========
+FREE Fully Functional Stealth Mailer and 
+List Manager with your order!
+______________________________________________
+To be removed from future mailings:
+mailto:bulk-isp@n2.com?subject=remove
+

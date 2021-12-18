@@ -1,0 +1,40 @@
+Return-Path: <fabio@escripovoa.pt>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 31112 invoked from network); 6 Mar 2001 22:39:18 -0000
+Received: from unknown (HELO escripovoa.pt) (212.55.128.42)
+  by em.ca with SMTP; 6 Mar 2001 22:39:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=200103060220="
+To: bruceg@em.ca
+From: fabio@escripovoa.pt
+X-Mailer: 927AA54.D1E59AA.163b398158c80841123cf743d67b7477
+Subject: Comunicados p/ Mass Media Gratuito
+Organization: 
+Content-Length: 2437
+
+--=200103060220=
+Content-Type: text/plain;charset=US-ASCII
+
+Sabia que uma boa notícia vale mais do que um anúncio de página?
+ASSUNTO: Divulgue Gratuitamente a actividade da sua empresa junto dos meios de comunicação.
+A/C Director de Marketing,
+
+
+A BSI, Sistemas de Informação, Lda., criou o serviço Press24.net para que as empresas portuguesas possam divulgar eficazmente novidades e lançamentos de produtos junto dos meios de comunicação nacionais, através da distribuição on-line de comunicados de imprensa.
+O serviço Press24.Net dirige-se a todas as instituições, empresas, associações ou outras entidades que pretendam divulgar notícias sobre novos produtos ou serviços através do envio de Comunicados de Imprensa para os órgãos de comunicação social. Para além deste serviço, o Press24.Net oferece uma redacção disponível 24 horas por dia, que elabora textos e comunicados para as empresas. 
+O Press24.net é totalmente gratuito e os comunicados de imprensa chegarão rapidamente aos meios certos e serão analisadas por jornalistas que as poderão publicar nos mais diversos órgãos de comunicação. Para divulgar as suas novidades da sua empresa, apenas terá de despender 5 minutos:
+
+1)Dirija-se a www.press24.net, e seleccione a opção "Enviar Comunicados de Imprensa". 
+2)Copie o texto produzido para o formulário presente na página 
+3)Escolha a opção Enviar.
+
+Em poucos minutos o comunicado estará disponível na Web e será enviado para todos os jornalistas presentes na base de dados do nosso serviço. De forma a garantir uma maior eficácia do sistema, o serviço encontra-se organizado por mais de uma dezena de sectores de actividade, de modo a que as notícias e os comunicados sobre determinada área de actividade sejam apensas distribuídos pelos jornalistas que escrevem sobre esse sector.
+As suas notícias serão publicadas. Após quatro meses no mercado, o serviço Press24.Net reúne hoje uma extensa lista de contactos personalizados de editores, coordenadores e jornalistas nos principais meios de comunicação generalistas, especializados e técnicos, os quais estão ávidos de receber notícias válidas sobre a actividade das empresas portuguesas nos mais variados ramos de actividade. 
+Por todos estes motivos, não deixe de utilizar o único serviço gratuito de assessoria de imprensa disponível em Portugal. Contamos com a sua visita: www.press24.net
+
+Atenciosamente,
+Fabio Resende
+Administrador escripovoa.com
+--=200103060220=--
+

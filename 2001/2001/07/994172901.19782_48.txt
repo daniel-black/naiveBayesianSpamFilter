@@ -1,0 +1,89 @@
+Return-Path: <owner-linux@slg.org>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15222 invoked from network); 3 Jul 2001 15:06:53 -0000
+Received: from h139-142-47-20.gtcust.grouptelecom.net (HELO frivoli.saskatoon.com) (139.142.47.20)
+  by em.ca with SMTP; 3 Jul 2001 15:06:53 -0000
+Received: (from majordomo@localhost)
+	by frivoli.saskatoon.com (8.9.3/8.9.3) id IAA14846
+	for linux-list; Tue, 3 Jul 2001 08:57:50 -0600
+X-Authentication-Warning: frivoli.saskatoon.com: majordomo set sender to owner-linux@slg.org using -f
+Received: from mail2.rdc2.ab.home.com (mail2.rdc2.ab.home.com [24.64.2.49])
+	by frivoli.saskatoon.com (8.9.3/8.9.3) with ESMTP id IAA14843
+	for <linux@slg.org>; Tue, 3 Jul 2001 08:57:47 -0600
+Received: from steven ([24.68.177.129]) by mail2.rdc2.ab.home.com
+          (InterMail vM.4.01.03.20 201-229-121-120-20010223) with SMTP
+          id <20010703145741.OFEZ3910.mail2.rdc2.ab.home.com@steven>
+          for <linux@slg.org>; Tue, 3 Jul 2001 07:57:41 -0700
+Message-ID: <003501c103d0$a3501560$230214ac@steven>
+From: "Steven Kurylo" <skurylo@cleartech.ca>
+To: <linux@slg.org>
+References: <Pine.BSF.4.21.0106301531240.70620-100000@wolfgang.timsworld.net>
+Subject: Re: Debian - kde
+Date: Tue, 3 Jul 2001 08:58:36 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Sender: owner-linux@slg.org
+Precedence: bulk
+Reply-To: linux@slg.org
+Content-Length: 1541
+
+Are you using potato?  KDE isn't officially in potato, its only in sid (so
+you'd have to be running atleast woody to get it ;-)
+
+Now you can add a line to your /etc/apt/sources.list to get your debian
+packages directly from KDE.  If you're running potato then you want to add
+
+deb
+http://ftp.sourceforge.net/pub/mirrors/kde/stable/latest/distribution/deb/
+stable main
+
+Then you just need to run
+
+apt-get update ; atp-get install task-kde
+
+Now I've never run KDE on a potato machine, so I don't know if you'll have
+to upgrade to X4 or not, amung other things.  You may want to add the "-u"
+option to "atp-get install task-kde", that way it will show you every
+package it will be touching, so you'll know whats going on.
+
+I think thats about it.
+
+Steven
+
+----- Original Message -----
+From: "Tim Schneider" <tims@timsworld.net>
+To: <linux@slg.org>
+Sent: Saturday, June 30, 2001 3:34 PM
+Subject: Debian - kde
+
+
+> debian newbie - been running for 4 hours (two of those I was
+> sleeping!)  Didn't see kde as an option when configuring X windows
+> manager.  I was wondering the easiest way to get KDE up.
+>
+>
+>
+> --
+> Saskatoon Linux Group Mailing List.
+> "Ein zuviel an Ordnung ruft in uns unweigerlich den Wunsch auf Totschlag
+> hervor."
+> --
+> To unsubscribe, send mail to
+> 'linux-request@slg.org' with
+> 'unsubscribe' in the body.
+>
+
+--
+Saskatoon Linux Group Mailing List.
+"Ein zuviel an Ordnung ruft in uns unweigerlich den Wunsch auf Totschlag
+hervor."
+--
+To unsubscribe, send mail to
+'linux-request@slg.org' with
+'unsubscribe' in the body.

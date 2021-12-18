@@ -1,0 +1,45 @@
+Return-Path: <mikeedread@elvisisthebomb.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 8247 invoked from network); 25 May 2001 12:20:57 -0000
+Received: from unknown (HELO extranet?server.multistock.com.br) (200.220.29.67)
+  by snssoftware.com with SMTP; 25 May 2001 12:20:57 -0000
+Received: from mail4.elvisisthebomb.com - 38.33.140.88 by extranet_server.multistock.com.br  with Microsoft SMTPSVC(5.5.1774.114.11);
+	 Fri, 25 May 2001 08:56:31 -0300
+Reply-To: nh938472@oceanfree.net
+From: mikeedrn@elvisisthebomb.com
+Return-Path: nh938472@runbox.com
+Message-Id: <cye43ow5sq6.wa0qcf1g0u5d3yol6@mail4.elvisisthebomb.com>
+Subject: re: contest confirmation
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Date: Fri, 25 May 2001 07:58:46 -0500
+To: kned75@tca.net
+Content-Length: 899
+Lines: 24
+
+<HTML><font face="Verdana" size="3" ptsize="10"><b>Thank you for entering.
+</b><BR>
+<BR>
+<b>You have been specially selected to qualify for the following:</b></font>
+<p><font face="Verdana" size="3" ptsize="10"><b>Grand prize &nbsp;&nbsp;- 
+Florida Bahamas vacation and cruise<BR>
+1st prize &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Airline tickets<BR>
+Other Prizes - 3 days and 2 nights hotel accommodations<BR>
+<BR>
+Please confirm your entry within 24 hours of receipt of this confirmation.
+</b><BR>
+<BR>
+<a HREF="http://disc.elvisisthebomb.com"><b>Click here to 
+confirm</b></a></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>
+Confirmation number - zy345ki490a</b></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>Batch number - 
+2189</b></font></p>
+<p>&nbsp;</p>
+<p><font size="1">to be removed reply to this message with &quot;remove' in 
+the
+subject line</font></p>
+</HTML>
+

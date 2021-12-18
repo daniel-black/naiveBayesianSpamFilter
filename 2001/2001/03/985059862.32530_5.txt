@@ -1,0 +1,47 @@
+Return-Path: <EnlargeYourPenis@hotmail.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 21341 invoked from network); 19 Mar 2001 23:46:03 -0000
+Received: from unknown (HELO tnprenate.it) (212.171.0.101)
+  by snssoftware.com with SMTP; 19 Mar 2001 23:46:02 -0000
+Received: from aol ([192.168.10.17]) by tnprenate.it with Microsoft SMTPSVC(5.0.2195.1600);
+	 Mon, 19 Mar 2001 21:38:49 +0100
+From: EnlargeYourPenis@hotmail.com
+To: 
+Subject: (no subject)
+Date: Mon, 19 Mar 2001 11:59:01 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_3FFE_00000587.000071E7"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 765
+Lines: 28
+
+------=_NextPart_000_3FFE_00000587.000071E7
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+<HTML>
+Bcc:
+Return-Path: EnlargeYourPenis@hotmail.com
+Message-ID: <NTMASTEREKRuYDlrjbu0000017e@tnprenate.it>
+X-OriginalArrivalTime: 19 Mar 2001 20:38:49.0536 (UTC) FILETIME=[9A479C00:01C0B0B4]
+Date: 19 Mar 2001 21:38:49 +0100
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function fullScreen(theURL) {
+window.open("http://www.freehostusa.net/members/justin3727", '', 'fullscreen=yes, scrollbars=auto');
+}
+//  End -->
+</script>
+</HEAD>
+
+<BODY>
+<FONT SIZE=5><B>
+<CENTER><a href="http://www.freehostusa.net/members/justin3727" onClick="fullScreen('full-screen.html');">Guys, Add 4 Inches To Your Penis!!!  Our Program Works Guaranteed!!!  CLICK HERE TO SEE!!!</a></CENTER>
+<HTML>
+</BODY></HTML>
+
+

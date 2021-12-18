@@ -1,0 +1,56 @@
+Return-Path: <martin@aol.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 9223 invoked from network); 7 Nov 2001 06:21:49 -0000
+Received: from mail.fractales.de (HELO ?62.225.68.4?) (62.225.68.3)
+  by agamemnon.bfsmedia.com with SMTP; 7 Nov 2001 06:21:49 -0000
+Received: from no.name.available by [62.225.68.4]
+          via smtpd (for agamemnon.bfsmedia.com [204.83.201.2]) with SMTP; 7 Nov 2001 06:25:12 UT
+Received: from gt1wall1.da-ag.local (localhost [127.0.0.1])
+	by mail.fractales.de (8.9.3/8.9.3) with SMTP id HAA28088
+	for <bluegoose.kennels@bfsmedia.com>; Wed, 7 Nov 2001 07:25:05 +0100
+From: martin@aol.com
+Message-ID: <00007fb800c6$000040a5$0000111f@>
+To: <bluegoose.kennels@bfsmedia.com>
+Received: from [67.96.65.67] by gt1wall1.da-ag.local
+          via smtpd (for [192.168.10.3]) with SMTP; 7 Nov 2001 06:25:06 UT
+Subject: You are one of our winners
+Date: Wed, 07 Nov 2001 01:05:44 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: martin@aol.com
+Content-Length: 874
+Lines: 29
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<title>Dear A while back you submitted the following information You are o=
+ne of
+our winners</title>
+</head>
+
+<body>
+
+<p>Dear User,<br>
+A while back you submitted information qualifying you as one of our winner=
+s. To redeem your prize you must fill out all the blanks at the winner's s=
+ite...&nbsp;<br>
+<a href=3D"http://www.palatialplace.com/new/index.html">Click Here for det=
+ails...</a></p>
+
+</body>
+
+</html>
+<p><p><p><p><p><p><p><p><p><p><html><p><p><head><p><meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3Dwindows-1252"><p><meta name=3D"=
+GENERATOR" content=3D"Microsoft FrontPage 4.0"><p><p><p><p><p><p><p></BODY></HTML>
+
+

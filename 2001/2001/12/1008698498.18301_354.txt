@@ -1,0 +1,76 @@
+Return-Path: <hurri24u@yahoo.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 6201 invoked from network); 16 Dec 2001 13:21:38 -0000
+Received: from dns.tvcable.com.mx (HELO tvcable.com.mx) (207.249.181.9)
+  by agamemnon.bfsmedia.com with SMTP; 16 Dec 2001 13:21:38 -0000
+Received: from 65.141.46.139 [65.141.46.139] by tvcable.com.mx
+  (SMTPD32-6.04) id AD5C11CF013E; Sun, 16 Dec 2001 07:10:52 -0600
+To: <Internet Player>
+From: hurri24u@yahoo.com
+Subject: Online Gaming At It's Best!!
+Date: Sun, 16 Dec 2001 21:03:26 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Message-Id: <200112160711399.SM00137@65.141.46.139>
+Content-Length: 1652
+Lines: 55
+
+<html>
+<head>
+<title>eMailHTML</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;">
+<style>
+<!--
+bonus_text1{COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FO=
+NT-SIZE: 10pt; FONT-WEIGHT: normal}
+-->
+</style>
+</head>
+<body bgcolor=3D"#ffffff">
+&nbsp;<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" 
+style=3D"border-collapse: collapse" bordercolor=3D"#111111" width=3D"60%" 
+id=3D"AutoNumber1">
+  <tr>
+    <td width=3D"100%">
+    <p align=3D"center"><br>
+    <font face=3D"Arial" size=3D"2"><b><font color=3D"#0000FF">25 exciting=
+ casino 
+    games in The Worlds 1st Streaming Shockwave Casino, <br>
+    including Baccarat, Atlantic City and Las Vegas Blackjack, Keno, Roule=
+tte,
+    <br>
+    Slot Machines, Video Poker and Multi-User games. </font></b></font><br=
+>
+<map name=3D"emailmap">
+<area shape=3D"rect" coords=3D"279, 365, 347, 383" 
+href=3D"http://www.casinovaent.com/mailintro.htm" >
+</map>
+<img name=3D"emailimg" src=3D"http://www.casinovaent.com/images/mailbg1.gi=
+f" width=3D"600" height=3D"400" border=3D"0" usemap=3D"#emailmap"></p>
+    <p align=3D"center"><font face=3D"Arial" size=3D"2"><b><font color=3D"=
+#0000FF">Brand 
+    new look and better action!&nbsp; Play at the Casino with the best pay=
+-out 
+    odds!<br>
+&nbsp;Attractive sign on bonus - Details in Casino!&nbsp; Limited time off=
+er. No 
+    download necessary!<br>
+    <br>
+    <br>
+    <a href=3D"mailto:bayside22@uole.com?subject=3DExclude-Cas">Click Here=
+ to 
+    unsubscribe from future promotions.</a><br>
+&nbsp;</font></b></font></td>
+  </tr>
+</table>
+<p><font face=3D"verdana"><b><br>
+&nbsp;</b></font></p>
+</body>
+</html>
+
+
+

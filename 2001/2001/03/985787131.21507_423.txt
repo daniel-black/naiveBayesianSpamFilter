@@ -1,0 +1,88 @@
+Return-Path: <info@buscamores.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3463 invoked from network); 28 Mar 2001 10:46:38 -0000
+Received: from fat.statics.com.ar (root@200.16.215.10)
+  by em.ca with SMTP; 28 Mar 2001 10:46:38 -0000
+Received: from smtp.com (data.statics.com.ar [200.16.215.12])
+	by fat.statics.com.ar (8.9.3/8.8.7) with SMTP id HAA05442
+	for <bruceg@em.ca>; Wed, 28 Mar 2001 07:56:03 -0400
+Message-Id: <200103281156.HAA05442@fat.statics.com.ar>
+Date: Wed, 28 Mar 2001 07:48:33 -0400
+From: info@buscamores.com
+Subject: Invitacion Especial
+To: lista@buscamores.com
+Precedence: list
+Content-type: text/html
+Reply-to: info@buscamores.com
+X-Bulkmail: 2.05
+Content-Length: 3731
+
+<HTML>
+<STYLE type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none} A:hover{color:red} A:hover{text-decoration: none}
+-->
+</STYLE>
+<HEAD>
+<TITLE>Invitaci&oacute;n especial</TITLE>
+</HEAD>
+<BODY LINK="#CC3300" ALINK="#CC3300" VLINK="#CC3300">
+
+<CENTER>
+<TABLE BORDER="1" CELLPADDING="2" CELLSPACING="0" WIDTH="90%" BORDERCOLOR="#CC3300">
+<TR><TD BGCOLOR="#FFEEFF" ALIGN="center">
+<FONT SIZE=+2 FACE="Verdana,Arial,Helvetica" COLOR="#CC3300">
+<B>Invitaci&oacute;n especial a <A HREF="http://www.buscamores.com/" TARGET="_blank">BuscAmores</A></B>
+</FONT>
+</TD></TR>
+<TR><TD BGCOLOR="#FFEEFF">
+<DIV ALIGN="justify">
+<A HREF="http://www.zombfib.com/" TARGET="_blank"><FONT SIZE=2 FACE="Verdana,Arial,Helvetica" COLOR="#0066FF"><B>Zomb</B></FONT><FONT SIZE=2 FACE="Verdana,Arial,Helvetica" COLOR="#000099"><B>Fib Corp.</B></FONT></A><FONT SIZE=2 FACE="Verdana,Arial,Helvetica"> lo invita a su sitio de contactos por Internet, <A HREF="http://www.buscamores.com/" TARGET="_blank"><B>www.BuscAmores.com</B></A> , donde podr&aacute; encontrar personas de todas partes del mundo y tambi&eacute;n de su ciudad, con las cuales compartir momentos de placer y compa&ntilde;&iacute;a !
+</FONT>
+</DIV>
+</TD></TR>
+<TR><TD BGCOLOR="#FFEEFF">
+<FONT SIZE=2 FACE="Verdana,Arial,Helvetica" COLOR="#CC3300">
+<B>BuscAmores.com le ofrece:</B>
+</FONT>
+</TD></TR>
+<TR><TD BGCOLOR="#FFEEFF">
+<DIV ALIGN="justify">
+<FONT SIZE=2 FACE="Verdana,Arial,Helvetica">
+<UL>
+<LI><B>M&aacute;s de 20000</B> usuarios registrados al d&iacute;a de la fecha.<BR>
+<LI>Un <B>sistema de b&uacute;squeda muy completo</B> que permite buscar por todo lo que se imagine: lugar de residencia, edad, sexo, intereses, rasgos f&iacute;sicos, rasgos de la personalidad, etc., etc.<BR>
+<LI>Una <B>enorme cantidad de fotograf&iacute;as</B> de nuestros usuarios, agregadas por ellos mismos, disponibles en galer&iacute;as de &iacute;conos que Ud. puede navegar f&aacute;cilmente.<BR>
+<LI>Un <B>sistema de mensajer&iacute;a interna</B> que evita que su casilla de email se llene de mensajes de usuarios, pero que si Ud. as&iacute; lo desea le puede notificar cuando alguien le haya escrito.<BR>
+<LI><B>Perfil de b&uacute;squeda:</B> BuscAmores.com puede enviarle un listado con las personas reci&eacute;n suscriptas que concuerden con lo que Ud. est&aacute; buscando. As&iacute; puede encontrar a quien busca desde su programa de correo habitual !<BR>
+<LI><B>B&uacute;squeda orientada:</B> BuscAmores.com hasta le recomienda qu&eacute; personas son las m&aacute;s adecuadas para Ud. !<BR>
+<LI><B>Servicios adicionales,</B> tales como una casilla de email gratuita y chat.<BR>
+<LI><B>y MAS, MUCHO MAS !!!</B>
+</FONT>
+</TD></TR>
+<TR><TD BGCOLOR="#FFEEFF" ALIGN="center">
+<FONT SIZE=2 FACE="Verdana,Arial,Helvetica">
+<B>Ingrese y v&eacute;alo !<BR>
+Es completamente gratuito !<BR>
+Busque y encuentre con total privacidad !<BR>
+Acceda con su navegador: <A HREF="http://www.buscamores.com/" TARGET="_blank">http://www.buscamores.com</A><BR>
+</FONT>
+</TD></TR>
+<TR><TD BGCOLOR="#FFEEFF" ALIGN="center">
+<FONT SIZE=2 FACE="Verdana,Arial,Helvetica">
+<B>Esta es una invitaci&oacute;n de
+<A HREF="http://www.zombfib.com/" TARGET="_blank"><FONT SIZE=2 FACE="Verdana,Arial,Helvetica" COLOR="#0066FF"><B>Zomb</B></FONT><FONT SIZE=2 FACE="Verdana,Arial,Helvetica" COLOR="#000099"><B>Fib Corp.</B></FONT></A>
+</TD></TR>
+<TR><TD BGCOLOR="#FFEEFF" ALIGN="center">
+<FONT SIZE=2 FACE="Verdana,Arial,Helvetica">
+<B>
+Para desuscribirse de esta lista de email, envíe un email a<BR>
+<A HREF="mailto:info@buscamores.com&subject=desuscribir">info@buscamores.com</A> indicando como tema "desuscribir".
+</TD></TR>
+</TABLE>
+</CENTER>
+
+</BODY>
+</HTML>
+

@@ -1,0 +1,106 @@
+Return-Path: <qualitybizmktg2001@hotmail.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 17996 invoked from network); 21 Mar 2001 17:06:28 -0000
+Received: from unknown (HELO test.test) (210.104.148.16)
+  by bfsmedia.sk.ca with SMTP; 21 Mar 2001 17:06:28 -0000
+Received: by test.test id CAA338610; Thu, 22 Mar 2001 02:05:31 +0900 (KST)
+From: <qualitybizmktg2001@hotmail.com>
+Message-Id: <200103211705.CAA338610@test.test>
+Received: from  [38.160.113.75] by _[192.206.193.222]_by with SMTP id A59C43E1 Wed, 21 Mar 2001 11:41:59 PDT
+Subject: Partners wanted            
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Wed, 21 Mar 2001 11:59:16
+Content-Length: 2539
+Lines: 90
+
+
+<!doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+
+<head>
+<title>(Type a title for your page here)</title>
+<meta name="GENERATOR" content="Arachnophilia 4.0">
+<meta name="FORMATTER" content="Arachnophilia 4.0">
+</head><br>
+
+
+<body bgcolor="#79eaa9" text="#000000" link="#e7163a" vlink="#e7163a" alink="#e7163a">
+<font color=#79eaa9></font><face="Arial"><br><center>
+<table  width="400" border="0" cellspacing="0" cellpadding="0">
+	<tr><td > <font size="+1" face="Arial" color="#000000">
+Partners Wanted:<br>
+<br>
+
+
+Open a secure offshore bank account with a <br>
+minimum payment of $100.00<br>
+<br>
+
+
+Own an offshore MasterCard WITHOUT <br>
+a social security number and WITHOUT a credit check.<br>
+<br>
+
+
+Develop a secondary offshore income of $500 to $5,000 <br>
+a day or more - you decide!!<br>
+<br>
+
+
+Unlimited global market, unlimited income, all confidential.<br>
+<br>
+You can:<br>
+
+<ul type="circle">
+	<li> Eliminate your debt
+	<li> Secure your Assets 
+	<li> Retain ALL your hard earned money
+	<li> And pass your wealth on to your heirs
+
+</ul>
+<br>
+<br>
+
+
+The Super Rich have done this for years.<br>
+<br>
+
+Isn't it time you started?<br>
+<br>
+
+<font color=#ff0000>
+For information, fill out the form below:<br>
+Name and phone number are required.<br></font>
+<form name="form"
+method="post" action="mailto:opp4you@excite.com?SUBJECT=moreinformationchfmc3"
+enctype="text/plain" onSubmit=""><table BORDER="0" CELLPADDING=0 WIDTH="200" BGCOLOR="#ffffff" ><tr><td>Name:</td><td ><input TYPE="TEXT" NAME="Name" VALUE="" SIZE="10" MAXLENGTH="60"></td></tr><tr><td>City, State:</td><td><input TYPE="TEXT" NAME="City" VALUE="" SIZE="10" MAXLENGTH="60"></td></tr><tr><td>E-Mail Address:</td><td><input TYPE="TEXT" NAME="email" VALUE="" SIZE="10" MAXLENGTH="60"></td></tr><tr><td>Telephone:</td>
+<td><input TYPE="TEXT" NAME="Telephone" VALUE="" ID="Telephone" SIZE="10" MAXLENGTH="30"></td></tr><TR><td>Best time to call:</td><td>
+<SELECT name=Time><OPTION selected value="Mornings">Mornings</OPTION>
+<OPTION selected value="Afternoons">Afternoons</OPTION> 
+<OPTION selected value="Evenings">Evenings</OPTION> 
+<OPTION selected value="Select one">Select one</OPTION>
+</SELECT></TD></TR></center><br>
+<br></center><br>
+
+<td><br>
+
+
+<input Type="Submit" VALUE="Submit Form" name="Submit"></form></td></tr></table>
+
+<p align=left><br><br>
+<br>
+
+
+
+<font size="2" face="Arial" color="#000000">To be removed from this list, <a href="mailto:appreciateremoval@excite.com">Click here</a></font><br><br>
+
+</td>
+	</tr>
+</table>
+</body>
+
+</html>
+
+

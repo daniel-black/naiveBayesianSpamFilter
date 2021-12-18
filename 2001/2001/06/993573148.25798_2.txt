@@ -1,0 +1,135 @@
+Return-Path: <vchapelle@soamai.com>
+Delivered-To: em-ca-bait-20010327121858@em.ca
+Received: (qmail 5495 invoked from network); 26 Jun 2001 16:09:27 -0000
+Received: from fwall.sunforest.com (HELO localhost.com) (213.41.88.105)
+  by em.ca with SMTP; 26 Jun 2001 16:09:27 -0000
+From: vchapelle@soamai.com
+Reply-To: vchapelle@soamai.com
+To: bait-20010327121858@em.ca
+Date: Tue, 26 Jun 2001 18:05:25 +0200
+Subject: Accélérez le développement de vos applicatifs Internet avec Soamaï
+X-Mailer: MailXSender 1.05
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 7765
+Lines: 118
+
+=3Chtml=3E
+=3Cbody topmargin=3D0 leftmargin=3D0 rightmargin=3D0 bottommargin=3D0=3E
+=3Ccenter=3E      
+  =3Ctable width=3D=2249%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=3E
+    =3Ctr=3E 
+      =3Ctd height=3D=2217=22=3E 
+        =3Cp align=3D=22center=22=3E&nbsp=3B=3C=2Fp=3E
+        =3C=2Ftd=3E
+    =3C=2Ftr=3E
+    =3Ctr=3E 
+      =3Ctd height=3D=2277=22=3E 
+        =3Cp align=3D=22center=22=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E=3Cb=3EProfitez 
+          de l'=E9t=E9 pour prendre de l'avance sur vos projets =3C=2Fb=3E=3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp align=3D=22center=22=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E=3Cb=3E=2E=2E=2E=3C=2Fb=3E=3C=2Ffont=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E=3Cb=3Eet 
+          partez en vacances l'esprit tranquille=3C=2Fb=3E=3C=2Ffont=3E=2E=3C=2Fp=3E
+        =3C=2Ftd=3E
+    =3C=2Ftr=3E
+    =3Ctr=3E 
+      =3Ctd height=3D=2214=22=3E 
+        =3Cp=3E=3Cfont size=3D=221=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E =3C=2Ffont=3E=3C=2Fp=3E
+        =3C=2Ftd=3E
+    =3C=2Ftr=3E
+    =3Ctr=3E 
+      =3Ctd=3E
+        =3Cp=3E=3Cfont face=3D=22Arial=2C Helvetica=2C sans-serif=22 size=3D=222=22=3ES=3C=2Ffont=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3Eoama=EF 
+          d=E9veloppe =3Cfont size=3D=224=22 color=3D=22#FD1813=22=3E3 fois=3C=2Ffont=3E plus =3Cfont color=3D=22#FD1813=22 size=3D=224=22=3Evite=3C=2Ffont=3E* 
+          vos applicatifs=3Cb=3E Internet=2C Intranet et Extranet=3C=2Fb=3E=2E =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3ENos r&eacute=3Balisations 
+          en architecture distribu=E9e et nos m=E9thodes fond=E9es sur la =22r=E9utilisabilit=E9=22 
+          des objets vous garantissent =3A =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cul=3E
+          =3Cli=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E la r=E9duction 
+            des co=FBts de d=E9veloppement et de maintenance=2C =3C=2Ffont=3E=3C=2Fli=3E
+          =3Cli=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3Ela r=E9duction 
+            des d=E9lais de mise en =9Cuvre=2E =3C=2Ffont=3E=3C=2Fli=3E
+        =3C=2Ful=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3ENotre centre de 
+          production de plus=3Cb=3E 20 experts Java=3C=2Fb=3E et l'utilisation de nos biblioth=E8ques 
+          de =3Cb=3EWebServices=3C=2Fb=3E nous permettent de vous proposer des projets =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cul=3E
+          =3Cli=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3Eau forfait=3C=2Ffont=3E=3C=2Fli=3E
+          =3Cli=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E trois fois plus 
+            vite* =3C=2Ffont=3E=3C=2Fli=3E
+          =3Cli=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3Edans le cadre 
+            d'une prestation globale =3C=2Ffont=3E=3C=2Fli=3E
+        =3C=2Ful=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3ECe positionnement 
+          unique nous conduit =E0 fournir des applicatifs pr=EAts =E0 l'emploi pour 
+          des clients comme =3A =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E=3Ca href=3D=22http=3A=2F=2Fwww=2Ealapage=2Ecom=22=3Ewww=2Ealapage=2Ecom=3C=2Fa=3E 
+          =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E=3Ca href=3D=22http=3A=2F=2Fwww=2Emaporama=2Ecom=22=3Ewww=2Emaporama=2Ecom=3C=2Fa=3E=3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E =3Ca href=3D=22http=3A=2F=2Fwww=2Ealloresto=2Ecom=22=3Ewww=2Ealloresto=2Ecom 
+          =3C=2Fa=3E =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E=3Ca href=3D=22http=3A=2F=2Fwww=2Eexam=2Efr=22=3Ewww=2Eexam=2Efr=3C=2Fa=3E 
+          =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3EDemandez Victoria 
+          au=3Cb=3E 01 40 40 37 50 =3C=2Fb=3Epour en savoir plus ou bien par mail =3Ca href=3D=22mailto=3Avchapelle=40soamai=2Ecom=22=3Evchapelle=40soamai=2Ecom=3C=2Fa=3E 
+          =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3ECordialement v=F4tre=2C 
+          =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3EVictoria Chapelle=2E 
+          =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=222=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3E* gain de temps 
+          g=E9n=E9ralement constat=E9=2E =3C=2Ffont=3E=3C=2Fp=3E
+        =3Cp=3E=3Cfont size=3D=221=22 face=3D=22Arial=2C Helvetica=2C sans-serif=22=3EPS =3A si vous ne 
+          souhaitez plus recevoir de communications de la part de Soama=EF=2C merci 
+          de nous retourner ce mail avec le mot =22 remove =22 dans l'objet du message=2E 
+          =3C=2Ffont=3E=3C=2Fp=3E
+      =3C=2Ftd=3E
+    =3C=2Ftr=3E
+    =3Ctr=3E
+      =3Ctd=3E&nbsp=3B=3C=2Ftd=3E
+    =3C=2Ftr=3E
+  =3C=2Ftable=3E
+      =3Ctable width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=3E
+        =3Ctr=3E 
+          =3Ctd align=3Dcenter=3E
+            =3Ctable width=3D=22430=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=3E
+              =3Ctr=3E 
+                
+            =3Ctd width=3D10%=3E=3Ca href=3D=22http=3A=2F=2Fwww=2Esoamai=2Ecom=22=3E=3Cimg src=3D=22http=3A=2F=2Fwww=2Esoamai=2Ecom=2FNEWSLETTER=2Fimg=2Flogo=5Fanim=2Egif=22 width=3D=22144=22 height=3D=2250=22 border=3D=220=22=3E=3C=2Fa=3E=3C=2Ftd=3E
+                =3Ctd=3E 
+                  =3Ctable width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22=3E
+                    =3Ctr=3E 
+                      =3Ctd width=3D5%=3E&nbsp=3B=3C=2Ftd=3E
+                      =3Ctd style=3D=22font-family=3Aarial=2Csans-serif=3Bfont-weight=3Abold=3Bcolor=3Ablack=3Bfont-size=3A8pt=3B=22=3E&nbsp=3B=3C=2Ftd=3E
+                    =3C=2Ftr=3E
+                    =3Ctr=3E 
+                      =3Ctd=3E&nbsp=3B=3C=2Ftd=3E
+                      =3Ctd style=3D=22font-family=3Aarial=2Csans-serif=3Bcolor=3Ablack=3Bfont-size=3A8pt=3B=22=3ESoama&iuml=3B 
+                        SA =3C=2Ftd=3E
+                    =3C=2Ftr=3E
+                    =3Ctr=3E 
+                      =3Ctd=3E&nbsp=3B=3C=2Ftd=3E
+                      =3Ctd style=3D=22font-family=3Aarial=2Csans-serif=3Bcolor=3Ablack=3Bfont-size=3A8pt=3B=22=3E13 
+                        rue Georges Auric - 75019 PARIS=3C=2Ftd=3E
+                    =3C=2Ftr=3E
+                    =3Ctr=3E 
+                      =3Ctd=3E&nbsp=3B=3C=2Ftd=3E
+                      =3Ctd style=3D=22font-family=3Aarial=2Csans-serif=3Bcolor=3Ablack=3Bfont-size=3A8pt=3B=22=3ET&eacute=3Bl 
+                        =3A +33 =280=291 40 40 37 50 Fax =3A + 33 =280=291 40 40 37 83=3C=2Ftd=3E
+                    =3C=2Ftr=3E
+                    =3Ctr=3E 
+                      =3Ctd=3E&nbsp=3B=3C=2Ftd=3E
+                      =3Ctd style=3D=22font-family=3Aarial=2Csans-serif=3Bcolor=3Ablack=3Bfont-size=3A8pt=3B=22=3E=3Ca href=3D=22http=3A=2F=2Fwww=2Esoamai=2Ecom=22=3Ewww=2Esoamai=2Ecom=3C=2Fa=3E=3C=2Ftd=3E
+                    =3C=2Ftr=3E
+                  =3C=2Ftable=3E
+                =3C=2Ftd=3E
+              =3C=2Ftr=3E
+            =3C=2Ftable=3E
+          =3C=2Ftd=3E
+        =3C=2Ftr=3E
+      =3C=2Ftable=3E=3C=2Fcenter=3E
+=3C=2Fbody=3E
+=3C=2Fhtml=3E
+
+

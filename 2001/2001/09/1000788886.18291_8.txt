@@ -1,0 +1,259 @@
+Return-Path: <offer10@campaign.mediaring.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 4793 invoked from network); 17 Sep 2001 19:49:43 -0000
+Received: from mrussjex5223.mediaring.com (HELO 204.83.201.10) (66.35.195.223)
+  by agamemnon.bfsmedia.com with SMTP; 17 Sep 2001 19:49:43 -0000
+From: MediaRing.com<offer10@campaign.mediaring.com>
+To: bait@em.ca
+Return-Path: offer10@campaign.mediaring.com
+Subject: A trip to India with MediaRing!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=ygj789ebe3df5dc323c931dbc5021f457fa
+DATE: Mon, 17 Sep 2001 12:50:26 -0700
+Content-Length: 16983
+Lines: 244
+
+--ygj789ebe3df5dc323c931dbc5021f457fa
+Content-Type: text/html; charset=iso-8859-1
+
+<html>
+<head>
+<title>MediaRing Newsletter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0" marginheight="0" link="#0000FF" vlink="#FF9900">
+<center><img src="http://em2.mediaring.com/cgi-bin/em/em2?a=news09open&u=6859325" width="1" height="1"></center>
+<script language="JavaScript1.2">
+
+if (document.all||document.getElementById)
+document.body.style.background="url('http://www.mediaring.com/domore/newsletter/aug/mr_sidetext.gif') white center no-repeat fixed"
+
+</script>
+<!-- BEGIN HEADER BANNER & TALKY LOGO -->
+<table width="750" border="0" cellspacing="0" cellpadding="0" height="70">
+  <tr>
+    <td align="center"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09talky&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/talky_bg2.gif" width="89" height="70" align="absbottom" border="0"></a> 
+      <!-- BANNER STARTS HERE! --><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09gtv1&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/gtv-468x60-1.gif" width="468" height="60" border="0"></a><!-- BANNER ENDS HERE!--></td>
+  </tr>
+</table>
+<!-- END HEADER BANNER & TALKY LOGO -->
+
+<!-- BEGIN TEXT HEADER -->
+<table width="750" border="1" cellspacing="0" cellpadding="0" bordercolor="#000000" height="42">
+  <tr>
+    <td height="2">
+      <table width="750" border="0" cellspacing="0" cellpadding="10" height="42">
+        <tr valign="top"> 
+          <td width="55%" bgcolor="#FF9900" height="27"><b><font face="Arial, Helvetica, sans-serif" size="4" color="#FFFFFF"> 
+            <font face="Tahoma" size="5">Talky's Bits &amp; Bytes</font></font></b></td>
+          <td width="9%" bgcolor="#FFCC00" height="27" background="http://www.mediaring.com/domore/newsletter/aug/grid.gif">&nbsp;</td>
+          <td width="15%" bgcolor="#FFCC00" height="27"> <b><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+            click here to <a href="http://data.mediaring.com/unsubscribe/unsubscribe.php?email=bait@em.ca&campaign_id=news09row">unsubscribe</a> </font></b></td>
+          <td width="21%" bgcolor="#FFCC00" height="27"> 
+            <div align="right"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09logo&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/mainlogo.gif" width="120" height="42" border="0"></a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- END TEXT HEADER --> 
+<table width="750" border="1" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="612"> 
+      <table border="0" cellspacing="10" cellpadding="0" width="610" height="100%">
+        <tr> 
+          <td valign="top" width="662"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tr> 
+                <td valign="top"> 
+                  <table width="100%" border="0" cellspacing="10" cellpadding="0">
+                    <tr> 
+                      <td><img src="http://www.mediaring.com/domore/newsletter/sept/India.jpg" width="178" height="304" align="top" border="0"></td>
+                      <td valign="top"> 
+                        <p><font face="Arial, Helvetica, sans-serif" size="3"><b><font color="#FF9900" size="2">Talky's 
+                          World Fact File</font><font color="#FF6600"> <font size="2" color="#FF9900">- 
+                          India</font></font></b></font></p>
+                        <p><font face="Arial, Helvetica, sans-serif" size="2">The 
+                          nation of India sits on the Southern tip of Asia between 
+                          the Arabian Sea and the Bay of Bengal. It shares political 
+                          borders with Pakistan, China, Nepal, Bangladesh and 
+                          Myanmar. Encompassing a total land area of 3,287,590 
+                          sq km, India is roughly one-third the size of the United 
+                          States. A natural biosphere, India has many types of 
+                          climate ranges from tropical to temperate over a varied 
+                          landscape of deserts, mountain ranges and jungles. With 
+                          an estimated population of over 1 billion individuals, 
+                          India is a melting pot of five major religions and over 
+                          24 different spoken languages. </font></p>
+                        <font face="Arial, Helvetica, sans-serif" size="2">India's 
+                        multiculturalism and rich diversity extend into its many 
+                        scenic splendors. From the limestone walls of the Taj 
+                        Mahal to the pink facades of Jaipur, the country offers 
+                        a myriad of sights to behold in awe. This month, take 
+                        advantage of MediaRing's low rates to India. </font>&nbsp; 
+                      </td>
+                    </tr>
+                  </table>
+		  <br>
+                  <center>            
+<table width="384" border="0" cellspacing="0" cellpadding="5">
+                    <tr> 
+                        <td valign="top" width="75" height="43"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">New 
+                          Delhi <br>
+                        <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">Madras 
+                        </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><br>
+                        </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><br>
+                        </font></b></font></font></b></font></td>
+                        <td valign="top" width="110" height="43"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><font color="#000066">39&cent 
+                          /min</font> <br>
+                          <font color="#000066">39&cent /min</font><font color="#000066"><br>
+                        </font><br>
+                        </font></b></font></td>
+                        <td valign="top" width="100" height="43"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"> 
+                          Bombay<br>
+                        </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">Bangalore<br>
+                        <br>
+                        </font></b></font></font></b></font></td>
+                        <td valign="top" width="107" height="43"> 
+                          <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"> 
+                            <font color="#000066">29&cent /min</font><br>
+                            </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><font color="#000066">39&cent 
+                            /min^ </font><br>
+                          </font></b></font></p>
+                      </td>
+                    </tr>
+                  </table>                  
+                    <p><font face="Arial, Helvetica, sans-serif" size="1">
+    ^ promotional rate only. Limited time offer		
+<br>* does not include mobile and special service numbers</font><font face="Arial, Helvetica, sans-serif" size="2"><b>
+<br><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09vzf1&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/signup.gif" width="150" height="30" border="0"></a></b></font></p>
+                    </center>
+                  <hr noshade>
+                  <!-- BANNER STARTS HERE! --><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09netmag1&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/fmg-468X60.gif" width="468" height="60" border="0"></a><!-- L90 BANNER ENDS HERE!--> 
+                  <p><font face="ArialHelveticasans-serif"><b><font size="2" color="#FF9900" face="Arial, Helvetica, sans-serif">International 
+                    Day of Peace</font></b></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2"> <img src="http://www.mediaring.com/domore/newsletter/sept/peace.jpg" width="108" height="72" align="left">The 
+                    18th of September is the International Day of Peace. If we 
+                    all put effort into being a little bit more tolerant, a little 
+                    bit more patient, maybe we can reduce the hatred and anger 
+                    spreading across the globe. Take this opportunity to help 
+                    spread the word. Join MediaRing's "Voices of Peace" campaign. 
+                    Use <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09vzm1&u=6859325" target="_blank"><b>VoizMail</b></a> 
+                    to send a free message to your friends and family and help 
+                    stop the violence. </font><font face="Arial, Helvetica, sans-serif" size="1"><font color="#999999"><br>
+                    </font></font></p>
+                  <hr noshade>
+                  <!-- BANNER STARTS HERE! --><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09freecd1&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/cd-animated-468x60nba1.gif" width="468" height="60" border="0"></a><!-- L90 BANNER ENDS HERE!--> 
+                  <p><font face="ArialHelveticasans-serif" size="2"><b><font color="#FF9900" face="Arial, Helvetica, sans-serif">2001 
+                    Goodwill Games</font></b></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2"><img src="http://www.mediaring.com/domore/newsletter/sept/goolwill.jpg" width="108" height="72" align="left" border="0">Brisbane, 
+                    Australia - Over 1,300 international athletes participated 
+                    in this year's Goodwill Games which ran from the August 29th 
+                    to September 9th. Vying for the coveted $10 Million (AUD) 
+                    prize money and further world recognition, every athlete poured 
+                    their heart and soul into the various competitions. MediaRing 
+                    salutes their courage, determination and triumph. Our heartiest 
+                    congratulations to all the winners! $10 in your <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09vzf2&u=6859325" target="_blank"><b>VoizFone</b></a> 
+                    account gets you: </font></p>
+<center>
+<table width="384" border="0" cellspacing="0" cellpadding="5">
+                    <tr> 
+                      <td valign="top" width="75" height="43"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">Australia 
+                        <br>
+                        <font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">Germany 
+                        </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><br>
+                        </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">Hungary<br>
+                        </font></b></font></font></b></font></td>
+                      <td valign="top" width="110" height="43"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><font color="#000066">204 
+                        minutes </font><br>
+                        <font color="#000066">204 minutes<br>
+                        45 minutes</font><br>
+                        </font></b></font></td>
+                      <td valign="top" width="100" height="43"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"> 
+                        USA <br>
+                        </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999">Russia<br>
+                        <br>
+                        </font></b></font></font></b></font></td>
+                      <td valign="top" width="107" height="43"> 
+                        <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"> 
+                          <font color="#000066">256 minutes</font><br>
+                          </font></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#999999"><font color="#000066">47 
+                          mintes </font><br>
+                          </font></b></font></p>
+                      </td>
+                    </tr>
+                  </table></center>
+                  </td>
+              </tr>
+            </table>
+            <hr noshade>
+            <p align="center"><font face="Arial, Helvetica, sans-serif" size="1">You 
+              are receiving this email as a result of agreeing to accept MediaRing 
+              email offers and newsletters at time of registration. MediaRing 
+              takes your privacy seriously. To learn more about MediaRing's use 
+              of personal information, please read our <a href="http://www.mediaring.com/legal/privacy.html" target="_blank">Privacy 
+              Policy</a></font><font face="Arial, Helvetica, sans-serif" size="1"></font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif" size="1">Copyright 
+              &copy; 2001. MediaRing Ltd. All Rights Reserved.</font> </p>
+            </td>
+          </tr>
+      </table>
+    </td>
+    <td bgcolor="#666666" width="136"> 
+      <table width="138" height="100%" border="0" cellspacing="0" cellpadding="5" bordercolor="#000000" bgcolor="#666666"  align="center">
+        <tr> 
+                
+          <td width="138" valign="top" height="150" bgcolor="#999999">
+	<!-- BUTTON ADS STARTS HERE! -->
+	<a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09netmag2&u=6859325" target="_blank"><img src="http://www.adreporting.com/img-bin/ban/fmg-120X60.gif" border="0" width="120" height="60"></a> 
+            <br>
+                  <br>
+            <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09freecd2&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/cd2-120x601.gif" border="0" width="120" height="60"></a> 
+<!-- BUTTON ADS ENDS HERE!-->
+</td>
+              </tr>
+              <tr> 
+             
+          <td width="138" valign="top" bgcolor="#666666"> <font class="topmenu_link"> 
+            <img src="http://www.mediaring.com/domore/newsletter/sept/orange_blt.gif" width="9" height="12" align="absbottom"> 
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09acct&u=6859325" target="_blank"><b><font size="1">My 
+            Account</font></b></a><font size="1"><b><br>
+            <img src="http://www.mediaring.com/domore/newsletter/sept/orange_blt.gif" width="9" height="12" align="absbottom"> 
+            <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09pcph&u=6859325" target="_blank">PC-to-Phone</a><br>
+            <img src="http://www.mediaring.com/domore/newsletter/sept/orange_blt.gif" width="9" height="12" align="absbottom"> 
+            <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09vzm2&u=6859325">Voizmail</a><br>
+            <img src="http://www.mediaring.com/domore/newsletter/sept/orange_blt.gif" width="9" height="12" align="absbottom"> 
+            <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09adv&u=6859325">Advertise 
+            with Us</a><br>
+            <img src="http://www.mediaring.com/domore/newsletter/sept/orange_blt.gif" width="9" height="12" align="absbottom"> 
+            <a href="mailto:feedback@mediaring.com">Feedback</a></b></font></font><br>
+                  </font></td>
+              </tr>
+            </table>
+		
+      <br>
+      <br>
+		<center>
+        <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09demo&u=6859325"><img src="http://www.mediaring.com/domore/newsletter/sept/52248.gif" border="0"></a> 
+        <br>
+        <font color="#FF9900"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Log 
+        in with your MediaRing Account Email: <br>
+        bait@em.ca</font></b></font>
+	<br>
+        <br>
+	<a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news09gtv2&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/sept/gtv-120x90.gif" width="120" height="90" border="0"></a>
+	</center>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<br><br><br><br><br>
+		<img src="http://www.mediaring.com/domore/newsletter/sept/talkybg_03.gif"> 
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--ygj789ebe3df5dc323c931dbc5021f457fa--
+.
+

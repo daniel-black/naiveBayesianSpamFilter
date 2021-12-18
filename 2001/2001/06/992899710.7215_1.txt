@@ -1,0 +1,53 @@
+Return-Path: <Stealth@btamail.net.cn>
+Spam-Apparently-To: <info@snssoftware.com>
+Received: (qmail 9149 invoked from network); 18 Jun 2001 21:15:11 -0000
+Received: from unknown (HELO chuldo.krc.ac.kr) (211.221.241.12)
+  by snssoftware.com with SMTP; 18 Jun 2001 21:15:11 -0000
+Received: from teenshower.nu (krc.krc.ac.kr [192.168.1.1])
+	by chuldo.krc.ac.kr (8.11.3/8.11.3) with SMTP id f5IL1qH06965;
+	Tue, 19 Jun 2001 06:01:56 +0900 (KST)
+Message-Id: <200106182101.f5IL1qH06965@chuldo.krc.ac.kr>
+To: <Undisclosed.Recipients@chuldo.krc.ac.kr>
+From: Stealth@btamail.net.cn
+Subject: Programmers Available Now!                         28386
+Date: Mon, 18 Jun 2001 14:10:48 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: Stealth@btamail.net.cn
+
+<HTML>
+<BODY>
+<title>Programmers Available whenwhen for $25 per hour</title>
+<style>body{font-family:tahoma;font-weight:bold;color:#000066;}
+span{font-family:verdana;font-size:large;font-weight:bold;color:#cc0099;} 
+h1{font-family:umbra;font-size:xx-large;font-weight:bold;color:#550099;}</=
+style>
+<body bgcolor=3D"#BBD9F2"><center><h1>Programmers Available Now</h1><span>
+for <b><big>$25</b></big> per hour</span>
+<p>Quality programmers available immediately
+ to work on all your E-commerce, Web, and software development projects on=
+:
+<p><span>WINDOWS, UNIX and Linux!</span><br><p>Specializing in
+<p>mySQL, PHP, JSP, ASP, JavaScript, Java, Perl, XML, WML,
+Oracle 8i, Informix, Sybase, VC++, VB, VBScript, MS Access,
+MS Sql, Cold Fusion, CGI, Lotus Notes, Domino, Linux, NT,
+Win 2000, Internet, Sap R/3, DSP
+<br><br><p><span>Free Quotes!
+</span><br><br><a href=3D"mailto:Stealth@btamail.net.cn?Subject=3DTell Me =
+More Saerweit-157768784">
+Click here for more details by email</a><p>Or call 713-339-3497
+<h1>Our no results, no pay guarantee insures your complete satisfaction</h=
+1>
+</center>
+<a href=3D"mailto:Stealth@btamail.net.cn?Subject=3DRemove">Remove me NOW!<=
+/a>
+
+
+</BODY>
+</HTML>
+
+

@@ -1,0 +1,162 @@
+Return-Path: <cbhiii-linux@arabia.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 10272 invoked from network); 16 Jan 2001 07:12:23 -0000
+Received: from pc062.asmpt.com (HELO aaants6.asmpt.com) (202.66.119.62)
+  by bfsmedia.sk.ca with SMTP; 16 Jan 2001 07:12:23 -0000
+Received: by AAANTS7 with Internet Mail Service (5.5.2448.0)
+	id <C0SL2PNF>; Tue, 16 Jan 2001 15:08:54 +0800
+Received: from aaants6.asmpt.com (pc065.asmpt.com [202.66.119.65]) by aaants7.asmpt.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id C0SL2PNA; Tue, 16 Jan 2001 15:08:53 +0800
+Received: from  [58.199.163.238] by _[28.59.130.134]_by with SMTP id A90C7E10 Mon, 15 Jan 2001 23:02:46 PDT
+From: cbhiii-linux@arabia.com
+To: 
+Subject: Put Your Best Foot Forward  
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Mon, 15 Jan 2001 23:20:03
+Content-Length: 5249
+Lines: 143
+
+
+
+
+
+<HTML><HEAD><TITLE></TITLE>
+
+<BODY vLink=#c0c0c0 link=#c0c0c0 bgColor=#000000 leftMargin=0>
+<P align=center><IMG height=315 src="http://1078388318/tr/headre4.jpg" width=550 
+border=0></P>
+<DIV align=center>
+<CENTER>
+<TABLE cellSpacing=0 cellPadding=0 width=500 border=0>
+  <TBODY>
+  <TR>
+    <TD width="100%"><I><FONT color=#c0c0c0 size=3>With a database of over 350 
+      million potential customers/clients, we can reach your clients anywhere in 
+      the world. With graphics, pictures and bullet descriptions, your potential 
+      client will not miss your message.</FONT></I> 
+          <P><FONT size=3><B><FONT color=#ff0000>GREATEST RETURN ON YOUR MARKETING 
+            DOLLAR</FONT></B><FONT color=#c0c0c0><BR>
+            <I>To reach millions of potential clients via newspapers, radio and 
+            television would cost tens of thousands. We can produce and deliver 
+            your message/advertisement to the greatest number of clients, resulting 
+            in the greatest number of sales. Hence, we give you the greatest return 
+            on your marketing dollar.</I></FONT></FONT> 
+          <P align=center><B><FONT face=Arial color=#ffffff size=2>IF YOU'RE SERIOUS 
+            ABOUT<BR>
+            YOUR BUSINESS, PLEASE<BR>
+            FILL OUT THE FORM BELOW<BR>
+            AND ONE OF OUR CONSULTANTS<BR>
+            &nbsp;WILL CONTACT YOU.</FONT></B></P>
+          <hr>
+          <B><FONT face=Arial color=#ffffff size=2><BR>
+          </FONT></B></TD>
+      </TR></TBODY></TABLE></CENTER></DIV>
+<div align="center"> 
+  <table cellspacing=0 bordercolordark=#333300 cellpadding=3 width=600 
+bordercolorlight=#ffffcc>
+    <tbody> 
+    <tr> 
+      <td> 
+        <form 
+      action="mailto:madmax@n2mail.com?cc=memo2me1@excite.com&subject=Direct Marketing Inquiry" 
+      method=post enctype=text/plain>
+          <table width="100%">
+            <tbody> 
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Your Name:</font></div>
+              </td>
+              <td width="51%">
+                <input name=NAME>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Your Web Address:</font></div>
+              </td>
+              <td width="51%">
+                <input value=http:// name=URL>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Company Name:</font></div>
+              </td>
+              <td width="51%">
+                <input name=Input coname="COMPANY_NAME">
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>State:</font></div>
+              </td>
+              <td width="51%">
+                <input size=2 name=STATE>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Business Phone:</font></div>
+              </td>
+              <td width="51%">
+                <input name=BUS_PHONE>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Home Phone:</font></div>
+              </td>
+              <td width="51%">
+                <input name=HOME_PHONE>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Email:</font></div>
+              </td>
+              <td width="51%">
+                <input name=EMAIL>
+              </td>
+            </tr>
+            <tr> 
+              <td width="49%"> 
+                <div align=right><font face="Arial, Helvetica, sans-serif" 
+            color=#f2ca40 size=2>Type of Business:</font></div>
+              </td>
+              <td width="51%">
+                <input name=TYPE_OF_BUSINESS>
+              </td>
+            </tr>
+            </tbody>
+          </table>
+          <div 
+      align=center><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            <input type=submit value="Submit Information" name=submit>
+            <hr>
+          </div>
+        </form>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<P align=center><font face="Arial, Helvetica, sans-serif" color="#c0c0c0" size="1">If 
+  you received this in error or would like to <BR>
+  be removed from our list,</font><font face="Arial, Helvetica, sans-serif" color="#808080" size="1"> 
+  <A 
+href="mailto:bannerweb@n2mail.com?subject=Remove">PLEASE CLICK 
+  HERE</A></font></P>
+</BODY></HTML>
+
+
+
+

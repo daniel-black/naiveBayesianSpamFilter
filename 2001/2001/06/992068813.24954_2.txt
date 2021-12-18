@@ -1,0 +1,26 @@
+Return-Path: <newyorknights@biz-direct.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 15035 invoked from network); 8 Jun 2001 13:26:31 -0000
+Received: from garibaldi.untroubled.org (192.168.1.1)
+  by lorien.untroubled.org with SMTP; 8 Jun 2001 13:26:31 -0000
+Received: (qmail 3884 invoked from network); 8 Jun 2001 13:26:29 -0000
+Received: from adsl164ip212.nh.sparqnet.net (HELO 192.168.90.1) (211.78.164.212)
+  by garibaldi.untroubled.org with SMTP; 8 Jun 2001 13:26:29 -0000
+From:  <newyorknights@biz-direct.net>
+To: cvs@bruce-guenter.dyndns.org
+Subject: linking our sites
+Date: Mon, 4 Jun 2001 22:53:58
+Message-Id: <643.629575.890685@unknown>
+Reply-To: nycguide@crosswinds.net
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Length: 652
+Lines: 7
+
+
+  Hello,
+       I am with Nynightbuzz.com.  Nynightbuzz.com is the largest and most comprehensive nightlife and dining guide covering all of New York City's metro area.  Our traffic has been growing exponentially due to strategic advertising and link placements.  I have recently visited your website and believe that it would be mutually beneficial to exchange links and or ad banners/modules.  To have a further look at our site please view www.nynightbuzz.com , I hope you'll agree that our content is second to none!  To discuss the linking of our sites or further integration please
+ mailto:nycguide@crosswinds.net .
+  Thank You,
+  Richard Dunn
+

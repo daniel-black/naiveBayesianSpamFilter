@@ -1,0 +1,52 @@
+Return-Path: <chris0678@address.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 15577 invoked from network); 11 Jul 2001 04:26:45 -0000
+Received: from unknown (HELO CSIE090.csie.ES) (213.139.27.212)
+  by bfsmedia.sk.ca with SMTP; 11 Jul 2001 04:26:45 -0000
+Received: from _[15.194.122.93]_by ([208.29.114.158]) by CSIE090.csie.ES with Microsoft SMTPSVC(5.0.2195.1600);
+	 Wed, 11 Jul 2001 04:09:37 +0200
+Received: from  [178.128.139.246] by _[15.194.122.93]_by with SMTP id A21C28E6 Tue, 10 Jul 2001 21:41:28 PDT
+From: <chris0678@address.com>
+Subject: Stock AMSE, research it, maybe undervalued			78y   
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Tue, 10 Jul 2001 21:58:45
+Bcc:
+Return-Path: chris0678@address.com
+Message-ID: <CSIE090XxfzhBwSDpdI00001d0e@CSIE090.csie.ES>
+X-OriginalArrivalTime: 11 Jul 2001 02:09:38.0976 (UTC) FILETIME=[8A258A00:01C109AE]
+Content-Length: 908
+Lines: 32
+
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Stock Symbol AMSE</title>
+</head>
+
+<body>
+
+<p>A <b><u>Buy Recommendation</u></b> was Released on Stock Symbol <a href="http://finance.yahoo.com/q?s=AMSE.OB&amp;d=2b"> AMSE</a>.
+This review was done by Chartered Financial Analyst of Stratos Research, LLC on
+7/9/2001. Current price $.20/12-month target price $2.25.</p>
+
+<p> Undervalued? You have to do the research on this one.</p>
+
+<p>
+Please Visit By <a href="http://buyrec.8k.com/buyrec.htm">CLICKING HERE</a></p>
+
+<p>If you have received this message in error or don't want any more mailings
+from us, please excuse this message, <a href="mailto:celebparty@abac.com?subject=unsubscribe">CLICK
+HERE TO BE REMOVED</a></p>
+
+</body>
+
+</html>
+
+
+

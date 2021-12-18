@@ -1,0 +1,177 @@
+Return-Path: <denton@herco.net>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 29610 invoked from network); 8 Oct 2001 07:22:14 -0000
+Received: from unknown (HELO harbor4.ballavance.com) (216.70.3.14)
+  by agamemnon.bfsmedia.com with SMTP; 8 Oct 2001 07:22:14 -0000
+Received: from women21.or.kr ([216.25.167.85]) by harbor4.ballavance.com (8.11.0/SCO5) with SMTP id f987IIv11832; Mon, 8 Oct 2001 02:18:20 -0500 (CDT)
+Message-ID: <00002729253f$000058af$000074f2@women21.or.kr>
+To: <cmd@bfr.com>
+Cc: <cssw@bfrconvertibleventures.com>, <mgray@bfsec.bt.co.uk>,
+   <kstevenson@bfsec.bt.co.uk>, <enq@bftl.com>, <datum@bfsurveys.com.au>,
+   <faithchurch@bfree.on.ca>, <hreid@bfree.on.ca>,
+   <adnet@bfrconvertibleventures.com>, <crice@bfsec.bt.co.uk>,
+   <ghender@bfsec.bt.co.uk>, <wwright@bfsec.bt.co.uk>, <brianheap@bfree.on.ca>,
+   <iturking@bfsec.bt.co.uk>, <fairchil@bfsaulco.com>,
+   <c98@bfrconvertibleventures.com>, <bmorrison@bfsec.bt.co.uk>,
+   <bftwsw@bftw.com>, <ayoung@bfsec.bt.co.uk>, <dmaguire@bfsec.bt.co.uk>,
+   <shunsicker@bfree.on.ca>, <trees@bfsinc.com>, <sokelly@bfsec.bt.co.uk>,
+   <cflesher@bfs.e-mail.com>, <btrickey@bfree.on.ca>, <mquinn@bfsec.bt.co.uk>,
+   <steve.atkinson@bfsec.bt.co.uk>, <pmcwill@bfsec.bt.co.uk>,
+   <greenbrier@bfree.on.ca>, <cpc@bfree.on.ca>, <imcneice@bfsec.bt.co.uk>,
+   <lcooke@bfsec.bt.co.uk>, <cmoore@bfsec.bt.co.uk>, <ddougan@bfsec.bt.co.uk>,
+   <ibarr@bfsec.bt.co.uk>, <alester@bfsec.bt.co.uk>, <dmcconvi@bfsec.bt.co.uk>,
+   <ksullivan@bfsec.bt.co.uk>, <bluegoose.kennels@bfsmedia.com>,
+   <idrive@bfsec.bt.co.uk>
+From: denton@herco.net
+Subject: Good luck                         29938
+Date: Mon, 08 Oct 2001 15:18:22 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Content-Length: 5642
+Lines: 139
+
+<html>
+<head>
+<title>Best Casino of Web</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<script language=3D"JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=3Ddocument.MM_sr; for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;=
+i++) x.src=3Dx.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+    var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; i<a=
+.length; i++)
+    if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; d.MM_p[j++].src=3D=
+a[i];}}
+}
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=3Ddocument; if((p=3Dn.indexOf("?"))>0&&parent.frame=
+s.length) {
+    d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for (i=3D0;!x&&i<d.forms.length;i++=
+) x=3Dd.forms[i][n];
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) x=3DMM_findObj(n,d.layers=
+[i].document);
+  if(!x && document.getElementById) x=3Ddocument.getElementById(n); return=
+ x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; fo=
+r(i=3D0;i<(a.length-2);i+=3D3)
+   if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; if(!x.oSrc=
+) x.oSrc=3Dx.src; x.src=3Da[i+2];}
+}
+//-->
+</script>
+</head>
+<body bgcolor=3D"#FFFFFF" text=3D"#FFFFFF" link=3D"#0000FF" vlink=3D"#0000=
+FF" alink=3D"#0099FF" onLoad=3D"MM_preloadImages('http://www.bestcasinoofw=
+eb.com/mail/click1_o.gif')">
+<table width=3D"470" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td colspan=3D"3"><img src=3D"http://www.bestcasinoofweb.com/mail/piec=
+e1.gif" width=3D"470" height=3D"9"></td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#6699FF" width=3D"2"><img src=3D"http://www.bestcasinoo=
+fweb.com/mail/1n.gif" width=3D"2" height=3D"25"></td>
+    <td width=3D"466" background=3D"http://www.bestcasinoofweb.com/mail/bg=
+1.gif">
+      <table width=3D"466" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" background=3D"http://www.bestcasinoofweb.com/mail/1n.gif">
+        <tr>
+          <td valign=3D"top" width=3D"144"><img src=3D"http://www.bestcasi=
+noofweb.com/mail/chick.jpg" width=3D"144" height=3D"328"></td>
+          <td width=3D"322" valign=3D"top" align=3D"center">
+            <table width=3D"322" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+              <tr>
+                <td colspan=3D"2" align=3D"center" height=3D"123"><a href=3D=
+"http://www.bestcasinoofweb.com"><img src=3D"http://www.bestcasinoofweb.co=
+m/mail/100percent.gif" width=3D"315" height=3D"76" vspace=3D"5" hspace=3D"=
+0" border=3D"0"></a><br>
+                  <font color=3D"#000000" face=3D"Arial, Helvetica, sans-s=
+erif" size=3D"2">only
+                  at: <a href=3D"http://www.bestcasinoofweb.com">www.bestc=
+asinoofweb.com</a></font><font color=3D"#000000" face=3D"Arial, Helvetica,=
+ sans-serif" size=3D"2">
+                  </font></td>
+              </tr>
+              <tr>
+                <td width=3D"16"><img src=3D"http://www.bestcasinoofweb.co=
+m/mail/1n.gif" width=3D"16" height=3D"1"></td>
+                <td width=3D"306">
+                  <table width=3D"306" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" height=3D"201">
+                    <tr>
+                      <td><font face=3D"Arial, Helvetica, sans-serif" size=
+=3D"2">Best
+                        Casino of Web is offering a massive <b>100% Instan=
+t CASH
+                        Bonus!</b> <a href=3D"http://www.bestcasinoofweb.c=
+om" onMouseOut=3D"MM_swapImgRestore()" onMouseOver=3D"MM_swapImage('Image1=
+0','','http://www.bestcasinoofweb.com/mail/click1_o.gif',1)"><img name=3D"=
+Image10" border=3D"0" src=3D"http://www.bestcasinoofweb.com/mail/click1.gi=
+f" width=3D"93" height=3D"13"></a><br>
+                        Thats right folks, deposit $50.00 or more at Best =
+Casino
+                        of Web and we will double your bankroll!</font></t=
+d>
+                      <td width=3D"16">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><font face=3D"Arial, Helvetica, sans-serif" size=
+=3D"2">
+                        <font color=3D"#FFFF00">&nbsp;&nbsp;- Deposit $50 =
+get a
+                        $100.00 Bankroll<br>
+                        &nbsp;&nbsp;- Deposit $500 get a $1000.00 Bankroll=
+<br>
+                        &nbsp;&nbsp;- Deposit $2000 get a $4000.00 Bankrol=
+l</font></font>
+                      </td>
+                      <td width=3D"16">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><font face=3D"Arial, Helvetica, sans-serif" size=
+=3D"2">No
+                        matter what amount you buy chips for<br>
+                        <b> WE'LL DOUBLE IT!</b></font></td>
+                      <td width=3D"16">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td colspan=3D"2"><img src=3D"http://www.bestcasinoofweb.c=
+om/mail/1n.gif" width=3D"16" height=3D"1"></td>
+              </tr>
+            </table>
+            <a href=3D"http://www.bestcasinoofweb.com"><img src=3D"http://=
+www.bestcasinoofweb.com/mail/click.gif" width=3D"313" height=3D"42" vspace=
+=3D"10" hspace=3D"0" border=3D"0"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td bgcolor=3D"#6699FF" width=3D"2"><img src=3D"http://www.bestcasinoo=
+fweb.com/mail/1n.gif" width=3D"2" height=3D"25"></td>
+  </tr>
+  <tr>
+    <td colspan=3D"3"><img src=3D"http://www.bestcasinoofweb.com/mail/piec=
+e2.gif" width=3D"470" height=3D"9"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+

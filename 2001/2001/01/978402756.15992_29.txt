@@ -1,0 +1,91 @@
+Return-Path: <illyanaa@networkshosts.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 25513 invoked from network); 1 Jan 2001 02:07:25 -0000
+Received: from unknown (HELO nt37smtp?mta1.westcon.com.au) (203.166.60.132)
+  by snssoftware.com with SMTP; 1 Jan 2001 02:07:25 -0000
+Received: from mx08.networkshosts.com ([63.57.73.32])
+          by nt37smtp_mta1.westcon.com.au (Lotus Domino Release 5.0.4)
+          with SMTP id 2001010112181099:243084 ;
+          Mon, 1 Jan 2001 12:18:10 +1100 
+Received: from mx08.networkshosts.com [192.168.222.15] by 23d.mx08.networkshosts.com with SMTP; Sun, 31 Dec 2000 20:26:26 -0500
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Date: Sun, 31 Dec 2000 20:26:26 -0500
+CC: email@somewhere.com,
+	email@somewhere.com,
+	email@somewhere.com,
+	email@somewhere.com,
+	email@somewhere.com,
+	email@somewhere.com
+Subject: New Internet Casino page. $10 free on signup!!!!!
+From: mikee712@networkshosts.com
+To: networkshosts@somewhere.com
+Message-Id: <56rv6r560.8ek55cuwox1alf0u8@mx08.networkshosts.com>
+X-MIMETrack: Itemize by SMTP Server on NT37SMTP_MTA1/Aussie/Westcon/AsiaPAC/APWestconGroup(Release
+ 5.0.4 |June 8, 2000) at 01/01/2001 12:18:13 PM,
+	Serialize by Router on NT37SMTP_MTA1/Aussie/Westcon/AsiaPAC/APWestconGroup(Release
+ 5.0.4 |June 8, 2000) at 01/01/2001 01:00:00 PM
+MIME-Version: 1.0
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 1567
+Lines: 58
+
+<HTML>
+
+<head>
+<title></title>
+</head>
+
+<body bgcolor=3D"#00FFFF">
+
+<p><b>We've already paid out over a cool <font color=3D"#FF0000"> MILLION=20
+DOLLARS</font> to
+<font color=3D"#FF0000"> WINNERS</font> just like YOU.<br>
+<br>
+Enter the Finest, Highest Paying Casino Online<br>
+<br>
+<font color=3D"#FF0000">$25,000 WINNERS</font> are cashing in at our casino=
+=20
+DAILY.
+Grab YOUR share of this wealth pool and open an account now. We'll bring th=
+e=20
+finest, most secure, highest paying casino on the Net right to your desktop.
+<br>
+<br>
+We deliver the best games, like <font color=3D"#FF0000"> REAL LAS VEGAS STY=
+LE=20
+BLACKJACK</font> plus Caribbean Stud, Draw Poker and LOTS of the loosest Sl=
+ot=20
+Machines you'll ever find. You're just a click away from High Paying Winnin=
+g=20
+Action.<br>
+<br>
+FREE $10 SIGN UP for EVERY new player.<br>
+<a href=3D"http://www3.networkshosts.com/casino"><font size=3D"5">CLICK=20
+HERE</font></a> To Enter The Casino and Win Big Now<br>
+<br>
+3D JAVA &amp; Muti-Player.<br>
+<br>
+Play the best online Casino in the world right now.<br>
+<br>
+NO DOWNLOADS necessary.<br>
+<br>
+INSTANT ACCESS<br>
+<br>
+High quality, totally secure and private CASINO FUN, right on your computer=
+=20
+in the comfort and privacy of home.<br>
+<br>
+PLAY WITH A PROVEN GAMING ORGANIZATION.<br>
+<br>
+Your privacy is taken very seriously and is assured.<br>
+<br>
+WIN BIG at our Virtual Tables and Cash Out Instantly!<br>
+<br>
+<br>
+To Be Removed From Future Mailings: <a href=3D"http://www3.networkshosts.
+com/remove"> CLICK HERE</a><br>
+</b></p>
+</HTML>
+

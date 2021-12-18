@@ -1,0 +1,185 @@
+Return-Path: <urqed@mail1.ordeng.pt>
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 10083 invoked from network); 17 May 2001 11:06:32 -0000
+Received: from meskino.qc.ca (HELO manon.meskino.qc.ca) (root@142.217.223.2)
+  by em.ca with SMTP; 17 May 2001 11:06:32 -0000
+Received: from itmzt.mail1.cdsengineering.nl ([66.78.13.130]) by manon.meskino.qc.ca with SMTP id AA19666
+  (5.67b/IDA-1.5 for <darklord@em.ca>); Thu, 17 May 2001 07:13:53 -0400
+Date: Thu, 17 May 2001 07:13:53 -0400
+Message-Id: <200105171113.AA19666@manon.meskino.qc.ca>
+From: urqed@mail1.ordeng.pt
+To: rbqje@mailer2.sycor.de
+Reply-To: 
+Subject: You deserve to have it all                                    [rxefr]
+Content-Type: text/html;
+Content-Length: 6940
+Lines: 168
+
+
+<html>
+
+<head><script LANGUAGE="JavaScript">
+<!--
+ function scrollit_r2l(seed)
+{ 
+ 	var m1 = "Call now and let us show you the way!!! -- 1-800-897-0395 ... ";	
+   var m2 = "Call now and let us show you the way!!! -- 1-800-897-0395 ... ";
+	var m3 = "Call now and let us show you the way!!! -- 1-800-897-0395 ... "; 
+	var m4 = "Call now and let us show you the way!!! -- 1-800-897-0395 ... "; 
+   var m5 = "Call now and let us show you the way!!! -- 1-800-897-0395 ... ";
+	var msg=m1+m2+m3+m4+m5;        
+	var out = " ";        
+	var c   = 1;        
+	if (seed > 100) 
+		{                
+		seed--;
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                timerTwo=window.setTimeout(cmd,100);        
+		}
+        else if (seed <= 100 && seed > 0) 
+		{
+                for (c=0 ; c < seed ; c++) 
+			{                        
+			out+=" ";
+        		}       
+		out+=msg;
+        	seed--;
+        	var cmd="scrollit_r2l(" + seed + ")";                    
+		window.status=out;                
+		timerTwo=window.setTimeout(cmd,100);        
+	}
+	else if (seed <= 0) 
+		{
+                if (-seed < msg.length) 
+			{                        
+			out+=msg.substring(-seed,msg.length);
+        		seed--;                        
+			var cmd="scrollit_r2l(" + seed + ")";
+        		window.status=out;
+        		timerTwo=window.setTimeout(cmd,100);                
+			}
+                else 
+			{
+	          	window.status=" ";                        
+			timerTwo=window.setTimeout("scrollit_r2l(100)",75);                
+			}        
+		}
+	};
+	scrollit_r2l(100);
+
+//-->
+</script>
+
+<title>WELCOME TO FINANCIAL FREEDOM</title>
+</head>
+
+<body bgcolor="#00008B">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="21%"></td>
+    <td width="75%"><div align="center"><center><table border="3" cellpadding="30"
+    cellspacing="3" width="100%">
+      <tr>
+        <td width="100%"><p align="center"><font face="Arial" color="#F0FFFF"><u><br>
+        <big><big>WELCOME TO FINANCIAL FREEDOM!</big></big></u></font></p>
+        <p align="left">&nbsp;</p>
+        <p align="left"><strong><font face="Arial" color="#F0FFFF">Do you have a burning desire
+        to:</font></strong></p>
+        <ul>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Change the quality of your life?</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Live the life that others only dream
+            about?</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Achieve both personal and financial
+            freedom? </font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">An enjoyable a profitable business
+            from the privacy of your home &amp; retire in 2-3 years?</font></p>
+          </li>
+        </ul>
+        <p align="left"><font face="Arial" color="#F0FFFF"><u><br>
+        CALL NOW and we will help you</u> ... 1-800-897-0395<br>
+        <br>
+        <strong><br>
+        You will learn how to: (LEGALLY &amp; LAWFULLY)</strong></font></p>
+        <ul>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Drastically REDUCE personal, business
+            and capital gains TAXES</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">PROTECT ALL ASSETS from any form of
+            seizure, liens, or judgments</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">CREATE a six figure INCOME every 4
+            months</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Restore and preserve your PERSONAL
+            and FINANCIAL PRIVACY</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Create and amass PERSONAL WEALTH,
+            multiply it and protect it</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Realize a 3 to 6 times GREATER RETURN
+            on your money</font></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF">Legally make yourself and your assets
+            completely JUDGEMENT PROOF</font></p>
+          </li>
+        </ul>
+        <p align="left"><font face="Arial" color="#F0FFFF"><strong><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        THE BEST PART... No Selling, ... Not MLM !!!</strong></font></p>
+        <p align="left"><font face="Arial" color="#F0FFFF"><br>
+        In the last six months, this unique business enterprise has been featured in:</font></p>
+        <ul>
+          <li><p align="left"><strong><font face="Arial" color="#F0FFFF">MILLIONAIRE Magazine, Sept.
+            2000</font></strong></p>
+          </li>
+          <li><p align="left"><strong><font face="Arial" color="#F0FFFF">TYCOON Magazine, AUGUST 2000 </font></strong></p>
+          </li>
+          <li><p align="left"><font face="Arial" color="#F0FFFF"><strong>ENTREPRENEUR Magazine, Fall
+            2000 Issue</strong><br>
+            <br>
+            And various other issues ALL IN THE LAST SIX MONTHS!!!</font></p>
+          </li>
+        </ul>
+        <p align="left"><font face="Arial" color="#F0FFFF"><br>
+        <u><br>
+        Call now and let us show you the way!!!</u> -- 1-800-897-0395<br>
+        <br>
+        <br>
+        Yours in financial health &amp; wealth,<br>
+        <br>
+        <br>
+        Laurie K.</font></p>
+        <p align="left"><font face="Arial" color="#F0FFFF">&nbsp;</font></p>
+        <p align="left"><font face="Arial" color="#F0FFFF">&nbsp;</font></p>
+        <p align="left"><font face="Arial" color="#F0FFFF">&nbsp;</font></p>
+        <p align="left"><font face="Arial" color="#F0FFFF">&nbsp;</font></p>
+        <div align="center"><center><table border="3" cellpadding="10" cellspacing="0" width="69%">
+          <tr>
+            <td width="100%"><font face="Arial"><strong>Your E-mail Address Removal/Deletion
+            Instructions: &nbsp;</strong> &nbsp; </font><p><font face="Arial">The marketing company
+            who sent you this advertisement complies with all proposed federal legislation regarding
+            unsolicited commercial e-mail by providing you with a method for your e-mail address to be
+            permanently removed from our database and any future mailings from our company. &nbsp;
+            &nbsp; </font></p>
+            <p><font face="Arial">To permanently remove your address, please <a
+            href="mailto:mark_out@usa.com?subject=REMOVE">CLICK HERE</a>&nbsp; <br>
+            to send us your request. </font></td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+    </table>
+    </center></div></td>
+    <td width="4%"></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
+
+

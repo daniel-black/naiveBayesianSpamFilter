@@ -1,0 +1,83 @@
+Return-Path: <watkinsweb@netzero.net>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 6520 invoked from network); 1 Mar 2001 05:45:58 -0000
+Received: from anhm-3.fhmrm.firstworld.net (HELO irvnt14.fhmrm.com) (216.128.20.84)
+  by bfsmedia.sk.ca with SMTP; 1 Mar 2001 05:45:58 -0000
+Received: from mail pickup service by irvnt14.fhmrm.com with Microsoft SMTPSVC;
+	 Wed, 28 Feb 2001 21:49:42 +0000
+From: <watkinsweb@netzero.net>
+To: <gn@bfsmedia.com>
+Subject: Web Based Help Desk Software
+Date: Wed, 28 Feb 2001 21:48:54 -0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_47199_01C0A1D0.3F0A8F20"
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3612.1700
+Message-ID: <0bcff4249211c21IRVNT14@irvnt14.fhmrm.com>
+Content-Length: 3233
+Lines: 64
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_47199_01C0A1D0.3F0A8F20
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+I would like to introduce Watkins Web Trak, a completely web-based help
+desk solution to help your company manage its service and support calls.
+This application integrates with your existing Intranet or Extranet so
+all your employees have access to the same database. It may also be used
+on the Internet to track call history for your external customers.
+Watkins Web Trak is a collection of Active Server Pages therefore
+customizing the application is as simple as changing the source code. It
+requires a web server with ASP support and an ODBC connection to your
+database. We bundle a functional Microsoft Access database and a
+Microsoft SQL 7.0 schema file to build the tables required by the
+application. Additional features of the application include:
+*	100% Customizable
+*	Unlimited Security Levels
+*	Quick and easy form submission
+*	Workgroup and Technician level service reports
+*	Dynamic customized reports
+*	Print-and-go service request details
+*	On-line administration of drop-down lists
+*	On-line user profile administration
+*	Asset tracking in user profiles
+*	Six (6) months of support and upgrades
+To try an on-line demo or get more information please click here
+http://216.128.20.85/helpdesk/ . 
+Thank you,
+Chris Watkins
+Watkins Web Works
+(714) 287-3289
+To be removed from this list, please reply to this message with the word
+'Remove' as the subject.
+------=_NextPart_000_47199_01C0A1D0.3F0A8F20
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I would like to introduce Watkins Web Trak, a completely web-based help =
+desk solution to help your company manage its service and support calls. =
+This application integrates with your existing Intranet or Extranet so =
+all your employees have access to the same database. It may also be used =
+on the Internet to track call history for your external =
+customers.<p>Watkins Web Trak is a collection of Active Server Pages =
+therefore customizing the application is as simple as changing the =
+source code. It requires a web server with ASP support and an ODBC =
+connection to your database. We bundle a functional Microsoft Access =
+database and a Microsoft SQL 7.0 schema file to build the tables =
+required by the application. Additional features of the application =
+include:<ul><li>100% Customizable<li>Unlimited Security Levels<li>Quick =
+and easy form submission<li>Workgroup and Technician level service =
+reports<li>Dynamic customized reports<li>Print-and-go service request =
+details<li>On-line administration of drop-down lists<li>On-line user =
+profile administration<li>Asset tracking in user profiles<li>Six (6) =
+months of support and upgrades</ul><p>To try an on-line demo or get more =
+information please click here<a =
+href=3Dhttp://216.128.20.85/helpdesk/>http://216.128.20.85/helpdesk/</a>.=
+ <p>Thank you,<br>Chris Watkins<br>Watkins Web Works<br>(714) =
+287-3289<p><font size=3D2>To be removed from this list, please reply to =
+this message with the word 'Remove' as the subject.</font>
+------=_NextPart_000_47199_01C0A1D0.3F0A8F20--

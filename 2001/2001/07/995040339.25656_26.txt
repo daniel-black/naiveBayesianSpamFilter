@@ -1,0 +1,304 @@
+Return-Path: <todd1635@mochamail.com>
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 15705 invoked from network); 13 Jul 2001 08:11:05 -0000
+Received: from ftp.maxess.co.kr (HELO ns.boranet.co.kr) (211.53.232.130)
+  by em.ca with SMTP; 13 Jul 2001 08:11:05 -0000
+Received: from SMTP5 by ns.boranet.co.kr with SMTP (Microsoft Exchange Internet Mail Service Version 5.0.1460.8)
+	id 3XX47QVX; Fri, 13 Jul 2001 16:21:18 +0900
+Received: from  [22.241.5.157] by _[249.219.142.214]_by with SMTP id A102C38E2 Fri, 13 Jul 2001 00:24:10 PDT
+From: <todd1635@mochamail.com>
+Subject: Fw: Disabled and can't work?            
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Fri, 13 Jul 2001 00:41:26
+Content-Length: 12371
+Lines: 288
+
+
+
+
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY vLink=#999999 aLink=#ffffff link=#666666 bgColor=#CCCCCC leftMargin=0 
+topMargin=0 marginheight="0" marginwidth="0" text="#FFFFFF">
+<BASEFONT 
+face="Verdana, Arial, Helvetica" color=#999999 size=1> 
+<div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000">You 
+  are receiving this e-mail because you opted-in by requesting information or 
+  requested to receive <br>
+  special offers from an online purchase, in the last 6 months. To unsubscribe, 
+  please click <a href="http://www.unsubscribelist.com"><font color="#0000FF">HERE</font></a> 
+  </font> 
+  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="650" bgColor=#000000 
+border=0 vspace="0" hspace="0">
+    <TBODY> 
+    <TR bgcolor="#CCCCCC"> 
+      <TD vAlign=top width="650"> 
+        <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#000000 border=0 
+      vspace="0" hspace="0">
+          <TBODY></TBODY>
+        </TABLE>
+        <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#990000 
+        border=0>
+          <TBODY> 
+          <TR align=right> 
+            <TD width="100%">&nbsp;</TD>
+          </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#990000 
+        border=0>
+          <TBODY> 
+          <TR> 
+            <TD width="100%" height=16><IMG height=1 
+            src="http://1077677838/spacer.gif" 
+            width=1></TD>
+          </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 vspace="0" 
+      hspace="0">
+          <TBODY> 
+          <TR> 
+            <TD vAlign=top bgColor=#990000><IMG height=25 
+            src="http://1077677838/smallLogo.gif" 
+            width=600></TD>
+            <TD vAlign=top width="100%" bgColor=#cc3333> 
+              <TABLE height=17 cellSpacing=0 cellPadding=0 width="100%" 
+            bgColor=#990000 border=0 vspace="0" hspace="0">
+                <TBODY> 
+                <TR vAlign=top> 
+                  <TD align=left width="100%"><IMG height=1 
+                  src="http://1077677838/spacer.gif" 
+                  width=1></TD>
+                </TR>
+                </TBODY>
+              </TABLE>
+            </TD>
+          </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE cellSpacing=0 cellPadding=0 width="650" bgColor=#000000 border=0 
+      vspace="0" hspace="0">
+          <TBODY> 
+          <TR bgcolor="#000000"> 
+            <TD vAlign=top height="54"> 
+              <div align="left"><IMG height=55 
+            src="http://1077677838/home.leftimage2.jpg" 
+            width=592></div>
+            </TD>
+          </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE cellSpacing=0 cellPadding=0 bgColor=#000000 border=0 vspace="0" 
+      hspace="0">
+          <TBODY></TBODY>
+        </TABLE>
+        <div align="center"><font color="#990000" size="3"><b><font color="#000000"> 
+          <font size="4">SOCIAL SECURITY DISABILITY INSURANCE REPRESENTATION</font></font></b></font></div>
+        <TABLE cellSpacing=0 cellPadding=0 width="650" border=0>
+          <TBODY> 
+          <TR> 
+            <TD height=5><IMG height=5 
+            src="http://1077677838/spacer.gif" 
+            width=1></TD>
+          </TR>
+          </TBODY>
+        </TABLE>
+        <TABLE cellSpacing=0 cellPadding=0 width="650" border=0>
+          <TBODY> 
+          <TR> 
+            <TD vAlign=top colspan="3"><SPACER width="25" type="block"> 
+              <blockquote>
+                <DIV class=homecontent> 
+                  <p align="center"><b><font color="#990000"><b><font size="5" color="#000000"><br>
+                    Free Evaluation</font></b></font></b></p>
+                  <p><b><font color="#990000" size="4"><br>
+                    Are you, or is someone you know, unable to work because of 
+                    a disabling condition?<br>
+                    </font></b><b><font color="#990000"><font color="#000000">SSDI 
+                    benefits are intended to provide the financial support you 
+                    need.</font></font></b> </p>
+                  <p><font color="#990000"><b><font size="4">Without expert help, 
+                    applying for SSDI benefits can take years.</font><font color="#000000"><br>
+                    Statistics show without assistance from a qualified professional, 
+                    85% of claims are denied at the first level and 75% are denied 
+                    at the appeal level.</font></b> </font></p>
+                </DIV>
+              </blockquote>
+              <DIV class=homecontent> 
+                <div align="center">
+                  <table width="90%" border="0" cellspacing="0" cellpadding="5">
+                    <tr> 
+                      <td width="5%" valign="top"><img src="http://1077677838/redcheck.gif" width="20" height="20"></td>
+                      <td width="95%"> 
+                        <div class=homecontent> 
+                          <div align="left"></div>
+                        </div>
+                        <div class=homecontent><font color="#990000"><b><font color="#990000" size="4"><b>Our 
+                          success rate is over 90%.We help you get the benefits 
+                          you deserve and we don't get paid until you receive 
+                          your SSDI benefits. </b></font></b></font></div>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="5%" valign="top"><img src="http://1077677838/redcheck.gif" width="20" height="20"></td>
+                      <td width="95%"><font color="#990000"><b><font size="4">We 
+                        help you complete all your application forms, appeal forms, 
+                        questionnaires and we get your medical evidence in order. 
+                        </font></b></font></td>
+                    </tr>
+                    <tr> 
+                      <td width="5%" valign="top"><img src="http://1077677838/redcheck.gif" width="20" height="20"></td>
+                      <td width="95%"><font color="#990000" size="4"><b>If your 
+                        claim must go before a judge, we will be there with you 
+                        to help you through the hearing process. </b></font></td>
+                    </tr>
+                  </table>
+                  <font color="#990000"><b><font color="#990000" size="4"><b> 
+                  </b></font></b></font></div>
+              </DIV>
+              <div align="center">
+                <blockquote>&nbsp; </blockquote>
+              </div>
+              <blockquote>
+                <DIV class=homecontent align="center"></DIV>
+                <DIV class=homecontent align="center"></DIV>
+              </blockquote>
+              <div align="center">
+                <DIV class=homecontent> 
+                  <p align="center"><font color="#990000"><b> <font size="4" color="#000000">Contact 
+                    us, by filling out the form below, for a free <br>
+                    evaluation to determine if you qualify for SSDI benefits.</font></b></font></p>
+                <hr>
+              </DIV>
+            </div></TD>
+          </TR>
+          </TBODY> 
+        </TABLE>
+        <div align="center"><div align="center">
+          <table cellspacing=0 bordercolordark=#333300 cellpadding=3 width=625 
+bordercolorlight=#ffffcc>
+            <tbody> 
+            <tr> 
+              <td> 
+                  <form 
+      action="mailto:disable20@n2mail.com?cc=disable11@excite.com&subject=Disabled1" 
+      method=post enctype=text/plain>
+                    <table width="100%" border="0">
+                      <tbody> 
+                      <tr> 
+                        <td width="45%"> 
+                          <div align=right><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Full 
+                            Name:</b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <input name=Full_Name>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%"> 
+                          <div align=right><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Email:</b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <input name=Email_Address>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%"> 
+                          <div align=right><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Home 
+                            Phone:</b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <input name=HOME_PHONE>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="45%">
+                          <div align="right"><font face="Arial, Helvetica, sans-serif" color="#000000"><b>State:</b></font></div>
+                        </td>
+                        <td width="55%">
+                          <input type="text" name="State">
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%"> 
+                          <div align=right><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Date 
+                            Last Worked:</b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <input name=Date_Last_Worked>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%"> 
+                          <div align=right><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Your 
+                            Disability:</b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <input name=Disability>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%"> 
+                          <div align="right"><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Your 
+                            Age: </b></font> </div>
+                        </td>
+                        <td width="55%"> 
+                          <input name=Age size="5" maxlength="3">
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%"> 
+                          <div align="right"><font size="3" color="#000000" face="Arial, Helvetica, sans-serif"><b>Best 
+                            Way to Contact:</b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <select name="Best_Contact_Method">
+                            <option value="Email" selected>Email</option>
+                            <option value="Telephone">Telephone</option>
+                          </select>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="45%" valign="top"> 
+                          <div align="right"><font color="#000000"><b><font face="Arial, Helvetica, sans-serif">Comments:</font></b></font></div>
+                        </td>
+                        <td width="55%"> 
+                          <textarea name="textfield" rows="5"></textarea>
+                        </td>
+                      </tr>
+                      </tbody> 
+                    </table>
+                  <div 
+      align=center><br>
+                    <input type=submit value="Submit Information" name=submit>
+                  </div>
+                </form>
+              </td>
+            </tr>
+            </tbody> 
+          </table>
+          <hr>
+          <table cellspacing=0 cellpadding=0 width="100%" bgcolor=#990000 
+        border=0>
+            <tbody> 
+            <tr align=right> 
+              <td width="100%">&nbsp;</td>
+            </tr>
+            </tbody> 
+          </table>
+         
+</div>
+      </div></TD>
+    </TR>
+    </TBODY>
+  </TABLE>
+</div>
+</BODY></HTML>
+
+
+
+
+

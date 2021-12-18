@@ -1,0 +1,59 @@
+Return-Path: <tpicc@maktoob.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 30140 invoked from network); 18 May 2001 21:10:43 -0000
+Received: from isca.vghks.gov.tw (203.68.94.1)
+  by bfsmedia.sk.ca with SMTP; 18 May 2001 21:10:43 -0000
+Received: from vghfw.vghks.gov.tw (vghfw.vghks.gov.tw [203.68.94.61])
+	by isca.vghks.gov.tw (8.9.2/8.9.2) with SMTP id EAA29048;
+	Sat, 19 May 2001 04:48:40 +0800 (CST)
+Date: Sat, 19 May 2001 04:48:40 +0800 (CST)
+From: tpicc@maktoob.com
+Message-Id: <200105182048.EAA29048@isca.vghks.gov.tw>
+To: qjuge@key-net.net
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"; 
+Subject: *DEADLINE* Is This SUNDAY                                                   ubcky
+Content-Length: 1676
+Lines: 41
+
+<html>
+ <head>
+ <title>Untitled Document</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ </head>
+ 
+ <body bgcolor="#FFFFFF">
+ <table width="60%" border="0" bgcolor="#000000">
+   <tr>
+     <td>
+       <div align="center"><font face="Arial, Helvetica, sans-serif" size="5"><b><font color="#FFFF00">DEADLINE 
+         ...Is This SUNDAY!</font></b></font></div>
+     </td>
+   </tr>
+ </table>
+ <blockquote> 
+   <blockquote>
+     <p><font face="Arial, Helvetica, sans-serif"><b><font size="4" color="#FF3333">Free 
+       Report Reveals:</font></b></font></p>
+     <p><b><font face="Arial, Helvetica, sans-serif">* How To Turn 50 Cents Into 
+       50 DOLLARS</font></b></p>
+     <p><b><font face="Arial, Helvetica, sans-serif">* How To Get A FREE Business 
+       Building CD Rom </font></b></p>
+     <p><b><font face="Arial, Helvetica, sans-serif">* How To Start A Profitable 
+       Home Based Business In 72 Hours</font></b></p>
+     <p><b><font face="Arial, Helvetica, sans-serif">And MUCH MORE!</font></b></p>
+     <p><b><font face="Arial, Helvetica, sans-serif">To Get Your FREE Copy, Click 
+       Here:</font></b></p>
+     <p><a href="mailto:sendinfo@centrum.cz?subject=SEND"><font size="4" face="Arial, Helvetica, sans-serif"><b><i>Yes! 
+       I want my FREE Report!</i></b></font></a></p>
+     <p> </p>
+     <p>---------------------------------------------------</p>
+     <p><a href="mailto:rmvplease@mundomail.net">Click here for removal</a></p>
+   </blockquote>
+ </blockquote>
+ <p> </p>
+ </body>
+ </html>
+
+
+<p><br><br><br><br><center><font face='MS Sans Serif' size=-4 color='#c0c0c0'>Content-Transfer-Encoding: 7BIT</font></center>

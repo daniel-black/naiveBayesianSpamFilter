@@ -1,0 +1,118 @@
+Return-Path: <sdpis@aol.com>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 25649 invoked from network); 3 Nov 2001 11:46:20 -0000
+Received: from unknown (HELO mail.gamutsoft.com) (211.101.236.26)
+  by agamemnon.bfsmedia.com with SMTP; 3 Nov 2001 11:46:20 -0000
+Received: from 32.100.16.37 ([32.100.16.37])
+          by mail.gamutsoft.com (Lotus Domino Release 5.0.6a)
+          with SMTP id 2001110317421134:203780 ;
+          Sat, 3 Nov 2001 17:42:11 +0800 
+To: <Undisclosed Recipients>
+From: sdpis@aol.com
+Subject: Turn Your CD Writer Into A DVD Writer, Cheap                                                     6718
+Date: Sun, 04 Nov 2001 09:11:15 -0400
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+Errors-To: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Return-Path: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-MIMETrack: Itemize by SMTP Server on gamutserver/gamutdomino(Release 5.0.6a |January
+ 17, 2001) at 11/03/2001 05:42:14 PM,
+	Serialize by Router on gamutserver/gamutdomino(Release 5.0.6a |January 17, 2001) at
+ 11/03/2001 07:51:37 PM,
+	Serialize complete at 11/03/2001 07:51:37 PM
+Message-ID: <OF8F0F1F97.D361DFB4-ON48256AF9.00354E3B@gamutsoft.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Length: 2262
+Lines: 88
+
+<HTML>
+<BODY>
+<script language=3D"JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init=3D=3Dtrue) with (navigator) {if ((appName=3D=3D"Netscape")&&(pa=
+rseInt(appVersion)=3D=3D4)) {
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; onresize=3D=
+MM_reloadPage; }}
+  else if (innerWidth!=3Ddocument.MM_pgW || innerHeight!=3Ddocument.MM_pgH=
+) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+</head>
+
+<body>
+
+<table border=3D"1" width=3D"45%" bordercolor=3D"#008000" bordercolorlight=
+=3D"#000080"
+bordercolordark=3D"#0000FF">
+  <tr>
+    <td width=3D"100%"><p align=3D"center"><big><big><big><font face=3D"Ar=
+ial Black" color=3D"#008040">COPY
+    ANY DVD MOVIE!!</font></big></big></big></p>
+    <p align=3D"center"><font face=3D"Arial" color=3D"#000080"><big>With o=
+ur revolutionary software
+    you can copy virtually any DVD Movie using your existing equipment!&nb=
+sp; Conventional
+    DVD copying</big><br>
+    <big>equipment can cost thousands of $$$</big><br>
+    <br>
+    <strong>Our revolutionary software cost less than the price of 2 DVD M=
+ovies!</strong>&nbsp;&nbsp;</font>
+    <p align=3D"center"><font face=3D"Arial" color=3D"#000080">
+    <strong><a href=3D"http://66.163.40.1/DVD/dvd15/index.html" target=3D"=
+_blank">CLICK HERE FOR MORE INFO</a><br>
+    </strong></font><font face=3D"Arial Black" color=3D"#008040"><img
+    src=3D"http://66.163.40.1/DVD/dvddisk.jpg" width=3D"150" height=3D"110=
+"
+    alt=3D"dvddisk.jpg (12058 bytes)"></font></td>
+  </tr>
+</table>
+<script language=3D"JavaScript">
+//this code is the beginning of the right click and key disable
+function right(e) { 
+if (navigator.appName =3D=3D 'Netscape' && 
+(e.which =3D=3D 3 || e.which =3D=3D 2)) 
+return false; 
+else if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && 
+(event.button =3D=3D 2 || event.button =3D=3D 3)) { 
+alert("This Action Not Allowed!"); 
+return false; 
+} 
+return true; 
+} 
+
+function keypressed() { 
+alert("This Action Not Allowed!"); 
+} 
+document.onmousedown=3Dright; 
+document.onkeydown=3Dkeypressed; 
+</script>
+
+
+</body>
+</html>
+
+
+
+
+
+
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+
+
+
+<html><p><p><head><p><title>COPY ANY DVD MOVIE</title><p><p><p><p><p><p><p=
+>
+</BODY>
+</HTML>
+
+

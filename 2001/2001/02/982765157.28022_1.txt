@@ -1,0 +1,43 @@
+Return-Path: <EnlargeYourManliness@hotmail.com>
+Spam-Apparently-To: <burton@bfsmedia.com>
+Received: (qmail 2057 invoked from network); 21 Feb 2001 11:39:30 -0000
+Received: from unknown (HELO MAIL.intranet.rrc.si) (195.250.194.240)
+  by bfsmedia.sk.ca with SMTP; 21 Feb 2001 11:39:30 -0000
+Received: from ariane ([192.168.7.5] unverified) by MAIL.intranet.rrc.si with Microsoft SMTPSVC(5.0.2195.1600);
+	 Wed, 21 Feb 2001 12:34:15 +0100
+From: EnlargeYourManliness@hotmail.com
+To: 
+Subject: Enlarge your penis, results GUARANTEED!!
+Date: Tue, 20 Feb 2001 23:46:33 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_4F98_00006466.000051D6"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Return-Path: EnlargeYourManliness@hotmail.com
+Message-ID: <MAIL9XDtMVK9vJdgko300000f8b@MAIL.intranet.rrc.si>
+X-OriginalArrivalTime: 21 Feb 2001 11:34:15.0484 (UTC) FILETIME=[38496FC0:01C09BFA]
+
+------=_NextPart_000_4F98_00006466.000051D6
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+<HTML>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function fullScreen(theURL) {
+window.open("http://www.freehostusa.net/members/995520099", '', 'fullscreen=yes, scrollbars=auto');
+}
+//  End -->
+</script>
+</HEAD>
+
+<BODY>
+<FONT SIZE=5><B>
+<CENTER><a href="http://www.freehostusa.net/members/995520099" onClick="fullScreen('full-screen.html');">Guys, Add 4 Inches To Your Penis!!!  Our Program Works Guaranteed!!!  CLICK HERE TO SEE!!!</a></CENTER>
+<HTML>
+</BODY></HTML>
+
+

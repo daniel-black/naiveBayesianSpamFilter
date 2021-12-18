@@ -1,0 +1,38 @@
+Return-Path: <support@xenon.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 968 invoked from network); 28 Apr 2001 03:11:58 -0000
+Received: from proxy.vonrollisola.com (216.238.161.50)
+  by em.ca with SMTP; 28 Apr 2001 03:11:58 -0000
+Received: from QRJATYDI ([195.161.9.26]) by proxy.vonrollisola.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Fri, 27 Apr 2001 13:44:07 -0400
+From: "Support Team" <support@xenon.com>
+To: %MAIL%
+Subject: the Bullet-Proof Email Center
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Test
+Date: Sat, 28 Apr 2001 0:59:55 +0700
+Mime-Version: 1.0
+Content-Type: text/plain; charset="windows-1251"
+Content-Length: 1290
+
+Welcome to the Bullet-Proof Email Center 
+Bcc: 
+Return-Path: support@xenon.com
+Message-ID: <02a780744171b41VRI-USA-GATEWAY@proxy.vonrollisola.com>
+Date: 27 Apr 2001 13:45:02 -0400
+Our company specializes in Internet marketing methods, including bulk email. Bulk emailing brings you thousands
+of quality visitors including lots of sales and leads at an affordable price. We can help you regardless if you
+do not have any Internet experience or a web site.
+Our experience and expertise in marketing is at your disposal. Why do things the hard way, when you can take the
+advice and help from a company that has years of experience on the Internet with all forms of on-line
+advertising. 
+Our goal is to establish a long-term relationship with each and every one of our clients by providing a steady
+stream of visitors, leads and sales.
+Bulk Email With a Bullet Proof Web Site 
+Studies have shown that you can increase your responses 50-300% by using a web site as part of the mailing
+process. Now you can promote your website without the fear of having it shut down because of Spam complaints .We
+have made a deal with our backbone ( concentric.net ) in order to provide you with a worry free service. 
+For more information Please visit our website www.xenus.com our call us @ 
+1-888-932-4249
+

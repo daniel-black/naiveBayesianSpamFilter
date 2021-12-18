@@ -1,0 +1,56 @@
+Return-Path: <estlowman@wickedspeed.net>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 9355 invoked from network); 29 Jan 2001 14:22:35 -0000
+Received: from unknown (HELO lovemo.cyberplexafrica.com) (193.220.44.116)
+  by bfsmedia.sk.ca with SMTP; 29 Jan 2001 14:22:35 -0000
+Received: from mx01.wickedspeed.net ([63.27.69.185])
+          by lovemo.cyberplexafrica.com (Post.Office MTA v3.5.3 release 223
+          ID# 0-0U10L2S100V35) with SMTP id com;
+          Mon, 29 Jan 2001 15:22:02 +0200
+Message-Id: <2l6tr.b0jc2hes73nf7u@mx01.wickedspeed.net>
+From: achamis@wickedspeed.net
+Date: Mon, 29 Jan 2001 20:19:28 -0500
+To: wickedspeed@bfw.com
+CC: greid@bfw.com,
+	gn@bfw.com,
+	goose.kennels@bfw.com,
+	gpickren@bfw.com,
+	gler@bfw.com,
+	glidewellart@bfw.com
+Content-Type: text/plain;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Subject: MAKE WINDOWS MUCH MORE RELIABLE!!!!
+Content-Length: 831
+Lines: 30
+
+Dear Windows User,
+
+Now you can boost the reliability of ordinary Windows ME, 95 and 98 to
+nearly the level of Windows NT or 2000, Microsoft's professional and 
+industrial version of Windows.
+
+The new WinFix 4.4 is a very effective way to improve the reliability of
+Windows, because it makes Windows fault-tolerant and self-repairing. And
+WinFix is very safe, because it operates completely independent of Windows.
+
+http://www.wickedspeed.net/comph to find out more about WinFix,
+the safest, most effective way to keep you working, by keeping your PC
+working non-stop.
+
+
+Arlen Dixon, CEO
+
+Westwood Software Marketing
+
+
+* * * * * * * * * * * * * * * * *
+
+This announcement is being sent to PC users who asked to be kept
+informed about new developments in Windows(tm) technology.
+
+To be removed:
+http://www.wickedspeed.net/remove
+
+
+

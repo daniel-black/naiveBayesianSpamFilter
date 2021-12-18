@@ -1,0 +1,33 @@
+Return-Path: <bizcntr@msn.com>
+Delivered-To: em-ca-darklord@em.ca
+Received: (qmail 26154 invoked from network); 5 Oct 2001 15:04:25 -0000
+Received: from unknown (HELO ns.guide.com.tw) (211.20.11.68)
+  by agamemnon.bfsmedia.com with SMTP; 5 Oct 2001 15:04:25 -0000
+Received: from html (simonconstruction.co [209.61.190.155] (may be forged))
+	by ns.guide.com.tw (8.11.2/linuxconf) with SMTP id f95EjFu13579;
+	Fri, 5 Oct 2001 22:45:53 +0800
+From: bizcntr@msn.com
+Message-Id: <200110051445.f95EjFu13579@ns.guide.com.tw>
+To: fictionm@aol.com
+Subject: 
+Date: Fri, 5 Oct 2001 08:40:09
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 501
+Lines: 11
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+
+<head>
+<title>MOE DEBT</title>
+</head>
+<BODY text=#ffffff vLink=#ffffff aLink=#ffffff link=#ffffff>
+<A HREF="#" onClick="window.open('http://www.logiforms.com/formdata/user_forms/760_3292822/1382/','1382', 'toolbar=0,menubar=0,scrollbars=1,status=0,resizable=0,width=600,height=600');return false">
+<p align="center"><Img Src="http://66.78.57.250/~edebtcn/congrats.gif" Alt="" Width="600" Height="225"></A>
+<!-- end logiform.com code -->
+
+</font>

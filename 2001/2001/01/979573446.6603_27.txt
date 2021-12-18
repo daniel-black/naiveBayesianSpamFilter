@@ -1,0 +1,35 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 20266 invoked from network); 13 Jan 2001 17:43:36 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bruce-guenter.dyndns.org with SMTP; 13 Jan 2001 17:43:36 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S130069AbRAMRnD>; Sat, 13 Jan 2001 12:43:03 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129878AbRAMRmx>; Sat, 13 Jan 2001 12:42:53 -0500
+Received: from iris.ocn.ne.jp ([211.6.83.106]:60608 "EHLO iris.ocn.ne.jp")
+	by vger.kernel.org with ESMTP id <S129413AbRAMRmq>;
+	Sat, 13 Jan 2001 12:42:46 -0500
+Received: from iris.ocn.ne.jp (p0750-ip04higasisibu.tokyo.ocn.ne.jp [61.119.129.242])
+	by iris.ocn.ne.jp (8.9.1a/OCN/) with SMTP id CAA05281
+	for <linux-kernel@vger.kernel.org>; Sun, 14 Jan 2001 02:42:42 +0900 (JST)
+Date:	Sun, 14 Jan 2001 02:42:42 +0900 (JST)
+Message-Id: <200101131742.CAA05281@iris.ocn.ne.jp>
+To:	linux-kernel@vger.kernel.org
+Subject: =?ISO-2022-JP?B?GyRCPUshKiQ0QC4/TRsoQg==?=**
+From:	Over Twenty <jmp@iris.ocn.ne.jp>
+Mime-Version: 1.0
+Content-Type: text/plain; Charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 294
+
+ご成人オメデトウゴザイマス
+http://www.gem.hi-ho.ne.jp/p-head/tobi/infdex.htm
+ご成人以外は削除してください
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

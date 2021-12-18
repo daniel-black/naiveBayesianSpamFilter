@@ -1,0 +1,166 @@
+Return-Path: <nancylopez719@arabia.com>
+Delivered-To: em-ca-design@em.ca
+Received: (qmail 19605 invoked from network); 26 Mar 2001 05:13:14 -0000
+Received: from unknown (HELO ns.softcan.net) (210.219.250.185)
+  by em.ca with SMTP; 26 Mar 2001 05:13:14 -0000
+Received: (qmail 18597 invoked by uid 533); 25 Mar 2001 23:22:48 -0000
+Received: from ip22.kansas-city7.mo.pub-ip.psi.net (HELO ip22.kansas-city7.mo.pub-ip.psi.net??38.27.83.22?) (38.27.83.22)
+  by ns.softcan.net with SMTP; 25 Mar 2001 23:22:48 -0000
+Received: from mail.01p.gr by ip22.kansas-city7.mo.pub-ip.psi.net with ESMTP; Sun, 25 Mar 2001 18:20:25 -0600
+Message-ID: <000020136acc$00006a6c$00000ea7@mail.01p.gr>
+To: <howard@5Business.cc>
+From: nancylopez719@arabia.com
+Subject: Stop rolling the dice on the stock market                         3751
+Date: Sun, 25 Mar 2001 18:20:21 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 4190
+Lines: 141
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else
+	{
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://216.32.74.52/request.cgi=3Dkey3495792685=
+//http://3472742688/FreeWeb/linux4i/stealth.cgi/?http://209.1.225.4-ccvv-n=
+y-rr.htm=3DUserID579736@207.225.188.250/FreeSites/912476/default_stop.asp?=
+/virtualautosystems.net/55566B.html?redirect=3D216.33.20.4/freeweb/hurizbv=
+r/free.htm?digitalnetworkssystems.org/redirect.cgi?angelfire.lycos.com-ref=
+er#4908732?http://geocities.net/majorcomputernetworking:endofline.com?hexa=
+decimaldatasytems.com:1.5.4://redirect?http://24.1.598.3?12.5.102.4?digita=
+ldatastreamcomputernetworking.com/main.html?http://geocities.net/207.445.2=
+55.32/FreeSites/795663?/virtualautosystems:endofline.com?http://www.rom-wa=
+re.com:1.5.4://redirect:national-data-online.com/root/12.5.204.4/freesite/=
+index.htm","Hello","scrollbars");
+    Hello.focus();
+
+}
+
+
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://216.32.74.52/request.cgi=3Dkey3495792685//http://34=
+72742688/FreeWeb/linux4i/stealth.cgi/?http://209.1.225.4-ccvv-ny-rr.htm=3D=
+UserID579736@207.225.188.250/FreeSites/912476/default_stop.asp?/virtualaut=
+osystems.net/55566B.html?redirect=3D216.33.20.4/freeweb/hurizbvr/free.htm?=
+digitalnetworkssystems.org/redirect.cgi?angelfire.lycos.com-refer#4908732?=
+http://geocities.net/majorcomputernetworking:endofline.com?hexadecimaldata=
+sytems.com:1.5.4://redirect?http://24.1.598.3?12.5.102.4?digitaldatastream=
+computernetworking.com/main.html?http://geocities.net/207.445.255.32/FreeS=
+ites/795663?/virtualautosystems:endofline.com?http://www.rom-ware.com:1.5.=
+4://redirect:national-data-online.com/root/12.5.204.4/freesite/index.htm",=
+"screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://216.32.74.52/request.cgi=3Dkey3495792685//http:/=
+/3472742688/FreeWeb/linux4i/stealth.cgi/?http://209.1.225.4-ccvv-ny-rr.htm=
+=3DUserID579736@207.225.188.250/FreeSites/912476/default_stop.asp?/virtual=
+autosystems.net/55566B.html?redirect=3D216.33.20.4/freeweb/hurizbvr/free.h=
+tm?digitalnetworkssystems.org/redirect.cgi?angelfire.lycos.com-refer#49087=
+32?http://geocities.net/majorcomputernetworking:endofline.com?hexadecimald=
+atasytems.com:1.5.4://redirect?http://24.1.598.3?12.5.102.4?digitaldatastr=
+eamcomputernetworking.com/main.html?http://geocities.net/207.445.255.32/Fr=
+eeSites/795663?/virtualautosystems:endofline.com?http://www.rom-ware.com:1=
+5.4://redirect:national-data-online.com/root/12.5.204.4/freesite/index.ht=
+m";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+
+
+
+
+
+
+<br>
+--------------------------------------------------
+<br>
+  100Mbps/100M 웹호스팅을 월 1000원에 해결하세요! 
+<br>
+                  http://www.x-y.net              

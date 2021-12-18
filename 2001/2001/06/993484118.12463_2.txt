@@ -1,0 +1,177 @@
+Return-Path: <be_masters@europe.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 24520 invoked from network); 25 Jun 2001 05:49:17 -0000
+Received: from unknown (HELO mail.kijang.pusan.kr) (210.99.51.195)
+  by bfsmedia.sk.ca with SMTP; 25 Jun 2001 05:49:17 -0000
+Received: from idmni.hotbot.com (unverified [210.99.51.254]) by mail.kijang.pusan.kr
+ (EMWAC SMTPRS 0.83) with SMTP id <B0001694477@mail.kijang.pusan.kr>;
+ Sun, 24 Jun 2001 16:32:44 +0900
+Date: Sun, 24 Jun 2001 16:32:44 +0900
+Message-ID: <B0001694477@mail.kijang.pusan.kr>
+From: be_masters@europe.com
+To: unknown@unknown.com
+Reply-To: 
+Subject: !!! Warning: Scam Alert... !!!                                    [zovay]
+Content-Type: text/html;
+Content-Length: 6321
+Lines: 159
+
+
+<html>
+
+<head>
+<title>Warning:&nbsp;&nbsp; Scam Alert ...</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<script>
+function initArray() {
+ this.length = initArray.arguments.length
+ for (var i = 0; i < this.length; i++)
+ this[i+1] = initArray.arguments[i]
+}
+var hexChars = "0123456789ABCDEF";
+function Dec2Hex (Dec) {
+ var a = Dec % 16;
+ var b = (Dec - a)/16;
+ hex = "" + hexChars.charAt(b) + hexChars.charAt(a);
+ return hex;
+}
+function bgChanger (begin, end, steps) {
+ steps = steps -1 ;
+ redA = begin.charAt(0) + begin.charAt(1);
+ red_valA = parseInt(redA,'16');
+ redB = end.charAt(0) + end.charAt(1);
+ red_valB = parseInt(redB,'16');
+ red_int = ((red_valB - red_valA) / steps) * -1;
+ grnA = begin.charAt(2) + begin.charAt(3);
+ grn_valA = parseInt(grnA,'16');
+ grnB = end.charAt(2) + end.charAt(3);
+ grn_valB = parseInt(grnB,'16');
+ grn_int = ((grn_valB - grn_valA) / steps) * -1;
+ bluA = begin.charAt(4) + begin.charAt(5);
+ blu_valA = parseInt(bluA,'16');
+ bluB = end.charAt(4) + end.charAt(5);
+ blu_valB = parseInt(bluB,'16');
+ blu_int = ((blu_valB - blu_valA) / steps) * -1;
+ step = 2;
+ red = red_valA;
+ grn = grn_valA;
+ blu = blu_valA;
+ document.bgColor = begin;
+ while ( steps >= step ) {
+ red -= red_int;
+ red_round = Math.round(red);
+ red_hex = Dec2Hex(red);
+ grn -= grn_int;
+ grn_round = Math.round(grn);
+ grn_hex = Dec2Hex(grn);
+ blu -= blu_int;
+ blu_round = Math.round(blu);
+ blu_hex = Dec2Hex(blu);
+ document.bgColor = red_hex + grn_hex + blu_hex;
+// document.write("<br>bgcolor = " + red_hex + grn_hex + blu_hex);
+ step++;
+}
+ document.bgColor = end;
+}
+</script>
+<script>
+<!-- 
+// black to black (pause)
+ bgChanger("000000","000000",25);
+// black to red
+ bgChanger("000000","FF0000",25);
+// red to black
+ bgChanger("FF0000","000000",25);
+// black to purple 
+ bgChanger("000000","AA00EE",25);
+// purple to black
+ bgChanger("AA00EE","000000",25);
+// black to blue
+ bgChanger("000000","0000FF",25);
+// blue to black
+ bgChanger("0000FF","000000",25);
+// black to your color (pause)
+ bgChanger("000000","#CCCCCC",25);
+// -->
+</script>
+<div align="center"><center>
+
+<table border="0" cellpadding="20" cellspacing="0" width="100%">
+  <tr>
+    <td width="10%" bgcolor="#000066">&nbsp;</td>
+    <td width="80%" bgcolor="#FFFFFF"><div align="center"><center><table border="3"
+    cellpadding="15" cellspacing="0" width="91%" bgcolor="#000066">
+      <tr>
+        <td width="100%" bgcolor="#FFFF00"><p align="center"><font color="#FF0000" face="Tahoma"><big><big><big><strong>!!!</strong>
+        &nbsp; Warning - Scam Alert <strong>!!!</strong></big></big></big></font></td>
+      </tr>
+    </table>
+    </center></div><p align="left"><strong><em><font color="#8000FF" lang="0"
+    style="BACKGROUND-COLOR: #ffffff" back="#ffffff" family="SANSSERIF" ptsize="12"
+    face="Times New Roman" size="4">&nbsp;</font><font color="#8000FF" lang="0"
+    style="BACKGROUND-COLOR: #ffffff" back="#ffffff" family="SANSSERIF" ptsize="12" size="4"
+    face="Tahoma"><br>
+    </font></em><small><font color="#FF0000" face="Tahoma">&quot;There is absolutely NO WAY
+    for the average person to make money on the Internet!<br>
+    <br>
+    They are ALL SCAMS and only STUPID people fall for them!</font></small></strong></p>
+    <p align="left">&nbsp;</p>
+    <p align="left"><font face="Tahoma"><u><strong>Or so I thought....</strong></u></font></p>
+    <p align="left"><small><font color="#0000FF" face="Tahoma"><strong>Those &quot;really
+    were&quot; my exact words just 10 months ago</strong>, after spending more than a year
+    working dozens of MLM and affiliate programs.<br>
+    <br>
+    <strong>And you know what?&nbsp; <u>I was absolutely wrong!</u><br>
+    </strong><br>
+    What I found one day, was an email very similar to the one you're reading right now, that
+    talked about joining a home business mentorship program.&nbsp; </font></small></p>
+    <p align="left"><small><font color="#0000FF" face="Tahoma">The purpose or function of this
+    program was to <strong>do all the necessary research FOR you</strong>, to search out and <strong>test
+    the REAL opportunities on the net</strong> and to <strong>show you the secrets to
+    succeeding</strong> where most people fail in these businesses.</font></small></p>
+    <p align="left"><small><font color="#0000FF" face="Tahoma"><strong>My decision to respond
+    to that email changed my life!</strong></font></small></p>
+    <p align="left"><small><font color="#0000FF" face="Tahoma">By clicking the link below, you
+    can <u>learn the SECRETS of how REAL people make REAL money</u> on the Internet!</font></small></p>
+    <p align="left"><small><font color="#0000FF" face="Tahoma">It's easier than you
+    thought!&nbsp; </font></small></p>
+    <p align="left"><small><font color="#0000FF" face="Tahoma">Sign up now to receive this
+    FREE information and get positioned above 1000's of new people who will be joining on June
+    4th's official kick-off!</font></small></p>
+    <strong><p align="center"><a href="mailto:smartcenter2002@yahoo.com.mx?subject=SUBSCRIBE"><font
+    face="Tahoma" color="#CC0000" size="2"><br>
+    </font><font size="3" face="Tahoma" color="#CC0000">Click Here to receive your free
+    information</strong> </font></a></p>
+    <p align="center">&nbsp;</p>
+    <p align="center"><small><font color="#8000FF" face="Tahoma">There's <strong>absolutely no
+    risk or obligation</strong> to you - subscribe today!</font></small></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p><small><font face="Tahoma"><br>
+    </font></small></p>
+    <hr>
+    <p><small><font face="Tahoma"><strong>Your E-mail Address Removal Instructions:</strong><br>
+    <br>
+    The marketing company who sent you this advertisement complies with all proposed federal
+    legislation regarding unsolicited commercial e-mail by providing you with a method for
+    your e-mail address to be permanently removed from their database and any future mailings
+    from their company.<br>
+    <br>
+    To permanently remove your address, please <a
+    href="mailto:unsuscribe_me@mail.com?subject=REMOVE">CLICK HERE</a> to send your request.</font></small></td>
+    <td width="10%" bgcolor="#000066">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="13%"></td>
+    <td width="53%"></td>
+    <td width="13%"></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
+
+

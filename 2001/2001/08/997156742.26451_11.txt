@@ -1,0 +1,35 @@
+Return-Path: <online_greetings@gptaiwan.yam.org.tw>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 18148 invoked from network); 6 Aug 2001 23:52:30 -0000
+Received: from host3-76.imaginet.fr (HELO frmail.france.dstm.com) (195.68.76.3)
+  by daedelus.bfsmedia.com with SMTP; 6 Aug 2001 23:52:30 -0000
+Received: from dE78pp0lc (PPPa6-ResaleNashville3-5R7232.dialinx.net [4.54.209.195]) by frmail.france.dstm.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PR1H3XK5; Tue, 7 Aug 2001 01:46:12 +0200
+DATE: 06 Aug 01 6:38:34 PM
+FROM: online_greetings@gptaiwan.yam.org.tw
+Message-ID: <10h5DT5kTomIL94j9P>
+SUBJECT: Someone Has Sent You A Greeting
+Content-Length: 548
+Lines: 21
+
+<HTML>
+
+<FONT COLOR="#000000" SIZE=3 FACE="VERDANA,ARIAL">
+Hello!  We're writing to let you know that someone has sent you a greeting.
+<br><br>
+
+To pick up your greeting, simply<br> 
+<a href="http://216.110.166.169/">CLICK HERE</a>
+<br><br>
+
+We hope you enjoy your greeting. If you have any questions feel free to email <br>
+us at the address below. <br><br> 
+
+Thanks!<br><br> 
+
+James Cordman<br>
+<a href="mailto:JamesCordman@AmericanGreetingz.cc">JamesCordman@AmericanGreetingz.cc</a><br>
+AmericanGreetingz.cc Customer Service 
+
+</BODY>
+</HTML>c3

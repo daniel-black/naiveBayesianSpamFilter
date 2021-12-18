@@ -1,0 +1,306 @@
+Return-Path: <bobdans2394@voyager.co.nz>
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 31102 invoked from network); 2 Apr 2001 05:10:02 -0000
+Received: from unknown (HELO diocargo.com) (qmailr@211.42.250.102)
+  by em.ca with SMTP; 2 Apr 2001 05:10:02 -0000
+Received: (qmail 18546 invoked from network); 3 Apr 2001 06:31:50 -0000
+Received: from rsvp-207-173-147-238.ac05.rcrd.eli.net (HELO rsvp-207-173-147-238.ac05.rcrd.eli.net??207.173.147.238?) (207.173.147.238)
+  by www.diocargo.com with SMTP; 3 Apr 2001 06:31:50 -0000
+Received: from mail-in.pol.net.uk by rsvp-207-173-147-238.ac05.rcrd.eli.net with ESMTP; Sun, 01 Apr 2001 23:40:31 -0600
+Message-ID: <000040f409d4$00004587$00007895@mail-in.pol.net.uk>
+To: <sueallendo4955@desertmail.com>
+From: bobdans2394@voyager.co.nz
+Subject: U.S stocks are tumbling again                         30869
+Date: Sun, 01 Apr 2001 23:40:22 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: georg1956@kangaroojumpingallaroundtheforest54678.com
+Return-Path: georg1956@kangaroojumpingallaroundtheforest54678.com
+Reply-To: cagrape@k4baj8.com
+Content-Length: 7150
+Lines: 280
+
+<HTML>
+<BODY>
+return false; 
+}
+if (event.F11){
+return false; 
+}
+
+}
+
+function right(evnt) {
+if (navigator.appName.toUpperCase().match(/NETSCAPE/) !=3D null) {
+if (evnt.which >=3D 2){
+return false;
+}
+}
+else
+if (event.button>=3D2)
+return true;
+}
+document.onmousedown=3Dright;
+if (document.layers) window.captureEvents(Event.MOUSEDOWN);
+window.onmousedown=3Dright;
+function clos(){
+parent.window.close();
+
+}
+// End -->
+
+</script>
+<SCRIPT language=3DJavaScript1.1>
+
+
+<!-- Begin
+function right(e)
+
+ {
+
+var msg =3D "Not Available";
+
+if (navigator.appName =3D=3D 'Netscape' && e.which =3D=3D 3)
+
+ {
+
+
+return false;
+
+}
+
+else
+
+if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && event.button=
+=3D=3D2)
+
+ {
+
+
+return false;
+
+}
+
+return true;
+
+}
+var mclick =3D  0;
+function cy(form)
+{
+    var mthanks =3D 'Thank  You For Your Interest';
+    var mclick =3D mclick+1;
+    var remmsg =3D "Error! Missing Data.";
+    if (!form.acctemail.value)
+         {
+         var remmsg =3D" Error!  Please enter an email address";
+         alert(remmsg);
+          return;
+          }
+    else
+         {
+            form.submit();
+            return;  
+         }
+           
+       
+} // End of function validate_remove
+
+
+function cyorder(form)
+{
+  var x=3D1;
+  var ordermsg =3D "Error!  Missing Data";
+  
+
+
+
+if (!form.State.value) {
+        var ordermsg =3D "Error!  Please enter your state.";
+         x=3D2; } 
+ if (!form.City.value){
+        var ordermsg =3D "Error!  Please enter your city name.";
+          x=3D2; } 
+ if (!form.Phone.value){
+        var ordermsg =3D "Error!  Please enter your phone number.";
+          x=3D2; }
+ if (!form.Name.value){
+        var ordermsg =3D "Error!  Please enter your name.";
+          x=3D2; }
+if (x=3D=3D2) 
+{
+   alert(ordermsg);
+   return; 
+}else{
+      form.submit();
+     return; }
+   
+} // End of function validate_remove
+  
+
+function closeit() {
+
+     window.close()
+
+}
+
+document.onmousedown =3D right;
+// End -->
+
+</SCRIPT>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Do You Yen To Be A Millionaire!</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#FF0000" VLINK=3D"#FF0000" ALINK=3D"#FF0=
+000">
+
+<P ALIGN=3D"CENTER"><FONT COLOR=3D"#FFFF33" face=3D"Arial"><B>Thank you fo=
+r your interest.<BR>
+<BR>
+Please fill out the below form so that you may receive your FREE-NO Obliga=
+tion<BR>
+Information Package on Currency Trading.</B></FONT></P>
+<CENTER>
+<P><FORM ACTION=3D"mailto:swmannah2o@kangaroojumpingaround10005q.org?subje=
+ct=3DYenInfo" METHOD=3D"POST" ENCTYPE=3D"text/plain"> <IMG
+SRC=3D"http://www.a-1emailservice.com/FreeHosting/713867/invest/images/bag=
+_o_money.gif
+" WIDTH=3D"120" HEIGHT=3D"127"
+ALIGN=3D"BOTTOM" BORDER=3D"0"><IMG SRC=3D"http://www.a-1emailservice.com/F=
+reeHosting/713867/invest/images/handscoins.gif"
+WIDTH=3D"87" HEIGHT=3D"113" ALIGN=3D"BOTTOM" BORDER=3D"0"><IMG SRC=3D"http=
+://www.a-1emailservice.com/FreeHosting/713867/invest/images/moneycoins.gif=
+"
+WIDTH=3D"100" HEIGHT=3D"113" ALIGN=3D"BOTTOM" BORDER=3D"0"><IMG SRC=3D"htt=
+p://www.a-1emailservice.com/FreeHosting/713867/invest/images/moneyeagle.gi=
+f"
+WIDTH=3D"110" HEIGHT=3D"113" ALIGN=3D"BOTTOM" BORDER=3D"0"><FONT SIZE=3D"2=
+" COLOR=3D"#66FF66" face=3D"Arial"><BR>
+YOU MUST INCLUDE YOUR PHONE NUMBER, CITY AND<BR>
+STATE TO RECEIVE ADDITIONAL INFORMATION!</FONT><FONT COLOR=3D"#FFFF33" fac=
+e=3D"Arial"><B><BR>
+</B></FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B><BR>
+</B></FONT><FONT COLOR=3D"#FFFFFF" face=3D"Arial">For additional informati=
+on fill in the form and click on the </FONT><FONT
+COLOR=3D"#FFFF33" face=3D"Arial">&quot;I Authorize&quot;</FONT><FONT COLOR=
+=3D"#FFFFFF" face=3D"Arial"> button below</FONT><FONT
+COLOR=3D"#000000" face=3D"Arial">.</FONT><FONT face=3D"Arial"><BR>
+</FONT><FONT COLOR=3D"#0000AA" face=3D"Arial">x</FONT> 
+<TABLE BORDER=3D"0" WIDTH=3D"38%">
+	<TR>
+		<TD WIDTH=3D"100%" ALIGN=3D"CENTER">
+			<CENTER>
+			<P><FONT COLOR=3D"#FFFFFF" face=3D"Arial">Name</FONT><FONT COLOR=3D"#66=
+FF66" face=3D"Arial"> (Required)<BR>
+			</FONT><INPUT TYPE=3D"TEXT" NAME=3D"Name" SIZE=3D"25" MAXLENGTH=3D"25">
+</CENTER>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"100%" ALIGN=3D"CENTER">
+			<CENTER>
+			<P><FONT COLOR=3D"#FFFFFF" face=3D"Arial">Phone Number</FONT><FONT COLO=
+R=3D"#66FF66" face=3D"Arial"> (Required)<BR>
+			</FONT><INPUT TYPE=3D"TEXT" NAME=3D"Phone" SIZE=3D"25" MAXLENGTH=3D"15"=
+>
+</CENTER>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"100%" ALIGN=3D"CENTER">
+			<CENTER>
+			<P><FONT COLOR=3D"#FFFFFF" face=3D"Arial">City</FONT><FONT COLOR=3D"#66=
+FF66" face=3D"Arial"> (Required)<BR>
+			</FONT><INPUT TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"25" MAXLENGTH=3D"25">
+</CENTER>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"100%" ALIGN=3D"CENTER">
+			<CENTER>
+			<P><FONT COLOR=3D"#FFFFFF" face=3D"Arial">State</FONT><FONT COLOR=3D"#6=
+6FF66" face=3D"Arial"> (Required)<BR>
+			</FONT><INPUT TYPE=3D"TEXT" NAME=3D"State" SIZE=3D"25" MAXLENGTH=3D"25"=
+>
+</CENTER>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"100%" ALIGN=3D"CENTER">
+			<CENTER>
+			<P><FONT COLOR=3D"#99FF99" face=3D"Arial">Attention European Residents:=
+</FONT><FONT COLOR=3D"#FFFFFF" face=3D"Arial"><BR>
+			Country (Provence/County) Code<BR>
+			</FONT><FONT COLOR=3D"#66FF66" face=3D"Arial">if available.</FONT><FONT=
+ SIZE=3D"2" face=3D"Arial"><BR>
+			</FONT><INPUT TYPE=3D"TEXT" NAME=3D"Code" SIZE=3D"25" MAXLENGTH=3D"25">
+</CENTER>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"100%" HEIGHT=3D"52" ALIGN=3D"CENTER">
+			<CENTER>
+			<P><FONT COLOR=3D"#FFFFFF" face=3D"Arial">E-Mail<BR>
+			</FONT><INPUT TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"25" MAXLENGTH=3D"25"=
+>
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+<FONT face=3D"Arial"><BR>
+</FONT><FONT COLOR=3D"#66FF66" face=3D"Arial">(Request without phone numbe=
+r will not be processed)</FONT><FONT SIZE=3D"2"
+face=3D"Arial"><BR>
+</FONT><FONT face=3D"Arial"><BR>
+</FONT><FONT COLOR=3D"#FFFFFF" face=3D"Arial">Your email address will be h=
+eld private for in house use only.<BR>
+We will not release your email address to any other party.</FONT><FONT COL=
+OR=3D"#000000" face=3D"Arial"><BR>
+</FONT><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"I Authorize" onClic=
+k=3D"cyorder(this.form)"></P>
+</CENTER>
+<CENTER>
+<P></FORM>
+<FORM ACTION=3D"mailto:removeme@k4jbx7s.com?subject=3DRemoveYen" METHOD=3D=
+"POST" ENCTYPE=3D"text/plain"><FONT COLOR=3D"#66FF66"
+face=3D"Arial">PLEASE CLICK ONE TIME ONLY---IT MAY TAKE UP TO 30 SECONDS<B=
+R>
+</FONT><FONT COLOR=3D"#FFFFFF" face=3D"Arial">If you wish to be removed, p=
+lease type in your email<BR>
+address in the above remove box and click the remove button.<BR>
+</FONT><FONT face=3D"Arial"><BR>
+</FONT><INPUT TYPE=3D"TEXT" NAME=3D"acctemail" SIZE=3D"25" MAXLENGTH=3D"25=
+"><FONT face=3D"Arial"><BR>
+</FONT><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"Remove" onClick=3D"=
+cy(this.form)">
+</CENTER>
+<P>
+</FORM>
+
+
+</BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><p><HTML><p><p><HEAD><p><=
+SCRIPT language=3DJavaScript><p><!--<p><p>function rightkey(evnt) {<p>if (=
+event.button>=3DF11){<p><p><p><p><p><p><p>
+</BODY>
+</HTML>
+
+

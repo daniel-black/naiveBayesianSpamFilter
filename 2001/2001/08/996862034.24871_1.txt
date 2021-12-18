@@ -1,0 +1,193 @@
+Return-Path: <corporate.support7@excite.com>
+Spam-Apparently-To: <blueg@bfsmedia.com>
+Received: (qmail 28051 invoked by uid 502); 3 Aug 2001 17:34:36 -0000
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 28040 invoked from network); 3 Aug 2001 17:34:34 -0000
+Received: from unknown (HELO email.sbsn.net) (61.129.52.109)
+  by daedelus.bfsmedia.com with SMTP; 3 Aug 2001 17:34:34 -0000
+Received: from mta.excite.com ([208.38.138.90])
+          by email.sbsn.net (Lotus Domino Release 5.0.1 (Intl))
+          with SMTP id 2001080401331056:1860 ;
+          Sat, 4 Aug 2001 01:33:10 +0800 
+From: "corporate.support7@excite.com" <corporate.support7@excite.com>
+To: "2039@hotmail.com" <2039@hotmail.com>
+Message-ID: <0996859483.0398722676@mta.excite.com>
+Subject: MIssed your call
+MIME-Version: 1.0
+X-MIMETrack: Itemize by SMTP Server on email/sbsnet(Release 5.0.1 (Intl)|16 July 1999) at
+ 2001-08-04 01:33:10 AM,
+	Serialize by Router on email/sbsnet(Release 5.0.1 (Intl)|16 July 1999) at
+ 2001-08-04 01:42:20 AM,
+	Serialize complete at 2001-08-04 01:42:20 AM
+Date: Sat, 4 Aug 2001 01:33:10 +0800
+X-Priority: 3 (Normal)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+
+<html>
+<script language=3D"javascript">
+</script>
+<HEAD>
+
+ <TITLE>Eliminate debt and consolidate. Repair your credit today- consolid=
+ation.</TITLE>
+ 
+<script language=3D"JavaScript">
+
+<!--
+
+function MM_swapImgRestore() { //v3.0
+
+  var i,x,a=3Ddocument.MM_sr; for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;=
+i++) x.src=3Dx.oSrc;
+
+}
+
+
+
+function MM_preloadImages() { //v3.0
+
+  var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+
+    var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; i<a=
+length; i++)
+
+    if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; d.MM_p[j++].src=3D=
+a[i];}}
+
+}
+
+
+
+function MM_findObj(n, d) { //v3.0
+
+  var p,i,x;  if(!d) d=3Ddocument; if((p=3Dn.indexOf("?"))>0&&parent.frame=
+s.length) {
+
+    d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}
+
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for (i=3D0;!x&&i<d.forms.length;i++=
+) x=3Dd.forms[i][n];
+
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) x=3DMM_findObj(n,d.layers=
+[i].document); return x;
+
+}
+
+
+
+function MM_swapImage() { //v3.0
+
+  var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; fo=
+r(i=3D0;i<(a.length-2);i+=3D3)
+
+   if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; if(!x.oSrc=
+) x.oSrc=3Dx.src; x.src=3Da[i+2];}
+
+}
+
+//-->
+
+</script>
+
+</head>
+
+
+ 
+
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0=
+" onLoad=3D"MM_preloadImages('http://mysprintfast.com/web/c6tt/images/main=
+_15_2o.gif')" text=3D"#ffffff" link=3D"#ffffff" vlink=3D"#ffffff" alink=3D=
+"#ffffff">
+
+<div align=3D"center">
+
+<table width=3D"715" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+
+<tr> 
+
+<td width=3D"140"><IMG height=3D66 alt=3D"Consolidate your debt payments n=
+ow!." src =3D"http://mysprintfast.com/web/c6tt/images/main_01.gif" width=3D=
+140 ><br>
+
+</td>
+
+<td align=3D"middle"><br></td>
+
+</tr>
+
+<tr> 
+
+<td width=3D"140"><IMG style=3D"WIDTH: 304px; HEIGHT: 51px" height=3D65 al=
+t=3D"JFS Direct" src=3D"http://mysprintfast.com/web/c6tt/images/LogoNew.gi=
+f" width=3D140 ></td>
+
+<td align=3D"left" valign=3D"bottom">
+
+<tr> 
+
+<td colspan=3D"2"> 
+
+<table width=3D"715" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+
+<tr align=3D"left" valign=3D"top"> 
+
+<td width=3D"413"><br>
+
+<IMG height=3D45 alt=3D"Eliminate debt and end creditor harassement now." =
+src =3D"http://mysprintfast.com/web/c6tt/images/main_13.gif" width=3D413 >=
+<br>
+
+<IMG height=3D85 alt=3D"Join Now! Click here." src=3D"http://mysprintfast.=
+com/web/c6tt/images/main15.gif" width=3D320 >
+<a href=3D"http://211.152.134.203/~inbox001/default.html" onMouseOut=3D"MM=
+_swapImgRestore()" onMouseOver=3D"MM_swapImage('click','','http://mysprint=
+fast.com/web/c6tt/images/main_15_2o.gif',1)"><IMG height=3D85 src=3D"http:=
+//mysprintfast.com/web/c6tt/images/main_15_2o.gif" width=3D93 border=3D0 n=
+ame=3Dclick></a><br>
+
+<IMG height=3D168 alt=3D"Reduce your debt payments, consolidate bills, red=
+uce or eliminate interest, improve credit ratings, eliminate late charges.=
+" src =3D"http://mysprintfast.com/web/c6tt/images/main_16.gif" width=3D413=
+ ><br>
+
+
+<br>
+
+</td>
+
+<td><br><br>&nbsp; </td>
+
+</tr>
+
+<tr align=3D"left" valign=3D"top"> 
+
+<td colspan=3D"2" align=3D"middle" valign=3D"top"><font face=3D"Verdana, A=
+rial, Helvetica, sans-serif" size=3D"-1"></font><br><br></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<p align=3D"center"><font face=3D"Arial" size=3D"1" color=3D"#008000"></fo=
+nt></A></p>
+
+</body>
+
+</html>
+
+/html>
+
+2=02
+
+<-*->O_AF8,$iO_AF8,$0,szIO_A[F9zdiO_A[F9zd8Z==60,[=,s0,szI9dNFziO_As 0,szId9dz=iO_A=R=0,szIdS[||zd8iO_A=R=0,szIOuAiO_A=R=0,szI9As3sNiO_A=R=0,szIOsn,$dA9iO_=dnS,s0,szI9dSS[=s8iO_=F,0O30,s0n@I9dN[9iO_=F,0O30,s0n@I9OnA8=iO_=F,0O30,s0n@I9$[  [8=iO_=F,0O30,s0n@I9zsAA[=s8iO_=F,0O30,s0n@I9s,n[88iO_=F,0O30,s0n@Id,,sn83[8 iO_=zF9[d0,szIOSnF ss=F0@F88FS=iO_=zF9[d0,szIOd8 =d?d8i$s3zd[S0,sz<-*->

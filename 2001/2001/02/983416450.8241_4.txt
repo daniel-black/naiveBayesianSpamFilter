@@ -1,0 +1,141 @@
+Return-Path: <littleapril@sudanmail.com>
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 29644 invoked from network); 1 Mar 2001 02:15:59 -0000
+Received: from ns.hsc.ru (194.84.65.198)
+  by em.ca with SMTP; 1 Mar 2001 02:15:59 -0000
+Received: (qmail 63730 invoked from network); 1 Mar 2001 01:00:04 -0000
+Received: from rsvp-208-187-58-72.ac05.rcrd.eli.net (HELO rsvp-208-187-58-72.ac05.rcrd.eli.net??208.187.58.72?) (208.187.58.72)
+  by ns.hsc.ru with SMTP; 1 Mar 2001 01:00:04 -0000
+Received: from gulp.datacom.de by rsvp-208-187-58-72.ac05.rcrd.eli.net with ESMTP; Wed, 28 Feb 2001 19:54:57 -0600
+Message-ID: <0000093c3638$000049fa$0000359e@gulp.datacom.de>
+To: <joe454@desertmail.com>
+From: littleapril@sudanmail.com
+Subject: New wave investment                         13726
+Date: Wed, 28 Feb 2001 19:54:49 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: andreak@sudanmail.com
+X-Mailer: USANET web-mailer (34WB1.4.03)
+Content-Length: 2245
+Lines: 116
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.arabia.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://intwotheweb.com","Hello",
+"scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://intwotheweb.com","screen","fullscreen=3Dyes");
+		}
+	}
+	else
+	{
+		location.href=3D"http://intwotheweb.com";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><p><HTML><p><p><HEAD><p><=
+meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transit=
+ion=3D10)"><p><script language=3D"JavaScript"> <!--<p><p>var message=3D"So=
+rry, that function is disabled."; // Message for the alert box<p>
+</BODY>
+</HTML>
+
+

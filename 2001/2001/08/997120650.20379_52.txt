@@ -1,0 +1,204 @@
+Return-Path: <tts1gzdesw@hotmail.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 31639 invoked from network); 6 Aug 2001 11:05:46 -0000
+Received: from sr4.terra.com.br (200.176.2.91)
+  by daedelus.bfsmedia.com with SMTP; 6 Aug 2001 11:05:45 -0000
+Received: from emergencia-sao.sao.terra.com.br (emergencia-sao.sao.terra.com.br [200.177.250.226])
+	by sr4.terra.com.br (8.9.3/8.9.3) with ESMTP id IAA24801;
+	Mon, 6 Aug 2001 08:03:25 -0300
+From: tts1gzdesw@hotmail.com
+Received: from unspecified.host ([200.204.200.229])
+	by emergencia-sao.sao.terra.com.br (8.11.0/8.11.1) with SMTP id f76B1kI04860;
+	Mon, 6 Aug 2001 08:01:50 -0300
+Message-Id: <200108061101.f76B1kI04860@emergencia-sao.sao.terra.com.br>
+Received: from 208.187.96.14 ([208.187.96.14]) by 200.204.200.229 (WinRoute Pro 4.1) with SMTP; Mon, 6 Aug 2001 07:55:18 -0300
+To: <a74h62t4sqr@hotmail.com>
+Subject: Send a dozen roses for under $29.95! - plus 10% off all bouquets
+Date: Mon, 06 Aug 2001 05:54:46 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: cf2o2ncersn@email.com.br
+Content-Length: 6914
+Lines: 177
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>Receive 10</title>
+</head>
+
+<body>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"500" bgco=
+lor=3D"#0033cc" style=3D"width:375.0pt;mso-cellspacing:0in;background:#003=
+3CC;mso-padding-alt:
+ 1.5pt 1.5pt 1.5pt 1.5pt">
+  <tr>
+    <td style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt">
+      <div align=3D"center">
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"5=
+00" bgcolor=3D"white" style=3D"width:375.0pt;mso-cellspacing:0in;backgroun=
+d:white;mso-padding-alt:
+   0in 0in 0in 0in">
+          <tr>
+            <td style=3D"background:#FFFFCC;padding:0in 0in 0in 0in">
+              <p class=3D"MsoNormal" align=3D"center" style=3D"mso-margin-=
+top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:center"><span style=3D"font-size:18.0pt;color:red">Rec=
+eive 10%
+              off each Bouquet!<br>
+              </span><span style=3D"font-size:18.0pt;color:#FF6600">Get a =
+Dozen
+              Roses starting as<br>
+              low as $29.95 - less 10%!<br>
+              </span><span style=3D"font-size:18.0pt;color:blue">Birthday?
+              Anniversary? Any occasion!<br>
+              </span><span style=3D"font-size:18.0pt;color:fuchsia">Show y=
+ou care
+              with</span><span style=3D"font-size:18.0pt"> </span><span st=
+yle=3D"font-size:18.0pt;color:red">Flowers!</span><o:p>
+              </o:p>
+              </p>
+              <div align=3D"center">
+                <table border=3D"0" cellpadding=3D"0" width=3D"75%" style=3D=
+"width:75.0%;mso-cellspacing:
+     1.5pt;mso-padding-alt:0in 0in 0in 0in">
+                  <tr>
+                    <td style=3D"padding:.75pt .75pt .75pt .75pt">
+                      <p class=3D"MsoNormal"><a href=3D"http://service.bfa=
+st.com/bfast/click?bfmid=3D70780&amp;sourceid=3D38571493&amp;categoryid=3D=
+roses" target=3D"_top"><span style=3D"text-decoration:none;text-underline:=
+none"><!--[if gte vml 1]><v:shapetype
+       id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferre=
+lative=3D"t"
+       path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" stroked=3D"f">
+       <v:stroke joinstyle=3D"miter"/>
+       <v:formulas>
+        <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+        <v:f eqn=3D"sum @0 1 0"/>
+        <v:f eqn=3D"sum 0 0 @1"/>
+        <v:f eqn=3D"prod @2 1 2"/>
+        <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+        <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+        <v:f eqn=3D"sum @0 0 1"/>
+        <v:f eqn=3D"prod @6 1 2"/>
+        <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+        <v:f eqn=3D"sum @8 21600 0"/>
+        <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+        <v:f eqn=3D"sum @10 21600 0"/>
+       </v:formulas>
+       <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"=
+rect"/>
+       <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+      </v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" alt=3D=
+"Red Roses"
+       style=3D'width:122.25pt;height:107.25pt'>
+       <v:imagedata src=3D"Proflowersfinal_files/S163x143FRedRoses2_tn.jpe=
+g"/>
+      </v:shape><![endif]-->
+                      <img border=3D"0" width=3D"163" height=3D"143" src=3D=
+"http://a1128.g.akamai.net/7/1128/497/0001/www.proflowers.com/prodimg/RedR=
+oses2_sm.jpg" alt=3D"Red Roses" v:shapes=3D"_x0000_i1025"></span></a><!--[=
+if gte vml 1]><v:shape
+       id=3D"_x0000_i1026" type=3D"#_x0000_t75" alt=3D"" style=3D'width:.7=
+5pt;height:.75pt'>
+       <v:imagedata src=3D"Proflowersfinal_files/serve.gif"/>
+      </v:shape><![endif]-->
+                      <img border=3D"0" width=3D"1" height=3D"1" src=3D"fi=
+le:///C:/Documents%20and%20Settings/nmolina/Desktop/Proflowersfinal_files/=
+serve.gif" NOSAVE v:shapes=3D"_x0000_i1026"><a href=3D"http://service.bfas=
+t.com/bfast/click?bfmid=3D70780&amp;sourceid=3D38571493&amp;categoryid=3Do=
+ddsizes" target=3D"_top"><span style=3D"text-decoration:none;text-underlin=
+e:none"><!--[if gte vml 1]><v:shape
+       id=3D"_x0000_i1027" type=3D"#_x0000_t75" alt=3D"Carnival of Color" =
+style=3D'width:122.25pt;
+       height:107.25pt'>
+       <v:imagedata src=3D"Proflowersfinal_files/NewCarnival_tn.jpeg"/>
+      </v:shape><![endif]-->
+                      <img border=3D"0" width=3D"163" height=3D"143" src=3D=
+"http://a1128.g.akamai.net/7/1128/497/0001/www.proflowers.com/prodimg/mixe=
+droses_sm.jpg" alt=3D"Carnival of Color" v:shapes=3D"_x0000_i1027"></span>=
+</a><o:p>
+                      </o:p>
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:=
+center"><o:p>
+              </o:p>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style=3D"background:#FFFFCC;padding:0in 0in 0in 0in">
+              <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:=
+center">Send
+              flowers direct from the grower at low summer prices with a 1=
+0% off
+              limited time offer. Shop by flower type or choose from a myr=
+iad of
+              beautiful bouquets<span style=3D"font-family:Garamond;layout=
+-grid-mode:line">.</span><b><span style=3D"font-size:11.0pt;mso-bidi-font-=
+size:12.0pt;font-family:Arial;
+    color:blue"><a href=3D"http://www.iexpect.com/ProflowersM.shtml?n=3D3"=
+><br>
+              US Deliveries</a></span></b><span style=3D"font-size:10.0pt;=
+mso-bidi-font-size:
+    12.0pt"><o:p>
+              </o:p>
+              </span></p>
+              <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:=
+center">&nbsp;<o:p>
+              </o:p>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">=
+<o:p>
+      </o:p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt">
+      <p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-b=
+ottom-alt:auto"><span style=3D"font-size:8.0pt;mso-bidi-font-size:12.0pt;c=
+olor:#FFFF99">This
+      email was sent to you because your email is part of a targeted opt-i=
+n
+      list.&nbsp; If you do not wish to receive further mailings, please c=
+lick
+      below and enter your email at the bottom of the page.&nbsp; You may =
+then
+      rest-assured that you will never receive another email from us again=
+.&nbsp;&nbsp;<a href=3D"http://www.removeyou.com/" onmouseover=3D"window.s=
+tatus=3D'Remove me!';return true;"><span style=3D"color:
+  #FFFF99">UNSUBSCRIBE ME PLEASE</span></a> #022481</span><font vilfflepii=
+@yahoo.com<span style=3D"font-size:8.0pt;
+  mso-bidi-font-size:18.0pt;color:#FFFF99"><o:p>
+      </o:p>
+      </span></p>
+    </td>
+  </tr>
+</table>
+
+
+
+<br>                                                                      =
+                                          
+
+</BODY>
+</HTML>
+
+
+

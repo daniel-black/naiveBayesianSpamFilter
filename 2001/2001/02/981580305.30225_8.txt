@@ -1,0 +1,212 @@
+Return-Path: <bizzpeople2@hotmail.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 13971 invoked from network); 7 Feb 2001 20:12:13 -0000
+Received: from esmtp.readysoft.es (212.7.39.254)
+  by bfsmedia.sk.ca with SMTP; 7 Feb 2001 20:12:13 -0000
+Received: from mc1.law13.hotmail.com (webserver.readysoft.es [194.179.34.9] (may be forged))
+	by esmtp.readysoft.es (8.9.3/8.9.3) with SMTP id VAA13053;
+	Wed, 7 Feb 2001 21:21:45 +0100
+From: bizzpeople2@hotmail.com
+Message-ID: <00003de62892$00007082$00004834@mc1.law13.hotmail.com>
+To: <Undisclosed.Recipients@esmtp.readysoft.es>
+Subject: Financial Intelligence                         18484
+Date: Wed, 07 Feb 2001 13:15:07 -1900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 5598
+Lines: 190
+
+<HTML>
+<head>
+</head>
+<font color=3D#80ffff></font><font color=3D#f4f3bb></font>
+<BODY text=3D"#000000" bgcolor=3D"#f4f3bb" link=3D"#0000EE" vlink=3D"#551A=
+8B" alink=3D"#FF0000">
+<b><font size=3D"+1"><font color=3D#000000> 
+
+Dear friend, <br>
+<br>
+Allow me to ask you some very straightforward questions:<br>
+<br>
+Do you consider yourself FINANCIALLY INTELLIGENT?<br>
+<br>
+Do you consider yourself a serious entrepreneur?<br>
+<br>
+Are you still looking for a very real business that can provide you<br>
+with the lifestyle you desire and deserve? If so, read on:<br>
+<br>
+Corporate America has conditioned us to believe that security comes<br>
+from employment. Yet we hope we never become the victims of <br>
+downsizing, career burn out, illness or injury. The frightening reality <b=
+r>
+for most people is the plastic in their wallets determines the quality <br=
+>
+of their lives.<br>
+<br>
+The hard facts show that our economy has moved from the industrial <br>
+age into the INFORMATION AGE. No longer can you depend on the <br>
+corporation to provide your family with the security you seek and <br>
+deserve. Every day more and more people are looking outside the<br>
+traditional workplace for the fulfillment of their goals and dreams.<br>
+<br>
+If you are a person of VISION, a TRUE ENTREPRENEUR, a person <br>
+with FINANCIAL INTELLIGENCE who recognizes a sound opportunity<br>
+when you see one... please read further.<br>
+<br>
+Our team of professionals is looking for a few quality individuals with a<=
+br>
+strong work ethic and the DESIRE to generate $2,000 to $5,000 per week <br=
+>
+from the comfort of their home. With 5 different income streams available<=
+br>
+ 
+we teach people how to achieve a 6-figure cash flow within the first 6 to =
+12<br>
+ 
+months and how to retire for good within 2 to 5 years.<br>
+ 
+This business is for those who are serious about creating multiple 6 & 7-<=
+br>
+figure wealth. <br>
+<br>
+
+If this describes you then take note:<br>
+<br>
+
+We seek individuals who recognize that the information boom is upon us.<br=
+>
+ 
+And who are determined to TAKE FULL ADVANTAGE of the opportunities<br>
+
+presented in these new and exciting times. <br>
+<br>
+For the serious entrepreneur we invite you to fill out the questionnaire <=
+br>
+and either I or one of my associates will promptly respond to your request=
+.<br>
+<br>
+<br>
+</i> </font></b> </CENTER></FONT>
+<br>
+<br>
+
+<center>
+<script language=3D"JavaScript">
+<!--
+function validate_form() {
+validity =3D true; // assume valid
+if (!check_empty(document.form.Name.value))
+{ validity =3D false; alert('Name field is empty!'); }
+if (!check_empty(document.form.email.value))
+{ validity =3D false; alert('email field is empty!'); }
+(validity)
+alert ("Thank you for your interest. "
++ "Your form is now being passed to your browser's "
++ "Mail Delivery Sub-System for NORMAL"
++ " NON-ENCRYPTED email delivery."
++ " Please click OK to proceed");
+return validity;
+}
+function check_empty(text) {
+return (text.length > 0); // returns false if empty
+}
+// -->
+</script><!-- CHANGE EMAIL ADDRESS IN ACTION OF FORM --><form name=3D"form=
+"
+method=3D"post"
+action=3D"mailto:sixfigurewealth@excite.com?SUBJECT=3Dmoreinformation"
+enctype=3D"text/plain"
+onSubmit=3D"return validate_form()">
+<div align=3D"center">
+  <center>
+<table BORDER=3D"1" CELLPADDING=3D2 WIDTH=3D"500" BGCOLOR=3D"#ffffff" >
+
+<tr>
+<td>Name:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"Name" VALUE=3D"" SIZE=
+=3D"29" MAXLENGTH=3D"60">*</td>
+</tr>
+
+<tr>
+<td>City, State:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"City" VALUE=3D"" SIZE=
+=3D"29" MAXLENGTH=3D"60">*</td>
+</tr>
+<tr>
+<td>E-Mail Address:</td>
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"email" VALUE=3D"" SIZ=
+E=3D"29" MAXLENGTH=3D"50">*</td>
+</tr>
+<tr>
+<td>Telephone:</td>
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"Telephone" VALUE=3D""=
+ ID=3D"Telephone" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+<TR>
+<td>Best time to call:</td>
+<td BGCOLOR=3D"#CDCDCD">
+<width=3D3D334><SELECT name=3DTime =3D3d>
+<OPTION selected value=3D3D"Mornings">Mornings</OPTION>
+<OPTION selected value=3D3D"Afternoons">Afternoons</OPTION> 
+<OPTION selected value=3D3D"Evenings">Evenings</OPTION> 
+</SELECT>*</TD></TR>
+<tr>
+<td>Age:</td>
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"age" VALUE=3D"" ID=3D=
+"age" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+<tr>
+<td>Current monthly income:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"current income" VALUE=
+=3D"" ID=3D"current income" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+<tr>
+<td>Desired monthly income:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"desired income" VALUE=
+=3D"" ID=3D"desired income" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+<tr>
+<td>Why do you seek greater financial gain? :</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"why" VALUE=3D"" ID=3D=
+"why" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+<tr>
+<td>What specific life changes do you seek? :</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"what" VALUE=3D"" ID=3D=
+"what" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+</table>
+  </center>
+</div>
+<p align=3D"center">
+<input Type=3D"Submit" VALUE=3D"Submit Form" name=3D"Submit"><input Type=3D=
+"Reset" VALUE=3D"Clear Form"></form>
+<br>
+<br>
+<font size=3D"+2">Or call 800-895-1610. And leave your name and #.<br><br>=
+</font>
+<hr WIDTH=3D"85%">
+<p align=3D"center"><br>
+<br>
+
+<b><font size=3D"3" face=3D"Arial" color=3D"#000000">To be removed from th=
+is list, <a href=3D"mailto:removefrom1@excite.com">Click here</a></font></=
+b>
+<br>
+
+</body>
+</html>
+
+
+
+

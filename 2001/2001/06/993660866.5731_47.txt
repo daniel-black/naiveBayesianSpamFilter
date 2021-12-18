@@ -1,0 +1,38 @@
+Return-Path: <getdotca2001@yahoo.com>
+Delivered-To: em-ca-bob.smith@em.ca
+Received: (qmail 4262 invoked from network); 27 Jun 2001 10:15:45 -0000
+Received: from van-bc54-027.netcom.ca (HELO yahoo.com) (216.129.66.27)
+  by em.ca with SMTP; 27 Jun 2001 10:15:45 -0000
+To: bob.smith@em.ca
+From: GetDotCa.com <getdotca2001@yahoo.com>
+X-Mailer: 719A5710.1C520C36.cb16afcc78d85200197f7131c9126f8e
+Subject: RE: Domain Status Notification
+Organization: 
+Content-Length: 1649
+Lines: 25
+
+Please be advised that the .CA extension of your domain name may not be registered yet.  This email message is to remind you that if your domain is not registered, anyone will be able to own your .CA name.  Since there can only be one registrant per unique .CA name, you will not be able to register for it anymore if someone else registers the name first.
+
+To verify the status of your .CA domain or to register, please go to http://www.GetDotCa.com now.
+
+Cordially,
+
+
+Domain Co-ordinator
+.CA Registration Division
+Web:   http://www.GetDotCa.com
+
+
+ABOUT .CA DOMAIN EXTENSIONS
+***************************************************
+The .CA domain is a country code Top Level Domain (ccTLD) designated for the nation of Canada. Much like a country's telephone code, different ccTLDs have been assigned to various nations that have developed Internet infrastructures. Contrary to common myths, the .CA name is fully accessible by users worldwide, just like a .com name. The difference is there a set of restrictions to registering .CA domain names.  For more information, please visit http://www.GetDotCa.com.
+
+#######################################################################
+This message is sent in compliance of the new email bill section 301.
+Per Section  301, Paragraph (a)(2)(C) of S. 1618 and is not intended 
+for residents in the State of WA, NV, CA & VA. If you have received this
+mailing in error, or do not wish to receive any further mailings about
+this topic, simply click 
+http://GetDotCa.com/cgi/remove.pl?email=bob.smith@em.ca
+We respect all removal requests.
+#######################################################################

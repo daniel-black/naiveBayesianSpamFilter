@@ -1,0 +1,92 @@
+Return-Path: <kpaske87@ikp.pl>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 14652 invoked from network); 25 Jun 2001 23:11:27 -0000
+Received: from unknown (HELO eservice01.eServiceware.com) (62.100.33.44)
+  by bfsmedia.sk.ca with SMTP; 25 Jun 2001 23:11:27 -0000
+Received: from i0EUU5p02 (209-162-29-28.thegrid.net [209.162.29.28]) by eservice01.eServiceware.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id NNH0L7YQ; Tue, 26 Jun 2001 01:01:43 +0200
+DATE: 25 Jun 01 4:05:24 PM
+FROM: kpaske87@ikp.pl
+Reply-to: kpaske87@ikp.pl
+TO: kpaske87@ikp.pl
+SUBJECT: June Lightscape
+Content-Length: 7058
+Lines: 77
+
+June 2001 
+
+ A Virus May Be Lurking 
+(and you may not know) 
+With all the talk about viruses these day's, it's hard to imagine that better protection hasn't been made available. Well here we are educating the masses again in the June issue of Lightscape. Before you go out and buy a 500 dollar virus protection program, look at these effective virus protection tools offered by Software Oasis  http://www.qksrv.net/click-808145-3649016 Protect your computer against the latest email viruses. Run a system test to find out if your computer is secretly infected with a dangerous bug or virus. 
+GET EVERYTHING YOU WANT IN LIFE FOR FREE (really, free in your mail!!) 
+There isn't anyone who doesn't like to get things free. Especially when it's good stuff, like books, CD's, music, household items, real stuff. Check out these links, and sign up to get REAL free stuff. We've already tested them, and these are the top 3 out of 50 of the best, giveaway sites. 
+TONS OF TOTALLY FREE STUFF!!!   http://www.qksrv.net/click-808145-517540 
+HOME4FREESTUFF.COM This site is awesome, rated number one in our book, when they say it's free they mean it's free. Plus they have hundreds of contests and We already won an all expense paid trip to Florida for 3 days and 2 nights, (hey who's complaining, We've checked into this, and it wasn't a scam or some cheap promotion!) 
+Win a 64" Sharp HDTV!  http://www.qksrv.net/click-808145-1468447 
+FreeYankee.com is our number two pick for the month they only list the best freebie sites and the top giveaway firms. This also is one that does what it promises. 
+
+2000Freebies.com      http://www.qksrv.net/click-808145-490011 
+2000Freebies wins the number three position. Our review of this is another great site, for product review freebies and corporate giveaways. Sign up, and even receive a chance at an instant $10,000.00. 
+
+Marketing 101 
+building traffic - getting hit. 
+FREE advertising for your business   http://www.qksrv.net/click-808145-4172462 
+In the quest to develop and publish the world's number one business related web site, I knew we had cracked it when we entered NorthernLight at No 7 out of 4,876,060 sites on the key phrase 'business start up'.Coming from a Sales and marketing background, with a background in IT, but no knowledge of the Internet, I had to approach everything from the ground up, with an open mind. 
+This proved to be of significant advantage, since I was prepared to listen to everyone, try anything, reject the bad and improve on the good.We also appear on Lycos, Google, AltaVista, Excite and a myriad of other search engines and know that with 12 months work ahead we will be the No1 Business site by 2002. 
+So here are my ten top tips for successful web placement: 
+One 
+Most web designers assume that the customer is the reader, wrong. It's a bit like assuming the customer for an old people's home is the resident - it isn't-- it's the residents' 45 year old daughter. Therefore sell to her and the place is full. 
+The main customer for a web site is 'gulliver' or 'arachnia' or whatever the search engine spider is called. Observe it, profile it, get to know it intimately, what does it like and loathe. How can you get its attention? 
+Two 
+In my experience only AltaVista takes <KEYWORDS> seriously. I know this because I used mingmong21 as a keyword and, despite all the search engines we appear on, if I search on all of them for 'mingmong21'. I only turn up on AltaVista. Don't put too much store in keywords. 
+Three 
+The <TITLE> of the page is the single most important thing to Google, Excite and a host of other search engines, so why, why, why are we so vain that we call our web site 'XYZ inc.' if they knew who we were before they got on the web they would have called us on the telephone. The <TITLE> of your site should be what you do, not who you are. 
+Make your move. The Oracle Certification Program is dedicated to ensuring you have the right skills for success in today's fast 
+paced, Internet world. Click here for more info http://webpronews.com/rd/oracle ocpb.html 
+
+Four 
+Many of the search engines pick up the first paragraph of the <BODY> content (in other words what's written on the page). Don't confuse it with 'last updated on ...' and counters, etc. Just have a simple paragraph that says what you do and ... use the same words as the <TITLE>. 
+Five 
+If each search engine spider likes different things, give them exactly what they like in the form of 'portal' pages which are dedicated to one keyword or phrase and aimed to satisfy each search engine spider. For example, a page with the title 'business start up' and the KEYWORDS 'business start up' where the BODY says 'business start up' will put you pretty high when someone searches for 'business start up. Make sure that you have a link from your index.html page to this portal and from this portal, that way you don't have to submit each page (it will be found on the next spider) and be accused of spamming. 
+Six 
+Make the <DESCRIPTION> of the page tie in with the <TITLE> and 
+<KEYWORDS> - obvious but some of us get a bit carried away. 
+Seven 
+Tell the spider what to do <ROBOTS> index, follow and <REVISIT-AFTER> 10 days. Then you get a regular visit. 
+Eight 
+Content is king - that means that when the spider visits you, and you appear on the engines, if your content is negligible or static (never changes) don't expect anyone to come back - you can only sell rubbish once. 
+Nine 
+Subscribe to, and read, every newsletter on web marketing that you can. If you only pick up one tip per month you can improve your web site placement. 
+Ten 
+The KING of all tips. Most Search Engine spiders cannot follow graphically embedded links!!!!! In other words if you have a 5000 page web site and have linked it through gifs or buttons then, as far as the spider is concerned, you have stuck the pages together and it sees only page one. If, however you place text links or <A HREF> links that the viewer cannot see, within those pages then you have 5000 pages that can have a <TITLE>, <KEYWORDS> <DESCRIPTION>, etc to sell to 'gulliver' and his little friends.Mark my words: By 2002, by following the guidelines above your site could be in one of those top ten positions on major search engines very soon. 
+John Saxon is a grandfather of 3 and Technical Director of Fastlink 
+Solutions Limited. He is a Companion of the Institute of Sales and 
+Marketing Management and has 25 years experience in helping new and growth businesses develop and profit. http://www.fastlinksolutions.btinternet.co.uk is a free access site 
+providing advice for anyone considering setting up, or expanding a 
+business. 
+
+
+15,340,891 people received Lightscape this month. 
+
+This months top 3 webservices are: 
+SearchGalore.com 
+
+NetZero 
+
+GadgetUniverse 
+
+BETTER WAYS TO SEARCH THE WEB 
+
+
+
+BETTER WAYS TO SHOP THE WEB 
+ Shop-by-Request 
+© Copyright 2001 by auroradgi.com inc. All rights reserved 
+
+
+Cybernet Enterprise 209-656-9143
+go worldnetvision13@excite.com  to be removed.  Please no mail bombs, legit removal.
+
+
+
+

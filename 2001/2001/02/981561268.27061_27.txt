@@ -1,0 +1,27 @@
+Return-Path: <samsam2@crosswinds.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 3826 invoked from network); 7 Feb 2001 11:03:21 -0000
+Received: from cpimssmtpu02.email.msn.com (207.46.181.18)
+  by em.ca with SMTP; 7 Feb 2001 11:03:21 -0000
+Received: from bhgt ([63.17.219.224]) by cpimssmtpu02.email.msn.com with Microsoft SMTPSVC(5.0.2195.1600);
+	 Wed, 7 Feb 2001 03:02:54 -0800
+From: samsam2@crosswinds.net
+To: 
+Subject: 2
+Date: Tue, 06 Feb 2001 20:19:46 -1200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_4DDD_000074AA.00007E55"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 102
+Lines: 8
+
+------=_NextPart_000_4DDD_000074AA.00007E55
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+,</BODY></HTML>
+
+

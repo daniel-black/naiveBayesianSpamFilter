@@ -1,0 +1,149 @@
+Return-Path: <themadgambler@usa.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18494 invoked from network); 29 Nov 2001 00:23:19 -0000
+Received: from adsl-63-199-242-118.dsl.sndg02.pacbell.net (HELO mail.em.ca) (63.199.242.118)
+  by agamemnon.bfsmedia.com with SMTP; 29 Nov 2001 00:23:19 -0000
+From: "Why Roll The Dice?" <themadgambler@usa.com>
+Date: Wed, 28 Nov 2001 16:39:11
+To:bruceg@em.ca
+Subject: ADV: Take the risk out of on-line gaming!
+MIME-Version: 1.0
+Content-Type: multipart/related;
+  boundary="----=_NextPart_URFBIOJFCP"
+Content-Transfer-Encoding: 7bit
+Message-ID: PM20004:39:11 PM
+Content-Length: 5646
+
+This is an HTML email message.  If you see this, your mail client does not support HTML messages.
+
+------=_NextPart_URFBIOJFCP
+Content-Type: text/html;charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>The Mad Gambler = Casinos,Gambling,Black Jack,Video Poker,Roulette,Slot Machine,Caribbean Stud</title>
+<link rel="shortcut icon"
+HREF="http://www.themadgambler.com/icons/eye.ico">
+<STYLE TYPE="text/css">
+A {text-decoration:none;}
+A:hover {color:blue;}
+BODY {     
+           scrollbar-3d-light-color:#A21D4B;
+           scrollbar-arrow-color:black;
+           scrollbar-base-color:#A21D4B;
+           scrollbar-dark-shadow-color:#black;
+           scrollbar-face-color:#A21D4B;
+           scrollbar-highlight-color:black;
+           scrollbar-shadow-color:A21D4B}
+</style>
+<script language="JavaScript1.2">
+<!--
+var bookmarkurl="http://www.themadgambler.com"
+var bookmarktitle="The Mad Gambler - Your On-line Gaming Source"
+function addbookmark(){
+if (document.all)
+window.external.AddFavorite(bookmarkurl,bookmarktitle)
+}
+//-->
+</script>
+</head>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#000000">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="700">
+  <center>
+  <tr>
+    <td width="776" colspan="3" align="center" bgcolor="#000000"></td>
+  </tr>
+  <tr>
+    <td width="776" colspan="3" align="center" bgcolor="#000000"><font face="arial, helvetica, verdana" size="3" color="#FFFFFF"><b>Ever
+      Wanted To Gamble On-Line...?</b></font></td>
+  </tr>
+  <tr>
+    <td width="776" colspan="3" align="center" bgcolor="#000000"><font color="#000000" size="1">..</font></td>
+  </tr>
+  <tr>
+    <td width="776" colspan="3" align="center" bgcolor="#000000"><b><i><font face="arial, helvetica, verdana" size="2" color="#FFFF00">  This is your chance to avoid shady casinos and their practices.  We have scrutinized 100's of on-line casinos so you won't have to!  All of these choice casinos offer promotions and bonus dollars to get you started.  Get up to $100 FREE.&nbsp;</font></i></b></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="3" bgcolor="#000000">
+      <p align="center"><font color="#000000" size="1">.</font></td>
+  </tr>
+  </center>
+  <tr>
+    <td width="250" bgcolor="#000000">
+      <p align="right"><img border="0" src="http://www.angelfire.com/games4/zmadgambler/images/eyeanim_right2.gif" align="right" width="75" height="56"></td>
+  <center>
+    <td width="270" bgcolor="#000000">
+      <p align="center"><a href="http://www.geocities.com/themadgambler2001"><img border="0" src="http://www.angelfire.com/games4/zmadgambler/images/mad_gambler_text.gif" width="285" height="35"></a></td>
+    <td width="250" bgcolor="#000000"><img border="0" src="http://www.angelfire.com/games4/zmadgambler/images/eyeanim_left.gif" align="left" width="75" height="56"></td>
+  </tr>
+</table>
+  </center>
+</div>
+  <div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="700" bgcolor="#FFFFFF">
+ <form method="POST" action="http://www.themadgambler.com/cgi-bin/aspmailer2.asp"><center><center></form>
+   <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3">&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td width="34%" align="center" bgcolor="#000000">&nbsp;
+      </td>
+      <td width="33%" align="center"><b><font face="arial, helvetica, verdana" size="2" color="#000000">Visit
+        us at<br>
+        </font></b><b><font face="arial, helvetica, verdana" size="2" color="#000000"><a href="http://www.angelfire.com/games4/zmadgambler">http://www.angelfire.com/games4/zmadgambler</a></font></b>
+      </td>
+      <td width="33%" align="center" bgcolor="#000000">&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3"><font color="#FFFFFF" face="arial, helvetica, verdana" size="2"><b>&nbsp;and start winning today!</b></font>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3"><img border="0" src="http://www.angelfire.com/games4/zmadgambler/images/dice_blk_ani.gif" width="70" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3"><font color="#000000">..</font>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3">
+  
+      <b><a href="javascript:addbookmark()"><font color="#FFFFFF" size="2" face="arial, helvetica, verdana"><u>Click
+      here to Bookmark this site!</u></font></a></b>
+  
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3"><font color="#000000">..</font>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3"><font color="#000000">....</font>
+      </td>
+    </tr>
+   </center>
+  </center>
+  <tr>
+      <td width="100%" align="center" bgcolor="#000000" colspan="3">
+        <p align="left"><font color="#FFFFFF" size="2" face="arial, helvetica, verdana">If this e-mail arrived to you by error, or you wish to never receive such advertisements from our company,<br>
+        please click on the link below and follow the removal instructions.  We apologize for any inconvenience this may have caused.  Thank you!</font>
+      </td>
+    </tr>
+   <tr>
+      <td width="100%" align="center" bgcolor="#FFFFFF" colspan="3">
+        <p align="left"><font color="#FFFFFF"><a href="http://www.angelfire.com/games4/tmgoptout"><u>http://www.angelfire.com/games4/tmgoptout</u></a></font>
+      </td>
+    </tr>
+  </table>
+  </div>
+  <p align="center">&nbsp;</p>
+ </body>
+</html>
+
+------=_NextPart_URFBIOJFCP--
+

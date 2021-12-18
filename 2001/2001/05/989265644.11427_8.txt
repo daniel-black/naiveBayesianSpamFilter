@@ -1,0 +1,42 @@
+Return-Path: <qmail-return-67601-bruce-lists-djb-qmail=bruce-guenter.dyndns.org@list.cr.yp.to>
+Delivered-To: mailing list qmail@list.cr.yp.to
+Received: (qmail 16231 invoked from network); 7 May 2001 19:39:24 -0000
+Received: from 61-216-68-4.hinet-ip.hinet.net (HELO TmpStr) (61.216.68.4)
+  by muncher.math.uic.edu with SMTP; 7 May 2001 19:39:24 -0000
+Reply-To: "王俊生"<wang123@kimo.com.tw>
+From: "王俊生"<wang123@kimo.com.tw>
+To: "" <qmail@list.cr.yp.to>
+Organization: 
+X-Priority: 3
+X-MSMail-Priority: Normal
+Subject: 理財規劃系列....
+Sender: "王俊生"<wang123@kimo.com.tw>
+Mime-Version: 1.0
+Content-Type: text/html; charset="big5"
+Date: Tue, 8 May 2001 03:42:49 +0800
+Content-Length: 532
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>景氣不好時要好好規劃理財!</p>
+<p><a href="http://www.mybars.com/coffeemoney.html">請帶我去瞧瞧
+....</a></p>
+<p><a href="http://www.mybars.com/coffeemoney.html"><img 
+border="0" src="http://www.mybars.com/coffee5.jpg" width="559" 
+height="33"><br>
+</a><br>
+</p>
+<p>　</p>
+
+</body>
+
+</html>

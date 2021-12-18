@@ -1,0 +1,420 @@
+Return-Path: <pauele090@usa.net>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 5156 invoked from network); 12 Jul 2001 01:12:45 -0000
+Received: from subnet144.idsc.gov.eg (HELO salestax.gov.eg) (163.121.144.130)
+  by bfsmedia.sk.ca with SMTP; 12 Jul 2001 01:12:45 -0000
+Received: from localhost by salestax.gov.eg (SMI-8.6/SMI-SVR4)
+	id GAA12573; Thu, 12 Jul 2001 06:21:01 +0300
+Date: Wed, 11 Jul 2001 17:52:36 -0800
+Message-Id: <6w1hre1f0t.51dyiw858l@localhost>
+Subject: Rates DROPPED! Low Interest Loans From Flexible Banks!
+X-Mailer:  
+From: holel0111@msn.com
+To: @bga.com@sun1.salestax.gov.eg
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Content-Length: 19247
+Lines: 401
+
+<html> <head> <title>Loan Application Form</title> 
+
+<script language="JavaScript">
+ <!--
+ function check(form) {
+  if ( (form.Name.value == "") ||
+     (form.City.value == "") ||
+     (form.Address.value == "") ||
+     (form.State.value == "") ||
+     (form.Mortgage1.value == "") ||
+     (form.Mortgage2.value == "") ||
+     (form.PostalCode.value == "") ||
+     (form.Email.value == "") ) {
+  alert("Please fill in ALL required fields. Thank You!");
+  return false;
+  } else {
+  return true;
+  }
+  }
+ 
+  function validate(string) {
+      if (!string) return false;
+      var Chars = "0123456789 ";
+ 
+      for (var i = 0; i < string.length; i++) {
+         if (Chars.indexOf(string.charAt(i)) == -1)
+            return false;
+      }
+            return true;
+ }
+  //-->
+ </script> </head> <body bgcolor="tan" background="">
+
+<B><CENTER><FONT SIZE="5" COLOR="#000000" FACE="Times New 
+Roman"><U><B><CENTER>The Lenders Network!</CENTER></B></U></FONT></CENTER></B>
+
+<th align="center" nowrap width="334" height="190" valign="top">
+<p>
+<h3 align="center"><font color="#000000"><font face="Tahoma"> Where mortgage 
+lenders compete for
+
+</font><b><i><u><font face="Tahoma"> your</font></u></i></b><font 
+face="Tahoma">
+
+ business!
+<center><h3><font color=#0000ff>Current Information For</h3></center>
+<SCRIPT language=JavaScript>
+<!--
+
+// Begin
+
+var months=new Array(13);
+
+months[1]="January";
+
+months[2]="February";
+
+months[3]="March";
+
+months[4]="April";
+
+months[5]="May";
+
+months[6]="June";
+
+months[7]="July";
+
+months[8]="August";
+
+months[9]="September";
+
+months[10]="October";
+
+months[11]="November";
+
+months[12]="December";
+
+var time=new Date();
+
+var lmonth=months[time.getMonth() + 1];
+
+var date=time.getDate();
+
+var year=time.getYear();
+
+
+
+// Y2K Fix by Isaac Powell
+
+// http://onyx.idbsu.edu/~ipowell
+
+
+
+if ((navigator.appName == "Microsoft Internet Explorer") && (year < 2000))
+
+year="19" + year;
+
+if (navigator.appName == "Netscape")
+
+year=1900 + year;
+
+document.write("<center>" + lmonth + " ");
+
+document.write(date + ", " + year + "</center>");
+
+// End
+
+// --></SCRIPT>
+</font>
+<table border="0" width="750">
+
+  <tr>
+
+    <td width="389" height="190" valign="top"><b><font face="Arial" 
+color="#000000"><br>
+
+      The "Lenders Network" is a 100% FREE TO BUYER Service.  Fill in our <a 
+href="#form">
+
+ <i><font color=#0000ff>5 Minute quote request form</font></i></a> and we 
+will instantly submit your loan request to
+
+      our competing lenders!</font></b><p><font face="Arial" 
+color="#000000">The<b>
+
+      financial experts</b> comprising the "Lender's Network" represent 
+hundreds of loan programs, <br>
+including</font></p>
+
+      <blockquote>
+        <blockquote>
+          <ul>
+            <li><b> <font face="Arial" color="#000000"> purchase 
+loans</font></b></li>
+            <li><b><font face="Arial" 
+color="#000000">refinance</font></b></li>
+            <li><b><font face="Arial" color="#000000">debt
+              consolidation</font></b></li>
+            <li><b><font face="Arial" color="#000000">home improvement&nbsp;
+</font></b></li>
+            <li><b><font face="Arial" color="#000000">second 
+mortgages</font></b></li>
+            <li><b><font face="Arial" color="#000000">no income
+              verification</font></b></li>
+          </ul>
+        </blockquote>
+      </blockquote>
+
+		<td>
+			<p><font face="Arial">Our Network of Lenders are <b><u>Licensed and 
+Registered</u></b> to do business in all 50 U.S. States.  You will often be 
+<b><u>contacted with an offer</u></b> the very same day you fill out the form!
+<P>
+
+<u><b><font color=#0000ff>NEVER SETTLE FOR A SINGLE QUOTE!</font></b></u><p>
+
+
+<p><font face="Arial"> You can save <i><b><u>Thousands Of Dollars</u></b></i> 
+over the course of your loan with just a 1/4 of 1% Drop in your rate!  The 
+information you provide to
+our extensive database of <b>Financial Experts</b> will result in offer's 
+meeting the exact criterion you requested.</font><br><p>
+
+<font color=#0000ff><b>Get MULTIPLE OFFER'S and get the loan you want....and 
+DESERVE!</b></font><br>
+		</td>
+
+
+      </p>
+
+</table>
+
+
+
+<script language="JavaScript">
+<!--
+function validate_form() {
+	validity = true; // assume valid
+	if (!check_empty(document.form.Name.value))
+	{ validity = false; alert('Name field is empty!'); }
+	if (!check_empty(document.form.Address.value))
+	{ validity = false; alert('Address field is empty!'); }
+	if (!check_empty(document.form.City.value))
+	{ validity = false; alert('City field is empty!'); }
+	if (!check_empty(document.form.PostalCode.value))
+	{ validity = false; alert('Zip Code field is empty!'); }
+	if (!check_empty(document.form.HPhone.value))
+	{ validity = false; alert('Home Phone field is empty!'); }
+	if (!check_empty(document.form.WPhone.value))
+	{ validity = false; alert('Work Phone field is empty!'); }
+	if (!check_empty(document.form.PropertyValue.value))
+	{ validity = false; alert('Property Value field is empty!'); }
+	if (!check_empty(document.form.Mortgage1.value))
+	{ validity = false; alert('Current Mortgage field is empty!'); }
+	if (!check_empty(document.form.PurchasePrice.value))
+	{ validity = false; alert('Purchase Price field is empty!'); }
+	if (!check_empty(document.form.YearAquired.value))
+	{ validity = false; alert('Year Aquired field is empty!'); }
+	if (!check_empty(document.form.Employer.value))
+	{ validity = false; alert('Employer field is empty!'); }
+	if (!check_empty(document.form.BorrowRequest.value))
+	{ validity = false; alert('Amount to borrow field is empty!'); }
+	if (!check_empty(document.form.CurrentIntRate.value))
+	{ validity = false; alert('Interest Rate Field is empty!'); }
+	if (!check_empty(document.form.MonthlyGrIncome.value))
+	{ validity = false; alert('Monthly Gross Income field is empty!'); }
+	if (!check_empty(document.form.MonthlyDebt.value))
+	{ validity = false; alert('Monthly Debt field is empty!'); }
+	(validity)
+	alert ("Thank you for your registration! "
+		+ "Your form is now being passed to your browser's "
+		+ "Mail Delivery Sub-System for NORMAL"
+		+ " NON-ENCRYPTED email delivery."
+		+ " All email addresses are removed from our system"
+	+ " upon registration. Please click OK to proceed");
+	return validity;
+}
+function check_empty(text) 
+	{
+	return (text.length > 0); // returns false if empty
+} // -->
+</script>
+<form method="POST" onSubmit="return check(this)" action="mailto:yemenop9@uole.com?
+SUBJECT=Mortgage Contact 2a" enctype="text/plain"> <table border="0" 
+width="600" align="center"> <tr><td align="center" height="285" 
+bgcolor="#COCOCO"> <br> <hr width="100%" align="center"><br><p>Please complete 
+all the information below.<br> Our loan specialist will be contacting you at 
+your convenience.<br> Thank You!</p> <table border="0" cellspacing="0" 
+cellpadding="0" align="center" width="600"><tr><td align="CENTER" 
+valign="TOP"> <hr width="100%" align="center"><p>Please use your mouse to 
+navigate between fields. Thank You.</b></font></td></tr></table><br> <table 
+border="0" cellspacing="0" cellpadding="2" align="center" width="535"> <tr><td 
+align="RIGHT" width="296" background="Greenbackground.jpg"> <font size="2" 
+color="#000000" face="Arial, Helvetica, sans-serif"><b> Your Full 
+Name</b></font></td><td width="282" align="left"> <input type="text" size="20" 
+name="Name"> *</td></tr><tr> <td align="RIGHT" width="296" 
+background="Greenbackground.jpg"> <font size="2" color="#000000" face="Arial, 
+Helvetica,sans-serif"><b> Address</b></font></td> <td width="282"> <input 
+type="text" name="Address" size="20"> *</td></tr><tr> <td align="RIGHT" 
+width="296" background="Greenbackground.jpg"> <font size="2" color="#000000" 
+face="Arial, Helvetica,sans-serif"><b> City</b></font></td> <td width="282"> 
+<input type="text" size="20" name="City"> *</td></tr><tr> <td align="RIGHT" 
+width="296" background="Greenbackground.jpg"> <font size="2" color="#000000" 
+face="Arial, Helvetica,sans-serif"><b> State(USA Only)</b></font></td> <td 
+width="282"> <select name="State" size="1"> <option value="AK">AK</option> 
+<option value="AL">AL</option> <option value="AR">AR</option> <option 
+value="AZ">AZ</option> <option value="CA">CA</option> <option 
+value="CO">CO</option> <option value="CT">CT</option> <option 
+value="DC">DC</option> <option value="DE">DE</option> <option 
+value="FL">FL</option> <option value="GA">GA</option> <option 
+value="HI">HI</option> <option value="IA">IA</option> <option 
+value="ID">ID</option> <option value="IL">IL</option> <option 
+value="IN">IN</option> <option value="KS">KS</option> <option 
+value="KY">KY</option> <option value="LA">LA</option> <option 
+value="MA">MA</option> <option value="MD">MD</option> <option 
+value="ME">ME</option> <option value="MI">MI</option> <option 
+value="MN">MN</option> <option value="MO">MO</option> <option 
+value="MS">MS</option> <option value="MT">MT</option> <option 
+value="NC">NC</option> <option value="ND">ND</option> <option 
+value="NE">NE</option> <option value="NH">NH</option> <option 
+value="NJ">NJ</option> <option value="NM">NM</option> <option 
+value="NV">NV</option> <option value="NY">NY</option> <option 
+value="OH">OH</option> <option value="OK">OK</option> <option 
+value="OR">OR</option> <option value="PA">PA</option> <option 
+value="RI">RI</option> <option value="SC">SC</option> <option 
+value="SD">SD</option> <option value="TN">TN</option> <option 
+value="TX">TX</option> <option value="UT">UT</option> <option 
+value="VA">VA</option> <option value="VT">VT</option> <option 
+value="WA">WA</option> <option value="WI">WI</option> <option 
+value="WV">WV</option> <option value="WY">WY</option> </select><b> * <u>UNITED 
+STATES ONLY!</u></b></td></tr><tr> <td align="RIGHT" width="296" 
+background="Greenbackground.jpg"> <font size="2" color="#000000" face="Arial, 
+Helvetica,sans-serif"><b> Zip/Postal Code</b></font></td><td width="282"> 
+<input type="text" size="10" maxlength="15" name="PostalCode"> 
+*</td></tr><tr><td align="RIGHT" width="296" background="Greenbackground.jpg"> 
+<font size="2" color="#000000" face="Arial, Helvetica,sans-serif"><b> Home 
+Phone</b></font></td> <td width="282"> <input type="text" size="20" 
+maxlength="30" name="HPhone"> *</td></tr><tr> <td align="RIGHT" width="296" 
+background="Greenbackground.jpg"> <font size="2" color="#000000" face="Arial, 
+Helvetica,sans-serif"><b> Work Phone</b></font></td><td width="282"> <input 
+type="text" size="20" maxlength="55" name="WPhone"> *</td></tr><tr> <td 
+align="RIGHT" width="296" background="Greenbackground.jpg"> <font size="2" 
+color="#000000" face="Arial, Helvetica,sans-serif"><b> Email 
+Address</b></font></td><td width="282"> <input type="text" size="20" 
+maxlength="30" name="Email"> *</td></tr><tr> <td align="RIGHT" width="296" 
+background="Greenbackground.jpg"> <font size="2" color="#000000" face="Arial, 
+Helvetica,sans-serif"><b> Best Time To Call</b></font></td><td width="282" 
+background="Greenbackground.jpg"> <select size="1" name="CallTime"> <option 
+value="Morning at Home" selected>Morning at Home</option> <option 
+value="Morning at Work">Morning at Work</option> <option value="Afternoon at 
+Home">Afternoon at Home</option> <option value="Afternoon at Work">Afternoon 
+at Work</option> <option value="Evening at Home">Evening at Home</option> 
+<option value="Late Evening at Work">Late Evening at Home</option> </select> 
+*</td></tr><tr> <td align="RIGHT" width="296" background="Greenbackground.
+jpg"> <font size="2" color="#000000" face="Arial, Helvetica,sans-serif"><b> Do 
+You Own Your Home?</b></font></td><td width="282" background="Greenbackground.
+jpg"> <select size="1" name="Homeowner"> <option value="Yes" 
+selected>Yes</option> <option value="No">No</option> </select><font 
+color="#000000" size="1"> * Mobile Homes Do Not Qualify</font></td></tr><tr> 
+<td align="RIGHT" width="296" background="Greenbackground.jpg"> <font size="2" 
+color="#000000" face="Arial, Helvetica,sans-serif"><b> Property 
+Value</b></font></td><td width="282"> <input type="text" size="13" 
+name="PropertyValue" onBlur="if (!validate (this.value>= 50000)) { alert('Not 
+Valid! Please enter the approximate value of current property or property you 
+wish to purchase \n (greater than or equal to 50000) using only number 
+characters - 0123456789'); this.focus(); this.select(); return false; }"> * 
+<font size="1" color="#000000">Please use numbers only</font></td></tr><tr> 
+<td align="RIGHT" width="296" background="Greenbackground.jpg"> <font 
+color="#000000" face="Arial, Helvetica,sans-serif" size="2"><b>Property 
+Type</b></font></td> <td width="282" background="Greenbackground.jpg"> <select 
+size="1" name="PropertyType"> <option value="Single Family Residence" 
+selected>Single Family Residence</option> <option value="Condo">Condo</option> 
+<option value="Townhouse">Townhouse</option> <option value="2-4 Plex">2-4 
+Plex</option> <option value="Other">Other</option> </select> *</td></tr><tr> 
+<td align="RIGHT" width="296" background="Greenbackground.jpg"> <font size="2" 
+color="#000000" face="Arial, Helvetica,sans-serif"><b> Purchase 
+Price</b></font></td><td width="282"> <input type="text" size="13" 
+name="PurchasePrice"> * <font size="1" color="#000000">Please use numbers 
+only</font></td></tr><tr> <td align="right" width="296" 
+background="Greenbackground.jpg"> <font size="2" color="#000000" face="Arial, 
+Helvetica,sans-serif"><b><p> Year Acquired</b></font></td><td align="left" 
+width="282"> <input type="text" name="YearAcquired" size="13"> *</td></tr><tr 
+align="CENTER"> <td align="RIGHT" width="296" background="Greenbackground.
+jpg"> <font color="#000000" face="Arial, Helvetica,sans-serif" size="2"><b>1st 
+Mortgage-Balance Owed</b></font></td> <td width="282" align="left"> <input 
+type="text" size="13" maxlength="30" name="Mortgage1" onBlur="if (!validate 
+(this.value)) { alert('Not Valid! Please enter only number characters - 
+0123456789\n If you have no current mortgage please enter 0'); this.focus(); 
+this.select(); return false; }"> * <font size="1" color="#000000">Please use 
+numbers only (ex:45000) enter 0 for none</font></td></tr> <tr align="center"> 
+<td align="RIGHT" width="296" background="Greenbackground.jpg"> <font 
+color="#000000" face="Arial, Helvetica,sans-serif" size="2"><b>1st 
+Mortgage-Interest Rate</b></font></td> <td width="282" align="left"><b> 
+<select size="1" name="CurrentIntRate"> <option value="10.0" selected>10 or 
+above</option> <option value="7.0">Below 7.0</option> <option value="7.25">7.1 
+- 7.49</option> <option value="7.75">7.5 - 7.99</option><option value="8.0">8.
+0 - 8.49</option> <option value="8.75">8.5 - 8.99</option> <option value="9.
+25">9.0 - 9.49</option> <option value="9.75">9.5 - 9.99</option> <option 
+value="0">None</option> </select> %</b></td></tr><tr align="center"><td 
+align="RIGHT" width="296" background="Greenbackground.jpg"> <font size="2" 
+color="#000000" face="Arial, Helvetica,sans-serif"><b> Is 1st Adjustable or 
+Fixed?</b></font></td><td align="LEFT" width="282" background="Greenbackground.
+jpg"> <select size="1" name="FirstType"> <option value="Fixed" 
+selected>Fixed</option> <option value="Adjustable">Adjustable</option> 
+</select> *</td></tr> <tr align="center"> <td align="RIGHT" width="296" 
+background="Greenbackground.jpg"> <font color="#000000" face="Arial, Helvetica,
+sans-serif" size="2"><b>Employer</b></font></td> <td width="282" align="left"> 
+<input type="text" size="15" maxlength="30" name="Employer"> *</td></tr><tr 
+align="center"><td align="RIGHT" width="296" background="Greenbackground.jpg"> 
+<font size="2" color="#000000" face="Arial, Helvetica,sans-serif"><b> Monthly 
+Gross&nbsp;Household Income</b></font></td><td width="282" align="left"> 
+<input type="text" size="13" maxlength="30" name="MonthlyGrIncome"> * <font 
+size="1" color="#000000">Please use numbers only</font></td></tr> <tr 
+align="center"> <td align="RIGHT" width="296" background="Greenbackground.
+jpg"> <font size="2" color="#000000" face="Arial, Helvetica,sans-serif"><b> 
+2nd Mortgage Balance owed</b></font></td><td width="282" align="left"> <input 
+type="text" size="13" maxlength="30" name="Mortgage2" onBlur="if (!validate 
+(this.value)) { alert('Not Valid! Please enter only number characters - 
+0123456789\n If you have no second mortgage please enter 0'); this.focus(); 
+this.select(); return false; }">> * <font size="1" color="#000000">Please use 
+numbers only(ex:45000) enter 0 for none</font></td></tr><tr align="center"> 
+<td align="RIGHT" width="296" background="Greenbackground.jpg"> <font 
+color="#000000" face="Arial, Helvetica,sans-serif" size="2"><b>Amount You Wish 
+To Borrow</b></font></td> <td width="282" align="left"> <select size="1" 
+name="BorrowRequest"> <option value="25000" selected>15,000 - 30,000</option> 
+<option value="40000">30,000 - 45,000</option> <option value="55000">45,000 - 
+60,000</option> <option value="70000">60,000 - 75,000</option> <option 
+value="85000">75,000 - 90,000</option> <option value="105000">90,000 - 110,
+000</option> <option value="120000">110,000 - 125,000</option> <option 
+value="150000">125,000 &amp; Up</option> </select> *</td></tr><tr 
+align="center"> <td align="RIGHT" width="296" background="Greenbackground.
+jpg"> <font size="2" color="#000000" face="Arial, Helvetica,sans-serif"><b> 
+Credit Rating</b></font></td><td width="282" align="left"> <select size="1" 
+name="CreditRating"> <option value="Good" selected>Good</option> <option 
+value="Fair">Fair</option> <option value="Poor">Poor</option> <option 
+value="Excellent">Excellent</option> </select> *</td></tr><tr align="center"> 
+<td align="RIGHT" width="296" background="Greenbackground.jpg"> <font size="2" 
+color="#000000" face="Arial, Helvetica,sans-serif"><b> Monthly 
+Debt</b></font></td><td width="282" align="left"> <input type="text" size="13" 
+name="MonthlyDebt"> * <font color="#000000" size="1">Please use numbers 
+<b>only</b></font></td></tr><tr valign="middle"> <td align="RIGHT" width="296" 
+background="Greenbackground.jpg"> <font size="2" color="#000000" face="Arial, 
+Helvetica,sans-serif"><b> Loan Interested In</b></font></td><td width="282" 
+align="left"> <select size="1" name="LoanInterested"> <option value="Debt 
+Consolidation" selected>Debt Consolidation</option> <option value="Second 
+Mortgage">Second Mortgage</option> <option value="Home Improvement">Home 
+Improvement</option> <option value="Refinance">Refinance</option> <option 
+value="Purchase">Purchase</option> </select> *<br>&nbsp;</td></tr><tr 
+align="center"> <td align="center" colspan="2" width="582" "><p><b><font 
+face="Arial">Fast &amp; Easy -You Are Done !</font></b><br> <input 
+type="submit" value="Submit This 
+Application"></td></tr></table></td></tr></table> </form><p><font 
+face="Helvetica, sans-serif, Arial" size="2">REMOVAL INSTRUCTIONS: This 
+message is being sent to you in compliance with the current Federal 
+legislation. You must have either posted an AD to my FFA site, web-site, or 
+requested information, or responded to one of our email letters. If you do not 
+want to receive further emails or any other information from us, or you have 
+received this mail in error, or for immediate removal you may <br><b><a 
+href="mailto: lefty665@uole.com?subject=remove">Click Here</a></b></center></font></p> 
+</body> </html>
+

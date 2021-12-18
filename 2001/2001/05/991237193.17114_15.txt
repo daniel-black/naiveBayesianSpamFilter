@@ -1,0 +1,225 @@
+Return-Path: <xjfvwwacfh@hotbot.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 28937 invoked from network); 30 May 2001 05:10:02 -0000
+Received: from unknown (HELO dns1.interbrand.co.jp) (211.5.81.210)
+  by em.ca with SMTP; 30 May 2001 05:10:02 -0000
+Received: from dns1.interbrand.co.jp (localhost [127.0.0.1])
+	by dns1.interbrand.co.jp (Build 101 8.9.3/NT-8.9.3) with SMTP id OAA01009;
+	Wed, 30 May 2001 14:01:54 +0900
+Date: Wed, 30 May 2001 14:01:54 +0900
+From: xjfvwwacfh@hotbot.com
+Message-Id: <200105300501.OAA01009@dns1.interbrand.co.jp>
+Received: from 216.248.202.4 by dns1.interbrand.co.jp (InterScan E-Mail VirusWall NT); Wed, 30 May 2001 14:01:54 +0900
+To: qwgynuwhfv@hotbot.com
+Reply-To: 
+Subject: THE ANSWER FOR MEN WAS THE BLUE PILL, FOR WOMEN ?????                                    [ufesl]
+Content-Type: text/html;
+Content-Length: 10507
+Lines: 206
+
+
+<html>
+<script language="JavaScript">
+<!--
+ function scrollit_r2l(seed)
+{ 
+	var m1 = "The First Product For Women… THAT WORKS!....."; 
+	var m2 = "Timing for this Product & Opportunity is Crucial !!!..... "; 
+   var m3 = "Call Now  TOLL-FREE  1 - 8 0 0 - 3 2 0 - 9 8 9 5  Ext.  2 5 7 0 ..... ";
+	var msg=m1+m2+m3;        
+	var out = " ";        
+	var c   = 1;        
+	if (seed > 100) 
+		{                
+		seed--;
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                timerTwo=window.setTimeout(cmd,100);        
+		}
+        else if (seed <= 100 && seed > 0) 
+		{
+                for (c=0 ; c < seed ; c++) 
+			{                        
+			out+=" ";
+        		}       
+		out+=msg;
+        	seed--;
+        	var cmd="scrollit_r2l(" + seed + ")";                    
+		window.status=out;                
+		timerTwo=window.setTimeout(cmd,100);        
+	}
+	else if (seed <= 0) 
+		{
+                if (-seed < msg.length) 
+			{                        
+			out+=msg.substring(-seed,msg.length);
+        		seed--;                        
+			var cmd="scrollit_r2l(" + seed + ")";
+        		window.status=out;
+        		timerTwo=window.setTimeout(cmd,100);                
+			}
+                else 
+			{
+	          	window.status=" ";                        
+			timerTwo=window.setTimeout("scrollit_r2l(100)",75);                
+			}        
+		}
+	};
+	scrollit_r2l(100);
+
+//-->
+</script>
+
+
+<head>
+<title>&quot;The First Product For Women -- THAT WORKS!&quot;</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+<div align="center"><center>
+
+<table border="1" cellpadding="10" cellspacing="0" width="68%" bgcolor="#FFFFFF"
+bordercolor="#000000">
+  <tr>
+    <td width="33%" bgcolor="#8080FF"><p align="center"><font face="Times New Roman"
+    color="#FF0000"><big><big><big>&quot;Women - Your Wait Is Over!&quot;</big></big></big></font></td>
+  </tr>
+  <tr>
+    <td width="33%"><p align="center">&nbsp;</p>
+    <p align="center"><font color="#8000FF" face="Arial Narrow"><strong><big>This is an
+    all-natural product made just for women.</big></strong></font></p>
+    <ul>
+      <li><p align="center"><font face="Arial Narrow" color="#FF0080"><strong><big><u>Enhances
+        Their Sexual Responsiveness</u>!!!</big></strong></font></p>
+      </li>
+      <li><p align="center"><font face="Arial Narrow" color="#FF0080"><strong><big><u>Works Within
+        2-4 Minutes</u>!!!</big></strong></font></p>
+      </li>
+    </ul>
+    <p class="MsoBodyText" align="center"><font color="#8000FF" face="Arial Narrow"><strong><br>
+    <big><u>WOMEN LOVE</u> the product...</big></strong></font></p>
+    <p class="MsoBodyText" align="center"><font color="#8000FF" face="Arial Narrow"><strong><big><u>MEN
+    LOVE</u> the results!</big></strong></font></p>
+      <p align="center"><font face="Arial Narrow"><br>
+      <span style="FONT-SIZE: 16pt; mso-bidi-font-size: 10.0pt"><small>
+    <font color="#8000FF">Since
+    the introduction of </font><b><font color="#0000FF"><u>The Blue Pill</u> for
+      men</font></b></small></span></font></p>
+    <p align="center">
+    <font color="#8000FF"><span style="FONT-SIZE: 16pt; mso-bidi-font-size: 10.0pt"><small> women have</small><big><br>
+    </big><small>been</small><big> </big><small>asking; </small></span><big><big><em><strong>&#147;Where&#146;s
+    Our's?&#148;</strong></em></big></big></font></p>
+    <p align="center"><font color="#8000FF" face="Arial Narrow"><big>Announcing...</big></font></p>
+    <p align="center"><font face="Arial Narrow" color="#FF0080"><big><b
+    style="mso-bidi-font-weight: normal"><span
+    style="FONT-SIZE: 18pt; mso-bidi-font-size: 12.0pt">The Female Version!<o:p></span></b></big></font></p>
+    <p align="center"><font color="#0000FF" face="Arial Narrow"><br>
+    <big>&quot;Every woman who desires <strong><u>maximum sexual fulfillment</u></strong>, </big><br>
+    <big><strong><u>greater intimacy</u></strong>, and <strong><u>enhanced relationships</u></strong>
+    stands to </big><br>
+    <big>benefit from regular use of this product!&quot;</big></font></p>
+    <p align="center">&nbsp;</p>
+    <div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td width="8%"></td>
+        <td width="92%"><ul>
+          <li><p align="left"><font color="#000000" face="Arial Narrow"><big>Doctor developed and
+            tested two years before release!&nbsp;&nbsp;&nbsp; </big></font></p>
+          </li>
+          <li><p align="left"><font color="#000000" face="Arial Narrow"><big>Already listed in the
+            Nurses Reference Book!<o:p> </big></font></p>
+          </li>
+          <li><p align="left"><font face="Arial Narrow"><big><font color="#000000">A product that </font><font
+            color="#8000FF"><strong><u>90% of the Female population WANT !!!</u></strong> </font></big></font></p>
+          </li>
+          <li><p align="left"><font color="#000000" face="Arial Narrow"><big>Holds six patents!</big></font></p>
+          </li>
+        </ul>
+        <p align="left">&nbsp;</td>
+      </tr>
+    </table>
+    </center></div><div align="center"><center><table border="1" cellspacing="0" width="61%"
+    cellpadding="10" bgcolor="#6262FF" bordercolor="#000000">
+      <tr>
+        <td width="48%" bgcolor="#8080FF"><p class="MsoBodyText" align="center"><font
+        color="#FFFFFF" face="Arial Narrow" size="4"><strong>If You Are Serious About <br>
+        Creating A Financial <br>
+        Transformation In Your Life... </strong></font></p>
+        <p class="MsoBodyText" align="center"><u><font color="#FFFFFF" face="Arial Narrow"
+        size="4"><strong>Call Today For An Interview!</strong></font></u></td>
+      </tr>
+    </table>
+    </center></div><p class="MsoBodyText" align="center"><font face="Arial" color="#8000FF"><br>
+    </font><font face="Arial" size="4" color="#8000FF"><marquee align="middle" border="0">Timing for this Product &amp; Opportunity is Crucial !!!</marquee></font></p>
+    <p class="MsoBodyText" align="center"><font face="Arial" color="#8000FF"><br>
+    <strong>Did you miss out on the MILLIONS made <br>
+    on the men's BLUE PILL craze?</strong></font></p>
+    <p class="MsoBodyText" align="center"><big><font color="#8000FF" face="Arial Narrow">Now
+    it's your turn to get a piece of this <br>
+    <u>BILLION DOLLAR INDUSTRY</u>.</font></big></p>
+    <p class="MsoBodyText" align="center"><font face="Arial" color="#FF0000"><br>
+    </font><font face="Arial Narrow" color="#FF0080"><strong><big>The Timing Is RIGHT ...
+    RIGHT HERE ... RIGHT NOW!</big></strong></font></p>
+    <p class="MsoBodyText" align="center"><font face="Arial Narrow" color="#FF0080"><strong><big>Interviewers
+    are</big> <big>&quot;<u>pre-qualifying</u>&quot; people now to join our team!</big></strong></font></p>
+    <p class="MsoNormal" align="center"><font face="Arial" color="#8000FF"><strong><br>
+    <big><big>Get Excited and Call Today!!!</big></strong><br>
+    </big><br>
+    <big><big>1-800-320-9895&nbsp; </big></big><br>
+    <big>Ext.&nbsp; 2768</big><br>
+    </font></p>
+    <hr>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>$7,500
+    1<sup>st</sup> 4 days!<o:p></strong> </o:p> &#133;and we just started.&nbsp; It&#146;s like walking <br>
+    into a fairytale!<o:p>&nbsp; ~&nbsp; Shawn in Arizona</font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>$4,500
+    1<sup>st</sup> week!<o:p></strong> </o:p> ~ &nbsp;Jason &amp; Peter in Florida </font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>$3,000
+    1<sup>st</sup> week!</strong><o:p>&nbsp; ~&nbsp; Becky in Nebraska</o:p> </font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF">&nbsp;<strong>Over
+    $20,000 1<sup>st</sup> week!</strong><o:p> </o:p> ~&nbsp; Ken &amp; partner in Alberta, Canada&nbsp; </font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>$3,000
+    1<sup>st</sup> week</strong> - expect to double this my 2<sup>nd</sup> week&nbsp; ~&nbsp;
+    Barry in Chicago</font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>$10,500
+    1<sup>st</sup> week!</strong><o:p> </o:p> ~&nbsp; Tom in California </font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>Over
+    $25,000 1<sup>st</sup> week!<o:p></strong>&nbsp; ~&nbsp; David and partner in Toronto</font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF">Died and
+    went to heaven!!! &nbsp; <strong>Nearly $8,000 1<sup>st</sup> week<o:p>!</strong>&nbsp; ~&nbsp;
+    Jim in Arizona </o:p> </font></p>
+    <p class="MsoNormal" align="center"><font size="3" face="Arial" color="#0000FF"><strong>$15,000
+    1<sup>st</sup> week! </strong>&#133;and climbing every day!!!</font><font face="Arial"
+    color="#0000FF"><o:p> </o:p> ~&nbsp; </font><font size="3" face="Arial" color="#0000FF">Jeannie in
+    California</font></p>
+    <hr>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <div align="center"><center><table border="1" cellspacing="1" width="71%">
+      <tr>
+        <td width="75%"><font color="#0000ff"><div><p align="center"><u><strong><font face="Arial"><br>
+        <small>Your E-mail Address Removal Instructions:</small></font></strong></u></p>
+        </div><div><p align="center"><font face="Arial"><small>&nbsp; &nbsp; The marketing company
+        who sent you this advertisement </small><br>
+        <small>complies</small> <small>with all proposed federal legislation regarding unsolicited<br>
+        &nbsp; &nbsp; commercial e-mail by providing you with a method for your </small><br>
+        <small>e-mail address to be <u>permanently removed</u> from their </small><br>
+        <small>database</small> <small>and any future mailings from their company.</small></font></p>
+        </div><div><p align="center"><font face="Arial"><small>&nbsp; &nbsp; To permanently remove
+        your address, please </small></font></font><br>
+        <small><a href="mailto:canc_directory@europe.com?subject=REMOVE"><font face="Arial"
+        color="#0000ff">CLICK HERE</font></a><font face="Arial" color="#0000ff"> to send your
+        request.</small><br>
+        </font></p>
+        </div></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
+
+

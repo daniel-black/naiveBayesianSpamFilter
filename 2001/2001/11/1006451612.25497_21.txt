@@ -1,0 +1,248 @@
+Return-Path: <offer9@campaign.mediaring.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 9571 invoked from network); 22 Nov 2001 16:23:54 -0000
+Received: from mrussjex5220.mediaring.com (HELO 204.83.201.10) (66.35.195.220)
+  by agamemnon.bfsmedia.com with SMTP; 22 Nov 2001 16:23:54 -0000
+From: MediaRing.com<offer9@campaign.mediaring.com>
+To: bait@em.ca
+Return-Path: offer9@campaign.mediaring.com
+Subject: Welcome to MyVoiz!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=ygjb03eec80b3b22979d641f24526ed90d9
+DATE: Thu, 22 Nov 2001 08:27:29 -0800
+Content-Length: 14562
+Lines: 233
+
+--ygjb03eec80b3b22979d641f24526ed90d9
+Content-Type: text/html; charset=iso-8859-1
+
+<html>
+<head>
+<title>MediaRing Newsletter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0" marginheight="0" link="#FF9900" vlink="#0000FF">
+<script language="JavaScript1.2">
+
+if (document.all||document.getElementById)
+document.body.style.background="url('http://myvoiz.mediaring.com/newsletter/images/watermark_mv.gif') white left no-repeat fixed"
+
+</script>
+<script>
+function winopen(){
+  window.open("http://myvoiz.mediaring.com/pm_login_voizfone/rates.phtml?id=A", "ratewin", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=yes,width=267,height=500")
+}
+</script>
+<!-- INSERT OPEN TAG -->
+<img src="http://em2.mediaring.com/cgi-bin/em/em2?a=news11open&u=6859325" width="1" height="1">
+<!-- END OPEN TAG -->
+<!-- BEGIN HEADER BANNER & TALKY LOGO -->
+<table width="750" border="0" cellspacing="0" cellpadding="0" height="70">
+  <tr>
+    <td align="center"><img src="http://myvoiz.mediaring.com/newsletter/images/talky_bg2.gif" width="89" height="70" align="absbottom" border="0"> 
+      <!-- AD TAG -->
+		<!-- L90 BANNER STARTS HERE! -->
+		<IFRAME SRC="http://ad.doubleclick.net/adi/mediaring.l90/;sz=468x60;ord=445678?" name="frame1" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mediaring.l90/;abr=!ie;sz=468x60;ord=445678?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/mediaring.l90/;abr=!ie;sz=468x60;ord=445678?"><IMG SRC="http://ad.doubleclick.net/ad/mediaring.l90/;abr=!ie;sz=468x60;ord=445678?" border=0 height="60" width="468"></A>
+</NOSCRIPT>
+</IFRAME>
+		<!-- L90 BANNER ENDS HERE!-->
+		<!-- /AD TAG --></td>
+  </tr>
+</table>
+<!-- END HEADER BANNER & TALKY LOGO -->
+
+<!-- BEGIN TEXT HEADER -->
+<table width="750" border="1" cellspacing="0" cellpadding="0" bordercolor="#000000" height="42">
+  <tr>
+    <td height="2">
+      <table width="750" border="0" cellspacing="0" cellpadding="10" height="42">
+        <tr valign="top"> 
+          <td width="55%" bgcolor="#FF9900" height="27"><b><font face="Arial, Helvetica, sans-serif" size="4" color="#FFFFFF"> 
+            <font face="Tahoma" size="5">Talky's Bits &amp; Bytes</font></font></b></td>
+          <td width="9%" bgcolor="#FFCC00" height="27" background="http://www.mediaring.com/domore/newsletter/aug/grid.gif">&nbsp;</td>
+          <td width="15%" bgcolor="#FFCC00" height="27"> <b><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+            </font></b></td>
+          <td width="21%" bgcolor="#FFCC00" height="27"> 
+            <div align="right"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news11row1&u=6859325" target="_blank"><img src="http://myvoiz.mediaring.com/newsletter/images/myvoiz_mr2.gif" width="160" height="49" border="0"></a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- END TEXT HEADER --> 
+<table width="750" border="1" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="612"> 
+      <table border="0" cellspacing="10" cellpadding="0" width="610" height="100%">
+        <tr> 
+          <td valign="top" width="662"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tr> 
+                <td valign="top"> <font face="Arial, Helvetica, sans-serif" size="2"><img src="http://myvoiz.mediaring.com/newsletter/nov/myvoiz_mr.gif" width="160" height="49" align="bottom" border="0"> 
+                  MediaRing for Consumers is now known as MyVoiz. We are redesigning 
+                  our website in order to better serve you, our valued users. 
+                  We've packed in the services and made everything easier to access. 
+                  We want our members to preview our Beta Site and tell us what 
+                  you think. Discover the difference of being Powered by MediaRing. 
+                  <i> <b>MyVoiz.....Linking People, Connecting Minds </b></i></font><br>
+                  <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news11row2&u=6859325" target="_blank"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">http://myvoiz.mediaring.com</font></a> 
+                  <center>
+                    <font face="Arial, Helvetica, sans-serif" size="2"><b><br>
+                    </b></font> 
+                  </center>
+                  <hr noshade>
+                  <!-- AD TAG -->
+		<!-- L90 BANNER STARTS HERE! -->
+		<IFRAME SRC="http://ad.doubleclick.net/adi/mediaring.l90/;sz=468x60;ord=973625?" name="frame1" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mediaring.l90/;abr=!ie;sz=468x60;ord=973625?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/mediaring.l90/;abr=!ie;sz=468x60;ord=973625?"><IMG SRC="http://ad.doubleclick.net/ad/mediaring.l90/;abr=!ie;sz=468x60;ord=973625?" border=0 height="60" width="468"></A>
+</NOSCRIPT>
+</IFRAME>
+		<!-- L90 BANNER ENDS HERE!-->
+		<!-- /AD TAG --> 
+                  <p><font face="ArialHelveticasans-serif" size="2"><b><font color="#FF9900" face="Arial, Helvetica, sans-serif">Talky's 
+                    World Fact File - Indonesia</font></b></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2"><img src="http://myvoiz.mediaring.com/newsletter/nov/indo178.jpg" align="left" border="0" width="178" height="284">For 
+                    centuries, the scattered islands that make up the archipelago 
+                    of Indonesia have attracted traders, colonisers, missionaries, 
+                    and adventurers alike. Its magnificent beaches, volcanoes, 
+                    and jungles have captivated tourists for decades. Friendly 
+                    people, ethnic crafts, and colorful traditional ceremonies 
+                    are the central attractions of places such as Bali and Borneo. 
+                    </font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2">Indonesia, 
+                    an archipelago of over 17,000 islands, spans an incredible 
+                    80,000 kilometers of unimaginable beauty. Pictoresque landscape 
+                    ranging from volcanoes to sandy beaches. From rich rice fields 
+                    to lush jungles. Complete with rare animals; such as the two-horned 
+                    Sumatran rhinoceros and Orang Utans, and abundant with exotic 
+                    flora including the striking rhododendrons, Indonesia is paradise 
+                    for anyone.<br>
+                    <br>
+                    Take advantage of our <b><font color="#FF9900">VoizFone</font></b> 
+                    Indonesia promotion.<br>
+                    <br>
+                    </font></p>
+                  <center>
+                    <table width="250" border="1" bgcolor="#FFCC00">
+                      <tr> 
+                        <td width="59%"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#003366">Jakarta 
+                          </font></b></font></td>
+                        <td width="41%"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#003366">4.9&cent/min</font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="59%"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#003366">Rest 
+                          of Indonesia </font></b></font></td>
+                        <td width="41%"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#003366">15&cent/min</font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="59%"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#003366">Mobile 
+                          Line</font></b></font></td>
+                        <td width="41%"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#003366">25&cent/min</font></b></font></td>
+                      </tr>
+                    </table>
+                  </center>
+                  <br>
+                  <p><font face="Arial, Helvetica, sans-serif" size="1">*promotional 
+                    rate only. offer good until 31st December 2001. check rate 
+                    table for all prices.</font> </p>
+                  <hr noshade>
+                  <!-- AD TAG -->
+		<!-- L90 BANNER STARTS HERE! -->
+		<IFRAME SRC="http://ad.doubleclick.net/adi/mediaring.l90/;sz=468x60;ord=364582?" name="frame1" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mediaring.l90/;abr=!ie;sz=468x60;ord=364582?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/mediaring.l90/;abr=!ie;sz=468x60;ord=364582?"><IMG SRC="http://ad.doubleclick.net/ad/mediaring.l90/;abr=!ie;sz=468x60;ord=364582?" border=0 height="60" width="468"></A>
+</NOSCRIPT>
+</IFRAME>
+		<!-- L90 BANNER ENDS HERE!-->
+		<!-- /AD TAG -->
+                  <p><font face="ArialHelveticasans-serif"><b><font size="2" color="#FF9900" face="Arial, Helvetica, sans-serif">Happy 
+                    Thanksgiving! (November 29th)</font></b></font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2"> <img src="http://myvoiz.mediaring.com/newsletter/nov/thanksgiving.gif" width="117" height="111" align="left">November 
+                    29th -- the last Thursday of November is a day to give thanks 
+                    for the year's bounty. If your family is scattered to the 
+                    four corners of the Earth, why not give them a call and bring 
+                    the family together for this special occasion. With <b><font color="#FF9900">VoizFone</font></b> 
+                    you can keep traditions going... Call anyone in the US or 
+                    world wide this Thanksgiving.</font></p>
+                  </td>
+              </tr>
+            </table>
+            <hr noshade>
+            <p align="center"><font face="Arial, Helvetica, sans-serif" size="1">You 
+              are receiving this email newsletter as a result of registering for 
+              a MediaRing user account. Receipt of this newsletter is condition 
+              for use of MediaRing services. Unsubscribing from this newsletter 
+              list requires account termination. Please read our<a href="http://myvoiz.mediaring.com/newsletterframe.phtml?id=http://myvoiz.mediaring.com/legal/tnc.html" target="_blank"> 
+              terms and conditions</a> to find out more about your account. MediaRing 
+              takes your privacy seriously. To learn more about MediaRing's use 
+              of personal information, please read our <a href="http://myvoiz.mediaring.com/newsletterframe.phtml?id=http://myvoiz.mediaring.com/legal/privacy.html" target="_blank">Privacy 
+              Policy</a></font></p>
+            <p align="center"><font face="Arial, Helvetica, sans-serif" size="1">Copyright 
+              &copy; 2001. MediaRing Ltd. All Rights Reserved.</font> </p>
+            </td>
+          </tr>
+      </table>
+    </td>
+    <td bgcolor="#666666" width="136"> 
+      <table width="138" height="100%" border="0" cellspacing="0" cellpadding="5" bordercolor="#000000" bgcolor="#666666"  align="center">
+        <tr> 
+                
+          <td width="138" valign="top" height="150" bgcolor="#999999"> <!-- BUTTON ADS STARTS HERE! --> 
+            <a href="http://www.cnn.com/" target="_blank"><img src="http://myvoiz.mediaring.com/newsletter/images/sm_ad2" border="0" width="120" height="60"></a> 
+            <br>
+                  <br>
+            <img src="http://myvoiz.mediaring.com/newsletter/images/bjpromo.gif" border="0" width="120" height="60"> 
+            <!-- BUTTON ADS ENDS HERE!--> </td>
+              </tr>
+              <tr> 
+             
+          <td width="138" valign="top" bgcolor="#666666"> 
+            <p><font class="topmenu_link"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news10acct" target="_blank"><b><font size="1"> 
+              </font></b></a></font><font color="#FF9900"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Log 
+              in with your MediaRing Email: <br>
+              bait@em.ca</font></b></font> </font></p>
+            <p><font class="topmenu_link"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="1"><b><img src="http://myvoiz.mediaring.com/newsletter/images/orange_blt.gif" width="9" height="12" align="absbottom"> 
+              <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news11row3&u=6859325" target="_blank">PC-to-Phone</a><br>
+              <img src="http://myvoiz.mediaring.com/newsletter/images/orange_blt.gif" width="9" height="12" align="absbottom"> 
+              <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news11row4&u=6859325" target="_blank">Voiz 
+              Messaging</a><br>
+              <img src="http://myvoiz.mediaring.com/newsletter/images/orange_blt.gif" width="9" height="12" align="absbottom"> 
+              <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news11row5&u=6859325" target="_blank">Advertise 
+              with Us</a><br>
+              <img src="http://myvoiz.mediaring.com/newsletter/images/orange_blt.gif" width="9" height="12" align="absbottom"> 
+              <a href="mailto:feedback@mediaring.com">Feedback</a></b></font></font><br>
+              </font></p>
+          </td>
+              </tr>
+            </table>
+		
+      <br>
+      <br>		<center>
+        <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=news11row6&u=6859325" target="_blank"><img src="http://myvoiz.mediaring.com/newsletter/images/52248.gif" border="0" width="100" height="100"></a> 
+        <br>
+        <br>
+        <br>
+        <a href="#" onclick="winopen()"> <img src="http://myvoiz.mediaring.com/newsletter/images/rate.gif" width="100" height="100" border="0"></a>
+</center><br>
+      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				<img src="http://myvoiz.mediaring.com/newsletter/images/talkybg_03.gif"> 
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--ygjb03eec80b3b22979d641f24526ed90d9--
+.
+

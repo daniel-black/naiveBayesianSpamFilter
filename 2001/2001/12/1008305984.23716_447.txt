@@ -1,0 +1,37 @@
+Return-Path: <nexus@nexus2music.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22971 invoked from network); 14 Dec 2001 04:48:02 -0000
+Received: from lsmls01.we.mediaone.net (24.130.1.20)
+  by agamemnon.bfsmedia.com with SMTP; 14 Dec 2001 04:48:02 -0000
+Received: from nexus2music.com (we-24-30-97-123.we.mediaone.net [24.30.97.123])
+	by lsmls01.we.mediaone.net (8.11.4/8.11.3) with SMTP id fBE4kW023818;
+	Thu, 13 Dec 2001 20:46:32 -0800 (PST)
+Date: Thu, 13 Dec 2001 20:46:32 -0800 (PST)
+Message-Id: <200112140446.fBE4kW023818@lsmls01.we.mediaone.net>
+MIME-Version: 1.0
+From: nexus@nexus2music.com
+Reply-To: nexus@nexus2music.com
+To: nexus@nexus2music.com
+Subject: New Harry Potter Theme Released!
+Mime-Version: 1.0 
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 1834
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0026)http://www.jordanband.com/ --><HTML><HEAD><TITLE>The Jordan Band - Welcome!</TITLE>
+<META http-equiv=content-type content=text/html;charset=iso-8859-1>
+<META content="Microsoft FrontPage 4.0" name=GENERATOR></HEAD>
+<BODY bgColor=#a59141>
+<DIV align=center>
+<P><img src="http://www.jordanband.com/images/banner.gif" width="500" height="65" border="0" usemap="#banner4fd4f7"><map name="banner4fd4f7"><area shape="rect" coords="439,44,496,65" href="http://www.jordanband.com/index.html"><area shape="rect" coords="301,44,416,65" href="http://www.jordanband.com/Equipment.html"><area shape="rect" coords="188,44,278,65" href="http://www.jordanband.com/Booking.html"><area shape="rect" coords="111,44,163,65" href="http://www.jordanband.com/Touring.html"><area shape="rect" coords="52,44,87,65" href="http://www.jordanband.com/Bio.html"><area shape="rect" coords="0,44,31,65" href="http://www.jordanband.com/CD.html"></map></P>
+<TABLE cellSpacing=0 cellPadding=10 width=500 border=0>
+  <TBODY>
+  <TR>
+    <TD>
+							<div align="center">
+								<a href="http://www.jordanband.com"><img src="http://www.jordanband.com/images/CD-cover.jpg" width="466" height="466" border="0"></a></div>
+							<div align="left">
+								<p>Check out the exclusive <b><i><font size=5><blink>Jordan</blink></font></i></b> band web site, featuring two previously unreleased Harry Potter Theme tracks!  Jordan is an instrumental  pop/jazz group inspired by Sting and David Sanborn. Visit the band's web site today at <a href="http://www.jordanband.com">http://www.jordanband.com</a> for both instrumental and vocal versions of the Harry Potter Theme, in MP3 format.  While you're there, order a copy of  the new <i><b>Jordan <em>Band CD!</em></b></i></p>
+							</div>
+
+

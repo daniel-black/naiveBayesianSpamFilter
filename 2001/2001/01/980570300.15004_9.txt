@@ -1,0 +1,47 @@
+Return-Path: <kneary12@linkusnow.net>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 4286 invoked from network); 26 Jan 2001 23:54:22 -0000
+Received: from unknown (HELO linux.theassetonline.com) (202.80.30.3)
+  by bfsmedia.sk.ca with SMTP; 26 Jan 2001 23:54:22 -0000
+Received: from mx13.linkusnow.net (1Cust2.tnt1.ann-arbor.mi.da.uu.net [63.48.17.2])
+	by linux.theassetonline.com (8.9.3/8.9.3) with SMTP id HAA26899;
+	Sat, 27 Jan 2001 07:55:15 +0800
+To: linkusnow@brainbyte.com
+From: tigger5553@linkusnow.net
+CC: gn@brainbyte.com, gn@brainbyte.com, gn@brainbyte.com, gn@brainbyte.com,
+        gn@brainbyte.com, gn@brainbyte.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Received: from mx13.linkusnow.net [192.168.222.18] by 2kc.mx13.linkusnow.net with SMTP; Fri, 26 Jan 2001 18:53:47 -0500
+Message-Id: <sj2bqjtb362v480i4irl.hfh65alksq6u2r@mx13.linkusnow.net>
+Subject: Get Your Free Gift Valued At $175.
+Date: Fri, 26 Jan 2001 18:53:47 -0500
+Content-Length: 901
+Lines: 24
+
+<HTML><FONT  BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 
+PTSIZE=10><B>GET YOUR FREE VACATION VOUCHER <BR>
+WHEN VISITING OUR WEB SITE!<BR>
+<BR>
+</B>We are living in the most prosperous time in history.<BR>
+Now it is your turn to benefit! <BR>
+<BR>
+6 Figure Income Potential working from home!  <BR>
+</FONT><FONT  COLOR="#ff0000" BACK="#ffffff" style="BACKGROUND-COLOR: 
+#ffffff" SIZE=2 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><B>Learn to 
+earn $1,000 to $5,000 per week.<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: 
+#ffffff" SIZE=2 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Get your 
+FREE BIZ OPP INFORMATION & <BR>
+Weekend GetAway when visiting our site.<BR>
+<BR>
+<A HREF="http://www.linkusnow.net/bizopp">CLICK HERE!</A><BR>
+<BR>
+<BR>
+<BR>
+To be removed: <A HREF="http://www.linkusnow.net/remove">Click 
+Here</A></B></FONT></HTML>
+

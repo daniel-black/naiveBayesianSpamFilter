@@ -1,0 +1,325 @@
+Return-Path: <gabriella12a@inet.bansud.com.ar>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 30185 invoked from network); 23 May 2001 14:09:01 -0000
+Received: from unknown (HELO kingstate.com.tw) (210.65.53.2)
+  by snssoftware.com with SMTP; 23 May 2001 14:09:01 -0000
+Received: from 148.243.206.69 (salsa2-dialup348.Chicagochd.cw.net [63.129.9.91])
+	by kingstate.com.tw (8.11.0/8.11.0) with SMTP id f4NE0ip25579;
+	Wed, 23 May 2001 22:00:45 +0800
+Message-ID: <00007be01857$00001fc3$00006ca9@132.248.12.12>
+To: <WeLend@kingstate.com.tw>
+From: gabriella12a@inet.bansud.com.ar
+Subject: Mortgage Rates DROPPED! Act Now & Save!
+Date: Thu, 24 May 2001 08:29:38 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: a1@naa.go.jp
+Content-Length: 14763
+Lines: 302
+
+<HTML><HEAD><TITLE>Loan Application Form</TITLE><META http-equiv=3DContent-=
+Type content=3D"text/html; charset=3Diso-8859-1"><META content=3D"Cheryl N=
+ Knowles" name=3DAuthor>
+<script language=3DJavaScript>
+<!--
+function validate(form) {
+ if ( (form.Name.value =3D=3D "") ||
+    (form.Address.value =3D=3D "") ||
+    (form.City.value =3D=3D "") ||
+    (form.State.value =3D=3D "") ||
+    (form.PostalCode.value =3D=3D "") ||
+    (form.Email.value =3D=3D "") ) {
+ alert("Please Fill In All Required Fields");
+ return false;
+ } else {
+ return true;
+ }
+ }
+// -->
+</script>
+
+</HEAD><BODY text=3D#000040 vLink=3D#800080 aLink=3D#ff0000 link=3D#0000ff=
+ bgcolor=3D#000080>--><form name=3Dform onSubmit=3D"return validate(this)"=
+ action=3D"mailto:nelson5x@yahoo.com?subject=3DMtg-Request8" method=3Dpost=
+ enctype=3D"text/plain"><DIV align=3Dcenter><CENTER><TABLE width=3D600 bor=
+der=3D0 bgcolor=3D#000080><TBODY><TR><TD height=3D285 bgcolor=3D#FFFFFF bo=
+rdercolor=3D#FFFFFF><p align=3Dcenter><font face=3DArial size=3D4 color=3D=
+#0000FF><b>Tap into Our Huge Network Of Lenders.</b></font><p align=3Dcent=
+er><font face=3DArial size=3D3><b><font color=3D#B80331>We provide a 100% =
+free service that enables you to get the lowest rate possible!</font></b><=
+/font><p><font face=3DArial size=3D2 color=3D#000080><b>We work in conjunc=
+tion with hundreds of lenders nationwide and will align you with the best =
+possible rates and terms. Throughout our network of lenders, we will provi=
+de you with the money you need for the following:</b></font> <ul><li><font=
+ face=3DArial size=3D2 color=3D#B80331><b>Debt Consolidation</b></font></l=
+i> <li><font face=3DArial size=3D2 color=3D#B80331><b>2nd Mortgage</b></fo=
+nt></li> <li><font face=3DArial size=3D2 color=3D#B80331><b>Refinance</b><=
+/font></li> <li><font face=3DArial size=3D2 color=3D#B80331><b>Credit Repa=
+ir&nbsp;</b></font></li> <li><font face=3DArial size=3D2 color=3D#B80331><=
+b>Home Improvement</b></font></li> <li><font face=3DArial size=3D2 color=3D=
+#B80331><b>New Car</b></font></li> <li><font face=3DArial size=3D2 color=3D=
+#B80331><b>Dream Vacation</b></font></li> <li><font face=3DArial size=3D2 =
+color=3D#B80331><b>College Tuition&nbsp;</b></font></li> <li><font face=3D=
+Arial size=3D2 color=3D#B80331><b>To start a new business ..and much, much=
+ more!</b></font></li></ul><p align=3Dcenter><b><font size=3D3 face=3DAria=
+l color=3D#000080>Shopping for your loan just got</font><font face=3DArial=
+ color=3D#000080><font size=3D3> easy!<br> </font><font size=3D2><br> </fo=
+nt></font><font face=3DArial size=3D2 color=3D#B80331>Simply complete the =
+form below, and we'll begin shopping for your loan</font><font face=3DAria=
+l size=3D2 color=3D#FF0000> </font><font face=3DArial size=3D2 color=3D#00=
+0080><i>TODAY</i></font><font face=3DArial size=3D2 color=3D#FF0000>.</fon=
+t></b><TABLE cellSpacing=3D0 cellPadding=3D0 width=3D600 border=3D0><TBODY=
+><TR><TD vAlign=3Dtop align=3Dmiddle><HR align=3Dcenter width=3D100% color=
+=3D#000080></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></CENTER></=
+DIV>
+<table cellspacing=3D0 cellpadding=3D2 width=3D564 align=3Dcenter bgcolor=3D=
+#FFFFFF border=3D0><tr> 
+<td nowrap align=3Dcenter width=3D589 colspan=3D2 bordercolor=3D"#FFFFFF">=
+<font color=3D"#000080"><b>*Required
+  Fields</b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=3D"#000080">=
+<b>**Numbers
+  Only</b></font></td></tr><tr valign=3Dmiddle><td align=3Dright width=3D2=
+11><font face=3DArial color=3D#000080 size=3D2>
+Name:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D60 size=3D29 name=3DName><font color=3D"#000080">* </fo=
+nt> <font color=3D#ffffff>*</font></td></tr><tr valign=3Dmiddle> 
+<td align=3Dright width=3D211><font face=3DArial color=3D#000080 size=3D2>
+Address:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D50 size=3D29 name=3DAddress>* <font color=3D#ffffff>*</=
+font></td></tr><tr valign=3Dmiddle> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+City:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input id=3DCity maxlength=3D30 size=3D29 name=3DCity>* <font color=3D#fff=
+fff>*</font></td></tr><tr valign=3Dmiddle> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+State (USA Only):</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFF=
+F> 
+<select id=3DState size=3D1 name=3DState>
+<option value=3DAK selected>AK</option>
+<option value=3DAR>AR</option>
+<option value=3DAZ>AZ</option>
+<option value=3DCA>CA</option>
+<option value=3DCO>CO</option>
+<option value=3DCT>CT</option>
+<option value=3DDC>DC</option>
+<option value=3DDE>DE</option>
+<option value=3DFL>FL</option>
+<option value=3DGA>GA</option>
+<option value=3DHI>HI</option>
+<option value=3DIA>IA</option>
+<option value=3DID>ID</option>
+<option value=3DIL>IL</option>
+<option value=3DIN>IN</option>
+<option value=3DKS>KS</option>
+<option value=3DKY>KY</option>
+<option value=3DLA>LA</option>
+<option value=3DMA>MA</option>
+<option value=3DMD>MD</option>
+<option value=3DME>ME</option>
+<option value=3DMI>MI</option>
+<option value=3DMN>MN</option>
+<option value=3DMO>MO</option>
+<option value=3DMS>MS</option>
+<option value=3DMT>MT</option>
+<option value=3DNC>NC</option>
+<option value=3DND>ND</option>
+<option value=3DNE>NE</option>
+<option value=3DNH>NH</option>
+<option value=3DNJ>NJ</option>
+<option value=3DNM>NM</option>
+<option value=3DNV>NV</option>
+<option value=3DNY>NY</option>
+<option value=3DOH>OH</option>
+<option value=3DOK>OK</option>
+<option value=3DOR>OR</option>
+<option value=3DPA>PA</option>
+<option value=3DRI>RI</option>
+<option value=3DSC>SC</option>
+<option value=3DSD>SD</option>
+<option value=3DTN>TN</option>
+<option value=3DTX>TX</option>
+<option value=3DUT>UT</option>
+<option value=3DVA>VA</option>
+<option value=3DVT>VT</option>
+<option value=3DWA>WA</option>
+<option value=3DWI>WI</option>
+<option value=3DWV>WV</option>
+<option value=3DWY>WY</option>
+</select>* <font color=3D#ffffff>*</font></td></tr><tr valign=3Dmiddle><td=
+ align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D#0=
+00080 size=3D2>
+Zip/Postal Code:</font></td>
+<td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D10 size=3D14 name=3DPostalCode>* <font color=3D#ffffff>=
+*</font></td></tr><tr valign=3Dmiddle><td align=3Dright width=3D211 bgcolo=
+r=3D#FFFFFF><font face=3DArial color=3D#000080 size=3D2>
+Home Phone:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D12 size=3D14 name=3DHPhone>* <font color=3D#ffffff>*</f=
+ont></td></tr><tr valign=3Dmiddle> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Work Phone:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D12 size=3D14 name=3DWPhone>* <font color=3D#ffffff>*</f=
+ont></td></tr><tr valign=3Dmiddle> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Email Address:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D100 size=3D14 name=3DEmail>*<font color=3D#ffffff>&nbsp=
+;</font></td></tr><tr valign=3Dmiddle> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Best Time to Call:</font></td><td align=3Dleft width=3D372 bgcolor=3D#FFFF=
+FF> 
+<select size=3D1 name=3DCallTime>
+<option value=3D"Morning at Home" selected>Morning at Home</option>
+<option value=3D"Morning at Work">Morning at Work</option>
+<option value=3D"Afternoon at Home">Afternoon at Home</option>
+<option value=3D"Afternoon at Work">Afternoon at Work</option>
+<option value=3D"Evening at Home">Evening at Home</option>
+<option value=3D"Late Evening at Work">Late Evening at Home</option>
+</select>
+</td></tr><tr><td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3D=
+Arial color=3D#000080 size=3D2>
+Do You Own Your Home?:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<select size=3D1 name=3DHomeowner>
+<option value=3DYes selected>Yes</option>
+<option value=3DNo>No</option>
+</select> <b><font face=3DArial color=3D#ffffff size=3D1>Mobile Homes DO N=
+OT Qualify</font></b></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Property Value:</font></td>
+<td width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D100 size=3D14 name=3DPropertyValue><font size=3D"1"><b>=
+Must enter in
+000's&nbsp; (ex. 45000)</b></font><font color=3D#ffffff>*</font></td></tr>=
+<tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Property Type:</font></td>
+<td width=3D372 bgcolor=3D#FFFFFF> 
+<select size=3D1 name=3DPropertyType>
+<option value=3D"Single Family Residence" selected>Single Family Residence=
+</option> 
+<option value=3DCondo>Condo</option>
+<option value=3DTownhouse>Townhouse</option>
+<option value=3D"2-4 Plex">2-4 Plex</option>
+<option value=3DOther>Other</option>
+</select></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Purchase Price:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D100 size=3D14 name=3DPurchasePrice></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Year Acquired:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D100 size=3D14 name=3DYearAcquired>* <font color=3D#ffff=
+ff>*</font></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+1st Mortgage Balance Owed:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D100 size=3D14 name=3DMortgage1><b><font size=3D"1">**En=
+ter in 000's
+(ex.45000) - Enter 0 if none</font> </b></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+1st Mortgage Interest Rate:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<b><select size=3D1 name=3DCurrentIntRate> <option value=3D10.1>10% or abo=
+ve</option> <option value=3D9.25>9.0
+  - 9.49</option> <option value=3D9.75>9.5 - 9.99</option> <option value=3D=
+8.75>8.5
+  - 8.99</option> <option value=3D8.0>8.0 - 8.49</option> <option value=3D=
+7.25>7.1 -
+  7.49</option> <option value=3D7.75>7.5 - 7.99</option> <option value=3D7=
+.0>Below
+  7.0</option> <option value=3D0>None</option> </select></b>*</td></tr><tr=
+> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Is 1st Adjustable or Fixed?:</font></td><td width=3D372 bgcolor=3D#FFFFFF>=
+ 
+<select size=3D1 name=3DFirstType>
+<option value=3DFixed selected>Fixed</option>
+<option value=3DAdjustable>Adjustable</option>
+</select> <font color=3D#ffffff>*</font></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+2nd Mortgage Balance Owed:</font></td><td width=3D372 bgcolor=3D#FFFFFF>
+<input maxlength=3D100 size=3D14 name=3DMortgage2><b><font size=3D"1">**En=
+ter in 000's
+(ex.45000) - Enter 0 if none</font></b><font color=3D#ffffff>*</font></td>=
+</tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Amount You Wish To Borrow:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<select size=3D"1" name=3D"BorrowRequest">
+  <option value=3D"25000" selected>15,000 - 30,000</option>
+  <option value=3D"40000">30,000 - 45,000</option>
+  <option value=3D"55000">45,000 - 60,000</option>
+  <option value=3D"70000">60,000 - 75,000</option>
+  <option value=3D"85000">75,000 - 90,000</option>
+  <option value=3D"105000">90,000 - 110,000</option>
+  <option value=3D"120000">110,000 - 125,000</option>
+  <option value=3D"150000">125,000 &amp; Up</option>
+</select></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Employer:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<input maxlength=3D100 size=3D14 name=3DEmployer>*</td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Monthly Gross Household Income:</font></td><td width=3D372 bgcolor=3D#FFFF=
+FF> 
+<input maxlength=3D100 size=3D14 name=3DMonthlyGrIncome>*<font color=3D#ff=
+ffff>*</font></td></tr><tr> 
+<td bgcolor=3D#FFFFFF align=3Dright width=3D"211"><font face=3DArial size=3D=
+2 color=3D#000080>
+Monthly Debt:</font></td><td bgcolor=3D#FFFFFF width=3D"372"> 
+<input maxlength=3D100 size=3D14 name=3DMonthlyDebt>*</td></tr><tr> 
+<td nowrap align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial =
+color=3D#000080 size=3D2>
+Credit Rating:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<select size=3D1 name=3DCreditRating>
+<option value=3DGood selected>Good</option>
+<option value=3DFair>Fair</option>
+<option value=3DPoor>Poor</option>
+</select> <font color=3D#ffffff>*</font></td></tr><tr> 
+<td align=3Dright width=3D211 bgcolor=3D#FFFFFF><font face=3DArial color=3D=
+#000080 size=3D2>
+Loan Interested In:</font></td><td width=3D372 bgcolor=3D#FFFFFF> 
+<select size=3D1 name=3DLoanInterested>
+<option value=3DConsolidation selected>Debt Consolidation</option>
+<option value=3DSecond>Second Mortgage</option>
+<option value=3DImprovement>Home Improvement</option>
+<option value=3DRefinance>Refinance</option>
+<option value=3DPurchase>Purchase</option>
+</select> <font color=3D#ffffff>*</font></td></tr><tr><td bgcolor=3D#FFFFF=
+F colspan=3D"2" width=3D"589">&nbsp;</td></tr><tr>
+<td align=3D"center" bgcolor=3D#ffffff colspan=3D"2" width=3D"589"><p><br>
+<input type=3Dsubmit value=3D"Submit Form">
+<input type=3Dreset value=3D"Clear Form"><p>&nbsp;</td>
+</tr></table>
+</FORM><div align=3Dcenter><center><table border=3D0 width=3D610 cellspaci=
+ng=3D0 cellpadding=3D0 bordercolor=3D#FFFFFF><tr><td width=3D100% bgcolor=3D=
+#FFFFFF><b><font face=3DArial size=3D3 color=3D#000080><a href=3Dmailto:zi=
+pout67@uole.com?subject=3DDelete>Removal Instructions</a></font></b><font =
+face=3DArial size=3D3 color=3D#FF0000>:</font><font face=3DArial size=3D3 =
+color=3D#000080> </font><font face=3DArial color=3D#000080 size=3D2>This e=
+mail was sent to you by an Internet&nbsp; Marketing Services Co. in full c=
+ompliance with all existing and proposed email legislation. You may automa=
+tically
+        <a href=3D"mailto:vikki8@uole.com?subject=3DDelete">remove yoursel=
+f from any future mailings by clicking here</a></font></td></tr></table></=
+center></div><p align=3Dcenter><a href=3Dmailto:zipout67@uole.com?subject=3D=
+Delete><font size=3D-2 face=3DArial,Helvetica><br> </font></a><font size=3D=
+-2 face=3DArial,Helvetica>The reply address on this email was active at th=
+e time this email was sent.</font></p></BODY></HTML>
+
+
+

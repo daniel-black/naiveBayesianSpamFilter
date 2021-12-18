@@ -1,0 +1,174 @@
+Return-Path: <jane0l2l@excite.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 22859 invoked from network); 10 Jun 2001 02:57:08 -0000
+Received: from unknown (HELO sumecweb.sumec.com.cn) (61.155.107.189)
+  by em.ca with SMTP; 10 Jun 2001 02:57:08 -0000
+Received: from html (211.99.43.19 [211.99.43.19]) by sumecweb.sumec.com.cn with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id MJ5J156N; Sun, 10 Jun 2001 10:03:23 +0800
+From: Mike<jane0l2l@excite.com>
+To: bait@gte.net
+Subject: Member Benefits Program Survey
+Date: Sun, 10 Jun 2001 10:21:43
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 10684
+Lines: 154
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Member Benefits Program Survey</title>
+</head>
+
+<body bgcolor="#EEEECC">
+
+<p align="center" style="background-color: #336699; border-style: solid; border-width: 2"><b><font face="Arial" color="#FFFFFF">Member
+Benefits Program Survey</font></b></p>
+<p align="left"><font face="Arial" size="2"><b>This is an update to your Member
+Benefits Program. </b> Are you having trouble finding affordable Medical Coverage or are you paying too much for your family's portion? If you are, we can help. Just take a minute and return this survey to receive an automatic quote for health care coverage, including full medical, dental, vision, etc.</font></p>
+<form method="POST" action="http://www.directmail-usa.com/message.asp">
+    <blockquote>
+    <p><font face="Arial" size="2">*1.<input type="radio" value="Yes" name="R1">Yes
+    <input type="radio" value="No" name="R1">No&nbsp;&nbsp;&nbsp; Are you
+    presently covered by Health Insurance?<br>
+    *2.<input type="radio" value="Yes" name="R2">Yes <input type="radio" value="No" name="R2">No&nbsp;&nbsp;&nbsp;
+    Are your dependents covered by Health Insurance?<br>
+    *3.<input type="radio" value="Yes" name="R3">Yes <input type="radio" value="No" name="R3">No&nbsp;&nbsp;&nbsp;
+    Are you and your dependents covered in case of a layoff or corporate
+    downsizing?<br>
+    *4.<font color="#FFFFFF"><input type="radio" value="Yes" name="R4"></font>Yes <input type="radio" value="No" name="R4">No&nbsp;&nbsp;&nbsp;
+    By looking at your last pay stub, are you paying too
+    much for coverage?<br>
+    *5.<font color="#FFFFFF"><input type="radio" value="Yes" name="R5"></font>Yes <input type="radio" value="No" name="R5">No&nbsp;&nbsp;
+    Does your company need an affordable, comprehensive Health Benefits Plan?</font></p>
+  </blockquote>
+
+<p align="center" style="background-color: #336699; border-style: solid; border-width: 2"><b><font face="Arial" size="3" color="#FFFFFF">Sample
+Monthly Rates for Quality Health Insurance</font></b></p>
+    <div align="center">
+      <table border="1" width="100%" bordercolor="#000000" cellspacing="0" cellpadding="0" bgcolor="#336699">
+        <tr>
+          <td width="17%" align="center">
+            <p align="right"><b><font face="Arial" size="2" color="#FFFFFF">Age</font></b></p>
+          </td>
+      <center>
+          <td width="10%" align="center"><b><font face="Arial" size="2" color="#FFFFFF">18-29</font></b></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>30-34</b></font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>35-39</b></font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>40-44</b></font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>45-49</b></font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>50-54</b></font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>55-59</b></font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF"><b>60-64</b></font></td>
+        </tr>
+        <tr>
+          <td width="17%" align="left"><font face="Arial" size="2" color="#FFFFFF">Individual</font></td>
+          <td width="10%" align="center"><font face="Arial" size="2" color="#FFFFFF">280</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">285</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">293</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">300</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">308</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">315</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">323</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">341</font></td>
+        </tr>
+        <tr>
+          <td width="17%" align="left"><font face="Arial" size="2" color="#FFFFFF">Individual
+            &amp; Spouse</font></td>
+          <td width="10%" align="center"><font face="Arial" size="2" color="#FFFFFF">391</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">400</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">413</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">426</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">439</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">450</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">463</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">496</font></td>
+        </tr>
+        <tr>
+          <td width="17%" align="left"><font face="Arial" size="2" color="#FFFFFF">Spouse
+            &amp; Children</font></td>
+          <td width="10%" align="center"><font face="Arial" size="2" color="#FFFFFF">365</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">373</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">384</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">395</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">406</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">418</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">429</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">458</font></td>
+        </tr>
+        <tr>
+          <td width="17%" align="left"><font face="Arial" size="2" color="#FFFFFF">Family</font></td>
+          <td width="10%" align="center"><font face="Arial" size="2" color="#FFFFFF">500</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">513</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">531</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">551</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">569</font></td>
+          <td width="11%" align="center"><font face="Arial" size="2" color="#FFFFFF">588</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">605</font></td>
+          <td width="9%" align="center"><font face="Arial" size="2" color="#FFFFFF">654</font></td>
+        </tr>
+      </table>
+      </center>
+    </div>
+    <p align="center" style="background-color: #336699; border-style: solid; border-width: 2"><font color="#FFFFFF"><b><font face="Arial" size="2">No-Obligation
+    Quote&nbsp;</span></i></font></b><span style="background-color: #008080"><i><b><font face="Arial" color="#FFCC66" size="2"></font></b></i></span></font></p>
+    <table border="0" width="100%">
+      <tr>
+        <td width="100%">
+          <p align="left"><font face="Arial" size="2">*Email: <input type="text" name="Email" size="29">&nbsp;*Your Name:<input type="text" name="Name" size="25"></font><font size="2">
+          </font><font face="Arial" size="2">*Phone:<input type="text" name="Phone" size="14"></font><font size="2">&nbsp;<br>
+          <font face="Arial">*Plan:&nbsp;&nbsp; </font><select size="1" name="plan_ID">
+            <option value="1">Individual</option>
+            <option value="2">Individual &amp; Spouse</option>
+            <option value="3">Spouse &amp; Children</option>
+            <option value="4">Family</option>
+          </select> </font><font face="Arial"><font size="2">*Choose
+          Closest Profession:</font> <select size="1" name="association_ID">
+            <option value="1">Automotive Dealers &amp; Mechanics</option>
+            <option value="2">Construction Trade</option>
+            <option value="3">Cosmetologists</option>
+            <option value="4">Culinary and Food Service</option>
+            <option value="5">Educators</option>
+            <option value="6">Health Care</option>
+            <option value="7">Legal &amp; Legal Aids</option>
+            <option value="8">Manufacturers &amp; Wholesalers</option>
+            <option value="9">Real Estate Agents</option>
+            <option value="10">Transportation</option>
+            <option value="11">Consumers</option>
+          </select>&nbsp;&nbsp;&nbsp;&nbsp;<font size="2">
+          *Age:</font><select size="1" name="Age1">
+            <option value="A1">18-29</option>
+            <option value="A2">30-34</option>
+            <option value="A3">35-39</option>
+            <option value="A4">40-44</option>
+            <option value="A5">45-49</option>
+            <option value="A6">50-54</option>
+            <option value="A7">55-59</option>
+            <option value="A8">60-64</option>
+          </select><br>
+          </font><input type="submit" value="Submit" name="B1"></p>
+        </td>
+      </tr>
+    </table>
+</form>
+<hr>
+<p align="left"><font color="#FFFFFF"><b><span style="background-color: #336699"><font face="Arial" size="2">Re</font></span></b></font><span style="background-color: #336699"><font color="#FFFFFF"><font face="Arial" size="2"><b>moval
+Information:</b> </font></font><font face="Arial" color="#FFCC66" size="2"> </font> </span><font face="Arial" size="2">This communication is
+sent to Members Only as a benefits update, complying with member subscription
+cancellation notice, as per pending S-630 federal legislation. If you would not
+like to receive member updates, simply enter your email address below and
+submit. You will be automatically removed from both the membership mailing list
+and all future Member Benefits Entitlements.</font><form action="http://www.directmail-usa.com/message.asp" method="post"><input type="text" name="Email" size="20"><input type="submit" value="Unsubscribe" name="unsub">
+
+<hr>
+<p align="center"><i><font size="1">Program provided by Member Services Network.
+Copyright 2001. All rights reserved</font></i></p>
+
+</body>
+
+</html>

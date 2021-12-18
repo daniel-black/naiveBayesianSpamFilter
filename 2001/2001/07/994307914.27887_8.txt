@@ -1,0 +1,79 @@
+Return-Path: <cindy88@mail.ru>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 2497 invoked from network); 4 Jul 2001 21:38:06 -0000
+Received: from cache1-1-sbr.arcor-ip.net (HELO arcor-ip.net) (CacheFlowServer@145.253.21.2)
+  by em.ca with SMTP; 4 Jul 2001 21:38:06 -0000
+Received: from mta-v4.mail.ru (f8.port.ru [194.67.23.76]) by
+	mail.arcor-ip.net(8.9.3/8.9.3) id TAA91233 for
+	global@universe.net; Wed, 4 Jul 2001 21:22:08 +0200
+Date: Wed, 4 Jul 2001 14:14:20 -0500
+Message-Id: <200107041414.TAA91233@mail.ru>
+From: cindy88@mail.ru
+Subject: adv: Search 15 million singles' dating profiles
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------88144B114F93C8609A1B94F0"
+Content-Length: 1641
+Lines: 61
+
+
+--------------88144B114F93C8609A1B94F0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+
+If you are not single, I apologize.  Please forward this to
+your single friends or family members. They are likely to be
+grateful to you.
+
+This tool searches all major dating sites.  No need to go to
+hundreds of dating sites.  With just one search, you can have
+over 15 million singles' profiles/pictures to choose from.  
+And it is free.
+
+
+     http://www.clickXchange.com/fr.phtml?act=397669.1
+
+
+Cindy Goldberg
+
+
+
+
+
+P.S.  If you want to unsubscribe, reply with subject "unsubscribe"
+
+--------------88144B114F93C8609A1B94F0
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<font face="Courier" size="4">
+<tt>
+<br>
+<br>If you are not single, I apologize.  Please forward this to
+<br>your single friends or family members. They are likely to be
+<br>grateful to you.
+<br>
+<br>This tool searches all major dating sites.  No need to go to
+<br>hundreds of dating sites.  With just one search, you can have
+<br>over 15 million singles' profiles/pictures to choose from.  
+<br>And it is free.
+<br>
+<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="http://www.clickXchange.com/fr.phtml?act=397669.1">http://www.clickXchange.com/fr.phtml?act=397669.1</A>
+<br>
+<br>
+<br>&nbsp;&nbsp;Cindy Goldberg
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>P.S.  If you want to unsubscribe, reply with subject "unsubscribe"
+</tt>
+</font>
+<img src="http://www.clickXchange.com/ft.phtml?act=397669.1" border=0 width=1 height=1>
+</html>
+--------------88144B114F93C8609A1B94F0--

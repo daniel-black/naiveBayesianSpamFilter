@@ -1,0 +1,37 @@
+Return-Path: <owner-linux-via@havoc.gtf.org>
+Delivered-To: linux-via@gtf.org
+Received: from smtp.163.com (unknown [202.108.44.212])
+	by havoc.gtf.org (Postfix) with ESMTP
+	id 122511F6C; Fri, 24 Aug 2001 07:27:18 -0400 (EDT)
+Received: from ???????????? (unknown [61.174.134.35])
+	by smtp.163.com (Postfix) with SMTP
+	id E7BED1C7DED81; Fri, 24 Aug 2001 19:42:02 +0800 (CST)
+From: "中国化工设备网" <lee_webmaster@163.com>
+To: "中国化工设备网会员" <faq@linux-m68k.org>
+Subject: 中国化工设备网(http://www.ccen.net)欢迎您
+Date: Wed,23 八月 2001 19:33:08 +0800
+X-Priority: 1
+X-MSMail-Priority: High
+X-Auto-Forward: To: "中国化工设备网会员"<faq@linux-m68k.org>
+X-Mailer: Mr.Lee
+Message-Id: <20010824114202.E7BED1C7DED81@smtp.163.com>
+Sender: owner-linux-via@havoc.gtf.org
+Precedence: bulk
+Reply-To: linux-via@havoc.gtf.org
+Content-Length: 626
+
+若该邮件对您带来不便，请删除，谢谢
+
+  中国化工设备网(http://www.ccen.net)是化工设备类综合性电子商务网站，免费提供信息发布，信息查询，提供最新的供求信息，大量的化工企业.产品信息等等。
+  中国化工设备网是由我们与浙江省化工研究院与浙江大学化工系合作建立的化工设备类综合站点.网站主要目标是发展化工设备类电子商务,成为化工设备类产品的有形市场和无形市场的有机结合.同时为化工设备类产品开拓网上市场.
+
+
+-----------------------------------------------------------
+该邮件由《金锋邮件群发 2.4》发送，邮件内容与软件作者无关 
+-----------------------------------------------------------
+金锋软件，值得信赖的软件 http://www.jinfengnet.com
+
+
+
+
+

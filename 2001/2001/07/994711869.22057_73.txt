@@ -1,0 +1,177 @@
+Return-Path: <scpa0145@marketfirst.avasta.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 27203 invoked from network); 9 Jul 2001 20:58:01 -0000
+Received: from unknown (HELO scpb0117.mrk1st.com) (64.75.48.59)
+  by em.ca with SMTP; 9 Jul 2001 20:58:01 -0000
+Received: from marketfirst.avasta.net ([192.168.56.49]) by scpb0117.mrk1st.com with Microsoft SMTPSVC(5.0.2195.2966);
+	 Mon, 9 Jul 2001 13:09:49 -0700
+Date: 9 Jul 2001 20:09:06 GMT
+From: Galileo@emarkethost.net
+Reply-To: scpa0145@marketfirst.avasta.net
+To: bruceg@em.ca
+Subject: Elevate Your Career at Galileo
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------------70DC67B31B0E"
+X-MKTFI: ABAAHDNEABGAHJMDABGADAHJIAGAHJNE-
+Return-Path: Galileo@emarkethost.net
+Message-ID: <SCPB0117jQ8vjqueolj0000502c@scpb0117.mrk1st.com>
+X-OriginalArrivalTime: 09 Jul 2001 20:09:51.0013 (UTC) FILETIME=[1C4E0D50:01C108B3]
+Content-Length: 6915
+
+
+This is a multi-part message in MIME format.
+
+--------------70DC67B31B0E
+Content-Type: multipart/alternative; boundary="------------A70DC67B31B0E"
+
+--------------A70DC67B31B0E
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I noticed your résumé on the Web and suggest you consider opportunities
+at Galileo International, a fast-paced technology company focused on
+the travel industry. 
+
+This month's Computerworld magazine recognizes Galileo as a great place
+to work, listing it among top companies that provide training,
+education and resources; offer flexible and generous benefits packages;
+and encourage diversity in hiring.
+
+Interested? Please take a moment to register your profile here:
+
+http://hire.emarkethost.net/mk/get/REGAL1?_ED=KP2ZunY8hQEHYQBbFpIWHI 
+
+Describe the requirements for a position that would appeal to you. Once
+your profile matches an opportunity at Galileo, you will be
+confidentially notified via e-mail.
+
+Even if you aren't looking for a job change currently, submitting your
+profile to Galileo enables you to track career advancement
+opportunities - without leaving your desk.
+
+Complete your profile, then find out more about Galileo and why it made
+Computerworld's list at http://www.galileo.com/careers.
+
+Best regards,
+The Galileo Human Resources Department
+_______________________________________________________
+Galileo International is represented in 107 countries on six
+continents. 
+
+Headquarters:
+Rosemont, Ill., 
+
+Key Locations:
+Englewood and Greenwood Village, Colo., USA
+Atlanta, Ga., USA
+Windsor, United Kingdom
+Hong Kong, China
+
+If you do not wish to receive future news, tips and promotions 
+from us, please reply (including all original text) with 
+Unsubscribe in the subject line.
+
+-----------Please do not change the next line-----------
+ABAAHDNEABGAHJMDABGADAHJIAGAHJNE-
+
+Powered by MarketFirst(TM)
+
+--------------A70DC67B31B0E
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html4.0 transitional//en">
+
+<!---------- Begin document [MarketFirst Software, Inc.] V02.04,P=Galileo1,A=Final Email,D=GalileoEmail1,V=6------->
+
+<HTML> 
+ <HEAD> 
+<TITLE> 
+GalileoEmail1
+</TITLE>
+</HEAD> 
+
+<BODY><TABLE >
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP"  COLSPAN=6>
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<table width="47%" border="0" height="555">
+  <tr> 
+    <td colspan="3" height="46"> <IMG SRC="http://hire.emarkethost.net/mk/get?_A=13531&_D=12383&_V=0&_F=10680" ALIGN=TOP> </td>
+  </tr>
+  <tr> 
+    <td width="31%" height="488" valign="top"> <br>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <A HREF="http://hire.emarkethost.net/mk/get/REGAL1"><img src=http://hire.emarkethost.net/images/register.gif border="0"></a>&nbsp</A> <br>
+        <font color="#006699"><b><br>
+        We made the top 50!<br>
+        
+     <IMG SRC="http://hire.emarkethost.net/mk/get?_A=13531&_D=12383&_V=0&_F=10676" ALIGN=TOP><br>
+
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#006699"><b>Ready to join our team? </b></font></font></p></font></b>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Galileo International 
+        is represented in 107 countries on six continents. </font></p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#006699">Headquarters:</font></b><br>
+        </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Rosemont, Ill.</font></p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#006699">Key 
+        locations:</font></b><br>
+        </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Englewood and Greenwood Village, Colo., USA<br>
+ </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Atlanta, Ga., USA<br>
+        </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Windsor, United 
+        Kingdom<br>
+        </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Hong 
+        Kong, China</font></p>
+      <p>&nbsp;</p>
+      </td>
+    <td width="2%" height="488">&nbsp;</td>
+    <td width="67%" height="488" valign="top"> <br>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We noticed 
+        your résumé on the Web and suggest you consider opportunities at 
+        Galileo International, a fast-paced technology company focused on the travel industry. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">This month's <i>Computerworld</i> magazine recognizes Galileo as a great place to work, listing it among top companies that provide training, education and resources; offer flexible and generous benefits packages; and encourage diversity in hiring. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Interested?  Please take a moment to <A HREF="http://hire.emarkethost.net/mk/get/REGAL1?_ED=KP2ZunY8hQEHYQBbFpIWHI">register your profile</A>, and describe the requirements for a position that would appeal to you. Once your profile matches an opportunity at Galileo, you will 
+        be confidentially notified via e-mail. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Even if you 
+        aren't looking for a job change currently, submitting your profile enables you to track 
+        career advancement opportunities - without leaving your desk. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Complete 
+        your <A HREF="http://hire.emarkethost.net/mk/get/REGAL1?_ED=KP2ZunY8hQEHYQBbFpIWHI">profile now</A>, then find out more about Galileo and why it made <i>Computerworld's</i> list at <A HREF="http://www.galileo.com/careers">http://www.galileo.com/careers</A>. </font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Best regards,<br>
+The Galileo Human Resources Department  <br> <br>
+
+ </td>
+  </tr>
+</table>
+</body>
+</html></TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP"  COLSPAN=6>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you do not wish to receive future news, tips and promotions 
+from us, please <A HREF="http://hire.emarkethost.net/mk/get/UNSALL?_ED=sKeFpKn4RSm-9XbTqyc-22">click here.</A> <br><br></font>
+</TD>
+</TR>
+</TABLE>
+<BR>-----------Please do not change the next line-----------<BR>
+ABAAHDNEABGAHJMDABGADAHJIAGAHJNE-<BR>
+<p align="right">
+<FONT FACE="Arial,Helvetica" SIZE=-2 >
+Powered by</FONT>
+<a href="http://www.marketfirst.com">
+<FONT FACE="Arial,Helvetica" SIZE=-2 >
+<strong>MarketFirst&#153;</strong></FONT>
+</a></p></BODY>
+</HTML>
+
+<!-- End of document [MarketFirst Software, Inc.-->
+
+
+--------------A70DC67B31B0E--
+
+--------------70DC67B31B0E--
+

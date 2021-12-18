@@ -1,0 +1,131 @@
+Return-Path: <zt.cho@racsa.co.cr>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 29217 invoked from network); 12 Jan 2001 02:46:01 -0000
+Received: from unknown (HELO SKSMAIL.skes.co.jp) (210.226.192.228)
+  by bfsmedia.sk.ca with SMTP; 12 Jan 2001 02:46:01 -0000
+Received: from HAPPYNEWYEAR_[207.94.232.121] ([207.94.232.121] (may be forged))
+          by SKSMAIL.skes.co.jp (2.5 Build 2640 (Berkeley 8.8.6)/8.8.4) with SMTP
+	  id LAA05041; Fri, 12 Jan 2001 11:50:40 +0900
+From: zt.cho@racsa.co.cr
+Received: from mail.ccs.k12.ia.ua by HAPPYNEWYEAR with ESMTP; Wed, 22 Mar 2000 21:38:45 -0600
+Message-ID: <000042436fca$00002a93$0000550e@mail.ccs.k12.ia.ua>
+To: <howard@5Business.cc>
+Subject: 100% or more return in 90 days!!                         21774
+Date: Wed, 22 Mar 2000 21:38:36 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 1931
+Lines: 106
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://63.107.112.76/leads.html","Hello",
+"scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://63.107.112.76/leads.html","screen","fullscreen=3Dye=
+s");
+		}
+	}
+	else
+	{
+		location.href=3D"http://63.107.112.76/leads.html";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>
+
+
+

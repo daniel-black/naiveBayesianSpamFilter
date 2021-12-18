@@ -1,0 +1,49 @@
+Return-Path: <info1@networkshosts.com>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 13915 invoked from network); 6 Jan 2001 02:08:16 -0000
+Received: from unknown (HELO mail.china-col.com) (202.108.122.2)
+  by bfsmedia.sk.ca with SMTP; 6 Jan 2001 02:08:16 -0000
+Received: from commadus20.salesforlife.net ([63.17.34.5])
+          by mail.china-col.com (Lotus Domino Build 166.1)
+          with SMTP id 2001010610085707:26440 ;
+          Sat, 6 Jan 2001 10:08:57 +0800 
+To: $user@bgark.com
+From: info1@networkshosts.com
+CC: timolnar@bgark.com,
+	travis@bgark.com,
+	thorsonchris@bgark.com,
+	vandewaterbi@bgark.com,
+	tracy@bgark.com,
+	uy@bgark.com
+Subject: PC USERS OPTIMIZE WINDOWS
+Date: Sat, 06 Jan 2001 09:08:04 -0500
+X-MIMETrack: Itemize by SMTP Server on mail/Www(R5.0 (Intl)|30 March 1999) at 2001-01-06
+ 10:09:00 AM,
+	Serialize by Router on mail/Www(R5.0 (Intl)|30 March 1999) at 2001-01-06 10:09:07
+ AM
+Message-ID: <3vbo5j0oc.i5dh6w@commadus20.salesforlife.net>
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: base64
+Content-Length: 1285
+Lines: 17
+
+RGVhciBXaW5kb3dzIFVzZXIsDQoNCk5vdyB5b3UgY2FuIGJvb3N0IHRoZSByZWxpYWJpbGl0eSBv
+ZiBvcmRpbmFyeSBXaW5kb3dzIE1FLCA5NSBhbmQgOTggdG8NCm5lYXJseSB0aGUgbGV2ZWwgb2Yg
+V2luZG93cyBOVCBvciAyMDAwLCBNaWNyb3NvZnQncyBwcm9mZXNzaW9uYWwgYW5kIA0KaW5kdXN0
+cmlhbCB2ZXJzaW9uIG9mIFdpbmRvd3MuDQoNClRoZSBuZXcgV2luRml4IDQuNCBpcyBhIHZlcnkg
+ZWZmZWN0aXZlIHdheSB0byBpbXByb3ZlIHRoZSByZWxpYWJpbGl0eSBvZg0KV2luZG93cywgYmVj
+YXVzZSBpdCBtYWtlcyBXaW5kb3dzIGZhdWx0LXRvbGVyYW50IGFuZCBzZWxmLXJlcGFpcmluZy4g
+QW5kDQpXaW5GaXggaXMgdmVyeSBzYWZlLCBiZWNhdXNlIGl0IG9wZXJhdGVzIGNvbXBsZXRlbHkg
+aW5kZXBlbmRlbnQgb2YgV2luZG93cy4NCg0KaHR0cDovL3d3dzMubmV3c2FsZXNqb2IubmV0L2Nv
+bXBoIHRvIGZpbmQgb3V0IG1vcmUgYWJvdXQgV2luRml4LA0KdGhlIHNhZmVzdCwgbW9zdCBlZmZl
+Y3RpdmUgd2F5IHRvIGtlZXAgeW91IHdvcmtpbmcsIGJ5IGtlZXBpbmcgeW91ciBQQw0Kd29ya2lu
+ZyBub24tc3RvcC4NCg0KDQpBcmxlbiBEaXhvbiwgQ0VPDQoNCldlc3R3b29kIFNvZnR3YXJlIE1h
+cmtldGluZw0KDQoNCiogKiAqICogKiAqICogKiAqICogKiAqICogKiAqICogKg0KDQpUaGlzIGFu
+bm91bmNlbWVudCBpcyBiZWluZyBzZW50IHRvIFBDIHVzZXJzIHdobyBhc2tlZCB0byBiZSBrZXB0
+DQppbmZvcm1lZCBhYm91dCBuZXcgZGV2ZWxvcG1lbnRzIGluIFdpbmRvd3ModG0pIHRlY2hub2xv
+Z3kuDQoNClRvIGJlIHJlbW92ZWQgZnJvbSBvdXIgbWFpbGluZyBsaXN0LCBnbyB0byB0aGUgRW1h
+aWwtdXMgcGFnZQ0KDQoNCk9SDQoNClRvIGJlIHJlbW92ZWQNCg0KbWFpbHRvOnJlbW92ZUB3d3c0
+Lm5ld3NhbGVzam9iLm5ldD9TdWJqZWN0PVJFTU9WRQ0KDQoNCg0K

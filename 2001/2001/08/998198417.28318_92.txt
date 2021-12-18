@@ -1,0 +1,88 @@
+Return-Path: <vmailmgr-return-5949-lists-vmailmgr=bruce-guenter.dyndns.org@lists.em.ca>
+Delivered-To: mailing list vmailmgr@lists.em.ca
+Received: (qmail 26494 invoked from network); 17 Aug 2001 20:16:37 -0000
+Message-Id: <200108172019.f7HKJXJ23749@ganga.smartyantra.co.in>
+Date: Sat, 18 Aug 2001 01:00:06 +0530
+From: "R K Patil" <rkpatil@smartyantra.co.in>
+To: "Sir/Madam" <vmailmgr@lists.em.ca>
+MIME-Version: 1.0
+Content-type: text/plain
+X-Mailer: FletMail 1.103
+Subject: [vmailmgr] Real-Time Embedded and DSP Software Development
+Content-Length: 2956
+
+Reference: Your site listing on www.embedded.com
+
+Development Services on Embedded and DSP for your organisation
+
+Dear Sir/Madam,
+
+Greetings.
+
+I am R K Patil, Director, Business Development for Embedded and DSP solutions at Smart Yantra 
+Technologies, India. Smart Yantra specializes in the above technology areas to deliver 
+'first-to-market' solutions.
+
+Since your organization is a leading technology organization, we would like to work 
+with you in providing Real Time Embedded and DSP solutions for your business requirements.
+
+These are the services offered by us:
+Platforms:
+*  Real-time Operating Systems
+*  Device Drivers
+*  Board Support Packages (BSPs)
+*  Kernel Development
+
+Protocols / Standards :
+*  VoIP			: SIP, H.323, MGCP, G.7xx
+*  Datacom		: TCP/IP, Ethernet, DNS, DHCP, RTP, RTCP, RIP 
+*  Communication Bus	: I2C, 1553B, P50, RS232/485, RC5 
+*  Data Link/ MAC   	: HDLC, LAPB, LAPD, 802.3 and 802.11 
+*  Broadband		: ATM(AAL5, UNI, SAR), Frame Relay(Q.922),  
+*  Others	                	: IrDA, CAN 
+
+DSP Audio/Video Streaming:
+*  Digital Video	: MPEG2, MPEG4, JPEG, H.261/H.263, IEEE-1394, DVB
+*  Digital Audio	: MP3, AAC 
+
+Our value proposition to your firm includes:
+
+* In-depth knowledge and expertise in leading edge Embedded and DSP technologies
+* Quick ramp-up of Technical and Project Management Teams
+* Established Quality Processes and Project Management Expertise
+* Web based project tracking and collaboration environment for easy remote project execution 
+  and management
+* Proven Expertise
+
+We will mail you our  detailed expertise profile on request. Detailed information 
+about our services and products is at our website www.smartyantra.com.
+
+We can further discuss about our offerings and areas for working together along with our 
+technology team depending on your availability. Could you please confirm a date and time for the 
+telephonic conversations and a meeting.
+
+Looking forward to hearing from you in this regard.
+
+Thanks.
+
+Best Regards,
+
+R.K.Patil
+Director-Business Development 
+Smart Yantra Technologies Pvt. Ltd.          
+Phone	: +91 80 363 4917, 363 4918
+Fax	: +91 80 363 1927
+Email	: contactus@smartyantra.com
+Website : www.smartyantra.com
+
+Smart Yantra is Real-Time Embedded and DSP Professional Software Design Services firm empowering the  Consumer Electronics and  Telcom firms with rapid time to market.
+
+San Francisco ... New Jersey ... Bangalore
+
+The information in this email and any attachments is confidential and may be legally privileged. All liability for viruses is excluded to the fullest extent permitted by law.  Any views expressed in this message are those of the individual sender, except where the sender states them, with requisite authority, to those of Smart Yantra Technologies Pvt. Ltd.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: vmailmgr-unsubscribe@lists.em.ca
+For additional commands, e-mail: vmailmgr-help@lists.em.ca
+

@@ -1,0 +1,311 @@
+Return-Path: <PreferredCustomer.194637.1378.0@kc.britannica.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 31179 invoked from network); 20 Nov 2001 19:59:59 -0000
+Received: from unknown (HELO chiap17) (192.215.6.8)
+  by agamemnon.bfsmedia.com with SMTP; 20 Nov 2001 19:59:59 -0000
+From: "Britannica Store" <PreferredCustomer.194637.1378.0@kc.britannica.com> 
+To: bluegoose.kennels@bfsmedia.com
+Subject: Save 25% on Holiday Gifts for All Ages!
+Date: Tue, 20 Nov 2001 14:03:35 -0600
+Message-ID: <1006286615423.PreferredCustomer.194637.1378.0@kc.britannica.com>
+X-Mailer: Kana Connect 1.0
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 16660
+Lines: 295
+
+<HTML><HEAD>
+
+<title>Britannica Store</title>
+
+
+<BASE HREF="http://inhouse.eb.com/kana/">
+</HEAD>
+<BODY BGCOLOR="#ffffff" link="#003366" vlink="#666666">
+<table width="550" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top"> 
+    <td colspan="3"><img src="http://ebusa.eb.com/content/bstore_header_emails.gif" width="550" height="37"></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"><img src="http://ebusa.eb.com/content/holidays_2002_1_header.gif" width="550" height="68"></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Dear 
+      Preferred Customer,</font></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+    <td width="340"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="http://ebusa.eb.com/content/spacer.gif" width="340" height="1"><br>
+        The NEW 2002 <i>Encyclopaedia Britannica</i><sup>&reg;</sup> and 2001 <i>Compton's 
+        Student Encyclopedia</i><sup>&reg;</sup> are perfect gifts for the knowledge 
+        seeker of any age, from the casually curious to the serious student. Now, 
+        when you buy both products combined in our <i>Family Encyclopedia Suite</i>, 
+        <b>you'll save 25%!</b></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Understanding 
+        the world around us has never been more important. Since 1768, families 
+        have turned to the <i>Encyclopaedia Britannica</i> to explain current events, 
+        explore history, and expand their grasp of world culture. This holiday 
+        season, continue that tradition in your own home or give the gift of knowledge 
+        to someone you care about.</font> </p>
+      </td>
+    <td width="23"><img src="http://ebusa.eb.com/content/spacer.gif" width="23" height="23"></td>
+    <td width="187"> <img src="http://ebusa.eb.com/content/spacer.gif" width="3" height="3"><br>
+      <table width="187" border="0" cellspacing="0" cellpadding="2" bgcolor="#336633">
+        <tr> 
+          <td> 
+            <table width="183" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/holidays_2002_1_pyhot.gif" width="183" height="31"></td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20">&nbsp;</td>
+                <td colspan="2"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Simply 
+                  select a product:</b></font></td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20"><img src="http://ebusa.eb.com/content/spacer.gif" width="20" height="1"></td>
+                <td width="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><img src="http://ebusa.eb.com/content/spacer.gif" width="15" height="1"><br>
+                  1</b></font></td>
+                <td width="133"> 
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="http://ebusa.eb.com/content/spacer.gif" width="133" height="1"><br>
+                    <a href="http://kc.britannica.com/kc123194637.1378.0.1389">Family 
+                    Encyclopedia Suite</a> - combines both products at 25% off!</font></p>
+                </td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20">&nbsp;</td>
+                <td width="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2</b></font></td>
+                <td width="133"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://kc.britannica.com/kc123194637.1378.0.1390">The 
+                  NEW Encyclop&aelig;dia Britannica 2002</a></font></td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20">&nbsp;</td>
+                <td width="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>3</b></font></td>
+                <td width="133"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://kc.britannica.com/kc123194637.1378.0.1391">2001 
+                  Compton's Student Encyclopedia</a><b></b></font></td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="12" height="12"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <table width="550" border="0" cellspacing="0">
+        <tr valign="top">
+          <td colspan="3">&nbsp;</td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="3"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2">Form 
+            the foundation of your own home library with an investment in these 
+            must-have resources. Purchase the <i>Family Encyclopedia Suite</i>, 
+            which includes both products, and <b>pay just $1495.50 - a savings 
+            of nearly $500!</b></font> </td>
+        </tr>
+        <tr valign="top"> 
+          <td width="265"><a href="http://kc.britannica.com/kc123194637.1378.0.1390"><img src="http://ebusa.eb.com/content/holidays_2002_1_prod1.gif" width="265" height="108" vspace="16" border="0"></a></td>
+          <td width="20">&nbsp;</td>
+          <td width="265"><a href="http://kc.britannica.com/kc123194637.1378.0.1391"><img src="http://ebusa.eb.com/content/holidays_2002_1_prod2.gif" width="265" height="108" vspace="16" border="0"></a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="265"> 
+            <table width="265" border="0" cellspacing="0" cellpadding="1" bgcolor="#980038">
+              <tr valign="top" bgcolor="990033"> 
+                <td> 
+                  <table width="263" border="0" cellspacing="0" cellpadding="0" bgcolor="#EFF3F7">
+                    <tr valign="top"> 
+                      <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="263" height="8"></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">32 
+                        volumes</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">65,000 
+                        articles</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">24,000 
+                        images</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">8,000 
+                        revised entries</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">New 
+                        articles including "J.K. Rowling," "Madonna," and "Globalization 
+                        and Culture"</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Also 
+                        includes: <i>Britannica CD</i><sup>&reg;</sup>, <i>Britannica Premium Service</i> (online 
+                        subscription), and <i>Britannica Book of the Year</i>.<br>
+                        <b>A value of over $130.</b></font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="263" height="8"></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td colspan="2"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>Order 
+                        today!</i></b> Pay <a href="http://kc.britannica.com/kc123194637.1378.0.1390">just 
+                        $1295 in full</a> or use our <a href="http://kc.britannica.com/kc123194637.1378.0.1392">easy 
+                        Installment Plan</a>.</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="263" height="8"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="20"><img src="http://ebusa.eb.com/content/spacer.gif" width="16" height="16"></td>
+          <td width="265"> 
+            <table width="265" border="0" cellspacing="0" cellpadding="1" bgcolor="#980038">
+              <tr valign="top" bgcolor="990033"> 
+                <td> 
+                  <table width="263" border="0" cellspacing="0" cellpadding="0" bgcolor="#EFF3F7">
+                    <tr valign="top"> 
+                      <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="263" height="8"></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">26 
+                        volumes</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">37,000 
+                        articles</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">22,500 
+                        images</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Includes 
+                        study aids that encourage research and fact-finding.</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td width="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#149;</font></td>
+                      <td width="230"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Perfect 
+                        for Middle and High School students.</font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="263" height="8"></td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td width="10">&nbsp;</td>
+                      <td colspan="2"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><i>Order 
+                        today!</i></b> <a href="http://kc.britannica.com/kc123194637.1378.0.1391">Pay just $699.</a></font></td>
+                      <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr valign="top"> 
+                      <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="263" height="8"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3">
+      <div align="center"><br>
+        <img src="http://ebusa.eb.com/content/holidays_2002_1_close.gif" width="382" height="34"></div>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> <img src="http://ebusa.eb.com/content/550x1_grey_rule.gif" width="550" height="1" vspace="24"></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Shipping 
+        and taxes are additional. Customers ordering the <i>Family Encyclopedia 
+        Suite</i> are not eligible for the print set installment plan.</font></font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">We 
+        sent you this e-mail because you requested to receive promotional e-mails 
+        from Britannica. If you prefer not to receive future product and service 
+        update mailings from Britannica, simply respond to this e-mail with the 
+        word "unsubscribe" in the subject line. (Please note: Unsubscribe is an 
+        automatic process. We will not respond to these messages.)</font></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="1">This 
+        message has been sent to bluegoose.kennels@bfsmedia.com.</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <p align="center">&nbsp;</p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Our 
+        International Sites:</b><br>
+        <a href="http://kc.britannica.com/kc123194637.1378.0.906">Australia</a> | <a href="http://kc.britannica.com/kc123194637.1378.0.907">India</a> 
+        | <a href="http://kc.britannica.com/kc123194637.1378.0.908">United Kingdom</a></font></p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&copy; 
+        2001 Encyclop&aelig;dia Britannica, Inc.</font></p>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+<img src="http://kc.britannica.com/kc123194637.1378.0.-3.http%3A%2F%2Fwww.eb.com%2Ficons%2Fhdr_logo.gif"  WIDTH="1" HEIGHT="1">
+</BODY></HTML>
+

@@ -1,0 +1,95 @@
+Return-Path: <UD10716@netzero.net>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 32096 invoked from network); 24 Jul 2001 15:13:16 -0000
+Received: from c1116365-a.bvrtn1.or.home.com (HELO netzero.net) (24.255.3.222)
+  by daedelus.bfsmedia.com with SMTP; 24 Jul 2001 15:13:16 -0000
+From: "MMAH" <UD10716@netzero.net>
+To: <training@bfsmedia.com>
+Subject: ADV: Work@Home America - MakeMoney@Home
+Sender: "MMAH" <UD10716@netzero.net>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Tue, 24 Jul 2001 08:14:24 -0700
+X-Priority: 1 (Highest)
+Content-Transfer-Encoding: 8bit
+Content-Length: 2959
+Lines: 78
+
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<TITLE>Make Money At Home MMAH716A</TITLE>
+<HTML>
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript1.1">
+<!-- Begin
+
+function CheckRM(form)
+{var errmsg = "";
+if (!form.Email.value)
+{var errmsg ="Error!  Please enter an email address"; alert(errmsg); return
+false;}
+else {form.Status.value="RM"; return true;}
+} // End of function CheckRM
+
+function CheckOK(form)
+{var errmsg = "";
+if (!form.Email.value)
+{var errmsg ="Error!  Please enter an email address"; alert(errmsg); return
+false;}
+else {form.Status.value="OK"; return true;}
+} // End of function CheckOK
+
+// End -->
+</SCRIPT>
+</HEAD>
+
+<BODY bgcolor="#4F0000" LINK="#000066" VLINK="#666666" ALINK="#990000">
+<TABLE width="560" border="2" cellspacing="0" cellpadding="10" align="center"
+bgcolor="#FFFFFF">
+<TD><FONT face="Arial">
+
+<TABLE width="100%" bgColor="pink" border="0">
+<TD WIDTH="100%" VALIGN="TOP">
+<center><P><FONT SIZE="1" Color="#00000000">We apologize if you have
+inadvertently received this e-mail. If you consider that this message is in
+violation of any applicable local, state and federal laws in all
+jurisdictions, stop reading it further down beyond this panel. Further
+reading may legally be construed as your affirmatory invitation of this
+message.<br><br>To be <b>REMOVED</b> from our mailing lists, <b>Enter</b>
+your e-mail addresses separated by space in the box below<br>Click
+[<b>&nbsp;Remove&nbsp;</b>] button just once and wait awhile.<br></FONT></P>
+
+<FORM ACTION="mailto:rm10716@netzero.net?subject=Remove" METHOD="POST"
+ENCTYPE="text/plain">
+<INPUT TYPE="HIDDEN" NAME="Status" SIZE="-1" VALUE="?">
+<INPUT TYPE="TEXT" NAME="Email" SIZE="80"><br><br>
+<INPUT TYPE="SUBMIT" NAME="Submit" VALUE="Remove" onClick="CheckRM(this.form)">
+</FORM>
+</center></TD></TABLE>
+<br>
+<CENTER><b><FONT SIZE="4" Color="red">WORK@HOME AMERICA</FONT><br><br>
+<FONT SIZE="6" Color="blue">**&nbsp; MAKE MONEY AT HOME &nbsp;**</FONT>
+<FONT SIZE="4" Color="blue"><br>Good Weekly Real
+Income<br><br></FONT></b></CENTER>
+
+<TABLE width="100%" bgColor="#ffffdf">
+<TD WIDTH="100%"><br>
+<CENTER><P><FONT SIZE="4" Color="green">It All Began In a Small
+Garden<br>Invest In Yourself<br></FONT>
+<FONT SIZE="2"><br>For your <FONT Color="red">Free</FONT> information on our
+Make-Money-At-Home program (<FONT Color="red">MMAH716</FONT>)<br>Enter your
+e-mail addresses separated by space in the box below<br>Click
+[&nbsp;OK&nbsp;] button just once and wait awhile.<br><br></FONT></P>
+
+<FORM ACTION="mailto:ok10716@usa.com?subject=MMAH716(10723)" METHOD="POST"
+ENCTYPE="text/plain">
+<INPUT TYPE="HIDDEN" NAME="Status" SIZE="-1" VALUE="?">
+<INPUT TYPE="TEXT" NAME="Email" SIZE="70"><br><br>
+<INPUT TYPE="SUBMIT" NAME="Submit" VALUE="OK" onClick="CheckOK(this.form)"><br>
+</FORM>
+</CENTER></TD></TABLE>
+</FONT></TD></TABLE>
+</BODY>
+</HTML>

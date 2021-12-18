@@ -1,0 +1,52 @@
+Return-Path: <i1acruz@ematic.com>
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 15122 invoked from network); 24 Apr 2001 08:40:08 -0000
+Received: from unknown (HELO localhost) (161.58.180.70)
+  by em.ca with SMTP; 24 Apr 2001 08:40:08 -0000
+From: i1acruz@ematic.com
+Subject: Congratulations lorena, You're a Winner!
+Date: Tue, 24 Apr 2001 04:39:41 -0500
+Message-Id: <gpynekt7556e12h.mfnr4u32le6@localhost>
+Received: from localhost [161.58.180.70] by txb.localhost with SMTP; Tue, 24 Apr 2001 04:39:41 -0500
+Content-Type: text/html;
+	 charset=us-ascii
+Content-Transfer-Encoding: 7bit
+To: lorena@em.ca
+X-Mailer: Mail System For Winners
+Content-Length: 1318
+Lines: 34
+
+<html>
+<head><title>You signed up back in May for our free cruise tickets for two</title></head>
+
+<body bgcolor="white">
+<CENTER><H2><FONT Color="red">YOU WON!!!</font></H2></CENTER>
+<p>Dear lorena,</p>
+<p>&nbsp;&nbsp;&nbsp; According to our records, lorena@em.ca was
+registered back in May for our FREE cruise packages for two.</p>
+
+<p>
+Congratulations, you WON!!!&nbsp; One of our free Cruise Package
+tickets will be delivered to you within 7-10 days via US Mail.&nbsp; You must <a href="http://161.58.180.70/cgi-bin/contest.exe?">click</a> on the link below and fill out the
+information exactly as it will appear on your tickets.&nbsp; You may leave the second
+party blank if you are not sure who will be going with you, but you must contact
+us via telephone at least 10 days prior to departure with the second passenger's
+name.&nbsp; Complete details on your prize package will be included in a brochure 
+that will be delivered to you.</p>
+
+<p>
+&nbsp;&nbsp;&nbsp; Please
+keep in mind that there are at least 50 winners of this trip and it might take me a little while to
+get back to you.<br>
+<br>
+<br>
+Thanks a lot,</p>
+
+<p>Pete.</p>
+<p><a href="http://161.58.180.70/cgi-bin/contest.exe?">Please Click Here to
+continue</a></p>
+<p><b>Note</b>: To Be Removed Please Respond With A Blank Email.</p>
+
+</body>
+</html>
+

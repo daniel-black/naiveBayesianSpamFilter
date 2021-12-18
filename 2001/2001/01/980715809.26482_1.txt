@@ -1,0 +1,14 @@
+Return-Path: <info@bfsmedia.sk.ca>
+Return-Path: <info@bfsmedia.sk.ca>
+Spam-Apparently-To: <info@bfsmedia.sk.ca>
+Received: (qmail 23381 invoked from network); 28 Jan 2001 18:09:32 -0000
+Received: from max1-92.max1.hou.infohwy.com (HELO www.programmersavailableImmediately.com) (207.90.196.92)
+  by bfsmedia.sk.ca with SMTP; 28 Jan 2001 18:09:32 -0000
+Date: Sun, 28 Jan 2001 12:10 GMT
+From: 313.5670@www.programmersavailableImmediately.com
+Subject: Programmers Available Immediately for $29 per hour
+To: info@bfsmedia.sk.ca
+Mime-version: 1.0
+Content-Type: text/html
+
+ <style>body{font-family:tahoma;font-weight:bold;color:#000066;}span{font-family:verdana;font-size:large;font-weight:bold;color:#cc0099;}h1{font-family:umbra;font-size:xx-large;font-weight:bold;color:#550099;}</style><body bgcolor="#BBD9F2"><center><h1>Programmers Available Immediately</h1><span>for <b><big>$29</b></big> per hour</span><br><br><a href="mailto:nerser@altavista.com?Subject=Tell Me More Saerweit-11980705424313">Click here for more details by email</a><br><br><a href="mailto:nerser@altavista.com?Subject=Remove">Remove me NOW!</a>

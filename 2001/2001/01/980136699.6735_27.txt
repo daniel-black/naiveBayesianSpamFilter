@@ -1,0 +1,333 @@
+Return-Path: <musicman@angelfire.com>
+Delivered-To: em-ca-design@em.ca
+Received: (qmail 5553 invoked from network); 21 Jan 2001 20:01:43 -0000
+Received: from emerald.osnet.ne.jp (HELO osnet.ne.jp) (210.227.149.146)
+  by em.ca with SMTP; 21 Jan 2001 20:01:43 -0000
+Received: from host (cranston-ip-1-223.dynamic.ziplink.net [209.206.4.223])
+	by osnet.ne.jp (8.9.3/8.8.8) with ESMTP id EAA21184;
+	Mon, 22 Jan 2001 04:38:33 +0900 (JST)
+	(envelope-from musicman@angelfire.com)
+Message-Id: <200101211938.EAA21184@osnet.ne.jp>
+From: "Brent Jimis" <musicman@angelfire.com>
+Subject: Your House # 60F
+To: sing49r@osnet.ne.jp
+X-Mailer: Microsoft Outlook Express 4.72.1712.3
+X-MimeOLE: Produced By Microsoft MimeOLE VÐßD.1712.3
+Mime-Version: 1.0
+Date: Sun, 21 Jan 2001 14:05:39 -0500
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_007F_01BDF6C7.FABAC1B0"
+Content-Transfer-Encoding: 7bit
+Content-Length: 12691
+Lines: 311
+
+This is a MIME Message
+
+------=_NextPart_000_007F_01BDF6C7.FABAC1B0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0080_01BDF6C7.FABAC1B0"
+
+------=_NextPart_001_0080_01BDF6C7.FABAC1B0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+***** This is an HTML Message ! *****
+
+
+------=_NextPart_001_0080_01BDF6C7.FABAC1B0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#FFFFFF">
+
+<p align=3D"center"><b><font size=3D"5" color=3D"#FF0000">We will help you=
+ get the mortgage
+loan you want!&nbsp;<br>
+</font><font color=3D"#000000"><br>
+Whether a new home loan is what you seek or<br>to refinance your current h=
+ome loan at a lower interest rate and payment, we can help!<br>
+<br>
+<font size=3D"4">
+Mortgage rates haven't been this low in the last 12 months, take action no=
+w!<br>
+</font>
+Refinance your home with us and include all of those pesky credit card bil=
+ls or<br>use the extra cash for that pool you've always wanted=2E=2E=2E&nbs=
+p;<br>
+<br>
+</font><font size=3D"4" color=3D"#0000FF">
+Where others says NO, we say YES!!!<br>
+</font><font color=3D"#000000">
+Even if you have been turned down elsewhere, we can help!&nbsp;<br>
+<br>
+</font><font color=3D"#0000FF">
+Easy terms!</font><font color=3D"#000000">
+ Our mortgage referral service combines the<u><br>highest quality loans wi=
+th most economical rates and the easiest
+qualification</u>!<br>
+<br>
+</font><font size=3D"4" color=3D"#FF0000">
+Take just 2 minutes to complete the following form=2E<br></font> </b><font=
+ size=3D"2" color=3D"#000000"><i>There is no obligation, all information is=
+ kept strictly confidential, and you must be at least 18 years of age=2E<br=
+>
+Service available within the United States only=2E This service is fast an=
+d free=2E</i></font></p>
+<p align=3D"center">&nbsp;</p>
+<p align=3D"center"><b><font color=3D"#FF0000" size=3D"5">Free information=
+ request
+form:</font></b></p>
+<form name=3D"form"
+  form name=3D"form"
+  method=3D"post"
+  action=3D"mailto:bbt9k@verizonmail=2Ecom?SUBJECT=3DMortgage Lead2"
+  enctype=3D"text/plain"
+  onSubmit=3D"return validate_form()">
+    <p align=3D"center">&nbsp;</p>
+    <div align=3D"center">
+      <center>
+      <table border=3D"4" width=3D"62%" bordercolorlight=3D"#CCCCCC" borde=
+rcolordark=3D"#808080" bgcolor=3D"#EBEBEB" height=3D"703">
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23">
+            <p align=3D"right"><font color=3D"#000000"><b>Borrower:</b></f=
+ont></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"borrower" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Co-Borrower:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"co_borrower" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Address:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"address" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>City:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"city" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>State:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"state" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Zip:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"zip" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Work
+            Phone:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"work_phone" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Home
+            Phone:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><!--webbot
+            bot=3D"Validation" B-Value-Required=3D"TRUE" I-Minimum-Length=3D=
+"10" --><input type=3D"text" name=3D"home_phone" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Property
+            Description:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"description" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Value:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"value" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Purchase
+            Price:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"purchase_price" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Total Owed:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"owed" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><font color=3D"#000000"><b>Interest
+            Rate:</b></font></td>
+          <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"23"><input type=3D"text" name=3D"int_rate" size=3D"37"></td>
+        </tr>
+        <tr>
+          <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=
+=3D"19"><b><font color=3D"#000000">Rate
+            Type:</font></b></td>
+        </center>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"19">
+          <p align=3D"center"><font color=3D"#000000"><b><input type=3D"ra=
+dio" value=3D"fixed" checked name=3D"type">
+          Fixed&nbsp;&nbsp;&nbsp; <input type=3D"radio" name=3D"typr" valu=
+e=3D"adjustable">
+          Adjustable</b></font></td>
+      </tr>
+      <center>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Monthly
+          Payment:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"monthly_payment" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"13"><font color=3D"#000000"><b>Behind:</b></font></td>
+      </center>
+      <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D"=
+13">
+        <p align=3D"center"><b><font color=3D"#000000"><input type=3D"radi=
+o" name=3D"behind" value=3D"yes">
+        Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type=3D"radio=
+" name=3D"behind" value=3D"no" checked>
+        No</font></b></td>
+      </tr>
+      <center>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Rate
+          Your Credit:</font></b></td>
+      </center>
+      <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D"=
+23">
+        <p align=3D"left"><font color=3D"#000000"><b>10 =3D Excellent / 1=3D=
+
+        Poor</b>&nbsp; </font><select size=3D"1" name=3D"Rating">
+          <option selected>10</option>
+          <option>9</option>
+          <option>8</option>
+          <option>7</option>
+          <option>6</option>
+          <option>5</option>
+          <option>4</option>
+          <option>3</option>
+          <option>2</option>
+          <option>1</option>
+        </select></td>
+      </tr>
+      <center>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Employer:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"employer" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Time
+          on Job:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"time_on_job" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Income:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"income" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Best
+          Time to Call:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"best_time_call" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Loan
+          Amount:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"loan_amount" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><b><font color=3D"#000000">Loan
+          Type:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"23"><input type=3D"text" name=3D"loan_type" size=3D"37"></td>
+      </tr>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"19"><font color=3D"#000000"><b>Refer
+          Realtor:</b></font></td>
+      </center>
+      <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D"=
+19">
+        <p align=3D"center"><font color=3D"#000000"><b><input type=3D"radi=
+o" name=3D"refer" value=3D"yes">
+        Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type=3D"radio" name=3D"re=
+fer" value=3D"no">
+        No</b></font></td>
+      </tr>
+      <center>
+      <tr>
+        <td width=3D"38%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"19"><b><font color=3D"#000000">Email
+          Address:</font></b></td>
+        <td width=3D"62%" bordercolor=3D"#000000" align=3D"right" height=3D=
+"19"><input type=3D"text" name=3D"email" size=3D"37"></td>
+      </tr>
+      </table>
+      </center>
+    </div>
+    <p align=3D"left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b><input type=3D"submit" value=3D"Submit" name=3D"B1"><input type=3D"=
+reset" value=3D"Reset" name=3D"B2"></b></p>
+  </form>
+<p align=3D"center">
+<br><b><font color=3D"#66cc99"><font size=3D+1>List
+ Removal/OPT-OUT Option</font></font></b>
+ <br><b><font color=3D"#000000"><font size=3D-1><a
+ href=3D"mailto:joe29bob@yahoo=2Ecom?subject=3Dremove">Click
+ Here</a></font></font></b>
+
+
+  </body>
+
+
+
+------=_NextPart_001_0080_01BDF6C7.FABAC1B0--
+
+------=_NextPart_000_007F_01BDF6C7.FABAC1B0--
+
+
+

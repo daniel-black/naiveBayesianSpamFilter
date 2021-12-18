@@ -1,0 +1,95 @@
+Return-Path: <info@directoryserviceinc.cc>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 10801 invoked from network); 22 Jul 2001 00:07:47 -0000
+Received: from requested-info.com (HELO bdc-vn.requested-info.com) (208.63.78.53)
+  by em1.net with SMTP; 22 Jul 2001 00:07:47 -0000
+Received: from mail pickup service by bdc-vn.requested-info.com with Microsoft SMTPSVC;
+	 Sat, 21 Jul 2001 12:55:02 -0400
+From: <info@directoryserviceinc.cc>
+To: <info@directoryserviceinc.cc>
+Subject: Welcome to directoryservice.com
+Date: Sat, 21 Jul 2001 12:54:44 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;	boundary="----=_NextPart_000_172C_01C111E4.50960830"
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-ID: <BDC-VNUxP9Fekzabtne000005d0@bdc-vn.requested-info.com>
+X-OriginalArrivalTime: 21 Jul 2001 16:55:02.0921 (UTC) FILETIME=[E29DBF90:01C11205]
+Content-Length: 2484
+Lines: 76
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_172C_01C111E4.50960830
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Thank You for visiting http://www.directoryserviceinc.com, the web's
+most comprehensive database of addresses and phone numbers. In the
+future be sure to use http://www.directoryserviceinc.com  for all your
+411 needs.
+
+When you are away from computer you may access
+http://www.directoryserviceinc.com 's resources over the phone
+
+by dialing 1-888-554-1212, or if you are a sprint customer 10-10-3330.
+
+ 
+
+Thanks, 
+Directoryserviceinc.com Team
+Note to the Recipients:- This is an automaticlly generated e-mail. If
+you do not want to receive this e-mail in the future, click Unsubscribe
+<http://requested-info.com/unsc.asp>  or reply to
+info@requested-info.com <mailto:info@requested-info.com>  with "Remove"
+in the subject. You can also call customer service at 1-888-796-2488
+Monday-Friday 8am-9pm EST 
+
+
+------=_NextPart_000_172C_01C111E4.50960830
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<META NAME=3D"GENERATOR" Content=3D"Microsoft Visual Studio 6.0">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<P>Thank You for visiting <A=20
+href=3D"http://www.directoryserviceinc.com">http://www.directoryservicein=
+c.com</A>,&nbsp;the=20
+web's most comprehensive database of addresses and phone numbers. In the
+future be sure to use <A=20
+href=3D"http://www.directoryserviceinc.com">http://www.directoryservicein=
+c.com</A>     =20
+           =20
+           =20
+        =20
+         &nbsp;for all your 411=20
+needs.</P>
+<P>When you are away from computer you may access <A=20
+href=3D"http://www.directoryserviceinc.com">http://www.directoryservicein=
+c.com</A>&nbsp;'s resources=20
+over the phone</P>
+<P>=20
+    by dialing <STRONG>1-888-554-1212</STRONG>, or if you=20
+are a sprint customer <STRONG>10-10-3330.</STRONG></P>
+<P>&nbsp;</P>
+<P>Thanks, <br>Directoryserviceinc.com =20
+Team<br><b><b><b>Note to the Recipients:- This is an automaticlly =
+generated e-mail. If you do not want to receive this e-mail in the =
+future, click <A=20
+href=3D"http://requested-info.com/unsc.asp">Unsubscribe</A> or reply to =
+<A
+ href=3D"mailto:info@requested-info.com" >info@requested-info.com</a> =
+with "Remove" in the subject. You can also call customer service at =
+1-888-796-2488 Monday-Friday 8am-9pm EST </P>
+
+
+</BODY>
+</HTML>
+
+------=_NextPart_000_172C_01C111E4.50960830--
