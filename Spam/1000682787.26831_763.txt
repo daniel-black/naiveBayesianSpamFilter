@@ -1,0 +1,25 @@
+Return-Path: <wbty9@mailworld.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16273 invoked from network); 16 Sep 2001 10:34:29 -0000
+Received: from dom.esoo.ru (213.242.53.220)
+  by agamemnon.bfsmedia.com with SMTP; 16 Sep 2001 10:34:29 -0000
+Received: (from uucp@localhost)
+	by dom.esoo.ru (8.9.3/8.9.3) id QAA11580;
+	Sun, 16 Sep 2001 16:09:25 +0600
+From: wbty9@mailworld.com
+Received: from UNKNOWN(168.191.31.133), claiming to be "yes_[168.191.31.133]"
+ via SMTP by dom.esoo.ru, id smtpdoH55H2; Sun Sep 16 16:09:12 2001
+Received: from  by yes with ESMTP; Sun, 16 Sep 2001 06:14:24 -0400
+Message-ID: <00007dd77ae3$00004a13$00006fa5@>
+To: <Undisclosed.Recipients@dom.esoo.ru>
+Subject: Weekly Beauty Tips      -      -                         28581
+Date: Sun, 16 Sep 2001 06:14:21 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 1
+
+

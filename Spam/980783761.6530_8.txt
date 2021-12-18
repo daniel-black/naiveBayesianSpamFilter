@@ -1,0 +1,97 @@
+Return-Path: <workshop@racsa.co.cr>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 17127 invoked from network); 29 Jan 2001 15:47:40 -0000
+Received: from dns.cs-cosmos.co.jp (root@210.162.86.194)
+  by bfsmedia.sk.ca with SMTP; 29 Jan 2001 15:47:40 -0000
+Received: from kcx-ks18a-192.rasserver.net_[205.185.0.192] (kcx-ks18a-192.rasserver.net [205.185.0.192])
+	by dns.cs-cosmos.co.jp (8.8.5/8.8.5) with SMTP id AAA21181;
+	Tue, 30 Jan 2001 00:22:36 +0900
+From: workshop@racsa.co.cr
+Received: from mail.cec.com.tw by kcx-ks18a-192.rasserver.net with ESMTP; Mon, 29 Jan 2001 10:42:46 -0600
+Message-ID: <000050964a88$00004af9$00006678@mail.cec.com.tw>
+To: <howard@5Business.cc>
+Subject: Are you looking for the perfect tax write off?                         26232
+Date: Mon, 29 Jan 2001 10:42:34 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 1561
+Lines: 72
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<script language=3D"JavaScript"> <!--
+
+function showStatus(msg){
+
+     window.status =3D msg
+     return true
+
+}
+
+var message=3D"Key is not available"; // Message for the alert box
+
+
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#FFFFFF">
+
+<P><FONT COLOR=3D"#0033FF" face=3D"Arial"><B>Do You Have The Yen To Be a A=
+ Millionaire?<BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B>100% return in less t=
+han 90 days!<BR>
+<BR>
+The next </B></FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B>&quot;Bull M=
+arket&quot;</B></FONT><FONT COLOR=3D"#000000"
+face=3D"Arial"><B> is foreign currency. The foreign currency market could =
+be ready<BR>
+to make the next investor a millionaire! Are you next?<BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B>The time is now!</B><=
+/FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><A HREF=3D"http://63.107.112.76/leads.html"><FONT face=3D"Arial=
+"><B>Click Here For a &quot;FREE NO OBLIGATION&quot;
+information packet.</B></FONT></A>
+
+
+</BODY>
+
+</HTML>
+
+
+

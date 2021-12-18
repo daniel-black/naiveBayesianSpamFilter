@@ -1,0 +1,65 @@
+Return-Path: <philbert18@mysuperdns.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 1900 invoked from network); 10 Apr 2001 20:33:38 -0000
+Received: from mailhost1.dircon.co.uk (194.112.32.65)
+  by bfsmedia.sk.ca with SMTP; 10 Apr 2001 20:33:38 -0000
+Received: from [196.196.30.9] (kimuk.dircon.co.uk [194.112.48.26])
+	by mailhost1.dircon.co.uk (8.9.3/8.9.3) with ESMTP id VAA44879;
+	Tue, 10 Apr 2001 21:28:36 +0100 (BST)
+Received: from MAIL14.SUPERDNS.COM by 196.196.30.9
+     with SMTP (QuickMail Pro Server for MacOS 1.1.2); 10-Apr-2001 21:27:32 +0100
+Subject: Credit card bills piling up?
+Date: Tue, 10 Apr 2001 16:31:01 -0600
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+From: philbert1a@mysuperdns.com
+Message-Id: <v17stsl117nj0yip2p.8dums@mail14.superdns.com>
+To: illyna@bingenheimer.com
+Reply-To: mwijer93jrkwse@yahoo.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Content-Length: 1671
+Lines: 42
+
+<html>
+<body>
+<img border="0" src="http://robot.mysuperdns.com/credit_cards.gif" 
+width="155" height="106">
+<img border="0" src="http://robot.mysuperdns.com/stress_05.gif" width="344" 
+height="69">
+<p align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" 
+color="#000066" size="2">Is
+the stress of making a living and paying your bills keeping you from 
+fulfilling
+your dreams?</font></b></p>
+<ul>
+  <li><font face="Verdana, Arial, Helvetica, sans-serif" color="#0000ff" 
+size="3"><b><font color="#ff00ff" size="2">This
+    is not a loan!</font></b></font>
+  <li><font color="#ff00ff" size="2"><b><font face="Verdana, Arial, Helvetica,
+ sans-serif">Everyone
+    qualifies!</font></b></font>
+  <li><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" 
+color="#ff00ff">We
+    are a non-profit organization!</font></b></font></li>
+</ul>
+<p><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000066" 
+size="2">Congratulations,
+you have taken the first step in becoming debt free. To better help us serve 
+you
+and provide you with complete, <font color="#ff0033"><u>FREE</u></font>
+information, please click the link below.</font></b></p>
+<p align="center">
+<b><a href="http://robot.mysuperdns.com"><font face="Verdana, Arial, 
+Helvetica, sans-serif" color="#000066" size="5">CLICK HERE</font></a></b></p>
+<p align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" 
+color="#000066" size="2">You
+will receive an auto response which will provide the information necessary to
+begin reducing your debt.</font></b></p>
+<p></p>
+<p>To be removed from further mailings reply with REMOVE in the subject line.
+</p>
+</body>
+</html>
+
+

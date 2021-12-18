@@ -1,0 +1,66 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 22480 invoked from network); 22 May 2001 12:38:33 -0000
+Received: from unknown (192.168.1.1)
+  by 192.168.1.2 with QMQP; 22 May 2001 12:38:33 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bruce-guenter.dyndns.org with SMTP; 22 May 1996 12:38:24 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S261417AbREVMeP>; Tue, 22 May 2001 08:34:15 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S261423AbREVMeF>; Tue, 22 May 2001 08:34:05 -0400
+Received: from community9.interfree.it ([213.158.72.64]:35847 "HELO
+	community9.interfree.it") by vger.kernel.org with SMTP
+	id <S261417AbREVMeC>; Tue, 22 May 2001 08:34:02 -0400
+Received: (qmail 28214 invoked from network); 22 May 2001 12:33:46 -0000
+Received: from unknown (HELO mail.interfree.it) (151.35.33.32)
+  by mail.interfree.it with SMTP; 22 May 2001 12:33:46 -0000
+Message-Id: <990534823.30@interfree.it>
+Date:	Tue, 22 May 2001 14:33:43 0200
+To:	linux-kernel@vger.kernel.org
+From:	daria73it@yahoo.it (Daria)
+Subject: Messaggio
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1332
+
+Messaggio promozionale
+
+
+La societa' DOPLAND srl e' ora presente anche in Internet con oltre 14000 articoli,all'indirizzo
+http://www.dopland.com
+
+Articoli da regalo
+Orologi
+Occhiali da sole
+Articoli sportivi
+Telefonia
+
+Tutto scontato fino al 60%.Consegne entro 24/48 ore con formula "soddisfatti o rimborsati".
+
+Nell' invitarVi a visitare il nostro sito,ci scusiamo per l'eventuale disturbo e porgiamo 
+i piu' cordiali saluti!
+
+Dara L.
+
+http://www.dopland.com
+
+--------------------------------------------------------------------------
+Ai sensi della  legge  675/96,  La  informiamo  che  la  sua e-mail è stata
+trovata su internet  che è  un ambito  pubblico. E' Sua facoltà  esercitare
+i diritti di cui  all'art.13 della suddetta legge. Se non desidera ricevere 
+nostre  ulteriori  e-mail risponda  inserendo  il  messaggio   "recessione"
+nell'oggetto. Il  suo  indirizzo verra' in ogni caso cancellato dalla lista
+dopo questo invio.
+--------------------------------------------------------------------------
+
+Promozione a cura dell'agenzia pubblicitaria A&M - Milano tel. 02700403659
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

@@ -1,0 +1,33 @@
+Return-Path: <postmaster@publica.ub.mng.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 5879 invoked from network); 1 Sep 2001 05:02:07 -0000
+Received: from publica.ub.mng.net (202.179.0.80)
+  by em.ca with SMTP; 1 Sep 2001 05:02:07 -0000
+Received: (from root@localhost)
+	by publica.ub.mng.net (8.11.3/8.11.3) id f815rPM98362;
+	Sat, 1 Sep 2001 13:53:25 +0800 (ULAT)
+	(envelope-from postmaster)
+Date: Sat, 1 Sep 2001 13:53:25 +0800 (ULAT)
+From: postmaster@publica.ub.mng.net
+Message-Id: <200109010553.f815rPM98362@publica.ub.mng.net>
+To: bait@em.ca
+Subject: VIRUS IN MAIL FOR YOU FROM tegshee@mongol.net
+Content-Length: 256
+Lines: 16
+
+                           V I R U S  A L E R T
+
+Our viruschecker found the
+
+	W32/SirCam@MM
+	W32/SirCam@MM
+
+virus(es) in an email to you from:
+
+tegshee@mongol.net
+
+Delivery of the email was stopped!
+
+Please contact your system administrator for details.
+
+

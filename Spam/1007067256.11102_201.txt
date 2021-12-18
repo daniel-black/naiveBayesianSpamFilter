@@ -1,0 +1,110 @@
+Return-Path: <a26146@go.ru>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 5530 invoked from network); 28 Nov 2001 02:12:12 -0000
+Received: from unknown (HELO MAIN.wan.co.jp) (210.254.55.162)
+  by agamemnon.bfsmedia.com with SMTP; 28 Nov 2001 02:12:12 -0000
+Received: from inet.com.ua ([65.44.224.50]) by MAIN.wan.co.jp
+          (Post.Office MTA v3.5.3 release 223 ID# 0-0U10L2S100V35)
+          with SMTP id jp; Wed, 28 Nov 2001 11:13:52 +0900
+Message-ID: <00000b3b6d53$000008cf$000047e6@Atlas.cz>
+To: <azekx@Atlas.cz>
+From: a26146@go.ru
+Subject: Re:5.85% Fixed Rate Mortgage Free Quote!!
+Date: Tue, 27 Nov 2001 21:13:25 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Content-Length: 2456
+Lines: 86
+
+<HTML>
+<BODY>
+<!-- saved from url=3D(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<title>5.85% Fixed Rate</title>
+<script language=3D"JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init=3D=3Dtrue) with (navigator) {if ((appName=3D=3D"Netscape")&&(pa=
+rseInt(appVersion)=3D=3D4)) {
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; onresize=3D=
+MM_reloadPage; }}
+  else if (innerWidth!=3Ddocument.MM_pgW || innerHeight!=3Ddocument.MM_pgH=
+) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+</head>
+
+<body>
+
+<table border=3D"1" width=3D"68%" bordercolor=3D"#008000" bordercolorlight=
+=3D"#000080"
+bordercolordark=3D"#0000FF">
+  <tr>
+    <td width=3D"100%"><p align=3D"center"><font face=3D"Arial Black" colo=
+r=3D"#FF0000"><big><big><big>5.85%
+      Fixed Rate</big></big></big></font></p>
+    <p align=3D"center"><font face=3D"Arial Black" color=3D"#008040"><img
+    src=3D"http://66.163.40.6/mortg-b/manmoney.jpg" width=3D"120" height=3D=
+"180"
+    alt=3D"1-log.jpg"></font>
+    <font face=3D"Arial" color=3D"#000080">
+    <br>
+    </font>
+      <p align=3D"center"><b><font face=3D"arial" size=3D"6" color=3D"#FF0=
+000">Rates
+      Have Fallen Again!!!</font></b></p>
+      <p align=3D"center"><b><font face=3D"arial" size=3D"5" color=3D"#000=
+0FF">DO NOT
+      MISS OUT!!</font></b></p>
+      <p align=3D"center"><b><font size=3D"4" face=3D"arial" color=3D"#000=
+080">LET BANKS
+      COMPETE FOR YOUR BUSINESS!!!</font></b></p>
+      <p align=3D"center"><b><font size=3D"4" face=3D"arial" color=3D"#000=
+080">ALL
+      CREDIT WELCOME</font></p>
+      </b>
+    <p align=3D"center"><font face=3D"Arial" color=3D"#000080">
+    <strong><a href=3D"http://66.163.40.11/mortg-b/" target=3D"_blank">CLI=
+CK HERE FOR MORE INFO</a>
+    </strong></font>
+    <p align=3D"center">&nbsp;</td>
+  </tr>
+</table>
+<script language=3D"JavaScript">
+//this code is the beginning of the right click and key disable
+function right(e) { 
+if (navigator.appName =3D=3D 'Netscape' && 
+(e.which =3D=3D 3 || e.which =3D=3D 2)) 
+return false; 
+else if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && 
+(event.button =3D=3D 2 || event.button =3D=3D 3)) { 
+alert("This Action Not Allowed!"); 
+return false; 
+} 
+return true; 
+} 
+
+function keypressed() { 
+alert("This Action Not Allowed!"); 
+} 
+document.onmousedown=3Dright; 
+document.onkeydown=3Dkeypressed; 
+</script>
+
+
+<p>&nbsp;</p>
+</body>
+</html>
+
+
+

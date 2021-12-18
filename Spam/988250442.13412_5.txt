@@ -1,0 +1,307 @@
+Return-Path: <qkukqnpfvm@hotbot.com>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 5132 invoked from network); 26 Apr 2001 01:55:40 -0000
+Received: from astro.teracorp.com (204.242.188.9)
+  by bfsmedia.sk.ca with SMTP; 26 Apr 2001 01:55:40 -0000
+Received: from irryi.hotbot.com by astro.teracorp.com (SMI-8.6/SMI-SVR4)
+	id VAA13088; Wed, 25 Apr 2001 21:22:28 -0400
+Date: Wed, 25 Apr 2001 21:22:28 -0400
+From: qkukqnpfvm@hotbot.com
+Message-Id: <200104260122.VAA13088@astro.teracorp.com>
+To: gcswosebcn@hotbot.com
+Subject: ||| Are You Married To Your Job Or Are You Open-minded? |||                                    [woais]
+Content-Type: text/html;
+Content-Length: 14695
+Lines: 291
+
+
+<html>
+
+<head><script language="JavaScript">
+<!--
+ function scrollit_r2l(seed)
+{ 
+	var m1 = "Find  Out  How  1000큦  Of  People  Are  Now  Using  Their  Personal  Computers  To  Generate  A  Serious  Income!....."; 
+	var m2 = "Your  Success  Is  Just  A  Click  AWAY! ..... "; 
+   var m3 = "This  offer  was  sent  by  an  independent  marketing  service.  To  be  REMOVED  or  to  contact  us,  fax  your  request  to:  1  -  8 0 0  -  7 6 5  -  5 4 4 1 .....    ";
+	var msg=m1+m2+m3;        
+	var out = " ";        
+	var c   = 1;        
+	if (seed > 100) 
+		{                
+		seed--;
+                var cmd="scrollit_r2l(" + seed + ")"; 
+                timerTwo=window.setTimeout(cmd,100);        
+		}
+        else if (seed <= 100 && seed > 0) 
+		{
+                for (c=0 ; c < seed ; c++) 
+			{                        
+			out+=" ";
+        		}       
+		out+=msg;
+        	seed--;
+        	var cmd="scrollit_r2l(" + seed + ")";                    
+		window.status=out;                
+		timerTwo=window.setTimeout(cmd,100);        
+	}
+	else if (seed <= 0) 
+		{
+                if (-seed < msg.length) 
+			{                        
+			out+=msg.substring(-seed,msg.length);
+        		seed--;                        
+			var cmd="scrollit_r2l(" + seed + ")";
+        		window.status=out;
+        		timerTwo=window.setTimeout(cmd,100);                
+			}
+                else 
+			{
+	          	window.status=" ";                        
+			timerTwo=window.setTimeout("scrollit_r2l(100)",75);                
+			}        
+		}
+	};
+	scrollit_r2l(100);
+
+//-->
+</script>
+
+<title>It큦 FAST, It큦 EASY and It큦 FREE...</title>
+</head>
+
+<body bgColor="#345E8F">
+<div align="center"><center>
+
+<table border="2" cellPadding="5" cellSpacing="3" height="364" width="654">
+<tbody>
+  <tr>
+    <td bgColor="#ffffff" height="364" width="654"><div><div><div><div align="center"><center><table
+    border="0" cellpadding="0" cellspacing="0" width="99%" height="149">
+      <tr>
+        <td width="100%" bgcolor="#000000" height="149"><p align="center"><font
+        face="Arial Rounded MT Bold" size="6" color="#0000FF">Now's The Time <br>
+        To Get Into An <br>
+        Internet Home Business!</font></td>
+      </tr>
+    </table>
+    </center></div><p align="center" style="text-align:center"><font face="Arial"><strong><span
+    lang="EN-US"
+    style="font-size:
+18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;color:blue">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+color:red">*</span><span
+    lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+color:blue">
+    &nbsp; *&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;
+font-family:&quot;Arial Rounded MT Bold&quot;;color:red">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;color:blue">*&nbsp; </span><span
+    lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+color:red">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:
+&quot;Arial Rounded MT Bold&quot;;color:blue">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;color:red">*</span><span
+    lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+color:blue">
+    &nbsp; *&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;
+font-family:&quot;Arial Rounded MT Bold&quot;;color:red">*
+    &nbsp;&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+color:blue">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:
+&quot;Arial Rounded MT Bold&quot;;color:red">*</span></strong></font></p>
+    <p align="center" style="text-align:center"><strong><font face="Arial"><font
+    color="#0000FF">Discover how people are earning <em>&quot;full-time&quot;</em> <br>
+    income using their home computer!!!<br>
+    </font><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:blue;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:
+AR-SA"><br>
+    *&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:
+&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">*</span><span
+    lang="EN-US"
+    style="font-size:18.0pt;
+font-family:&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US;mso-bidi-language:AR-SA">
+    &nbsp; *&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:red;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:
+AR-SA">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:
+&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:blue;mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;
+font-family:&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US;mso-bidi-language:AR-SA">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:blue;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:
+AR-SA">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:
+&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">*</span><span
+    lang="EN-US"
+    style="font-size:18.0pt;
+font-family:&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:blue;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US;mso-bidi-language:AR-SA">
+    &nbsp; *&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:&quot;Arial Rounded MT Bold&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+color:red;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:
+AR-SA">*
+    &nbsp;&nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;font-family:
+&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+&quot;Times New Roman&quot;;color:blue;mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">*
+    &nbsp; </span><span lang="EN-US"
+    style="font-size:18.0pt;
+font-family:&quot;Arial Rounded MT Bold&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US;mso-bidi-language:AR-SA">*</span></font></strong></p>
+    <ul>
+      <li><p class="MsoTitle" align="left" style="text-align:left"><font face="Arial"><b><span
+        lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:
+12.0pt;color:red">Fact</span></b><span
+        lang="EN-US" style="mso-bidi-font-size:
+10.0pt;color:#333333">:</span><span lang="EN-US"
+        style="font-size:12.0pt;color:#333333;font-weight:normal;text-decoration:none;
+text-underline:none">
+        &nbsp; <font color="#0000FF">Hundreds of Thousands of people are now cashing in using <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the
+        Internet to make<span style="mso-spacerun: yes"> </span>money from home!&nbsp; </font></span></font></p>
+      </li>
+      <li><p class="MsoTitle" align="left" style="text-align:left"><font face="Arial"><b><span
+        lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:
+12.0pt;color:red">Fact</span></b><span
+        lang="EN-US" style="mso-bidi-font-size:
+10.0pt;color:#333333">:</span><span lang="EN-US"
+        style="font-size:12.0pt;color:#333333;font-weight:normal;text-decoration:none;
+text-underline:none">
+        &nbsp; <font color="#0000FF">There will be 502 Million Internet users by 2003!<o:p></o:p></font></span></font></p>
+      </li>
+      <li><p class="MsoTitle" align="left" style="text-align:left"><font face="Arial"><b><span
+        lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:
+12.0pt;color:red">Fact</span></b><span
+        lang="EN-US" style="mso-bidi-font-size:
+10.0pt;color:#333333">:</span><span lang="EN-US"
+        style="font-size:12.0pt;color:#333333;font-weight:normal;text-decoration:none;
+text-underline:none">
+        &nbsp;&nbsp; <font color="#0000FF">An Internet Businesses is the next great opportunity of
+        our <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; time!
+        &nbsp; There are 125,000 people starting their own Home-Based <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;Business every week!<o:p></o:p></font></span></font></p>
+      </li>
+      <li><p class="MsoTitle" align="left" style="text-align:left"><font face="Arial"><b><span
+        lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:
+12.0pt;color:red">Fact</span></b><span
+        lang="EN-US" style="mso-bidi-font-size:
+10.0pt;color:#333333">:</span><span lang="EN-US"
+        style="font-size:12.0pt;color:#333333;font-weight:normal;text-decoration:none;
+text-underline:none">
+        &nbsp;&nbsp; <font color="#0000FF">Thousands of people are losing money with
+        &#145;phony&#146; and Illegal <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+        programs on the Internet.<o:p></o:p></font></span></font></p>
+      </li>
+      <li><p class="MsoTitle" align="center" style="text-align:left"><font face="Arial"><b><span
+        lang="EN-US" style="font-size:14.0pt;mso-bidi-font-size:
+12.0pt;color:red">Fact</span></b><span
+        lang="EN-US" style="mso-bidi-font-size:
+10.0pt;color:#333333">:&nbsp; <font
+        color="#0000FF">&nbsp; <u>We're&nbsp;showing people how to make money on the Internet.</u></font></span></font></p>
+      </li>
+    </ul>
+    <p class="MsoTitle" align="center" style="text-align:left"><font color="#0000FF"><b><i><span
+    lang="EN-US"><br>
+    <big><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Discover
+    how you can succeed where most fail!<o:p></o:p></u></big></big></span></i></b></font></p>
+    <p align="center"><span lang="EN-US"
+    style="font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+&quot;Times New Roman&quot;;background:white;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA"><br>
+    <big>Get FREE information on the <font color="#0000FF"><u>FASTEST and SAFEST</u></font> </big><br>
+    <big>way to make MONEY from your home computer!</big></span></p>
+    <p align="center"><big><span lang="EN-US"
+    style="font-size:10.0pt;font-family:Arial;mso-fareast-font-family:
+&quot;Times New Roman&quot;;background:white;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA">&gt;&gt;&gt;
+    &nbsp; </span><u><span lang="EN-US"
+    style="font-size:12.0pt;font-family:Arial;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:#3366FF;background:white;mso-ansi-language:EN-US;
+mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><strong><big><a
+    href="mailto:filing_dept@inorbit.com?subject=SUBSCRIBE">CLICK HERE</a></big></strong></span></u></big>
+    &nbsp; <font face="Arial"><span lang="EN-US"
+    style="font-size:10.0pt;font-family:Arial;
+color:black;background:white"><big>&lt;&lt;&lt;
+    </big></span></font></p>
+    <p align="center"><font face="Arial"><span lang="EN-US"
+    style="font-size:10.0pt;font-family:Arial;
+color:black;background:white"><big>A new email
+    message window will open with the word SUBSCRIBE </big><small><br>
+    </small><big>in the subject line.&nbsp; Simply click 'send' and your done.&nbsp; After </big><br>
+    <big>receiving your email, we will send you this information.&nbsp; If </big><br>
+    <big>the</big> <big>above link does not show the word SUBSCRIBE </big><br>
+    <big>in the subject line, please type it in</big>!</span></font></p>
+    <p align="center"><font face="Arial"><span lang="EN-US"
+    style="font-size:10.0pt;font-family:Arial;
+color:black;background:white">&nbsp;</span></font></p>
+    <div align="center"><center><table border="3" cellpadding="10" cellspacing="0" width="67%">
+      <tr>
+        <td width="75%"><font color="#0000ff"><div><p align="center"><u><strong><small><font
+        face="Arial">Your E-mail Address Removal/Deletion Instructions:</font></small></strong></u></p>
+        </div><div><p align="center"><font face="Arial"><small>&nbsp; &nbsp; The marketing company
+        who sent you this advertisement </small><br>
+        <small>complies</small> <small>with all proposed federal legislation regarding unsolicited<br>
+        &nbsp; &nbsp; commercial e-mail by providing you with a method for your </small><br>
+        <small>e-mail address to be permanently removed from our database </small><br>
+        <small>and any future mailings from our company.</small></font></p>
+        </div><div><p align="center"><small><font face="Arial">&nbsp; &nbsp; To permanently remove
+        your address, please </font></font><font face="Arial" color="#0000ff"><a
+        href="mailto:rem_me@europe.com?subject=REMOVE">CLICK HERE</a> </small><br>
+        <small>to send your request.</small></font></p>
+        </div></td>
+      </tr>
+    </table>
+    </center></div><div align="center"><center><table border="0" cellpadding="0"
+    cellspacing="0" width="100%">
+      <tr>
+        <td><br>
+        </td>
+      </tr>
+    </table>
+    </center></div></div></div></div></td>
+  </tr>
+</tbody>
+</table>
+</center></div>
+</body>
+</html>
+
+

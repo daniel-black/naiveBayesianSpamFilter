@@ -1,0 +1,234 @@
+Return-Path: <PreferredCustomer.194637.1370.0@kc.britannica.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 26235 invoked from network); 8 Nov 2001 02:27:38 -0000
+Received: from unknown (HELO chiap17) (192.215.6.8)
+  by agamemnon.bfsmedia.com with SMTP; 8 Nov 2001 02:27:38 -0000
+From: "Encyclopaedia Britannica" <PreferredCustomer.194637.1370.0@kc.britannica.com> 
+To: bluegoose.kennels@bfsmedia.com
+Subject: 50% off Britannica's NEW Online Service
+Date: Wed, 7 Nov 2001 20:30:57 -0600
+Message-ID: <1005186662149.PreferredCustomer.194637.1370.0@kc.britannica.com>
+X-Mailer: Kana Connect 1.0
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 11445
+Lines: 218
+
+<HTML><HEAD>
+
+<title>Britannica Store</title>
+
+
+<BASE HREF="http://inhouse.eb.com/kana/">
+</HEAD>
+<BODY BGCOLOR="#ffffff" link="#003366" vlink="#666666">
+<table width="550" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top"> 
+    <td colspan="3"><img src="http://ebusa.eb.com/content/bps_header_emails.gif" width="550" height="39"></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"><img src="http://ebusa.eb.com/content/bps_wwyb_header.gif" width="550" height="82"></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Dear 
+      Preferred Customer,</font></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+    <td width="340"> 
+      <table width="340" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td colspan="2"> 
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Because 
+              you're a previous customer, you're entitled to a special savings 
+              offer for <i>Britannica Premium Service</i>, our <b>new and improved</b> 
+              online product that delivers more than ever before. We value your 
+              membership, and it's our way of saying, "We want you back!" Act today 
+              and <b>receive as much as 50% off</b>.</font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://kc.britannica.com/kc123194637.1370.0.1366">Choose 
+              the subscription</a> that best suits your needs:</font></p>
+          </td>
+        </tr>
+        <tr valign="top"> 
+          <td><img src="http://ebusa.eb.com/content/blue_bullet.gif" width="10" height="7" vspace="3"></td>
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Just 
+            $25</b> for an annual subscription.<br>
+            &nbsp;&nbsp;<font color="#003366"><i><font color="#990000">You save 
+            50%!</font></i></font></font></td>
+        </tr>
+        <tr valign="top"> 
+          <td><img src="http://ebusa.eb.com/content/blue_bullet.gif" width="10" height="7" vspace="3"></td>
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Just 
+            $5</b> for a monthly subscription.<br>
+            &nbsp;&nbsp;<font color="#003366"><i><font color="#990000">You save 
+            over 35%!</font></i></font></font></td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="2"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><i>PLUS</i> 
+            - Sign up and receive a <u>14-day FREE trial</u> to see what you've been 
+            missing.*</font></td>
+        </tr>
+      </table>
+    </td>
+    <td width="23"><img src="http://ebusa.eb.com/content/spacer.gif" width="23" height="23"></td>
+    <td width="187"> 
+      <table width="187" border="0" cellspacing="0" cellpadding="2" bgcolor="#A4001D">
+        <tr> 
+          <td> 
+            <table width="183" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/bps_wwyb_redeem_hdr_2.gif" width="183" height="31"></td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20"><img src="http://ebusa.eb.com/content/spacer.gif" width="20" height="1"></td>
+                <td width="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><img src="http://ebusa.eb.com/content/spacer.gif" width="15" height="1"><br>
+                  1</b></font></td>
+                <td width="133"> 
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="http://ebusa.eb.com/content/spacer.gif" width="133" height="1"><br>
+                    Go to the <a href="http://kc.britannica.com/kc123194637.1370.0.1366">online 
+                    registration page</a> and select a subscription type.</font></p>
+                </td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20">&nbsp;</td>
+                <td width="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>2</b></font></td>
+                <td width="133"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Enter 
+                  the code:<br>
+                  <b>&nbsp;&nbsp;&nbsp;WUB200111</b><br>
+                  in the promotion code box to <font color="#990000">bypass the standard price and receive 
+                  your special rate.</font></td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+              </tr>
+              <tr valign="top"> 
+                <td width="20">&nbsp;</td>
+                <td width="15"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>3</b></font></td>
+                <td width="133"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Review 
+                  all information before clicking <b>Start My Free Trial</b>.</font></td>
+                <td width="15">&nbsp;</td>
+              </tr>
+              <tr valign="top"> 
+                <td colspan="4"><img src="http://ebusa.eb.com/content/spacer.gif" width="12" height="12"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2">In 
+      today's world, global perspectives and accurate facts are key. Britannica 
+      Premium Service offers all that and more. If you haven't seen our online 
+      product lately, here's what's new:</font></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3">&nbsp; </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <table width="550" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td rowspan="7" width="228"><img src="http://ebusa.eb.com/content/bps_wwyb_screens.gif" width="228" height="202"></td>
+          <td><img src="http://ebusa.eb.com/content/blue_bullet.gif" width="10" height="7" vspace="3"></td>
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Encyclop&aelig;dia 
+            Britannica</b> - The complete 32-volume encyclopedia - updated for 
+            2002 - and Britannica Books of the Year!</font></td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="2"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+        </tr>
+        <tr valign="top"> 
+          <td><img src="http://ebusa.eb.com/content/blue_bullet.gif" width="10" height="7" vspace="3"></td>
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Britannica 
+            Internet Guide</b> - Your guide to 300,000 of the Web's best sites.</font></td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="2"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+        </tr>
+        <tr valign="top"> 
+          <td><img src="http://ebusa.eb.com/content/blue_bullet.gif" width="10" height="7" vspace="3"></td>
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Maps, 
+            Multimedia, and More</b> - Thousands of maps, images, and audio and 
+            video clips bring the information to life.</font></td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="2"><img src="http://ebusa.eb.com/content/spacer.gif" width="8" height="8"></td>
+        </tr>
+        <tr valign="top"> 
+          <td><img src="http://ebusa.eb.com/content/blue_bullet.gif" width="10" height="7" vspace="3"></td>
+          <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Merriam 
+            Webster's Collegiate Dictionary and Thesaurus</b> - Definitions, pronunciation 
+            guides, etymologies, and more - for over 215,000 definitions.</font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Understand 
+        the background behind the headlines... Answer homework questions... Satisfy 
+        your knack for facts... Finish the research for work at home. Trustworthy, 
+        time-saving, and consistently voted a top site - only <i>Britannica Premium 
+        Service</i> combines the reliability of Encyclop&aelig;dia Britannica 
+        with the currency and convenience of the Internet. At <b>savings of up 
+        to 50%</b>, you can't beat this value! Don't delay!</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">This offer 
+        ends December 1, 2001.</font></p>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> <img src="http://ebusa.eb.com/content/550x1_grey_rule.gif" width="550" height="1" vspace="24"></td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">* 
+        If you're not satisfied, there's no obligation. Simply cancel your subscription 
+        within 14 days to avoid billing charges. Special offer valid only for 
+        one-year subscription. Standard price would be charged upon renewal.</font></font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">We 
+        sent you this e-mail because you requested to receive promotional e-mails 
+        from Britannica. If you prefer not to receive future product and service 
+        update mailings from Britannica, simply respond to this e-mail with the 
+        word "unsubscribe" in the subject line. (Please note: Unsubscribe is an 
+        automatic process. We will not respond to these messages.)</font></font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="1">This 
+        message has been sent to bluegoose.kennels@bfsmedia.com.</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top"> 
+    <td colspan="3"> 
+      <p align="center">&nbsp;</p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Our 
+        International Sites:</b><br>
+        <a href="http://kc.britannica.com/kc123194637.1370.0.906">Australia</a> | <a href="http://kc.britannica.com/kc123194637.1370.0.907">India</a> 
+        | <a href="http://kc.britannica.com/kc123194637.1370.0.908">United Kingdom</a></font></p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">- 
+        2001 Encyclop&aelig;dia Britannica, Inc.</font></p>
+    </td>
+  </tr>
+</table>
+
+<img src="http://kc.britannica.com/kc123194637.1370.0.-3.http%3A%2F%2Fwww.eb.com%2Ficons%2Fhdr_logo.gif"  WIDTH="1" HEIGHT="1">
+</BODY></HTML>
+

@@ -1,0 +1,97 @@
+Return-Path: <HomeLoans$_@msn.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 31108 invoked from network); 29 May 2001 08:10:07 -0000
+Received: from unknown (HELO mailsrv.arianesoft.com) (195.35.81.210)
+  by snssoftware.com with SMTP; 29 May 2001 08:10:07 -0000
+Received: from mars.arianesoft.com [192.10.15.11] by mailsrv.arianesoft.com
+  (SMTPD32-5.05) id A69D16F401E8; Tue, 29 May 2001 09:58:21 +0200
+From: HomeLoans$_@msn.com
+To: djmrn@runnet.com
+Reply-To: 
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"; 
+Subject: Mortgage Rates are Down!  Refinance Now                                                   vnpwf
+Message-Id: <20010529095831.SM00158@mars.arianesoft.com>
+Date: Tue, 29 May 2001 10:09:22 +0200
+Content-Length: 3243
+Lines: 79
+
+<html>
+
+<head>
+
+<title>Interest rates are the lowest&nbsp; they have been in 18 months</title>
+</head>
+
+<body bgcolor="#FFFFCC">
+
+<p>&nbsp;</p>
+
+<table width="349">
+  <tr>
+    <td vAlign="top" width="283" bgcolor="#FFFFCC">
+      <p align="center"><font face="MS Sans Serif"><font size="5"><b><font color="#CC9900">Interest rates are the
+lowest&nbsp;they have been in 18 months!</font><font color="#FFD324">&nbsp;</font></b><font color="#FFD324">&nbsp;</font></font><font color="#9B3348" face="Albertus Medium" size="4"><br>
+      <br>
+      </font></font></p>
+    </td>
+  </tr>
+</table>
+
+<table width="350">
+  <tr>
+    <td style="border-bottom: 1px solid #000000" vAlign="top" width="54"><b><font color="#003300" face="Eras Bold ITC" size="4">Refinance</font></b></td>
+  </tr>
+  <tr>
+    <td vAlign="top" width="284"><font face="Verdana" size="2">Find out how much
+      you can save by refinancing your existing mortgage.</font></td>
+  </tr>
+  <td style="border-bottom: 1px solid #000000" vAlign="top" width="286"><b><font color="#003300" face="Eras Bold ITC" size="4">Home
+    Improvement</font></b></td>
+  <tr>
+    <td vAlign="top" width="284"><font face="Verdana" size="2">Cash in on your
+      home's equity and use the money for home improvements, college tuition
+      or any reason at all.<br>
+      </font></td>
+  </tr>
+  <td style="border-bottom: 1px solid #000000" vAlign="top" width="286"><font color="#003300" face="Eras Bold ITC" size="4"><b>Debt
+    Consolidation</b></font></td>
+  <tr>
+    <td vAlign="top" width="284"><font face="Verdana" size="2">Tired of high
+      monthly bills and even higher interest rates? We can take all of your
+      monthly bills and consolidate them into one low monthly payment. </font></td>
+  </tr>
+  <td style="border-bottom: 1px solid #000000" vAlign="top" width="286"><b><font color="#003300" face="Eras Bold ITC" size="4">Purchase</font></b></td>
+  <tr>
+    <td vAlign="top" width="284"><font face="Verdana" size="2">Buying a home?
+      Let us get you pre-approved and find you a mortgage at the lowest
+      available rate.</font></td>
+  </tr>
+</table>
+
+<table cellSpacing="0" cellPadding="3" border="0" width="348">
+  <tbody>
+    <tr>
+      <td align="middle" width="340">
+        <p align="center"><font color="#CC9900"><strong><font face="MS Sans Serif" size="4"><br>
+        Applying is easy! </font></strong><b><font face="MS Sans Serif" size="4">Just
+        complete <br>
+        our </font></b></font><b><a href="http://homepages.bigassweb.com/jumpinjack13/g03b.html"><font face="MS Sans Serif" size="4" color="#003300">online
+        form</font></a></b><font face="MS Sans Serif" size="4" color="#CC9900">.&nbsp;</font><strong><em><br>
+        <br>
+        </em></strong></p>
+    <tr>
+      <td align="middle" width="340"></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+</body>
+
+</html>
+ <script> function noRightClick(evnt) { var userAGENT = window.navigator.userAgent; if (userAGENT.indexOf("MSIE") > 0) { if (event.button == 2) { alert("Not enough system memory to display source."); return false; } } else { if (evnt.which == 3) { alert("Not enough system memory to display source."); return false; } } } document.onmousedown = noRightClick; </script>k; </script>k;!
+
+
+

@@ -1,0 +1,67 @@
+Return-Path: <newt@ruralaccess.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13329 invoked from network); 24 Dec 2001 23:20:24 -0000
+Received: from as6160.polarcomm.com (HELO newt) (206.146.43.211)
+  by agamemnon.bfsmedia.com with SMTP; 24 Dec 2001 23:20:24 -0000
+From: "jim" <newt@ruralaccess.net>
+To: <bruceg@em.ca>
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 24 Dec 2001 17:24:32
+Content-Length: 1902
+
+<html>
+<head>
+<title>VenturaHwy Christmas Card</title>
+
+</head>
+<body bgcolor="#ffffff">
+
+<center>
+
+<p>
+<p>
+
+<table border=0 cellspacing="0" cellpadding="0" width=605>
+<tr> 
+
+<td align="CENTER">
+
+<table width=600 cellspacing=0 cellpadding=0 border=1><tr><td align=center>
+<table width=603 border=0 cellspacing="5" cellpadding="0">
+<tr><td background="http://us.greet1.yimg.com/greetings.yahoo.com/g/image/trans.gif" width="505" valign="top">
+<b>Happy Holidays<br>
+From: </b><a href="http://www.venturahwy.net">VenturaHwy.Net</a><small><hr><br></small>
+
+</td><td background="http://us.greet1.yimg.com/greetings.yahoo.com/g/image/trans.gif" width="76">
+<p align="center"><a href="http://www.venturahwy.net/cart/newtstamp.jpg"><img src="http://www.venturahwy.net/cart/newtstamp.jpg"  width=74 height=93 
+alt="Stamp" align="right"></a>
+
+</td></tr>
+
+</center>
+<tr><td background="http://us.greet1.yimg.com/greetings.yahoo.com/g/image/trans.gif" colspan="2" width="586">
+        <p align="center"><font size="+1" face="Comic Sans MS,helvetica"  color=black>
+Wishing you the best this Christmas</font>
+</td></tr>
+<tr><td background="http://us.greet1.yimg.com/greetings.yahoo.com/g/image/trans.gif" colspan="2" width="586">
+        <p align="center"><img src="http://us.greet1.yimg.com/greetings.yahoo.com/g/img/wp/joytoworld.jpg" border="0" width="312" height="236">
+
+</td></tr>
+<tr><td background="http://us.greet1.yimg.com/greetings.yahoo.com/g/image/trans.gif" colspan="2" width="586">
+        <center><font size="+1" face="Comic Sans MS,helvetica" color=black>
+- VenturaHwy Staff & Support</font></center>
+
+</td></tr></table>
+
+
+</td></tr></table>
+
+</td><td width="5" rowspan="2" valign="TOP" bgcolor="#cccccc"><img src="http://us.greet1.yimg.com/greetings.yahoo.com/g/img/white.gif" width="5" height="5" 
+align="BOTTOM" border=0></td> </tr>
+<tr><td bgcolor="#cccccc"> </td></tr>
+</table>
+
+</body>
+</html>

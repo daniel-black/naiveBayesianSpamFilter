@@ -1,0 +1,166 @@
+Return-Path: <merchantinc126003318@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 8634 invoked from network); 11 Dec 2001 05:56:54 -0000
+Received: from unknown (HELO merchantinc126003318) (211.46.157.162)
+  by agamemnon.bfsmedia.com with SMTP; 11 Dec 2001 05:56:54 -0000
+Reply-To: <merchantinc126003318@yahoo.com>
+Message-ID: <000d31b14bdb$7862c4a7$2dd57dd6@uowqay>
+From: <merchantinc126003318@yahoo.com>
+To: Store-Owner
+Subject: Process Credit Cards For $99
+MiME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+Content-Length: 6792
+Lines: 147
+
+<HTML><HEAD><TITLE>We Process Credit Cards</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="Microsoft FrontPage 4.0" name=GENERATOR>
+<META content=FrontPage.Editor.Document name=ProgId>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+  <div align="center">
+    <center>
+    <table border="1" width="24" height="27">
+      <tr>
+        <td width="139" height="27">
+  <table width="530">
+    <tr>
+      <td width="569" height="224" align="left">
+        <div style="width: 599; height: 77">
+          <p align="center"><b><font color="#ff0000" size="3">Do you accept
+          credit cards? Your competition does!</font></b></p>
+          <p align="center">&nbsp;</p>
+          <p align="center"><font size="2"><img src="http://4.40.177.73/web210/images/CreditCardsFan.gif" align="center" border="0" width="84" height="59"></font></p>
+          <p align="center"><b><font face="Arial" color="#0000ff" size="2">This
+          program that we have developed&nbsp;simply cannot be matched both in
+          pricing and functionality. The system that we utilize is our Gateway
+          which will provide two key functions.</font></b></p>
+          <hr>
+          <p align="center"><font color="#0000ff" size="2"><font face="Arial">One
+          is allowing your customer to purchase with a credit card in a secure
+          real-time environment on your Web Site whether you are utilizing a
+          shopping cart or not.</font> <font face="Arial">Funds will deposit
+          into your Personal or Business account within 48 hours.</font></font>
+          <hr>
+          <p align="center"><font face="Arial" color="#0000ff" size="2">The
+          second feature that you will have is access to a Virtual terminal
+          which you can manually key in Credit Card orders and receive real-time
+          authorizations for phone &amp; mail order transactions.</font>
+          <hr>
+          <p align="center"><font size="3">&nbsp;<b><font color="#0000ff">We will have you processing
+        Credit Cards Within 2 days regardless of Credit!!!</font></b>&nbsp;</font></p>
+          <hr>
+          <p align="center"><font size="2" color="#FF0000">Pricing Structure:</font></p>
+          <p align="center"><font size="2" color="#0000FF">$99 pays for
+          Internet Processing Software and Merchant Account</font></p>
+          <p align="center"><font size="2" color="#FF0000">Monthly Fees:</font></p>
+          <p align="center"><font size="2" color="#0000FF">$10 Statement and
+          Customer Support Fee</font></p>
+          <p align="center"><font size="2" color="#0000FF">$20 Gateway fee
+          for Processing Credit Cards securely Online.</font></p>
+          <p align="center"><font size="2" color="#0000FF">Transaction fee for
+          Visa &amp; MasterCard = 2.08% + .25</font></p>
+          <hr>
+          <div align="center">
+            <center>
+            <table width="373">
+              <tr>
+              </tr>
+            </table>
+            </center>
+          </div>
+          </div>
+          <form name="form" action="mailto:merchantinc126@yahoo.com?SUBJECT=$99" method="post" encType="text/plain" <tr>
+            <div align="center">
+              <center>
+              <table width="80%" border="1">
+                <tbody>
+                  <tr>
+                    <td align="left" width="54%">
+                      <p align="center"><b><font color="#0000ff" size="2">Your&nbsp;
+                      Email Address:</font></b></p>
+                    </td>
+                    <td align="middle" width="46%">
+                      <p align="center"><font size="2"><input size="29" name="user_email"></font></p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" width="54%">
+                      <p align="center"><b><font color="#0000ff" size="2">Your
+                      Name:</font></b></p>
+                    </td>
+                    <td align="middle" width="46%">
+                      <p align="center"><font size="2"><input size="29" name="Applicant_Name"></font></p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" width="54%">
+                      <p align="center"><b><font color="#0000ff" size="2">Business
+                      Name:</font></b></p>
+                    </td>
+                    <td align="middle" width="46%">
+                      <p align="center"><font size="2"><input size="29" name="Business_Name"></font></p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" width="54%">
+                      <p align="center"><b><font color="#0000ff" size="2">Business
+                      Phone Number:</font></b></p>
+                    </td>
+                    <td align="middle" width="46%">
+                      <p align="center"><font size="2"><input size="29" name="Business_Phone"></font></p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" width="54%">
+                      <p align="center"><b><font color="#0000ff" size="2">Home
+                      Phone Number:</font></b></p>
+                    </td>
+                    <td align="middle" width="46%">
+                      <p align="center"><font size="2"><input size="29" name="HomePhone"></font></p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="middle" width="100%" colSpan="2">
+                      <div align="center">
+                        <table width="13%" border="0">
+                          <tbody>
+                            <tr>
+                              <td width="100%">
+                                <p align="center"><font size="2"><input type="submit" value="Submit" name="B1"></font></p>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </td>
+                    </FORM>
+                  </tr>
+                </tbody>
+              </table>
+              </center>
+            </div>
+    </center>
+            <p align="center"><font size="2"><b><font color="#cc0000">If you
+            understand how a merchant account works and would like to apply
+            online <a href="http://4.40.177.73/web210/merchant.htm">click
+            here</a></font></b>
+            </font>
+            <p align="center"><b><font size="2" color="#337AAA">To be removed
+            from this mailing list please reply</font></b>
+        </td>
+      </tr>
+    </table>
+    <center>
+    <p>&nbsp;</td>
+        </tr>
+      </table>
+    </div>
+</BODY></HTML>
+

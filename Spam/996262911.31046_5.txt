@@ -1,0 +1,28 @@
+Return-Path: <sorifu_info@ec-shock.com>
+Delivered-To: em-ca-bait-20010528111709@em.ca
+Received: (qmail 12534 invoked from network); 27 Jul 2001 14:32:55 -0000
+Received: from unknown (HELO dm-dbase-server.melad.local) (211.9.37.210)
+  by em.ca with SMTP; 27 Jul 2001 14:32:55 -0000
+Received: from 211.9.37.210 (dm-dbase-server.melad.local [211.9.37.210]) by dm-dbase-server.melad.local with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id PX2L3V5J; Fri, 27 Jul 2001 22:16:18 +0900
+To: <bait-20010528111709@em.ca>
+Message-ID: <20010727.2216160412.babaq@sorifu_info-ec-shock.com>
+Date: Fri, 27 Jul 2001 22:16:18 +0900
+From: =?ISO-2022-JP?B?GyRCJWEhPCVrJSIlcyUxITwlSDt2TDM2SRsoQg==?=<sorifu_info@ec-shock.com>
+Subject: =?ISO-2022-JP?B?GyRCPi5AdEZiM1UbKEIgGyRCO1k7fUlUO1k7fTZbNV4bKEI=?=
+ =?ISO-2022-JP?B?GyRCJSIlcyUxITwlSBsoQg==?=
+MIME-Version: 1.0
+X-Mail-Agent: BSMTP DLL  Dec 17 2000  by Tatsuo Baba
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Length: 223
+Lines: 9
+
+
+小泉内閣　支持・不支持　緊急アンケート
+
+お忙しいところ、ご迷惑をおかけしますが、 
+下のURLをクリックして、アンケートにご協力お願いいたします。 
+
+http://211.9.37.210/koizumi/koizumi_an.asp?id=98312
+
+

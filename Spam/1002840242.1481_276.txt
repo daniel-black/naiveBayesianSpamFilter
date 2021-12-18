@@ -1,0 +1,21 @@
+Return-Path: <movies1@mwpmedia.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 16481 invoked from network); 7 Oct 2001 23:08:05 -0000
+Received: from cx71272-a.irvn1.occa.home.com (HELO mwpmedia.com) (24.10.152.154)
+  by agamemnon.bfsmedia.com with SMTP; 7 Oct 2001 23:08:05 -0000
+Return-Path: bounced1@mwpmedia.com
+From: movies1@mwpmedia.com
+To: gn@bfsmedia.com
+Subject: MOVIES
+Date: 07 Oct 2001 16:08:25 -0700
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+Content-Length: 88
+Lines: 5
+
+
+If you like to watch movies click here:
+
+http://www.mwpmedia.com/movieclub/order1.htm
+

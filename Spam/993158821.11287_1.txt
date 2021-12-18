@@ -1,0 +1,632 @@
+Return-Path: <dbeef@fastwave.com>
+Spam-Apparently-To: <010515004227@em.ca>
+Received: (qmail 1431 invoked from network); 21 Jun 2001 21:31:17 -0000
+Received: from unknown (HELO lzet.com.cn) (202.103.238.18)
+  by em.ca with SMTP; 21 Jun 2001 21:31:17 -0000
+Received: from yt8r688.pacbell.net (slip-12-64-13-148.mis.prserv.net [12.64.13.148])
+	by lzet.com.cn (8.9.3+Sun/8.9.3) with SMTP id FAA03870;
+	Fri, 22 Jun 2001 05:16:33 +0800 (CST)
+Date: Fri, 22 Jun 2001 05:16:33 +0800 (CST)
+Message-ID: <34583758$1c4d$740>
+Mime-Version: 1.0
+X-Priority: 
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_19539_6087_26D1.7CE37801F40B"
+To: "100224.3315@compuserve.com" <100224.3315@compuserve.com>
+From: "" <dbeef@fastwave.com>
+Reply-to: dbeef@fastwave.com
+Subject: I Can't Believe the Savings
+
+
+------=_NextPart_19539_6087_26D1.7CE37801F40B
+Content-Type: text/html; 
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<SCRIPT language=JavaScript>
+<!--
+
+function checkForm() {
+	valid = true;
+	if (!IsEmpty(document.form.Name.value))
+	{ valid = false;
+                  alert('Name is empty!'); }
+	if (!IsEmpty(document.form.Address.value))
+	{ valid = false;
+                   alert('Address is empty!'); }
+	if (!IsEmpty(document.form.City.value))
+	{ valid = false; alert('City is empty!'); }
+	if (!IsEmpty(document.form.State.value))
+	{ valid = false; alert('State is empty!'); }
+	if (!IsEmpty(document.form.Zip.value))
+	{ valid = false; alert('Zip Code is empty!'); }
+	if (!IsEmpty(document.form.HomePhone.value))
+	{ valid = false; alert('Home Phone is empty!'); }
+	if (!IsEmpty(document.form.WorkPhone.value))
+	{ valid = false; alert('Work Phone is empty!'); }
+	if (!IsEmpty(document.form.Email.value))
+	{ valid = false; alert('Email is empty!'); }
+	if (!IsEmpty(document.form.HomeValue.value))
+	{ valid = false; alert('Home Market Value is empty!'); }
+	if (!IsEmpty(document.form.FirstBalance.value))
+	{ valid = false; alert('First Mortgage Loan Balance is empty!'); }
+	if (!IsEmpty(document.form.FirstRate.value))
+	{ valid = false; alert('First Mortgage Interest Rate is empty!'); }
+	if (!IsEmpty(document.form.SecondBalance.value))
+	{ valid = false; alert('Second Mortgage Loan Balance is empty!'); }
+	if (!IsEmpty(document.form.SecondRate.value))
+	{ valid = false; alert('Second Mortgage Interest Rate is empty!'); }
+	if (!IsEmpty(document.form.LoanDesired.value))
+	{ valid = false; alert('Loan Desired is empty!'); }
+	if (!IsEmpty(document.form.Income.value))
+	{ valid = false; alert('Monthly Income is empty!'); }
+	if (!IsEmpty(document.form.MonthlyDebt.value))
+	{ valid = false; alert('Monthly Debt is empty!'); }
+	if (document.form.LoanPurpose.value == 9){
+		if (document.form.PropertyToPurchase.value == "None"){
+		valid = false; document.location='#Continue';
+		document.form.PropertyToPurchase.selectedIndex = 1;
+		}
+		else{
+		if (!IsEmpty(document.form.PurchasePrice.value))
+		{ valid = false; alert('Purchase Price is empty!'); }
+		if (!IsEmpty(document.form.DownPayment.value))
+		{ valid = false; alert('Down Payment is empty!'); }
+		}
+		}
+	if (valid)
+	alert ("Thank you. Your information is being processed. "
+		+ "A courteous lending professional will contact you shortly. "
+	    + "Please click OK to proceed and then OK to process your information.");
+	return valid;
+}
+function IsEmpty(text) {
+	return (text.length > 0);
+}
+function validate(string) {
+     if (!string) return false;
+     var Chars = "0123456789 ";
+
+     for (var i = 0; i < string.length; i++) {
+        if (Chars.indexOf(string.charAt(i)) == -1)
+           return false;
+     }
+     return true;
+ }
+function loan_purpose()
+{
+    if (document.form.LoanPurpose.value == 9)
+	    document.form.Action.label='Continue';
+	else
+	    document.form.Action.label='Done';	
+}
+// -->
+</SCRIPT>
+<HTML>
+<HEAD>
+<TITLE>Mortgage Locator</TITLE>
+<META HTTP-EQUIV="Content-Type" NAME="" CONTENT="text/html; charset=iso-8859-1">
+
+</HEAD>
+<body bgcolor="#ffffff" fontsize="2" text="#000000" link="#666666" vlink="#003399" alink="#0000cc">
+<table width="480" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td> 
+      <p><font size="2" color="#666666"><font face="Arial, Helvetica, sans-serif" size="3"><b><font color="#70416a" size="4">Why 
+        pay more than 3.95% on your mortgage?</font></b><br>
+        </font></font></p>
+      <p><font size="2" color="#666666"><font face="Arial, Helvetica, sans-serif" size="3">Use 
+        the <b><a href="#Locator">Mortgage Locator</a></b> (</font><font face="Arial, Helvetica, sans-serif" size="3" color="#666666"><a href="http://members.nbci.com/loanlocator6">http://members.nbci.com/loanlocator6</a></font>) 
+        <font face="Arial, Helvetica, sans-serif" size="3">form below</font></font> 
+        <font face="Arial, Helvetica, sans-serif" size="3" color="#666666">to 
+        shop over 750 lenders in seconds to find the absolute lowest rates and 
+        greatest savings in over 30 years. You'll be suprised what you can save. 
+        Take advantage of </font><font size="2" color="#666666"><font size="2" color="#666666"><font face="Arial, Helvetica, sans-serif" size="3">the 
+        fastest and easiest search technology to locate the perfect mortgage for 
+        your specific needs. We specialize in the following:</font></font></font></p>
+      <table width="100%" border="0" height="164">
+        <tr> 
+          <td valign="top" width="52%" height="166"> 
+            <ul>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Less 
+                than Perfect Credit</font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Absolute 
+                Lowest Interest Rates </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">No 
+                Equity Loans </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">2nd 
+                Trust Deeds </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">135% 
+                LTV Loans </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Rate/Term 
+                Refinances </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Cash-Out 
+                Refinances </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Debt 
+                Consolidation</font></li>
+            </ul>
+          </td>
+          <td valign="top" width="48%" height="166"> 
+            <ul>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Home 
+                Improvement Loans </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Short 
+                Job History</font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">No 
+                Income Verification </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">FHA/VA 
+                Streamlined Loans</font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Super 
+                Jumbo</font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Mixed 
+                Use Properties</font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Vacation/Investment 
+                100% </font></li>
+              <li><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">First 
+                Mortgage</font></li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+      <p><font face="Arial, Helvetica, sans-serif" size="3" color="#666666"><b>Ready 
+        to save?</b> Please complete the form below. This service is free to all 
+        consumers who want to take advantage of the very latest moves in mortgage 
+        interest rates and in the absolute best possible savings available today.</font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="3" color="#666666">Your 
+        information is safe, confidential and secure and will only be used for 
+        the purposes intended. <img src="http://members.nbci.com/medialib2/securekey.gif" width="34" height="15"><br>
+        <br>
+        If you can't view the form below please, click on the following link: 
+        http://members.nbci.com/loanlocator6<br>
+        </font></p>
+    </td>
+  </tr>
+</table>
+<form name=form encType=text/plain onsubmit="return checkForm()" method="post" action="mailto:loanlocator@email.com?subject=Loan3-Submit" >
+  <table border="0" width="480" bgcolor="#FFFFFF" cellspacing="2" cellpadding="0">
+    <tr> 
+      <td valign="TOP" colspan="2" bgcolor="#70416a" bordercolor="#FFFFFF"> <font face="Arial, Helvetica, sans-serif" size="3" color="#666666"><a name="Locator"></a></font> 
+        <input type="hidden" name="AdID" value="3">
+        <input type="hidden" name="FormID" value="3">
+        <font face="Arial" size="4" color="#FFFFFF"><b>Mortgage Locator</b></font> 
+      </td>
+      <td valign="TOP" bgcolor="#CCCCCC" width="90">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td width="114" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif" size="-1">Full 
+        Name:</font> </td>
+      <td bgcolor="#EEEEEE" width="300" nowrap> 
+        <p> 
+          <input type="text" name="Name" size="25">
+        </p>
+      </td>
+      <td rowspan="5" valign="TOP" width="90"> 
+        <div align="LEFT"><font face="Arial" size=2 color="#666666">Please provide 
+          your name and address.</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Address: 
+        </font> </td>
+      <td align="LEFT" width="300" bgcolor="#EEEEEE"> 
+        <input type="text" name="Address"  size="25">
+      </td>
+    </tr>
+    <tr> 
+      <td width="114" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif" size="-1">City:</font> 
+      </td>
+      <td bgcolor="#EEEEEE" width="300"> 
+        <p> 
+          <input type="text" name="City"  size="18">
+          <font face="Arial, Helvetica, sans-serif" size="-1">State</font> 
+          <input type="text" name="State" size="2">
+          <font face="Arial, Helvetica, sans-serif" size="-1">Zip</font> 
+          <input type="text" name="Zip" size="6">
+        </p>
+      </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif" size="-1">Phone:</font> 
+      </td>
+      <td bgcolor="#EEEEEE" width="300"> <font face="Arial, Helvetica, sans-serif" size="-1"> 
+        Work: 
+        <input type="TEXT" name="WorkPhone" size="15" maxlength="15">
+        </font> <font face="Arial, Helvetica, sans-serif" size="-1"> <br>
+        Home:</font> 
+        <input type="TEXT" name="HomePhone" size="15" maxlength="15">
+        <br>
+        <select name="Time2Call">
+          <option selected>Best Time to Call?</option>
+          <option value="Morning @ Work">Morning @ Work</option>
+          <option value="Morning @ Home">Morning @ Home</option>
+          <option value="Afternoon @ Work">Afternoon @ Work</option>
+          <option value="Afternoon @ Home">Afternoon @ Home</option>
+          <option value="Evening @ Work">Evening @ Work</option>
+          <option value="Evening @ Home">Evening @ Home</option>
+        </select>
+      </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif" size="-1">Email:</font></td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <input type="text" name="Email" size="25">
+        </font> </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Home 
+        Ownership:</font></td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        <select name="HomeOwnership">
+          <option value="None">None</option>
+          <option value="Primary single family">Primary single family</option>
+          <option value="Primary condo">Primary condo</option>
+          <option value="Primary townhome">Primary townhome</option>
+          <option value="Primary up to 4 units">Primary up to 4 units</option>
+          <option value="2nd home">2nd home</option>
+          <option value="2nd condo">2nd condo</option>
+          <option value="Vaction">Action</option>
+          <option value="Other">Other</option>
+        </select>
+        </font></td>
+      <td valign="TOP" bgcolor="#CCCCCC" width="90">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Home's 
+        Market Value:</font></td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <input type="text" name="HomeValue" size="8">
+        Numbers only. E.g. 125000</font></td>
+      <td rowspan="6" valign="TOP" width="90"> 
+        <div align="LEFT"><font face="Arial" size=2 color="#666666">Please provide 
+          your mortgage and credit information.</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif" size="-1">1st 
+        Mortgage:</font> </td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <select name="FirstType">
+          <option value="Fixed"><font face="Arial, Helvetica, sans-serif" size="-1">Fixed</font></option>
+          <option value="Variable"><font face="Arial, Helvetica, sans-serif" size="-1">Variable</font></option>
+        </select>
+        &nbsp; Loan Balance: 
+        <input type="text" name="FirstBalance" size="8">
+        <br>
+        Interest Rate</font>: <font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <input type="text" name="FirstRate" size="4">
+        </font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif" size="-1">2nd 
+        Mortgage </font> </td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        &nbsp;Loan Balance: 
+        <input type="text" name="SecondBalance" size="8">
+        Interest Rate:</font> <font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <input type="text" name="SecondRate" size="4">
+        </font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Credit 
+        History:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <select name="CreditHistory">
+          <option value="Excellent"><font face="Arial, Helvetica, sans-serif" size="-1">Excellent</font></option>
+          <option value="Good"><font face="Arial, Helvetica, sans-serif" size="-1">Good</font></option>
+          <option value="Fair"><font face="Arial, Helvetica, sans-serif" size="-1">Fair</font></option>
+          <option value="Poor"><font face="Arial, Helvetica, sans-serif" size="-1">Poor</font></option>
+        </select>
+        </font></td>
+    </tr>
+    <tr>
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Misc.</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1">
+        <input type="checkbox" name="Foreclosure" value="Yes">
+        Foreclosure (past 7 yrs)<br>
+        <input type="checkbox" name="Bankruptcy" value="Yes">
+        Bankruptcy (past 7 yrs)<br>
+        </font><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"> 
+        <input type="checkbox" name="TaxLiens" value="Yes">
+        Tax Liens (past 5 yrs)</font></font><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"><br>
+        </font><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"> 
+        <input type="checkbox" name="Judgements" value="Yes">
+        Judgments on You or Property (past 5 yrs)</font></font></font><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"></font></font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Credit 
+        Repair:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1">
+        <input type="checkbox" name="CreditRepair" value="Yes">
+        Would you like to receive information on the Nations #1 credit repair 
+        service?</font></font></font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Loan 
+        Purpose:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <select name="LoanPurpose">
+          <option value="Refinance 1st, no cashout"><font face="Arial, Helvetica, sans-serif" size="-1">Refinance 
+          1st, no cashout</font></option>
+          <option value="Refinance 1st, cashout"><font face="Arial, Helvetica, sans-serif" size="-1">Refinance 
+          1st, cashout</font></option>
+          <option value="2nd Mortgage"><font face="Arial, Helvetica, sans-serif" size="-1">2nd 
+          Mortgage</font></option>
+          <option value="Debt Consolidation"><font face="Arial, Helvetica, sans-serif" size="-1">Debt 
+          Consolidation</font></option>
+          <option value="Home Improvement"><font face="Arial, Helvetica, sans-serif" size="-1">Home 
+          Improvement</font></option>
+          <option value="New Home Purchase"><font face="Arial, Helvetica, sans-serif" size="-1">New 
+          Home Purchase</font></option>
+          <option value="Other"><font face="Arial, Helvetica, sans-serif" size="-1">Other</font></option>
+        </select>
+        </font></td>
+      <td valign="TOP" bgcolor="#CCCCCC" width="90">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Loan 
+        Amount Desired:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"> 
+        <input type="text" name="LoanDesired" size="8">
+        </font></td>
+      <td rowspan="3" valign="TOP" width="90"> 
+        <div align="LEFT"><font face="Arial" size=2 color="#666666">Please provide 
+          the following loan inform-ation.</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">How 
+        Applying:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        <select name="HowApplying">
+          <option value="Just yourself"><font face="Arial, Helvetica, sans-serif" size="2">Just 
+          yourself</font></option>
+          <option value="With spouse"><font face="Arial, Helvetica, sans-serif" size="2">With 
+          spouse</font></option>
+          <option value="With someone else"><font face="Arial, Helvetica, sans-serif" size="2">With 
+          someone else</font></option>
+        </select>
+        </font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Loan 
+        Term:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"> 
+        <select name="LoanTerm">
+          <option value="30 year fixed">30 year fixed</option>
+          <option value="15 year fixed">15 year fixed</option>
+          <option value="Adjustable rate 5/1">Adjustable rate 5/1</option>
+          <option value="Adjustable rate 7/1">Adjustable rate 7/1</option>
+          <option value="Adjustable rate 10/1">Adjustable rate 10/1</option>
+        </select>
+        </font></font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">FHA 
+        or VA:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"> 
+        <select name="FHAVA">
+          <option value="No">No</option>
+          <option value="FHA">FHA</option>
+          <option value="VA">VA</option>
+        </select>
+        <font face="Arial, Helvetica, sans-serif" size="2">Are you eligible?</font> 
+        </font></font></td>
+      <td valign="TOP" bgcolor="#CCCCCC" width="90">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Monthly 
+        Gross Household Income:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif"> 
+        <input type="text" name="Income" size="8">
+        </font></td>
+      <td rowspan="3" valign="TOP" width="90"> 
+        <div align="LEFT"><font face="Arial" size=2 color="#666666">Please provide 
+          the following income &amp; debt information.</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Monthly 
+        Debt:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"> 
+        <input type="text" name="MonthlyDebt" size="8">
+        <font face="Arial, Helvetica, sans-serif" size="-1">Exclude housing.</font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Employment:</font></td>
+      <td bgcolor="#EEEEEE" width="300" valign="top"><font face="Arial, Helvetica, sans-serif" size="-1"><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"> 
+        <select name="Employment">
+          <option value="Employed">Employed</option>
+          <option value="Self Employed">Self Employed</option>
+          <option value="Retired">Retired</option>
+          <option value="Not Employed">Not Employed</option>
+        </select>
+        </font><font face="Arial, Helvetica, sans-serif" size="-1"><font color="#000033">Employment 
+        status </font></font><font face="Arial, Helvetica, sans-serif" color="#000033" size="-1"><br>
+        <select name="EmploymentTime">
+          <option value="Less than 6 months"><font face="Arial, Helvetica, sans-serif" size="2">Less 
+          than 6 months</font></option>
+          <option value="6 to 12 months"><font face="Arial, Helvetica, sans-serif" size="2">6 
+          to 12 months</font></option>
+          <option value="1 year"><font face="Arial, Helvetica, sans-serif" size="2">1 
+          year</font></option>
+          <option value="2 to 5 years"><font face="Arial, Helvetica, sans-serif" size="2">2 
+          to 5 years</font></option>
+          <option value="5 to 10 years"><font face="Arial, Helvetica, sans-serif" size="2">5 
+          to 10 years</font></option>
+          <option value="More than 10 years"><font face="Arial, Helvetica, sans-serif" size="2">More 
+          than 10 years</font></option>
+        </select>
+        Time with employer </font></font></td>
+    </tr>
+    <tr bgcolor="#70416a"> 
+      <td valign="TOP" colspan="3" bordercolor="#FFFFFF"><font face="Arial, Helvetica, sans-serif" color="#FF9900">&nbsp;</font> 
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="3" bgcolor="#CCCCCC"> 
+        <div align="center"> 
+          <input type="submit" name="Action" value="Done">
+        </div>
+      </td>
+    </tr>
+  </table>
+  <br>
+      <img src="http://members.nbci.com/medialib2/netscapelock.gif" width="21" height="18"><br><br>
+  <br>
+  <br>
+  <br>
+  <table width="480" border="0">
+    <tr>
+      <td><font face="Arial, Helvetica, sans-serif" size="3" color="#666666"><a name="Continue"></a>If 
+        your &quot;Loan Purpose&quot; (from above) is a &quot;New Home Purchase&quot;, 
+        please complete the following purchase information.<br>
+        </font></td>
+    </tr>
+  </table>
+  <table border="0" width="480" bgcolor="#FFFFFF" cellspacing="2" cellpadding="0">
+    <tr> 
+      <td valign="TOP" colspan="2" bgcolor="#70416a" bordercolor="#FFFFFF"><font face="Arial,Helvetica, sans-serif" color="#FFFFFF">&nbsp; 
+        </font> </td>
+      <td valign="TOP" bgcolor="#CCCCCC" width="90">&nbsp; </td>
+    </tr>
+    <tr> 
+      <td width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Property 
+        to Purchase:</font></td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        <select name="PropertyToPurchase">
+          <option value="None">None</option>
+          <option value="Primary single family">Primary single family</option>
+          <option value="Primary condo">Primary condo</option>
+          <option value="Primary townhome">Primary townhome</option>
+          <option value="Primary up to 4 units">Primary up to 4 units</option>
+          <option value="2nd home">2nd home</option>
+          <option value="2nd condo">2nd condo</option>
+          <option value="Vaction">Vaction</option>
+          <option value="Other">Other</option>
+        </select>
+        </font></td>
+      <td rowspan="11" valign="TOP" width="90"> 
+        <div align="LEFT"><font face="Arial" size=2 color="#666666">Please provide 
+          the following purchase information.</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Purchase 
+        Price:</font></td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        <input type="text" name="PurchasePrice" size="8">
+        </font></td>
+    </tr>
+    <tr> 
+      <td width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Down 
+        Payment:</font></td>
+      <td bgcolor="#EEEEEE" width="300"><font face="Arial, Helvetica, sans-serif" size="2"> 
+        <input type="text" name="DownPayment" size="8">
+        </font></td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">When 
+        to Purchase:</font></td>
+      <td bgcolor="#EEEEEE" width="300"> 
+        <select name="WhenToPurchase">
+          <option> </option>
+          <option value="Within 30 days">Within 30 days</option>
+          <option value="Within 45 days">Within 45 days</option>
+          <option value="Within 60 days">Within 60 days</option>
+          <option value="Within 90 days">Within 90 days</option>
+          <option value="More than 90 days">More than 90 days</option>
+        </select>
+      </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Real 
+        Estate Agent:</font></td>
+      <td bgcolor="#EEEEEE" width="300"> 
+        <select name="Agent">
+          <option> </option>
+          <option value="No">No</option>
+          <option value="Sell">Sell</option>
+          <option value="Buy">Buy</option>
+          <option value="Sell/Buy">Sell/Buy</option>
+        </select>
+        <font face="Arial, Helvetica, sans-serif" size="2">Do you have an agent 
+        to help you?</font> </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Misc.</font></td>
+      <td bgcolor="#EEEEEE" width="300"> 
+        <input type="checkbox" name="FoundHome" value="Yes">
+        <font face="Arial, Helvetica, sans-serif" size="2">Have you already found 
+        a home?</font> <br>
+        <input type="checkbox" name="PurchaseContract" value="Yes">
+        <font face="Arial, Helvetica, sans-serif" size="2">Have you signed a purchase 
+        contract?</font> </td>
+    </tr>
+    <tr> 
+      <td valign="TOP" width="114" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif" size="-1">Special 
+        Notes:</font></td>
+      <td bgcolor="#EEEEEE" width="300"> 
+        <textarea name="Notes" rows="2" cols="40"></textarea>
+      </td>
+    </tr>
+    <tr bgcolor="#70416a"> 
+      <td valign="TOP" colspan="3" bordercolor="#FFFFFF"><font face="Arial, Helvetica, sans-serif" color="#FF9900">&nbsp;</font> 
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="3" bgcolor="#CCCCCC"> 
+        <div align="center"> 
+          <input type="submit" name="Action" value="Done">
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</form>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="480" border="0">
+  <tr>
+    <td>
+        <div align="center"><font face="Arial, Helvetica, sans-serif" size="3">Questions? 
+          Call 949-655-3000 ext. 6059<br>
+          <br>
+          Use the following link to not receive communications.<br>
+          <a href="mailto:notreceive@email.com?subject=Loan3-Delete"><b>Click 
+          Here</b></a> </font></div>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center"><br>
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<br>
+  This mailing is done by an independent marketing co.<br>
+  We apologize if this message has reached you in error.<br>
+  Save the Planet, Save the Trees! Advertise via Email.<br>
+  No wasted paper! Delete with one simple keystroke!<br>
+  Less refuse in our Dumps! This is the new way of the new millennium<br>
+  To be removed please email optout7846@aol.com with the word &quot;remove&quot; 
+  in the subject line.<br>
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<br>
+  <A HREF="http://travel.xoomcounter.com/travel/map1/26818"> <IMG SRC="http://travel.xoomcounter.com/travel/counter.gif?26818" BORDER=0 ISMAP width="1" height="1"></A> 
+</p>
+</body>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+6e9c30472631ca555de44e316769cb6bcd7532
+
+------=_NextPart_19539_6087_26D1.7CE37801F40B--

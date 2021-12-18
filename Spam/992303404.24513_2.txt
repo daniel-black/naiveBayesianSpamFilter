@@ -1,0 +1,389 @@
+Return-Path: <owner-openssl-dev@openssl.org>
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 17612 invoked from network); 11 Jun 2001 14:31:15 -0000
+Received: from garibaldi.untroubled.org (192.168.1.1)
+  by lorien.untroubled.org with SMTP; 11 Jun 2001 14:31:15 -0000
+Received: (qmail 9523 invoked from network); 11 Jun 2001 14:31:12 -0000
+Received: from ossp1.ossp.org (HELO ossp.org) (62.208.181.50)
+  by garibaldi.untroubled.org with SMTP; 11 Jun 2001 14:31:12 -0000
+Received: by mail.ossp.org (Sendmail 8.11.0+/smtpfeed 1.12) for openssl-dev-L2
+	id f5BEHCi55622; Mon, 11 Jun 2001 16:17:12 +0200 (CEST)
+Received: by mail.ossp.org (Sendmail 8.11.0+) via ESMTP for <openssl-dev-L@ossp.org>
+	from opensource.ee.ethz.ch id f5BEHBh55619; Mon, 11 Jun 2001 16:17:11 +0200 (CEST)
+Received: by en5.engelschall.com (Sendmail 8.9.2/smtpfeed 1.06) for openssl-dev-L
+	id QAA18992; Mon, 11 Jun 2001 16:07:11 +0200 (MET DST)
+Received: by en5.engelschall.com (Sendmail 8.9.2) via SMTP for <openssl-dev@openssl.org>
+	from ferrari id PAA18381; Mon, 11 Jun 2001 15:56:59 +0200 (MET DST)
+Message-Id: <200106111356.PAA18381@opensource.ee.ethz.ch>
+From: "Mark Stevenson" <marks@nayatronix.com>
+To: <openssl-dev@openssl.org>
+Subject: Seminars
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 11 Jun 2001 14:52:46
+Sender: owner-openssl-dev@openssl.org
+Precedence: bulk
+Reply-To: openssl-dev@openssl.org
+X-Sender: "Mark Stevenson" <marks@nayatronix.com>
+X-List-Manager: OpenSSL Majordomo [version 1.94.4]
+X-List-Name: openssl-dev
+Content-Length: 24601
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0117)file://\\Tronixsvr1\NAYA-TRONIX\documents\Mark%20Stevenson\The%20Management%20School\The%20Management%20School%20.htm -->
+<HTML xmlns="http://www.w3.org/TR/REC-html40" xmlns:v = 
+"urn:schemas-microsoft-com:vml" xmlns:o = 
+"urn:schemas-microsoft-com:office:office" xmlns:w = 
+"urn:schemas-microsoft-com:office:word" xmlns:dt = 
+"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"><HEAD><TITLE>The Management School</TITLE>
+<META content="willow 111" name="Microsoft Theme 2.00">
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META content=Word.Document name=ProgId>
+<META content="MSHTML 5.00.2314.1000" name=GENERATOR>
+<META content="Microsoft Word 9" name=Originator><LINK 
+href="file:///C:/WINNT/Profiles/petera.000/Desktop/The%20Management%20School/The%20Management%20School%20o_files/filelist.xml" 
+rel=File-List><LINK 
+href="file:///C:/WINNT/Profiles/petera.000/Desktop/The%20Management%20School/The%20Management%20School%20o_files/editdata.mso" 
+rel=Edit-Time-Data><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>petera</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>153</o:TotalTime>
+  <o:Created>2001-04-17T09:03:00Z</o:Created>
+  <o:LastSaved>2001-04-20T10:34:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>508</o:Words>
+  <o:Characters>2901</o:Characters>
+  <o:Category>Senior Level Management Training</o:Category>
+  <o:Manager>Peter Abel</o:Manager>
+  <o:Company>Tronix Training</o:Company>
+  <o:Lines>24</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3562</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DocumentKind>DocumentEmail</w:DocumentKind>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: Tahoma;
+}
+P.MsoNormal {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-ansi-language: EN-GB; mso-bidi-font-family: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoNormal {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-ansi-language: EN-GB; mso-bidi-font-family: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoNormal {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; mso-ansi-language: EN-GB; mso-bidi-font-family: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+H1 {
+	COLOR: #003333; FONT-FAMILY: Arial; FONT-SIZE: 24pt; FONT-WEIGHT: normal; MARGIN: 12pt 0in 3pt; mso-bidi-font-weight: bold; mso-pagination: widow-orphan; mso-style-next: Normal; mso-outline-level: 1; mso-font-kerning: 16.0pt
+}
+H2 {
+	COLOR: maroon; FONT-FAMILY: Arial; FONT-SIZE: 18pt; FONT-WEIGHT: normal; MARGIN: 12pt 0in 3pt; mso-bidi-font-weight: bold; mso-pagination: widow-orphan; mso-style-next: Normal; mso-outline-level: 2; mso-bidi-font-style: italic
+}
+H3 {
+	COLOR: #336666; FONT-FAMILY: Arial; FONT-SIZE: 14pt; FONT-WEIGHT: normal; MARGIN: 12pt 0in 3pt; mso-bidi-font-weight: bold; mso-pagination: widow-orphan; mso-style-next: Normal; mso-outline-level: 3
+}
+H4 {
+	COLOR: #003333; FONT-FAMILY: Arial; FONT-SIZE: 12pt; FONT-WEIGHT: normal; MARGIN: 12pt 0in 3pt; mso-ansi-language: EN-GB; mso-bidi-font-weight: bold; mso-pagination: widow-orphan; mso-style-next: Normal; mso-outline-level: 4
+}
+H5 {
+	COLOR: maroon; FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; MARGIN: 12pt 0in 3pt; mso-ansi-language: EN-GB; mso-bidi-font-weight: bold; mso-pagination: widow-orphan; mso-style-next: Normal; mso-outline-level: 5; mso-bidi-font-style: italic
+}
+H6 {
+	COLOR: #336666; FONT-FAMILY: Arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; MARGIN: 12pt 0in 3pt; mso-ansi-language: EN-GB; mso-bidi-font-weight: bold; mso-pagination: widow-orphan; mso-style-next: Normal; mso-outline-level: 6
+}
+P.MsoHeading7 {
+	COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; mso-outline-level: 7
+}
+LI.MsoHeading7 {
+	COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; mso-outline-level: 7
+}
+DIV.MsoHeading7 {
+	COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; FONT-VARIANT: small-caps; FONT-WEIGHT: bold; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; mso-outline-level: 7
+}
+P.MsoHeading8 {
+	COLOR: black; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; FONT-WEIGHT: bold; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 12.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; mso-outline-level: 8
+}
+LI.MsoHeading8 {
+	COLOR: black; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; FONT-WEIGHT: bold; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 12.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; mso-outline-level: 8
+}
+DIV.MsoHeading8 {
+	COLOR: black; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; FONT-WEIGHT: bold; MARGIN: 0in 0in 0pt; mso-bidi-font-size: 12.0pt; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; mso-outline-level: 8
+}
+P.MsoList {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; mso-ansi-language: EN-GB; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoList {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; mso-ansi-language: EN-GB; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoList {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; mso-ansi-language: EN-GB; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoListBullet2 {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-ansi-language: EN-GB; mso-list: l0 level1 lfo3; tab-stops: list .5in; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-update: auto
+}
+LI.MsoListBullet2 {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-ansi-language: EN-GB; mso-list: l0 level1 lfo3; tab-stops: list .5in; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-update: auto
+}
+DIV.MsoListBullet2 {
+	COLOR: black; FONT-FAMILY: Arial; FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-ansi-language: EN-GB; mso-list: l0 level1 lfo3; tab-stops: list .5in; mso-bidi-font-family: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-style-update: auto
+}
+A:link {
+	COLOR: #993333; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlink {
+	COLOR: #993333; TEXT-DECORATION: underline; text-underline: single
+}
+A:visited {
+	COLOR: #336666; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: #336666; TEXT-DECORATION: underline; text-underline: single
+}
+DIV.Section1 {
+	page: Section1
+}
+OL {
+	MARGIN-BOTTOM: 0in
+}
+UL {
+	MARGIN-BOTTOM: 0in
+}
+</STYLE>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY background="" bgColor=white lang=EN-US link=#993333 
+style="tab-interval: .5in" vLink=#336666><!--[if gte mso 9]><xml>
+ <v:background id="_x0000_s1025" o:bwmode="white" o:targetscreensize="800,600">
+  <v:fill src="file:///C:/WINNT/Profiles/petera.000/Desktop/The%20Management%20School/The%20Management%20School%20o_files/image002.jpg"
+   o:title="willbk" type="frame"/>
+ </v:background></xml><![endif]-->
+<DIV class=Section1>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US">&nbsp;</SPAN> <SPAN 
+style="mso-ansi-language: EN-US"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB style="FONT-FAMILY: Tahoma">I am pleased to 
+invite you to a comprehensive program of lectures, case studies and practical 
+workshops, which will prove invaluable to anyone involved in public relations or 
+marketing practices.</SPAN><SPAN lang=EN-GB> </SPAN><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma">&nbsp;</SPAN><SPAN lang=EN-GB> </SPAN><SPAN 
+lang=EN-GB style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB style="FONT-FAMILY: Tahoma">The speakers 
+represent the very best talent in public relations and marketing today. They 
+include senior executives from some of the worlds leading public relations and 
+marketing companies and consultancies.</SPAN><SPAN lang=EN-GB> </SPAN><SPAN 
+lang=EN-GB style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma">&nbsp;</SPAN><SPAN lang=EN-GB> </SPAN><SPAN 
+lang=EN-GB style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB style="FONT-FAMILY: Tahoma">These courses 
+are designed to provide you with everything you need to create and run an 
+innovative public relations and/marketing program for your company.</SPAN><SPAN 
+lang=EN-GB> </SPAN><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma">&nbsp;</SPAN><SPAN lang=EN-GB> </SPAN><SPAN 
+lang=EN-GB style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB style="FONT-FAMILY: Tahoma">The course is an 
+excellent opportunity to extend and renew your experience of all aspects of 
+International Public Relations and Marketing practices and to bring you up to 
+date with the latest thinking and practices. It will also provide an opportunity 
+to meet and get to know fellow professionals from around the globe.</SPAN><SPAN 
+lang=EN-GB> </SPAN><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB 
+style="FONT-FAMILY: Tahoma">&nbsp;</SPAN><SPAN lang=EN-GB> </SPAN><SPAN 
+lang=EN-GB style="FONT-FAMILY: Tahoma"><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+lang=EN-GB><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<H1 style="MARGIN-TOP: 0in"><A name=_top></A><SPAN style="COLOR: windowtext">The 
+Management School<o:p></o:p></SPAN></H1>
+<P class=MsoListBullet2 
+style="mso-list: l1 level1 lfo5"><![if !supportLists]><SPAN lang=EN-GB 
+style="COLOR: windowtext; FONT-FAMILY: 'Courier New'">o<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN><![endif]><SPAN lang=EN-GB style="COLOR: windowtext"><A 
+href="http://www.themanagementschool.com/Personal%20Web%20Page.htm#_Courses" 
+target=MainFrame><SPAN 
+style="COLOR: windowtext; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; mso-bidi-font-size: 12.0pt; mso-bidi-font-weight: bold; text-underline: none">Courses</SPAN></A><o:p></o:p></SPAN></P>
+<P class=MsoListBullet2 
+style="mso-list: l1 level1 lfo5"><![if !supportLists]><SPAN lang=EN-GB 
+style="COLOR: windowtext; FONT-FAMILY: 'Courier New'">o<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN><![endif]><SPAN lang=EN-GB style="COLOR: windowtext"><A 
+href="http://www.themanagementschool.com/Personal%20Web%20Page.htm#_FACULTY" 
+target=MainFrame><SPAN 
+style="COLOR: windowtext; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; mso-bidi-font-size: 12.0pt; mso-bidi-font-weight: bold; text-underline: none">Faculty</SPAN></A><o:p></o:p></SPAN></P>
+<P class=MsoListBullet2 
+style="mso-list: l1 level1 lfo5"><![if !supportLists]><SPAN lang=EN-GB 
+style="COLOR: windowtext; FONT-FAMILY: 'Courier New'; TEXT-TRANSFORM: uppercase; mso-bidi-font-weight: bold">o<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN><![endif]><SPAN lang=EN-GB style="COLOR: windowtext"><A 
+href="http://www.international-studies.co.uk/venue.html" target=MainFrame><SPAN 
+style="COLOR: windowtext; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-DECORATION: none; mso-bidi-font-size: 12.0pt; text-underline: none">VENUE</SPAN></A><SPAN 
+style="TEXT-TRANSFORM: uppercase; mso-bidi-font-weight: bold"><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoListBullet2 
+style="mso-list: l1 level1 lfo5"><![if !supportLists]><SPAN lang=EN-GB 
+style="FONT-FAMILY: 'Courier New'">o<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN><![endif]><SPAN lang=EN-GB style="COLOR: windowtext"><A 
+href="http://www.themanagementschool.com/Personal%20Web%20Page.htm#__Contact_Information" 
+target=MainFrame><SPAN 
+style="COLOR: windowtext; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; mso-bidi-font-size: 12.0pt; text-underline: none">Contact 
+Information</SPAN></A></SPAN></P>
+<P class=MsoNormal style="MARGIN-LEFT: 0.25in; tab-stops: list .5in"><SPAN 
+lang=EN-GB><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+lang=EN-GB><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<H2><A name=_Work_Information></A><A name=_Courses></A><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style="COLOR: windowtext; FONT-FAMILY: Tahoma; FONT-SIZE: 11pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-size: 18.0pt">Courses<o:p></o:p></SPAN></B></H2>
+<H3><SPAN 
+style="COLOR: purple; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'"><A 
+href="http://www.international-studies.co.uk/w-fin.html" target=MainFrame><SPAN 
+style="COLOR: purple">World Financial Public Relations and Marketing 
+Seminar</SPAN></A><o:p></o:p></SPAN></H3>
+<H3><A href="http://www.international-studies.co.uk/marketing.html" 
+target=MainFrame><SPAN 
+style="COLOR: blue; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">Senior 
+International Marketing Business School</SPAN></A></H3>
+<H3><A href="http://www.international-studies.co.uk/pr.html" 
+target=MainFrame><SPAN 
+style="COLOR: red; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">Senior 
+International Public Relations Business School</SPAN></A></H3>
+<H3><A href="http://www.international-studies.co.uk/skills.html" 
+target=MainFrame><SPAN 
+style="COLOR: green; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">Oil 
+and gas senior management skills program for oil and gas executives and 
+managers</SPAN></A></H3>
+<H3><A href="http://www.international-studies.co.uk/w-oil.html" 
+target=MainFrame><SPAN 
+style="COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">World 
+Oil and Gas Public Affairs Seminar</SPAN></A><SPAN class=MsoHyperlink><SPAN 
+style="COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></SPAN></SPAN></H3>
+<P class=MsoNormal><SPAN 
+style="COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-ansi-language: EN-US; mso-bidi-font-family: 'Times New Roman'"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoHeading7><A name=_FACULTY></A><SPAN 
+style="COLOR: windowtext; FONT-VARIANT: normal; TEXT-TRANSFORM: uppercase">FACULTY<o:p></o:p></SPAN></P>
+<H3><SPAN 
+style="COLOR: purple; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'"><A 
+href="http://www.international-studies.co.uk/w-finfac.html" 
+target=MainFrame><SPAN style="COLOR: purple">World Financial Public Relations 
+and Marketing Seminar</SPAN></A><o:p></o:p></SPAN></H3>
+<H3><A href="http://www.international-studies.co.uk/marketfac.html" 
+target=MainFrame><SPAN 
+style="COLOR: blue; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">Senior 
+International Marketing Business School</SPAN></A></H3>
+<H3><A href="http://www.international-studies.co.uk/prfac.html" 
+target=MainFrame><SPAN 
+style="COLOR: red; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">Senior 
+International Public Relations Business School</SPAN></A></H3>
+<H3><A href="http://www.international-studies.co.uk/w-oilfac.html" 
+target=MainFrame><SPAN 
+style="COLOR: green; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">Oil 
+and gas senior management skills program for oil and gas executives and 
+managers</SPAN></A></H3>
+<H3><A href="http://www.international-studies.co.uk/w-oilfac.html" 
+target=MainFrame><SPAN 
+style="COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-bidi-font-family: 'Times New Roman'">World 
+Oil and Gas Public Affairs Seminar</SPAN></A><SPAN 
+style="FONT-SIZE: 12pt"><o:p></o:p></SPAN></H3>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><A name=_VENUE></A><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoHeading8><A name=_CONTACT_INFORMATION></A><A 
+name=__Contact_Information></A>CONTACT INFORMATION</P>
+<P class=MsoList><SPAN style="mso-ansi-language: EN-US">The Management 
+School<o:p></o:p></SPAN></P>
+<P class=MsoList><SPAN style="mso-ansi-language: EN-US">Trafalgar 
+House,</SPAN></P>
+<P class=MsoList><SPAN lang=EN-GB>Grenville</SPAN><SPAN 
+style="mso-ansi-language: EN-US"> Place,<o:p></o:p></SPAN></P>
+<P class=MsoList><SPAN 
+style="mso-ansi-language: EN-US">London,<o:p></o:p></SPAN></P>
+<P class=MsoList><SPAN style="mso-ansi-language: EN-US">NW7, 
+3SA<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; mso-ansi-language: EN-US; mso-bidi-font-size: 12.0pt">TEL:<SPAN 
+style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN>+44(0) 208 238 8209<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; mso-ansi-language: EN-US; mso-bidi-font-size: 12.0pt">FAX:<SPAN 
+style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN>+44(0) 208 906 1700<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; mso-ansi-language: EN-US; mso-bidi-font-size: 12.0pt">EMAIL:<SPAN 
+style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN><A href="mailto:exectraining@themanagementschool.com" 
+title=exectraining@themanagementschool.com>exectraining@themanagementschool.com</A><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; mso-ansi-language: EN-US; mso-bidi-font-size: 12.0pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; mso-ansi-language: EN-US; mso-bidi-font-size: 12.0pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; mso-ansi-language: EN-US; mso-bidi-font-size: 12.0pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><SPAN lang=EN-GB 
+style="COLOR: windowtext; FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">*********************************************************************<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">Information 
+in this email is confidential and may be privileged.<o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">It is 
+intended for the addressee only. If you have received it in 
+error,<o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">please 
+notify the sender immediately by replying to this email with 
+“Remove”<o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">in the 
+subject field and delete it from your system. <o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">You should 
+not otherwise copy it, retransmit it or use or disclose 
+its<o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">contents to 
+anyone. <o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><B><SPAN lang=EN-GB 
+style="COLOR: red; FONT-FAMILY: Tahoma; mso-bidi-font-size: 10.0pt">Thank you 
+for your co-operation.<o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><SPAN lang=EN-GB 
+style="COLOR: windowtext; FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">**********************************************************************<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="mso-layout-grid-align: none"><SPAN lang=EN-GB 
+style="COLOR: windowtext; FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="mso-ansi-language: EN-US"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="COLOR: #ff6600; FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; TEXT-TRANSFORM: uppercase; mso-ansi-language: EN-US; mso-bidi-font-family: 'Times New Roman'"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN 
+style="COLOR: #ff6600; FONT-FAMILY: Tahoma; TEXT-TRANSFORM: uppercase; mso-ansi-language: EN-US; mso-bidi-font-family: 'Times New Roman'"><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></SPAN></P></DIV></BODY></HTML>
+
+______________________________________________________________________
+OpenSSL Project                                 http://www.openssl.org
+Development Mailing List                       openssl-dev@openssl.org
+Automated List Manager                           majordomo@openssl.org

@@ -1,0 +1,107 @@
+Return-Path: <basserville@yahoo.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 18213 invoked from network); 7 Jun 2001 05:03:44 -0000
+Received: from mail1.jazztel.es (HELO mail.jazztel.es) (212.106.192.69)
+  by bfsmedia.sk.ca with SMTP; 7 Jun 2001 05:03:44 -0000
+Received: from lycos.com (62.14.64.254) by mail.jazztel.es (NPlex 4.5.049)
+        id 3B1E88AA00004935 for training@bfsmedia.com; Thu, 7 Jun 2001 06:53:40 +0200
+From:  <basserville@yahoo.com>
+To: training@bfsmedia.com
+Subject: Got Web Traffic - We Do!
+Date: Thu, 7 Jun 2001 00:59:40
+Message-Id: <369.290465.759045@yahoo.com>
+Reply-To: tom_shelby@yahoo.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 3772
+Lines: 89
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table height="397" width="449">
+  <tbody>
+    <tr>
+      <td colSpan="2" height="92"><img src="http://www.monster-media.tv/Web%20Marketing%20Group/header1.gif" width="426" height="97"></td>
+    </tr>
+    <tr>
+      <td colSpan="2" height="14">
+        <h4><u><font face="Arial, Helvetica, sans-serif" color="#330066">Get the
+        exposure your website needs and the buzz it deserves</font></u><font face="Arial, Helvetica, sans-serif" color="#330066">.</font></h4>
+      </td>
+    </tr>
+    <tr>
+      <td colSpan="2" height="13"><font face="Arial, Helvetica, sans-serif" size="2"><b>For
+        Free Media Kit call: 702-304-1222</b><br>
+        <br>
+        Everybody is looking to increase website traffic with qualified
+        visitors. Within one week we can start driving thousands of high
+        quality, Targeted Visitors directly to your website. Guaranteed!</font></td>
+    </tr>
+    <tr>
+      <td colSpan="2" height="2">
+        <h4><u><b><font face="Arial, Helvetica, sans-serif" color="#330066">How
+        does it all work?</font></b></u></h4>
+      </td>
+    </tr>
+    <tr>
+      <td colSpan="2" height="66">
+        <p><font face="Arial, Helvetica, sans-serif" size="2"><img height="13" src="http://monster-media.tv/Web%20Marketing%20Group/checkmark.gif" width="13">We
+        currently have over 10,000 brand name URL's (Web Addresses) in our
+        inventory generating Millions of unique visitors a month for our
+        advertisers.<br>
+        <img height="13" src="http://monster-media.tv/Web%20Marketing%20Group/checkmark.gif" width="13">We'll
+        choose the best URL's that relate to your business and re-direct that
+        traffic directly to any page within your website-within one week of
+        placing your order!<br>
+        <img height="13" src="http://monster-media.tv/Web%20Marketing%20Group/checkmark.gif" width="13">
+        Your traffic will be from key demographic categories that best fit your
+        site to insure the people that visit your site are qualified. These are
+        not impressions these are Real Visitors!<br>
+        <img height="13" src="http://monster-media.tv/Web%20Marketing%20Group/checkmark.gif" width="13">Start
+        bringing ten to a hundred thousand visitors to YOUR website each month
+        with our Re-directed Web Traffic program. There has not been a better
+        way to advertise your product or service since the inception 0f the web.</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td colSpan="2" height="2">
+        <h4><font face="Arial, Helvetica, sans-serif"><u><font color="#330066">Got
+        your attention?<br>
+        CALL NOW to learn more and to recieve your FREE media kit.</font></u></font></h4>
+      </td>
+    </tr>
+    <tr>
+      <td width="125" height="90" rowSpan="2"><img src="http://www.monster-media.tv/Web%20Marketing%20Group/logo_blk.gif" width="125" height="85"></td>
+      <td width="312" height="37"><font face="Arial, Helvetica, sans-serif" size="2"><b>For
+        Free Media Kit call: 702-304-1222<br>
+        We welcome all your questions.<br>
+        </b></font></td>
+    </tr>
+    <tr>
+      <td width="312" height="45"></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table width="449">
+  <tbody>
+    <tr>
+      <td><font size="2">To be removed from receiving any further emails please
+        go to <a title="http://www.removeyou.com/" target="_blank" href="http://www.removeyou.com/"><font color="#330066">http://www.removeyou.com</font></a></font></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+
+</html>

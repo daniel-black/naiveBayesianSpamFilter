@@ -1,0 +1,45 @@
+Return-Path: <sector9nin@pinkponys.com>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 2028 invoked from network); 15 May 2001 15:49:50 -0000
+Received: from mercurio.microdisk.it (HELO giove.microdisk.it) (194.247.186.183)
+  by bfsmedia.sk.ca with SMTP; 15 May 2001 15:49:50 -0000
+Received: from mail4.pinkponys.com ([38.33.140.193]) by giove.microdisk.it  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Tue, 15 May 2001 17:44:54 +0200
+Return-Path: waltersimons9950@arabia.com
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Date: Tue, 15 May 2001 11:44:10 -0500
+From: sector9rdr@pinkponys.com
+Subject: re: contest confirmation!
+To: achand1143@betterlife.net
+Reply-To: vcy68hsn@polbox.com
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Message-Id: <33etwb1.5r2v8@mail4.pinkponys.com>
+Content-Length: 894
+Lines: 24
+
+<HTML><font face="Verdana" size="3" ptsize="10"><b>Thank you for entering.
+</b><BR>
+<BR>
+<b>You have been specially selected to qualify for the following:</b></font>
+<p><font face="Verdana" size="3" ptsize="10"><b>Grand prize &nbsp;&nbsp;- 
+Florida Bahamas vacation and cruise<BR>
+1st prize &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Airline tickets<BR>
+Other Prizes - 3 days and 2 nights hotel accommodations<BR>
+<BR>
+Please confirm your entry within 24 hours of receipt of this confirmation.
+</b><BR>
+<BR>
+<a HREF="http://disc.goodlucks.net"><b>Click here to 
+confirm</b></a></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>
+Confirmation number - zy345ki490a</b></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>Batch number - 
+2189</b></font></p>
+<p>&nbsp;</p>
+<p><font size="1">to be removed reply to this message with &quot;remove' in 
+the
+subject line</font></p>
+</HTML>
+

@@ -1,0 +1,138 @@
+Return-Path: <stevenson110@angelfire.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 8987 invoked from network); 20 May 2001 04:43:00 -0000
+Received: from etrn.bol.co.za (HELO foxhound.bol.co.za) (196.41.0.20)
+  by bfsmedia.sk.ca with SMTP; 20 May 2001 04:43:00 -0000
+Received: from osram_fs.osdomain.osram.co.za (10.2.7.2 [10.2.7.2]) by foxhound.bol.co.za with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id LF2NLGNL; Sun, 20 May 2001 06:32:56 +0200
+Received: from mail pickup service by osram_fs.osdomain.osram.co.za with Microsoft SMTPSVC;
+	 Sun, 20 May 2001 05:51:14 +0200
+Received: from _[248.248.130.253]_by ([200.0.0.251]) by osram_fs.osdomain.osram.co.za with Microsoft SMTPSVC(5.0.2195.1600); Sun, 20 May 2001 01:33:27 +0200
+Received: from  [148.167.92.46] by _[248.248.130.253]_by with SMTP id A8C22E7 Sat, 19 May 2001 16:27:47 PDT
+From: <stevenson110@angelfire.com>
+Content-Transfer-Encoding: 7bit
+To: <gn@bfsmedia.com>
+Subject: American dream   
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+MIME-Version: 1.0
+Content-Type: text/html;	charset="us-ascii"
+Date: Sat, 19 May 2001 16:45:04
+Return-Path: <stevenson110@angelfire.com>
+Message-ID: <OSRAM_FSMZQu5Snz8kx000021e7@osram_fs.osdomain.osram.co.za>
+X-OriginalArrivalTime: 19 May 2001 23:33:30.0473 (UTC) FILETIME=[1C9A6D90:01C0E0BC]
+Content-Length: 5701
+Lines: 113
+
+
+
+<html><head></head><br><body bgcolor="#ffffff" text="#000000" link="#e7163a" vlink="#e7163a" alink="#e7163a"><font color=#79eaa9></font><face="Arial"><br><table  width="500" border="0" cellspacing="0" cellpadding="0"><tr><td > <font size="+1" face="Arial" color="#000000"><br>
+
+America - The land of the FREE...<br>
+<br>
+What has happened to the American Dream?<br>
+<br>
+Let me describe the typical American ( Free . . . . .Right?)<br>
+<br>
+
+<ul type="circle">
+	<li> 80% Live from Paycheck to Paycheck
+	<li> 65% have a credit reporting problem 
+	<li> Most work 5 months of the year for the IRS
+	<li> 40% live below the poverty line
+	<li> The fastest growing business type is the Home Based Business Sector
+	<li> 90% of Home Based Businesses fail within the 1st 6 months
+	<li> 30% have a "situation" with the IRS
+	<li> 40% don't file a 1040 tax return
+</ul><br>If you fit the <i>current</i> definition of an American,<br>
+ we would like to help you change all of that!<br>
+<br>
+We want to give you the gift of KNOWLEDGE!<br>
+<br>
+KNOWLEDGE is power and freedom.<br>
+<br>
+We would like to show you how to address any or all of the challenges you might be having<br>
+ with any of the categories outlined above.<br>
+<br>
+We are about changing people's lives!<br>
+<br>
+<ul type="circle">
+	<li> Create abundance in your life
+	<li> Stop living from paycheck to paycheck
+	<li> Retire within 2- 5 years
+	<li> Participate in High Yield Investing 
+	<li> Work from home
+	<li> NO MLM's, pyramid schemes or gifting clubs!
+	<li> Eliminate your problems with the IRS with CONFIDENCE
+	<li> Eliminate your debt
+	<li> Spend time with your spouse and children
+	<li> Stop working 2 jobs just to make ends meet
+	<li> Change your life, then help others change theirs
+</ul>
+<br><br>
+This is not a hand out.  <br>
+This is not a scheme.  <br>
+This IS a legitimate Home Base Business Opportunity.<br>
+<br>
+We offer enourmous income potential WITHOUT MLMs or downlines.  You have the opportunity to create $10,000 or more a month working from the comfort of your home, by becoming an independent retailer of this powerful information and products.<br>
+<br>
+You do not have to sell anything.  You will simply introduce people to information.<br>
+<br>
+Remember, information and knowledge creates power and freedom.<br>
+<br>
+If you would like some FREE knowledge about how to change your life<br>
+ and the lives of others, fill out the form and we will <br>
+put you in touch with this information - no obligation, no gimmicks!<br>
+<br>
+ You will be contacted by telephone ONLY ONCE <br>
+for 5 minutes, and if you are the right type of person, you will be <br>
+given the opportunity to join our team of professionals.<br>
+<br>
+The rest is up to you!<br>
+<br>
+Take the first step and fill out the information below.<br>
+<br>
+Change your life for the better - today.<br>
+<br>
+
+ <XCRIPT language=XavaXcript>
+<!--
+function validate_form() {
+validity = true; // assume valid
+if (!check_empty(document.form.Telephone.value))
+{ validity = false; alert('Telephone field is empty It must be filled to Be Contacted About This!'); 
+document.forms[0].elements[2].focus();
+return false;}
+(validity) 
+alert ("Thank you for your interest. "
++ "Your form is now being passed to your browser's "
++ "Mail Delivery Sub-System for NORMAL"
++ " NON-ENCRYPTED email delivery."
++ " Please click OK to proceed");
+return validity;
+}
+function check_empty(text) {
+return (text.length > 0); // returns false if empty
+}
+// --></SCRIPT> <FORM name=form method=post 
+action="mailto:offshoresecrets@excite.com?SUBJECT=change30" encType=text/plain  onsubmit="return validate_form()"><table BORDER="0" CELLPADDING=0 WIDTH="600" BGCOLOR="#ffffff" ><tr><td>Name:</td><td ><input TYPE="TEXT" NAME="Name" VALUE="" SIZE="30" MAXLENGTH="60"></td></tr><tr><td>E-Mail Address:</td><td><input TYPE="TEXT" NAME="email" VALUE="" SIZE="30" MAXLENGTH="60"></td></tr><tr><td>Telephone:</td>
+<td><input TYPE="TEXT" NAME="Telephone" VALUE="" ID="Telephone" SIZE="30" MAXLENGTH="30"></td></tr>
+<tr><td>Income you would like to make from home:</td>
+<td><input TYPE="TEXT" NAME="Desired_income" VALUE="" ID="desired_income" SIZE="30" MAXLENGTH="30"></td></tr><TR><td>Area of your life to change most:</td><td>
+<SELECT name=Change area><OPTION selected value="Income">Income Potential</OPTION>
+<OPTION selected value="debt">Debt elimination</OPTION> 
+<OPTION selected value="tax">Tax problems</OPTION> 
+<OPTION selected value="no mlm">No more MLM's</OPTION>
+<OPTION selected value="no mlm">Work from home</OPTION>
+<OPTION selected value="fix credit">Fix credit</OPTION>
+<OPTION selected value="select">Select one please</OPTION>
+</SELECT></TD></TR></center><br><br></center><br><td><br><input Type="Submit" VALUE="Submit Form" name="Submit"></form></td></tr></table><p align=left><br><br><br><font size="2" face="Arial" color="#000000">To be removed from this list, <a href="mailto:r
+
+eleadz@excite.com">Click here</a></font><br><br></td></tr></table></body></html>
+
+
+
+
+
+
+
+<HTML><BODY><P><FONT color=#000000 face="Arial" size=2><BR>Please note that Internet communications are not secure and therefore OSRAM (Pty) Ltd. does not accept legal responsibility for the contents of this message. This email is intended only for the use of the individual or entity named above and may contain information that is confidential and privileged. If you are not the intended recipient, you are hereby notified that any dissemination, distribution or copying of this email is strictly prohibited. Opinions, conclusions and other information in this message that do not relate to the official business of OSRAM (Pty) Ltd. shall be understood as neither given nor endorsed by it.</FONT></BODY></HTML>

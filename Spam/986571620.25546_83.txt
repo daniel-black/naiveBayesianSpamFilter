@@ -1,0 +1,201 @@
+Return-Path: <m6n7b8@yahoo.com>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 2993 invoked from network); 6 Apr 2001 15:00:09 -0000
+Received: from mail.obnova.cz (194.149.119.98)
+  by bfsmedia.sk.ca with SMTP; 6 Apr 2001 15:00:09 -0000
+Received: from aJ80SE6HC (unverified [12.64.54.161]) by mail.obnova.cz
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000239205@mail.obnova.cz>;
+ Fri, 06 Apr 2001 14:02:14 +0200
+DATE: 06 Apr 02 4:06:00 AM
+FROM: m6n7b8@yahoo.com
+Message-ID: <lsS7i9HFgB6DH>
+SUBJECT: "SPECIAL OFFER"
+Content-Length: 9384
+Lines: 186
+
+Customized Websites for YOUR Business.  $2,795, BUT, if you respond NOW
+
+Special Pre-Launch Package
+$2,495!
+
+Comparable features have been priced from
+ $80,000 to $160,000
+
+Call:  888.590.8705, for more information
+
+The following is a list of most of the features we provide, but there are many more high-tech features included.  We will also be generating a flow of targeted traffic to your site for one year, FREE:
+
+· Complete eCommerce Enabled Site, with Full "Shopping Cart" Features!
+· Complete Custom Design using a wide variety of templates to fit the look and feel of your business that can grow with you!  You choose what you would like!
+· FREE Monthly Submissions to 100's of popular Search Engines!
+· 1 Year of FREE Domain Registration (.com, .net, .org)!
+· 1 Year of FREE Hosting!
+· FREE Pre-approved Credit Card processing - No Banking Applications Needed!
+· FREE Upload of up to 15 products in formatted Stereoscopic 3-D!
+· FREE Upload of up to 35 products in Conventional 2-D Imaging!
+· FREE 3-D Fashion Glasses & Software System!
+· FREE Listing in Destination Site!
+· FREE 3D Image Links Back to Your Site!
+
+PLUS….
+
+Web Hosting Account Features:
+· 100MB Disk Space					· CGI-BIN (Perl, C, C++)
+· 10GB Monthly Transfer				· SSL Enabled (128bit encryption)
+· 10 POP3 Email Accounts				· FrontPage 2000 Extensions
+· 10 Autoresponders					· Telnet Access
+· Unlimited Aliasing					· Web Based Control Panel
+· Unlimited Forwarding				· Web Site Statistics
+· 24 hour FTP Access				· Search Engine Submission
+· Active Server Pages (ASP)				· 24x7 Customer Support
+
+
+eCommerce Software Features:
+
+Product management features include:
+· Unlimited configurations and price adjustments	· Pricing "units"
+· Unlimited per item fees or charges		· Weight/Size shipping support
+· Unlimited volume pricing levels			· Inventory tracking customization
+· Item image uploading/selection			· Direct inventory tracking info
+· Category and SubCategory support
+
+Member/User features include:
+· Member specific discounts			· User specific message entry
+· Member details and order history			· User specific comments, 
+· Member "Shopping lists"					descriptions and bios
+· Vendor permission and product entry settings	· WAP users support
+
+Customizable sales features include:
+· Current sale approval				· Custom query invoice reporting
+· Fulfillment and status entry			· Custom query total sales
+· Sales history reporting				· Date specific total sales
+· Instant to date sales figures			· Item and Vendor popularity stats
+  
+Customizable page layout features include:
+· Point and click front-end skin chooser		· Best selling item displays
+· Expandable item list displays			· Page content positioning
+· Banner advertisements				· Label and title customization
+· Logo/Image displays				· Customized checkout form fields
+· Featured item selection				· Checkout form field validation
+ 
+Other management features include:
+· Custom referral tracking 			· SureShopping Assistant, your online  
+and payout calculation			"concierge"
+· Customizable state and country		· Customizable Merchant Console "Start 
+lists and tax rates				Page"
+
+Component based architecture provides many options for primary store behaviors   
+  and functionality's including:
+· Member based shopping				· Pop-up product displays
+· Global discounting and fees			· Mail a Friend functionality
+· Vendor and Drop Shipper settings			· Font, layout, and color settings
+· Product commenting				· Inventory tracking
+· Mailing list usage					· Search engine formatting
+· New/Hot item identification			· Shopping Cart Feature List
+
+Search engine features include:
+· Instant category searches				· Result ordering schemes based 
+· Sub-category search refining				on price or title
+· Full text searches performed on product 		· Total matching results display 
+titles, categories, subcategories, 			with dynamic paging
+descriptions and details
+
+UPS shipping features:
+· Real-time shipping rates provided from UPS on a per product basis
+· Shipping rates calculated from store zip code or Drop Shipper zip code where
+     applicable
+· Support for package weight, length, width and height
+
+Member features include:
+· "My Account" page features total sales, visits, savings, and order history
+· "Shopping List" allows members to save items for later purchasing
+· Shopping cart items are "remembered" upon next visit if not purchased
+
+Shopping environment:
+· Shoppers can add/remove themselves from the mailing list
+· Vendor and event lists provide quick access to products and notices
+· Links to products can be sent vial email using Mail a Friend
+· Members can post product comments
+· Items can be purchased from pop-up or main browser windows
+· Quantities can be adjusted via the shopping cart
+· Items in QuickCart are accessible via pop-up display windows
+· SSL encryption utilized for secure checkout and order processing
+· Two step checkout process with confirmation screen
+· Checkout forms "remember" member information
+· Canceled orders are logged
+· Post checkout redirect establishes new shopping session
+
+
+ 
+Additional Features
+
+Vendor Console features include:
+· Unlimited configurations w/price adjustments	· Pricing "units"
+· Unlimited per item fees or charges		· Weight/Size shipping support
+· Unlimited volume pricing levels			· Inventory tracking
+· Item image uploading/selection			· Complete integration with 
+· Category and SubCategory support			front-end skin
+
+
+Drop Shipper Console features include:
+· Update order tracking numbers per 		· View past shipments
+product/invoice				· Profile update
+· Custom order status entry
+
+
+Highlight Features
+Discounting Features
+Coupons & Discounts can be applied globally for all shoppers or specific to individual members & can be configured to be category, subcategory, or product specific. Multiple pricing configurations are also easily applied, including product attribute specific pricing.
+Drop Shippers
+Merchants can set up "Drop Shipper User Accounts" in their store which will send particular drop shipper notices for required product shipment upon checkout, this also allows the drop shipper to review the sale through a specialized Merchant Console built specifically for "Drop Shippers"
+
+Form Fields
+The checkout process includes customizable form fields, the merchant can choose which fields to display and/or require on each step of the checkout process. It also allows the merchant to add his or her own fields. The data from custom form fields is sent via email and logged with the sale.
+
+Inventory Tracking
+Merchants have the ability to track inventory "on the fly". Automatic notification of in and out of stock items. You can choose whether these items remain available or are "pulled" from your store when inventory hits zero. 
+Marketing
+Mailing Lists are an optional feature, allowing the shopper to opt in or out of the merchant's mailing list. Through the merchant console merchants can view Total sales, with the ability to view which products/categories or subcategories are doing well/poorly. 
+Page Layout Features
+Pages can be organized in a variety of ways. Among your options: Featured items can be displayed, giving you the ability to choose which products to feature on individual pages. You can easily identify and promote your "Best Sellers" by pre-setting the threshold for the amount of a sale a specific product must have before it is considered a best seller.
+Powerful Management & Design Features
+The merchant console contains the "concierge" which gives the merchant quick and easy access to product lists, sku numbers, a link generator to assist in creating product pages or link-ins to specific products, categories, or subcategories.
+Robust
+Based on Windows 2000 Server technology and SQL Server 7.0 database architecture, SureShopping can handle thousands of transactions per second.
+Secure
+Credit card information is never stored on the web server. Your store is configured & managed securely through the "merchant console" which uses NTLM Authentication and SSL (where required) to provide the merchant with secure access to their management functions.
+
+SureShopping SiteLINK
+A unique feature in the merchant console loads a support and notices page into the console, notices for product upgrades, etc will be displayed as they happen. 
+Vendors
+Merchants have the ability to set up "Vendor User Accounts" in their store and adjust the vendor user rights, exposing the following features: Add a specific number of products to the database, adjust their profile, post events, track the sale of their products, inventory, etc.
+Also…
+· Skin Developer for Creating custom look & feel on the fly.
+· Drag and Drop Product Layout Capability
+· Additional Direct HTML Look & Feel Enhancements
+
+
+Thank you for taking the time to consider this offer.
+
+Warmly,
+
+Marc Weicman,
+RCC Enterprises
+Call:  888.590.8705, 
+for more information
+
+
+
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+This mailing is done by an independent marketing co.
+We apologize if this message has reached you in error.
+Save the Planet, Save the Trees! Advertise via E mail.
+No wasted paper! Delete with one simple keystroke!
+Less refuse in our Dumps! This is the new way of the new millennium
+To be removed please email k8jh9y7@yahoo.com with the word "remove" in the subject line.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

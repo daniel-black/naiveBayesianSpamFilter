@@ -1,0 +1,22 @@
+Return-Path: <anonymous@lorien.untroubled.org>
+Delivered-To: bruce@lorien.untroubled.org
+Received: (qmail 29597 invoked by uid 500); 3 Jul 2001 15:00:23 -0000
+Date: 3 Jul 2001 15:00:23 -0000
+Message-ID: <20010703150023.29596.qmail@lorien.untroubled.org>
+From: root@lorien.untroubled.org (Cron Daemon)
+To: bruce@lorien.untroubled.org
+Subject: Cron <bruce@lorien> run-parts cron/hourly
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/bruce>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=bruce>
+Content-Length: 426
+
+cron/hourly/newsrip:
+
+alt.binaries.multimedia.babylon5: 31332988-31333998: i 0 articles, 0 bytes
+alt.binaries.multimedia.babylon5.repost: 63440-64446:   0 articles, 0 bytes
+Scanning group 'alt.binaries.multimedia.babylon5'...
+Decoding completed file 'b5_214.r25' (28 parts) to '/home/share/newsrip/decoded/b5_214.r25'
+Failed! No valid begin line found in input file
+Scanning group 'alt.binaries.multimedia.babylon5.repost'...

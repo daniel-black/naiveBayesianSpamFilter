@@ -1,0 +1,36 @@
+Return-Path: <PenisGrowth@hotmail.com>
+Spam-Apparently-To: <burton@bfsmedia.com>
+Received: (qmail 7054 invoked from network); 18 Mar 2001 08:02:03 -0000
+Received: from mail.sund.kommune.no (HELO sundposty.SUND.YTRE) (32.0.97.194)
+  by bfsmedia.sk.ca with SMTP; 18 Mar 2001 08:02:03 -0000
+From: PenisGrowth@hotmail.com
+To: 
+Subject: Enlarge your penis in 2 weeks, guaranteed!
+Date: Sat, 17 Mar 2001 23:13:22 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0A83_0000693E.000059C4"
+
+------=_NextPart_000_0A83_0000693E.000059C4
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+<HTML>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function fullScreen(theURL) {
+window.open("http://www.freehostusa.net/members/justin3727", '', 'fullscreen=yes, scrollbars=auto');
+}
+//  End -->
+</script>
+</HEAD>
+
+<BODY>
+<FONT SIZE=5><B>
+<CENTER><a href="http://www.freehostusa.net/members/justin3727" onClick="fullScreen('full-screen.html');">Guys, Add 4 Inches To Your Penis!!!  Our Program Works Guaranteed!!!  CLICK HERE TO SEE!!!</a></CENTER>
+<HTML>
+</BODY></HTML>
+
+

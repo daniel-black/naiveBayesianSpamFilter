@@ -1,0 +1,77 @@
+Return-Path: <customer@emailpack.net>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 11489 invoked from network); 29 Nov 2001 12:47:26 -0000
+Received: from mailgate3.monsterhut.com (64.80.217.8)
+  by agamemnon.bfsmedia.com with SMTP; 29 Nov 2001 12:47:26 -0000
+Received: from emailpack.net (mailgate3.monsterhut.com) by mailgate3.monsterhut.com (LSMTP for Windows NT v1.1b) with SMTP id <0.002CCDD1@mailgate3.monsterhut.com>; Wed, 28 Nov 2001 20:36:28 -0500
+From: NY Times <customer@emailpack.net>
+Subject: Give the Gift of the NY Times - 50% off Limited Time
+Date: Wed, 28 Nov 2001 20:36:28
+Message-Id: <174.874229.647979@emailpack.net>
+Reply-To: customer@emailpack.net
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 2852
+Lines: 61
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>The New York Times - 50% Off Home Delivery</TITLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<TABLE border=0 cellPadding=0 cellSpacing=0>
+  <TBODY>
+  <TR>
+    <TD align=middle 
+    background="http://mh01.monsterhut.com/nytimes/images/logo_back.gif" 
+    bgColor=#669999 colSpan=3 height=80 vAlign=top><A 
+      href="http://cgi.mailpromopack.net/cgi-bin/tracklink.pl?link=mh410001"><IMG 
+      border=0 height=70 
+      src="http://mh01.monsterhut.com/nytimes/images/logo.gif" 
+      width=294></A></TD>
+    <TD bgColor=#999966 rowSpan=3><A 
+      href="http://cgi.mailpromopack.net/cgi-bin/tracklink.pl?link=mh410001"><IMG 
+      border=0 height=306 
+      src="http://mh01.monsterhut.com/nytimes/images/garden.jpg" 
+      width=236></A></TD></TR>
+  <TR>
+    <TD bgColor=#669999><IMG height=1 src="" width=10></TD>
+    <TD bgColor=#669999 vAlign=top>
+      <P><FONT face="Arial, Helvetica, sans-serif">For over a century, The New 
+      York Times has been an important part of the day for some of the nation's 
+      most sophisticated readers. We are relied upon for the most comprehensive, 
+      engaging coverage of the news, and now we have a special offer for you: 
+      <B><A 
+      href="http://cgi.mailpromopack.net/cgi-bin/tracklink.pl?link=mh410001">Get 
+      Home Delivery of The New York Times at 50% off!</A></B> </FONT></P>
+      <P><FONT face="Arial, Helvetica, sans-serif">From business coverage to the 
+      Circuits section to Dining and Wine, music reviews to sports analysis - 
+      diverse worlds are covered with impact and insight, every day in The New 
+      York&nbsp;Times. </FONT></P>
+      <P><FONT face="Arial, Helvetica, sans-serif">Now, through this special 
+      offer, you can get 50% off the regular rate. <A 
+      href="http://cgi.mailpromopack.net/cgi-bin/tracklink.pl?link=mh410001"><B>Click 
+      here to learn&nbsp;more.</B></A></FONT></P></TD>
+    <TD bgColor=#669999><IMG height=1 src="" width=10></TD></TR>
+  <TR>
+    <TD align=middle bgColor=#669999 colSpan=3 vAlign=bottom><A 
+      href="http://cgi.mailpromopack.net/cgi-bin/tracklink.pl?link=mh410001"><IMG 
+      border=0 height=29 
+      src="http://mh01.monsterhut.com/nytimes/images/expect.gif" 
+      width=125></A></TD></TR></TBODY></TABLE>
+	  <!-- MonsterHut Plug -->
+<table width="460" align="center" bgcolor="#ffffff">
+	<tr>
+		<td>
+		<p><font face="sans-serif" size="-1" color="#000000">
+		
+		MonsterHut solicits its data from a variety of online sources, if you would rather not receive any further information from 
+		MonsterHut,  (<a href="http://www.monsterhut.com/remove.htm">Click Here</a>).</font><img src="http://cgi.mailpromopack.net/images/rkkarton-email.gif" border="0" alt="">
+		
+ </p>
+		
+		</td>
+	</tr>
+</table>
+<!-- End MH Plug -->
+	  </BODY></HTML>

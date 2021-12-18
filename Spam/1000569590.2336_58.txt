@@ -1,0 +1,418 @@
+Return-Path: <ertyupoiuy@yahoo.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 2192 invoked from network); 15 Sep 2001 11:53:21 -0000
+Received: from gswbsvr1.goei-dia.co.jp (211.17.228.66)
+  by agamemnon.bfsmedia.com with SMTP; 15 Sep 2001 11:53:21 -0000
+Received: from 211.20.14.237 ([64.218.243.60]) by gswbsvr1.goei-dia.co.jp (Lotus SMTP MTA v1.2  (600.1 3-26-1998)) with SMTP id 49256AC8.001F2E50; Sat, 15 Sep 2001 14:40:41 +0900
+Message-ID: <0000689919ae$00007d8f$0000750e@211.17.228.66>
+To: <Undisclosed Recipients>
+From: ertyupoiuy@yahoo.com
+Subject: New Browser Breakthrough - See it Live
+Date: Fri, 14 Sep 2001 22:40:41 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: ertyupoiuy@yahoo.com
+Content-Length: 14160
+Lines: 397
+
+<HTML>
+<BODY>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>New Browser Breakthrough - See it Live</TITLE>
+<SCRIPT language=3DJavaScript>
+<!--
+
+function Girl1()
+		{
+			var x;
+			var y;
+			x =3D (screen.width - 504) / 2;
+			y =3D (screen.height - 382) /2;
+			openstring =3D "width=3D504,height=3D382,resizable=3Dno,menubar=3Dno,di=
+rectories=3Dno,toolbar=3Dno,scrollbars=3Dno";
+			window.open("http://www.rovion.com/Gallery/girl1.html", "_blank", opens=
+tring);
+			}
+		
+		
+
+
+	function Handstand2()
+		{
+			var x;
+			var y;
+			x =3D (screen.width - 277) / 2;
+			y =3D (screen.height - 504) /2;
+			openstring =3D "width=3D277,height=3D504,resizable=3Dno,menubar=3Dno,di=
+rectories=3Dno,toolbar=3Dno,scrollbars=3Dno";
+			window.open("http://www.rovion.com/Gallery/handstand2.html", "_blank", =
+openstring);
+			
+		}
+
+
+		function Ticker2()
+		{
+			var x;
+			var y;
+			x =3D (screen.width - 438) / 2;
+			y =3D (screen.height - 179) /2;
+			openstring =3D "width=3D438,height=3D179,resizable=3Dno,menubar=3Dno,di=
+rectories=3Dno,toolbar=3Dno,scrollbars=3Dno";
+			window.open("http://www.rovion.com/Gallery/ticker2.html", "_blank", ope=
+nstring);
+						}
+
+
+		function Handstand()
+		{
+			var x;
+			var y;
+			x =3D (screen.width - 353) / 2;
+			y =3D (screen.height - 504) /2;
+			openstring =3D "width=3D353,height=3D504,resizable=3Dno,menubar=3Dno,di=
+rectories=3Dno,toolbar=3Dno,scrollbars=3Dno";
+		      window.open("http://www.rovion.com/Gallery/handstand.html", "_blan=
+k", openstring);
+		
+
+					}
+					
+		function Jump1()
+		{
+			var x;
+			var y;
+			x =3D (screen.width - 504) / 2;
+			y =3D (screen.height - 400) /2;
+			openstring =3D "width=3D504,height=3D400,resizable=3Dno,menubar=3Dno,di=
+rectories=3Dno,toolbar=3Dno,scrollbars=3Dno";
+			window.open("http://www.rovion.com/Gallery/jump1.html", "_blank", opens=
+tring);
+		
+				}
+					function TheDancerGuy()
+		{
+			var x;
+			var y;
+			x =3D (screen.width - 327) / 2;
+			y =3D (screen.height - 504) /2;
+			openstring =3D "width=3D327,height=3D504,resizable=3Dno,menubar=3Dno,di=
+rectories=3Dno,toolbar=3Dno,scrollbars=3Dno";
+			result =3D window.open("http://www.rovion.com/Gallery/dancer_guy.html",=
+ "_blank", openstring);
+		
+						}
+function TheBug()
+	{
+		var x;
+		var y;
+		x =3D (screen.width - 500) / 2;
+		y =3D (screen.height - 400) /2;
+
+		var openstring;
+		openstring =3D "width=3D500,height=3D400,resizable=3Dno,menubar=3Dno,dir=
+ectories=3Dno,toolbar=3Dno,scrollbars=3Dno"
+		window.open("http://www.rovion.com/demo/Bug/Bug.asp", "_blank", openstri=
+ng);
+	}
+//-->
+</SCRIPT>
+
+<STYLE type=3Dtext/css>TD {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana, arial
+}
+hdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: verdana,=
+ arial
+}
+white {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana,=
+ arial
+}
+red {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #cc0000; FONT-FAMILY: verdana,=
+ arial
+}
+A {
+	FONT-SIZE: 10px; COLOR: #cc0000; FONT-FAMILY: verdana, arial; TEXT-DECORA=
+TION: none
+}
+A:active {
+	FONT-SIZE: 10px; COLOR: #cc0000; FONT-FAMILY: verdana, arial; TEXT-DECORA=
+TION: none
+}
+A:visited {
+	FONT-SIZE: 10px; COLOR: #cc0000; FONT-FAMILY: verdana, arial; TEXT-DECORA=
+TION: none
+}
+A:hover {
+	FONT-SIZE: 10px; COLOR: #990000; FONT-FAMILY: verdana, arial; TEXT-DECORA=
+TION: underline
+}
+</STYLE>
+
+<TABLE cellSpacing=3D0 cellPadding=3D1 width=3D715 align=3Dcenter border=3D=
+0>
+  <TBODY>
+  <TR>
+    <TD bgColor=3D#000000>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" align=3Dcenter=
+ border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG alt=3D"Eliminate Your Browser Forever!" 
+            src=3D"http://www.rovion.com/images/hdr_newsletter.jpg" border=
+=3D0 
+            NOSEND=3D"1"></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" align=3Dcenter=
+ border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D1 src=3D"http://www.rovion.com/images/div_lett=
+er.gif" 
+            width=3D"100%" border=3D0 NOSEND=3D"1"></TD></TR></TBODY></TAB=
+LE>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D724 align=3Dcenter bo=
+rder=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop width=3D515 bgColor=3D#ffffff>
+            <TABLE height=3D1 cellSpacing=3D0 cellPadding=3D1 width=3D515 =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD align=3Dleft colSpan=3D4><BR><IMG alt=3DShapeShifter 
+                  src=3D"http://www.rovion.com/images/news_logo.jpg" borde=
+r=3D0 
+                  NOSEND=3D"1"></TD></TR>
+              <TR>
+                <TD width=3D5 height=3D70></TD>
+                <TD class=3Dmaincolumn vAlign=3Dtop width=3D108 height=3D1=
+><BR><A 
+                  onclick=3Djavascript:Handstand(); href=3D"#"><IMG height=
+=3D100 
+                  src=3D"http://www.rovion.com/images/Gallery/sm_handstand=
+gif" 
+                  width=3D100 border=3D0 NOSEND=3D"1"> <BR>Click Here to s=
+ee 
+                  ShapeShifter eliminate the browser!</A></TD>
+                <TD class=3Dmaincolumn vAlign=3Dtop width=3D385 height=3D1=
+><BR><A 
+                  href=3D"http://www.rovion.com/SoftwareProductsShapeShift=
+er.asp">Make 
+                  any Image a Browser Window</A> <BR>Today's issue focuses=
+ on 
+                  Rovion. Rovion is an emerging application and services 
+                  provider, with several innovative new products that will=
+ help 
+                  you create more dynamic Web experiences. They let you de=
+sign 
+                  outside the confines of the browser window, broadcast yo=
+ur own 
+                  streaming audio and video content, and deliver e-mail ad=
+s with 
+                  a twist. It's all part of their mission to give you the =
+tools 
+                  you need to create high-impact sites that sell.&nbsp;<A 
+                  onclick=3Djavascript:Handstand(); href=3D"#">Click here =
+to see it 
+                  live</A>!
+                  <P></P></TD>
+                <TD class=3Dmaincolumn vAlign=3Dtop width=3D5 
+              height=3D70></TD></TR></TBODY></TABLE>
+            <DIV align=3Dcenter><BR><IMG height=3D1 
+            src=3D"http://www.rovion.com/images/div_letter.gif" width=3D49=
+0 border=3D0 
+            NOSEND=3D"1"> </DIV><!-- Ticker -->
+            <DIV align=3Dcenter><BR><A onclick=3Djavascript:Ticker2(); hre=
+f=3D"#"><IMG 
+            height=3D150 
+            src=3D"http://www.rovion.com/images/tickerthingy.jpg" 
+            width=3D410 border=3D0 NOSEND=3D"1"></A> <BR><BR></DIV>
+            <DIV align=3Dcenter><IMG height=3D1 
+            src=3D"http://www.rovion.com/images/div_letter.gif" width=3D49=
+0 border=3D0 
+            NOSEND=3D"1"> </DIV><!-- End Ticker -->
+            <TABLE cellSpacing=3D0 cellPadding=3D1 width=3D515 border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3Dmaincolumn vAlign=3Dtop width=3D505>&nbsp; 
+                  <DIV align=3Dcenter>
+                  <CENTER>
+                  <TABLE height=3D11 width=3D493 border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=3Dtop width=3D375 height=3D11><SPAN class=
+=3Dhdr>Break 
+                        FREE From the Browser!</SPAN> <BR>Wouldn't it be n=
+ice if 
+                        your creativity wasn't limited by what technology =
+can 
+                        realistically accomplish? Wouldn't you like to bui=
+ld Web 
+                        pages that excite people? Now you can with Rovion'=
+s 
+                        ShapeShifter Development Kit! ShapeShifter turns y=
+our 
+                        Web pages into Web experiences. All your users nee=
+d is 
+                        the free light-weight auto loading plug-in to get =
+the 
+                        full effect.</TD>
+                      <TD width=3D102 height=3D11><A onclick=3DJavascript:=
+Girl1(); 
+                        href=3D"#"><IMG height=3D100 
+                        src=3D"http://www.rovion.com/images/Gallery/sm_gir=
+l1.gif" 
+                        width=3D100 border=3D0 NOSEND=3D"1"><BR></A><A 
+                        onclick=3DJavascript:Girl1(); href=3D"#">Click To =
+See 
+                        Live</A></TD></TR></TBODY></TABLE></CENTER></DIV>
+                  <DIV align=3Dcenter><IMG height=3D1 
+                  src=3D"http://www.rovion.com/images/div_letter.gif" widt=
+h=3D490 
+                  border=3D0 NOSEND=3D"1"> </DIV>
+                  <CENTER>
+                  <TABLE height=3D11 width=3D494 border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD width=3D478 height=3D11><BR><SPAN class=3Dhdr><A=
+ 
+                        href=3D"http://www.rovion.com/">Try ShapeShifter F=
+REE for 
+                        30 days...</A></SPAN> <BR>Your pages will come ali=
+ve 
+                        with designs that appear to be true applications. =
+You 
+                        can create interactive graphics and animation that=
+ 
+                        functions outside of the browser window. Just take=
+ a 
+                        look at their <A 
+                        href=3D"http://www.rovion.com/SoftwareProductsDemo=
+s.asp">gallery</A> 
+                        to see some examples of what you can do. Expressin=
+g your 
+                        creativity with ShapeShifter is easy. Create engag=
+ing 
+                        "out-of-the-box" graphics with the simple design 
+                        interface, and use the powerful scripting tools an=
+d 
+                        conventional techniques to build complex animation=
+ 
+                        ShapeShifter supports HTML, java scripting, DHTML =
+and 
+                        other popular products, such as Flash, Shockwave, =
+Real 
+                        and 
+            Quicktime.</TD></TR></TBODY></TABLE></CENTER></TD></TR></TBODY=
+></TABLE>
+            <DIV align=3Dcenter><BR><A onclick=3Djavascript:TheBug(); href=
+=3D"#"><IMG 
+            height=3D305 
+            src=3D"http://www.rovion.com/images/bottom_bug.gif" 
+            width=3D407 border=3D0 NOSEND=3D"1"></A> <BR><BR><A 
+            onclick=3Djavascript:TheBug(); href=3D"#">click the bug...</A>=
+</DIV>
+            <DIV align=3Dcenter><BR><BR>If you have received this newslett=
+er in 
+            error, <BR>please email Rovion at the following address <BR>an=
+d we 
+            will remove you immediately. <BR><A 
+            href=3D"mailto:jpaglia@rovion.com">support@rovion.com</A> 
+            </DIV><BR><BR></TD>
+          <TD vAlign=3Dtop width=3D1 bgColor=3D#ebf4f8>&nbsp;</TD>
+          <TD vAlign=3Dtop width=3D195 bgColor=3D#ebf4f8>
+            <TABLE cellSpacing=3D0 cellPadding=3D1 width=3D190 border=3D0>=
+<BR>
+              <DIV align=3Dcenter></DIV>
+              <TBODY>
+              <TR>
+                <TD bgColor=3D#000000>
+                  <TABLE cellSpacing=3D0 cellPadding=3D2 width=3D190 borde=
+r=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=3Dcenter align=3Dmiddle bgColor=3D"#4a758=
+d"><SPAN 
+                        class=3Dwhite>About ShapeShifter</SPAN></TD></TR>
+                    <TR>
+                      <TD align=3Dmiddle bgColor=3D"#F2F2F2"><A 
+                        href=3D"http://www.rovion.com/SoftwareProductsShap=
+eShifter.asp"><IMG 
+                        height=3D180 
+                        src=3D"http://www.rovion.com/images/sidepull1.gif"=
+ 
+                        width=3D180 border=3D0 NOSEND=3D"1"></A></TD></TR>=
+</TBODY></TABLE>
+                  <DIV></DIV></TD></TR></TBODY></TABLE>
+            <TABLE cellSpacing=3D0 cellPadding=3D1 width=3D174 border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D191 bgColor=3D#000000>
+                  <TABLE cellSpacing=3D0 cellPadding=3D2 width=3D170 borde=
+r=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dcolumntitle vAlign=3Dcenter align=3Dmidd=
+le width=3D185 
+                      bgColor=3D#4a758d><SPAN class=3Dwhite>Great Free 
+                        Download</SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcolumn align=3Dmiddle width=3D185 
+                        bgColor=3D"#F2F2F2"><A 
+                        href=3D"http://www.rovion.com/SoftwareProductsShap=
+eShifter.asp"><BR><IMG 
+                        height=3D188 
+                        src=3D"http://www.rovion.com/images/box_small.jpg"=
+ 
+                        width=3D186 border=3D0 NOSEND=3D"1"> <BR>Click for=
+ Free 
+                        Download</A><BR><BR></TD></TR></TBODY></TABLE>
+                  <DIV></DIV></TD></TR></TBODY></TABLE>
+            <DIV></DIV>
+            <TABLE cellSpacing=3D0 cellPadding=3D1 width=3D190 border=3D0>
+              <TBODY>
+              <TR>
+                <TD bgColor=3D#000000>
+                  <TABLE cellSpacing=3D0 cellPadding=3D2 width=3D190 borde=
+r=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD class=3Dcolumntitle vAlign=3Dcenter align=3Dmidd=
+le 
+                      bgColor=3D#4a758d><SPAN class=3Dwhite>Design Out of =
+the 
+                        Box</SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcolumn align=3Dmiddle bgColor=3D"#F2F2F2=
+"><A 
+                        href=3D"http://www.rovion.com/"><BR></A><A 
+                        href=3D"http://www.rovion.com/SoftwareProductsShap=
+eShifter.asp"><IMG 
+                        height=3D278 
+                        src=3D"http://www.rovion.com/images/sidepull3.gif"=
+ 
+                        width=3D180 border=3D0 NOSEND=3D"1"></A><A 
+                        href=3D"http://www.rovion.com/"><BR><BR></A></TD><=
+/TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+            <P align=3Dcenter><A 
+            href=3D"http://www.rovion.com/SoftwareProductsShapeShifter.asp=
+">CLICK 
+            HERE TO GET YOUR FREE 
+  DOWNLOAD!</A></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR=
+></BODY></HTML><br>
+
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+<p><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><p><p></BODY></HTML>
+
+

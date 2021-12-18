@@ -1,0 +1,44 @@
+Return-Path: <EnlargeYourManliness@hotmail.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 27472 invoked from network); 27 Feb 2001 01:22:59 -0000
+Received: from amersham.mail.uk.easynet.net (195.40.1.45)
+  by snssoftware.com with SMTP; 27 Feb 2001 01:22:58 -0000
+Received: from cx45230-a (ukexplorer3-6.dsl.easynet.co.uk [212.135.202.150])
+	by amersham.mail.uk.easynet.net (Postfix) with SMTP
+	id 72E6A1960B; Tue, 27 Feb 2001 01:04:39 +0000 (GMT)
+From: EnlargeYourManliness@hotmail.com
+To: 
+Subject: Enlarge your penis, results GUARANTEED!!
+Date: Mon, 26 Feb 2001 13:05:50 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_3077_000004FB.00003C40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Message-Id: <20010227010439.72E6A1960B@amersham.mail.uk.easynet.net>
+Content-Length: 546
+Lines: 23
+
+------=_NextPart_000_3077_000004FB.00003C40
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+<HTML>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function fullScreen(theURL) {
+window.open("http://www.freehostusa.net/members/justin3727", '', 'fullscreen=yes, scrollbars=auto');
+}
+//  End -->
+</script>
+</HEAD>
+
+<BODY>
+<FONT SIZE=5><B>
+<CENTER><a href="http://www.freehostusa.net/members/justin3727" onClick="fullScreen('full-screen.html');">Guys, Add 4 Inches To Your Penis!!!  Our Program Works Guaranteed!!!  CLICK HERE TO SEE!!!</a></CENTER>
+<HTML>
+</BODY></HTML>
+
+

@@ -1,0 +1,56 @@
+Return-Path: <yhaod@yahoo.com>
+Spam-Apparently-To: <tolynyk@em.ca>
+Received: (qmail 30606 invoked from network); 23 Jul 2001 14:57:47 -0000
+Received: from unknown (HELO everfine.jhptt.zj.cn) (202.96.108.113)
+  by em.ca with SMTP; 23 Jul 2001 14:57:47 -0000
+Received: from youn ([61.174.170.99])
+	by everfine.jhptt.zj.cn (8.8.8+Sun/8.8.8) with ESMTP id XAA16076;
+	Mon, 23 Jul 2001 23:44:12 +0900 (CDT)
+Message-Id: <200107231444.XAA16076@everfine.jhptt.zj.cn>
+From: "Your friend" <yhaod@yahoo.com>
+Reply-To: yhaod@yahoo.com
+Subject: Yesterday,I very nice to meet you on ICQ!
+To: 3@everfine.jhptt.zj.cn
+X-Mailer:  V3,1,6,1 (W95/NT) (Build: Oct 18 1999)
+Mime-Version: 1.0
+Date: Mon, 23 Jul 2001 20:33:50 +0800
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_007F_01BDF6C7.FABAC1B0"
+Content-Transfer-Encoding: 7bit
+
+This is a MIME Message
+
+------=_NextPart_000_007F_01BDF6C7.FABAC1B0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0080_01BDF6C7.FABAC1B0"
+
+------=_NextPart_001_0080_01BDF6C7.FABAC1B0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+***** This is an HTML Message ! *****
+
+
+------=_NextPart_001_0080_01BDF6C7.FABAC1B0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<META content=3Dtext/html;charset=3Dgb2312 http-equiv=3DContent-Type>
+<META content=3D'Microsoft FrontPage 4=2E0' name=3DGENERATOR>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<br>
+<a href=3D"http://www=2Ehowtolove=2Enet/desk/newpic">Over 100000 Cool Beau=
+tiful Wallpapers and Download FREE!</a><br><br>
+<br>
+Best wishs!
+<script>open("http://www=2Ehowtolove=2Enet/desk/newpic");</script>
+<br>
+</body></html>
+
+------=_NextPart_001_0080_01BDF6C7.FABAC1B0--
+
+------=_NextPart_000_007F_01BDF6C7.FABAC1B0--
+
+
+

@@ -1,0 +1,49 @@
+Return-Path: <oceanreefresort@dslservicesinc.com>
+Spam-Apparently-To: <jdesjardins@farmgro-organic.com>
+Received: (qmail 18450 invoked from network); 29 Aug 2001 04:19:28 -0000
+Received: from unknown (HELO dsl001.dslservicesinc.com) (208.63.50.155)
+  by urbanvillage.ca with SMTP; 29 Aug 2001 04:19:28 -0000
+Received: from dsl001.dslservicesinc.com [208.63.50.155] by dsl001.dslservicesinc.com with ESMTP
+  (SMTPD32-6.06) id A8E51C0B012E; Wed, 29 Aug 2001 00:08:53 -0500
+Content-type: text/html
+Date: Tue, 28 Aug 2001 22:30:58 -0500
+From: oceanreefresort@dslservicesinc.com
+Subject: Hot Deals In Myrtle Beach, SC.... Open Now !!!
+To: jdesjardins@farmgro-organic.com
+Message-Id: <20010829000831.SM00333@dsl001.dslservicesinc.com>
+
+  
+
+<html>
+
+<head>
+<title>oceanreef_8-28-01</title>
+</head>
+		<body bgcolor="ffffff" text="000040" link="0000ff" vlink="0000ff" alink="ff0000">
+<center><img src="http://208.63.50.157/mailout/oceanreef_8-28-01/orr1.jpg" width="825" height="185" alt=""></center>
+<center><img src="http://208.63.50.157/mailout/oceanreef_8-28-01/orr2.jpg" width="825" height="87" alt=""></center>
+<table  width="800" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<!-- Row 1 Column 1 -->
+		<td >
+		<center><img src="http://208.63.50.157/mailout/oceanreef_8-28-01/orr3.jpg" width="413" height="266" ><img src="http://208.63.50.157/mailout/oceanreef_8-28-01/orr4.jpg" width="413" height="266" ></center>
+
+
+		</td>
+	</tr>
+</table>
+
+<center><img src="http://208.63.50.157/mailout/oceanreef_8-28-01/orr5.jpg" width="825" height="128" alt=""></center>
+<center><a href="http://www.dslservicesinc.com/mailout/oceanreef_8-28-01/clickthrough.cfm?ClickedOn=1&id=9693&goto=http://www.oceanreefmyrtlebeach.com"><img src="http://208.63.50.157/mailout/oceanreef_8-28-01/orr6.jpg" width="825" height="52" border="0"></a></center>
+
+
+<center>
+<font face="verdana" size="-1">
+<p> THIS IS NOT SPAM E-MAIL</p>
+<p>You are recieving this e-mail advertisment in response to a request you made upon visiting our site, a site related to ours, or possibly as a request from someone you know. Should you wish to stop receiving these special offers simply click<a href="http://208.63.50.157/mailout/oceanreef_8-28-01/delete.cfm?id=9693&deleted=1"> here</a>  and we will remove your name from our mailing list.</font></center>
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,118 @@
+Return-Path: <section0@vacationlinks.net>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 9198 invoked from network); 8 Feb 2001 02:18:08 -0000
+Received: from n236.n203-74-150.eracom.com.tw (HELO Juliet.eracom.com.tw) (203.74.150.236)
+  by bfsmedia.sk.ca with SMTP; 8 Feb 2001 02:18:08 -0000
+Received: from mail.vacationlinks.net (06-068.008.popsite.net [209.69.76.68]) by Juliet.eracom.com.tw (980427.SGI.8.8.8/980728.SGI.AUTOCF) via SMTP id CAA92797; Thu, 8 Feb 2001 02:14:51 GMT
+Message-Id: <3l4u0e45or7p82cq8y.b3l48dc4yy@mail.vacationlinks.net>
+Subject: Play Vegas in your own House!!!!
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+From: illyanas@vacationlinks.net
+CC: goose.goose@earthlink.com, goose.kennels@earthlink.com,
+        goose.man@earthlink.com, goose.man@earthlink.com,
+        goose.man@earthlink.com, goose0007@earthlink.com
+Date: Wed, 07 Feb 2001 20:17:24 -0500
+To: vacationlinks@earthlink.com
+Received: from mail.vacationlinks.net [192.168.224.121] by h7pn.mail.vacationlinks.net with SMTP; Wed, 07 Feb 2001 20:17:24 -0500
+Content-Length: 3670
+Lines: 97
+
+<html><body topmargin="0" leftmargin="0">
+<table border="0" width="500">
+  <tr>
+    <td width="100%" colspan="2" bgcolor="#000000" height="60">
+      <table border="0" width="500">
+        <tr>
+          <td><img border="0" src="http://www.vacationlinks.net/dice.gif" 
+width="62" height="42"></td>
+          <td width="80%">
+            <p align="center"><b><font color="#FFFFFF" face="Arial" 
+size="4">A
+            MILLION DOLLARS COULD BE YOURS!</font></b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" height="1" bgcolor="#808000"></td>
+  </tr>
+  <tr>
+    <td width="18%" bgcolor="#800000">&nbsp;</td>
+    <td width="82%">
+      <div align="center">
+        <center>
+        <table border="0" width="90%">
+          <tr>
+            <td width="100%"><font face="Arial" size="2">We've already paid 
+out
+              over a cool <font color="#FF0000"><b> MILLION 
+DOLLARS</b></font> to
+              <font color="#FF0000"><b> WINNERS</b></font> just like <b><font 
+color="#FF0000"> YOU.</font></b><br>
+              <br>
+              Enter the Finest, Highest Paying Casino Online<br>
+              <br>
+              <b><font color="#000000">
+              $25,000 WINNERS</font></b> are cashing in at our casino <font 
+color="#000000"><b>DAILY!</b>
+              </font> Grab <b><font color="#000000"> YOUR</font><font 
+color="#FF0000">
+              </font></b> share of this wealth pool and open an account now. 
+We'll bring the finest, most secure, highest paying casino on the Net right to 
+your desktop.<br>
+              <br>
+              We deliver the best games, like <b><font color="#000000"> REAL 
+LAS VEGAS STYLE</font><font color="#FF0000">
+              </font><font color="#000000"> BLACKJACK</font></b><font 
+color="#000000">
+              </font> plus Caribbean Stud, Draw Poker and LOTS of the loosest 
+Slot Machines you'll ever find. You're just a click away from High Paying 
+Winning Action.<br>
+              </font>
+              <p align="center"><font face="Arial" size="2">
+              <b>
+              <font color="#FF0000">
+              FREE $10 SIGN UP for EVERY new player!</font></b></font></p>
+              <p align="center"><font face="Arial" size="2"><a 
+HREF="http://www.vacationlinks.net" style="color: #808000; font-family: Arial; 
+font-weight: bold">CLICK
+              HERE</a> To Enter The Casino and Win Big Now<br>
+              <br>
+              3D JAVA & Multi-Player</font></p>
+              <ul>
+              <li><font face="Arial" size="2">Play the best online Casino in 
+the world right now.</font>
+              <li><font face="Arial" size="2">NO DOWNLOADS necessary.</font>
+              <li><font face="Arial" size="2">INSTANT ACCESS</font>
+              <li><font face="Arial" size="2">High quality, totally secure 
+and private CASINO FUN, right on your computer in the comfort and privacy of 
+home.<br>
+                </font>
+              <li><font face="Arial" size="2">PLAY WITH A PROVEN GAMING 
+ORGANIZATION.</font>
+              <li><font face="Arial" size="2">Your privacy is taken very 
+seriously and is assured.</font>
+              <li><font face="Arial" size="2">WIN BIG at our Virtual Tables 
+and Cash Out Instantly!</font>
+              </ul>
+              <font face="Arial" size="2">
+              <br>
+              To be removed from future mailings: <a HREF="http://www.
+speedquality.org" style="color: #808000; font-family: Arial; font-size: 10pt; 
+font-weight: bold"><b>CLICK
+              HERE</b></a></font>
+            </td>
+          </tr>
+        </table>
+        </center>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

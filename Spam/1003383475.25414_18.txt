@@ -1,0 +1,115 @@
+Return-Path: <infoworld@msn.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 15615 invoked from network); 18 Oct 2001 00:04:46 -0000
+Received: from unknown (HELO ykintranet.yeskey.com) (211.22.50.8)
+  by agamemnon.bfsmedia.com with SMTP; 18 Oct 2001 00:04:46 -0000
+Received: from html ([209.61.190.164]) by ykintranet.yeskey.com with Microsoft SMTPSVC(5.0.2172.1);
+	 Thu, 18 Oct 2001 08:08:31 +0800
+From: philbailey@mailandnews.com
+To: design@bmi.net
+Subject: FW: Do You Back Up Your Data?
+Date: Thu, 18 Oct 2001 08:05:23
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT"
+Return-Path: infoworld@msn.com
+Message-ID: <TP-YKINTRANETdX47sF000000c0@ykintranet.yeskey.com>
+X-OriginalArrivalTime: 18 Oct 2001 00:08:32.0968 (UTC) FILETIME=[0629F480:01C15769]
+Content-Length: 5156
+Lines: 96
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0133)file://C:\Documents%20and%20Settings\datastreamgrp\Local%20Settings\Temporary%20Internet%20Files\Content.IE5\6VAVY5YJ\data_defend.htm -->
+<!-- saved from url=(0022)http://internet.e-mail --><HTML><HEAD><TITLE>Data Defender</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<STYLE type=text/css>A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #cc0000
+}
+</STYLE>
+
+<STYLE type=text/css>P {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 15px; TEXT-ALIGN: justify
+}
+</STYLE>
+
+<SCRIPT language=JavaScript>
+ <!--
+ var message="";
+ function clickIE() {if (document.all) {(message);return false;}}
+ function clickNS(e) {if 
+ (document.layers||(document.getElementById&&!document.all)) {
+ if (e.which==2||e.which==3) {(message);return false;}}}
+ if (document.layers) 
+ {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+ else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+ // --> 
+ </SCRIPT>
+
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY text=#000000 vLink=#000000 aLink=#000000 link=#000000 bgColor=#ffffff>
+<TABLE cellSpacing=0 cellPadding=0 width=650 border=0>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=0 width=475 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width=475 bgColor=#333399 height=75><FONT 
+            face="Verdana, sans-serif" color=#ffffff size=5><FONT color=#333399 
+            size=1>12</FONT><BR>&nbsp;&nbsp;D<FONT face="Verdana, sans-serif" 
+            color=#ffffff size=4>ATA</FONT> D<FONT face="Verdana, sans-serif" 
+            color=#ffffff size=4>EFENDER</FONT> <FONT face="Verdana, sans-serif" 
+            color=#ffffff size=4></FONT><BR><FONT face="Verdana, sans-serif" 
+            color=#ffffff 
+            size=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Never Worry 
+            About Lost Data 
+  Again!</FONT></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE height=570 cellSpacing=0 cellPadding=0 width=475 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top width=10 bgColor=#333399 height=570><BR></TD>
+    <TD vAlign=top width=455 height=570><BR>
+      <P><FONT face=Tahoma,sans-serif color=#003399 font><SPAN 
+      style="FONT-SIZE: 14pt">Do You Back Up Your Data on a Regular 
+      Basis?<BR></FONT><FONT face=Tahoma,sans-serif color=#000000 font><SPAN 
+      style="FONT-SIZE: 12pt">&nbsp;&nbsp;&nbsp;&nbsp;Maybe You Should ! ! 
+      !<BR><BR></FONT><FONT face=Arial,sans-serif color=#000000 font><SPAN 
+      style="FONT-SIZE: 13.5pt">Say good-bye to lost data!<BR></B><FONT 
+      face=Arial,sans-serif color=#000000 font><SPAN 
+      style="FONT-SIZE: 10pt">Data Defender 1.5 is a perfect tool for small 
+      businesses, and individual users, who need a powerful, low cost and 
+      maintenance-free solution for routine and critical system and data back 
+      up. <BR><BR><B><FONT color=#cc0033>How does, What does Data Defender do 
+      for you?</FONT></B><BR>After a quick install, the program:<BR><BR><FONT 
+      color=#333399>* Offers the option of both primary AND primary/secondary 
+      back-ups<BR>* Permits users to define back-up schedules<BR>* Lets users 
+      create immediate back ups using the ZIP NOW feature<BR>* Records all back 
+      ups in detail on the program LOG<BR>* Retrieves files from back-up 
+      archives with a simple RESTORE function<BR>* Provides extensive HELP 
+      assistance for novice users<BR>* Operates on Windows 95, 98, 2000 and 
+      NT</FONT></B> <BR><BR><FONT face=Arial,sans-serif color=#000000 font><SPAN 
+      style="FONT-SIZE: 11pt"><B><U>Operation is simple:</U></B><BR><BR>Open the 
+      Defender "shield" on the main screen<BR><BR>Select the data you wish to 
+      back up<BR><BR>Select a back-up location (and secondary back-up if 
+      desired)<BR><BR>Set the frequency and time for back ups<BR><BR>Its that 
+      simple. <BR></B></FONT><FONT face=Arial,sans-serif color=#000000 
+      font><SPAN style="FONT-SIZE: 13pt"><FONT color=#cc0033><B>Theres No Reason 
+      To Ever Loose Your Data!</B></FONT> <BR><BR><FONT color=blue 
+      size=5><B><U>To Order Now Call:</U></B></FONT><FONT face=Arial,sans-serif 
+      color=#000000 font><SPAN style="FONT-SIZE: 13pt"><FONT 
+      color=#000000><B>&nbsp;&nbsp;&nbsp;206-202-1971</B></FONT><BR><BR></FONT>
+      <CENTER><FONT face=Arial,sans-serif color=#000000 font><SPAN 
+      style="FONT-SIZE: 20pt"><FONT color=#cc0033><B>Only $24.95</B></FONT> 
+      <BR><BR></SPAN></FONT></CENTER></SPAN></SPAN></FONT></SPAN></SPAN></FONT></SPAN></FONT></SPAN></SPAN></TD>
+    <TD width=10 bgColor=#333399 height=570></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=475 border=0>
+  <TBODY>
+  <TR>
+    <TD width=475 bgColor=#333399 
+height=2></TR></TBODY></TABLE><BR><BR><BR><BR><BR><BR><BR><BR><FONT 
+face=Arial,sans-serif color=#000000 font><SPAN style="FONT-SIZE: 13pt"><B><A 
+href="mailto:onetruething1233@imailbox.com?subject=Remove Me Please"><U>Click 
+Here</U></FONT></A><FONT size=2> To Be Removed From Our Mailing List!</B></FONT> 
+</SPAN></BODY></HTML>

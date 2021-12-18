@@ -1,0 +1,50 @@
+Return-Path: <a10064@mail.md>
+Delivered-To: em-ca-design@em.ca
+Received: (qmail 29673 invoked from network); 10 Nov 2001 01:23:23 -0000
+Received: from phex.allar.net (195.127.0.4)
+  by agamemnon.bfsmedia.com with SMTP; 10 Nov 2001 01:23:23 -0000
+Received: from exchange_server.poli-tape.de (ppp53.efferd.allar.net [195.127.1.117])
+	by phex.allar.net (8.10.1/8.10.1) with ESMTP id fAA1MlP14605;
+	Sat, 10 Nov 2001 02:22:47 +0100 (MET)
+Received: from i-france.com (65.44.225.76 [65.44.225.76]) by exchange_server.poli-tape.de with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id WSCALVX3; Fri, 9 Nov 2001 16:44:41 +0100
+X-Priority: 3 (Normal)
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Date: Fri, 09 Nov 2001 10:38:56 -0500
+From: a10064@mail.md
+Received: from i-france.com [192.168.226.13] by 4a54.i-france.com with SMTP; Fri, 09 Nov 2001 10:38:56 -0500
+Message-Id: <f2qs7o.5y80en1i@i-france.com>
+Subject: Win a Florida Vacation!!!
+To: beetfgncourag@penn.com
+X-MSMail-Priority: Normal
+Content-Type: text/html;
+	 charset=us-ascii
+Content-Transfer-Encoding: 7BIT
+Importance: Normal
+Content-Length: 1423
+Lines: 24
+
+<html>
+<body>
+<p align="center"><font face="Elephant" color="#ff0066" size="6"><b>Congratulations!</b></font><font face="Elephant" color="#cc33ff"><br>
+You've been selected to ENTER to WIN!</font><font face="Times New Roman" color="#008080" size="4"><br>
+You have been given the opportunity to win an exclusive first class Florida vacation.<br>
+All you have to do is <a href="http://ten.workoff45.com/index2.html">click here</a> and fill out the entry form.</font></p>
+
+<p align="center"><font face="Times New Roman" color="#008080" size="4">You will enjoy an 8 day / 7 night Florida vacation in Orlando, Daytona Beach, and Key West.</font></p>
+<ul>
+  <li><b>4 days / 3 nights of first class hotel accommodations in Orlando, home of Disney World</b>
+  <li><b>3 days / 2 nights of oceanfront accommodations in Daytona Beach</b>
+  <li><b>3 days / 2 nights on the white sandy beach of Key West.</b>
+  <li><b>Rental car with UNLIMITED mileage</b>
+  <li><b>Casino Cruise</b></li>
+</ul>
+<p align="center"><font face="Elephant" size="5"><a href="http://ten.workoff45.com/index2.html">Click Here to ENTER!</a></font></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><font size="1">We apologize for any email you may have inadvertently received.<br>
+Please <a href="http://four.workoff45.com">CLICK HERE</a> to be removed from future mailings.</font></p>
+</body>
+</html>
+

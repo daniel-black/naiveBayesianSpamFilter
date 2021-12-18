@@ -1,0 +1,48 @@
+Return-Path: <info@jade-g.net>
+Spam-Apparently-To: <info@jade-g.net>
+Received: (qmail 17759 invoked from network); 11 Mar 2001 04:54:54 -0000
+Received: from slip-32-102-91-100.ca.us.prserv.net (HELO www.programmingFor29perHour.com) (32.102.91.100)
+  by gritzfeld.com with SMTP; 11 Mar 2001 04:54:54 -0000
+Date: Sat, 10 Mar 2001 21:00 GMT
+From: 417.14@www.programmingFor29perHour.com
+Subject: Programmers Available Right Now for raterate per hour
+To: info@jade-g.net
+Mime-version: 1.0
+Content-Type: text/html
+
+
+<head>
+
+<title>Offshore Programmers and excellent local staff with IVY league degrees
+and MBA’s ready to work for you</title>
+
+
+</head>
+
+
+<div class=Section1>
+
+<p class=MsoBodyText><span style='font-size:18.0pt;mso-bidi-font-size:10.0pt;
+color:#CC99FF'>Offshore Programmers and excellent local staff with Ivy league
+degrees and MBA’s ready to work for you.<o:p></o:p></span>
+
+
+<p class=MsoNormal>Programming 38/hr. 
+
+
+<p class=MsoNormal>Business Analysis, Documentation, Specifications, and
+Project Management: 95/hr.
+
+
+<p class=MsoNormal>We have a staff of over 500 combined with every conceivable
+skill set and a record of happy customers.
+
+
+<p class=MsoNormal>Call 415-273-4610, leave your name and number, and we will
+contact you and forward technical skills and experience. You would be surprised at what we can do!
+
+</div>
+
+</body>
+
+</html>

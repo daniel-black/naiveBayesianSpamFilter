@@ -1,0 +1,65 @@
+Return-Path: <AnnaWilliams@btamail.net.cn>
+Spam-Apparently-To: <calexander@sasklaw.com>
+Received: (qmail 13182 invoked from network); 26 Nov 2001 06:39:39 -0000
+Received: from unknown (HELO debbie.offshoresource.com.tw) (211.72.146.146)
+  by agamemnon.bfsmedia.com with SMTP; 26 Nov 2001 06:39:39 -0000
+Received: from offshoresource (w147.offshoresource.com.tw [211.72.146.147] (may be forged))
+	by debbie.offshoresource.com.tw (8.9.3/8.9.3) with SMTP id OAA17978;
+	Mon, 26 Nov 2001 14:54:18 +0800
+From: AnnaWilliams@btamail.net.cn
+Message-Id: <200111260654.OAA17978@debbie.offshoresource.com.tw>
+Received: from 12.64.222.107 by offshoresource (InterScan E-Mail VirusWall NT); Mon, 26 Nov 2001 14:31:55 +0800
+To: <vtro2ftped7mk@hotmail.com>
+Subject: $250,000 Life Insurance Policy $6.95 per month
+Date: Mon, 26 Nov 2001 14:34:29 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+
+<html>
+
+<head>
+<title>70% Off Your Insurance!!!</title>
+</head>
+
+<body>
+
+<table border=3D"1" width=3D"68%" bordercolor=3D"#008000" bordercolorlight=
+=3D"#000080"
+bordercolordark=3D"#0000FF">
+  <tr>
+    <td width=3D"100%"><p align=3D"center"><big><big><big><font face=3D"Ar=
+ial Black" color=3D"#FF0000">Save
+      70% Off Your Life Insurance</font></big></big></big></p>
+    <p align=3D"center"><font face=3D"Arial Black" color=3D"#008040"><img
+    src=3D"http://66.163.40.11/insur-a/1-log.jpg" width=3D"180" height=3D"=
+160"
+    alt=3D"1-log.jpg"></font>
+    <font face=3D"Arial" color=3D"#000080">
+    <br>
+    </font>
+    <font face=3D"Arial">Double Your Life Insurance At </font><b><font fac=
+e=3D"Arial" color=3D"#FF0000" size=3D"5">NO
+    EXTRA COST&nbsp;</font></b>
+    <p align=3D"center"><b><font face=3D"Arial" size=3D"5">$250,000 policy=
+</font><font face=3D"Arial" size=3D"3">&nbsp;</font></b>
+    <p align=3D"center"><b><font face=3D"Arial" size=3D"5">for $6.50 per m=
+onth</font></b>
+    <p align=3D"center"><font face=3D"Arial" color=3D"#000080">
+    <strong><a target=3D"_blank" href=3D"http://66.163.40.11/insur-a/">CLI=
+CK HERE FOR MORE INFO</a>
+    </strong></font>
+    <p align=3D"center">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+

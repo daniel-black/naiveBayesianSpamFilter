@@ -1,0 +1,49 @@
+Return-Path: <Customer@collector.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10495 invoked from network); 15 Jul 2001 23:50:43 -0000
+Received: from cf1e1.mrt.starband.net (HELO collector.com) (148.78.248.10)
+  by em.ca with SMTP; 15 Jul 2001 23:50:43 -0000
+To: bruceg@em.ca
+From: Customer@collector.com
+Subject: The Best Collector Software To Hit The Market In Years
+Content-Length: 4474
+
+<HTML>
+<P><B><FONT SIZE="+1" COLOR="#8000FF">Collector+ Is The Ultimate Collectors Software Program</FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#FF8000">The only software tool that you will ever need to catalog, inventory, sort or group anything and everything you own. With this program you not only know what you have but what it's worth! Our software includes all the powerful features you want in a collecting program such as an easy to use input screen, item sorter, calendar program, contact manager with e-mail, web page URL addressing, an image attachment viewing tool and our easy to use folder system. Ability to print out each of your data bases in an easy to read format. You'll be hard pressed to find an easier to use software program that is as powerful as ours at a better price! </FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#00AF00">The Open button, opens the data screen to the folder that you created and allows you to add, delete, edit or copy items in that folder. You can have as many items in a folder as you would like. In other words, if you have 10,000 items that belong in a folder start typing! After all, it's your collection.</FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#FF8000">The Contact Manager allows you to store information about your collecting pen pals, club information, buyers, sellers or just about anyone you can think of. You can even include email addresses and web page URL's. The contact manager has two screens, the first for personal contacts and the second for business contacts.</FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#AF0000">The attach image screen displays all the images that you have associated with an item in your collection. You can attach as many images as you want to an item and use the image button to make one of the images the current or attached image. Of course the rest of the images that you attached to the item are still there, just the one you like the best becomes the one displayed automatically when you click on the image button. To change an items image simply click on the image button, select the image that you want to make current and click on the attach picture button to make that image the current image</FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#0000AF">The Image viewer allows you to view the image that you have attached to an item. You can attach as many images of an item to the item's record, but you can only make one image the primary image. We figured you want to put your "best foot forward" so to speak, and attach the best image to an item so you can quickly show the attached item from the items data screen.</FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#00AF00">We have included a simple and easy to use calender program with our software. Simply click on the calendar option and then double click on a important date and fill in the information. The day will change color on the calender to indicate that their is an event scheduled or their is special note for something that you need to do that day.</FONT></B>
+</P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#FF8000">By clicking on the view all tab, you can view all the records you have in your data base for that folder of items. This gives you a quick and easy way to see the total items you have and their growing value.</FONT></B></P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#0000AF">By clicking on the totals tab, you can get a quick snapshot of the items in that folder. This is a quick and easy item count with resulting value.</FONT></B>
+</P>
+
+<P><B><FONT FACE="Comic Sans MS" COLOR="#AF0000">By clicking on the quick sort tab, you can quickly sort the items in a folder, so if you want to list items by date, style, color etc. you can sort by those factors.</FONT></B></P>
+
+<P><FONT SIZE="+1" FACE="Comic Sans MS" COLOR="#00FF00">As A Special Offer You Also Get A Notepad And A Calculator Built Right Into The Program</FONT></P>
+
+<P><B><FONT SIZE="+1" COLOR="#FF6600">Only $9.95. We accept checks or money orders.
+</FONT></B></P>
+<br></FONT><FONT SIZE="+1" FACE="Arial" COLOR="#FF0000">Please Mail Payment to: 
+DRG Company 
+PO Box 12541 
+Cincinnati Ohio 45212 </P>
+
+<P><B><FONT SIZE="+1" FONT FACE="Comic Sans MS" COLOR="#FF00FF">System Requirements: Windows, 32 RAM, Cd-Rom. </FONT></B></P>
+<P><B><FONT SIZE="+1" FONT FACE="Comic Sans MS" COLOR="#FF00FF">Collector+ Is Not Supported By Mac Computers</FONT></B></P>
+
+
+</BODY>
+</HTML>
+

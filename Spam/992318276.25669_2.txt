@@ -1,0 +1,36 @@
+Return-Path: <You_Won@hotmail.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 11508 invoked from network); 12 Jun 2001 01:26:52 -0000
+Received: from unknown (HELO msn.com) (209.61.184.30)
+  by bfsmedia.sk.ca with SMTP; 12 Jun 2001 01:26:52 -0000
+From: You_Won@hotmail.com
+To: To Our Valuable Customer<>
+Subject: You Won !!!          26531
+Date: Fri, 05 Jan 1996 04:48:15 -0600
+X-Sender: You_Won@hotmail.com
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1
+Content-Type: text/plain; charset="us-ascii"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 333
+Lines: 19
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<p><font size="5">Congratulations&nbsp; You won</font></p>
+
+<a href="http://209.61.184.30/index1.htm">Please Click Here</a></p>
+<p>OR GO TO&nbsp; http://209.61.184.30/index1.htm</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+OR GO TO http://209.61.184.30/index1.htm
+</body>
+
+</html>

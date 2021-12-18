@@ -1,0 +1,219 @@
+Return-Path: <investor4f4576@Flashmail.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 27607 invoked from network); 20 Jun 2001 04:16:01 -0000
+Received: from unknown (HELO inchonpilot.hansoop.co.kr) (211.108.220.15)
+  by snssoftware.com with SMTP; 20 Jun 2001 04:16:01 -0000
+Received: from SMTP4 by inchonpilot.hansoop.co.kr with SMTP (Microsoft Exchange Internet Mail Service Version 5.0.1457.7)
+	id N2S7SLA4; Wed, 20 Jun 2001 12:52:43 +0900
+Received: from  [167.65.129.189] by _[59.145.188.190]_by with SMTP id A19C28E6 Tue, 19 Jun 2001 21:07:59 PDT
+From: <investor4f4576@Flashmail.com>
+Subject: Fwd: Your office supplies, plus a whole lot more       
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Tue, 19 Jun 2001 21:25:15
+Content-Length: 9598
+Lines: 203
+
+
+
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 5.50.4611.1300" name=GENERATOR>
+<SCRIPT LANGUAGE="javascript">
+function val()
+{
+  if (window.document.form1.Name.value == '')
+   {
+    alert("Please Enter Your Name.");
+    return false;
+   } else if (window.document.form1.Email.value == '')
+   {
+    alert("Please Enter Your Email Address.");
+  return false;
+   }
+} 
+</SCRIPT>
+</HEAD>
+<BODY text=#000000 vLink=purple link=blue bgcolor="#FFFFFF">
+<bgsound src="cashreg.wav" loop="2">
+<CENTER> 
+  <TABLE border="1" bordercolor="#000000" width="457" cellpadding="0" cellspacing="0">
+    <B> 
+    <TR>
+      <TD colspan="3"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="474" height="112">
+          <param name=movie value="http://www.discountvalues.com/ofc/money.swf">
+          <param name=quality value=high>
+          <img src="http://www.discountvalues.com/ofc/still.jpg" width="474" height="112"> 
+        </object> </TD>
+</TR>
+  <TR>
+    <TD><IMG alt=vcr src="http://www.discountvalues.com/ofc/VCR.gif" border=0> 
+    <TD><IMG alt=phone src="http://www.discountvalues.com/ofc/Phone.gif" border=0> 
+    <TD><IMG alt="coffee maker" src="http://www.discountvalues.com/ofc/Coffee2.gif" border=0> 
+  <TR>
+    <TD><IMG alt=chair src="http://www.discountvalues.com/ofc/Chair.gif" border=0> 
+    <TD><IMG alt=keyholder src="http://www.discountvalues.com/ofc/KeyHold.gif" border=0> 
+    <TD><IMG alt=calculator src="http://www.discountvalues.com/ofc/Calc.gif" border=0> 
+  <TR>
+    <TD><IMG height=125 alt=coffee src="http://www.discountvalues.com/ofc/Coffee.gif" border=0> 
+    <TD align=middle><IMG alt="gold coin" src="http://www.discountvalues.com/ofc/GoldCoin.gif" 
+      border=0> 
+    <TD><IMG height=125 alt=film src="http://www.discountvalues.com/ofc/Film.gif" border=0> 
+  </TR>
+</b><TR><TD COLSPAN="3">
+<table width="465" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+            <td colspan="2"> <B> </b> <b><img src="http://www.discountvalues.com/ofc/header.jpg" width="465"><br>
+              <hr width="464">
+              <p align="center"><b><font size="3" face="Arial, Helvetica, sans-serif" color="#000000">With 
+                every purchase of office/computer <br>
+                supplies earn FREE PRODUCT CREDITS!</font></b></p>
+              <p align="center"><font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>For 
+                each dollar you spend, we'll give you <font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>an 
+                </b></font><font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>equal</b></font><br>
+                amount of credit ($1.00 = 1 Free Product Credit)</b></font></p>
+              <p align="center"><font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>Make 
+                selections immediately from our FREE PRODUCTS CATALOG with hundreds 
+                of items to choose from! </b></font></p>
+              <p align="center"><font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>Earn 
+                $500 FREE PRODUCT CREDITS just for SIGNING UP!</b></font></p>
+              <p align="center"><font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>Earn 
+                500 FREE PRODUCT CREDITS <br>
+                with your first order of $50.00 or more!</b></font></p>
+              <p align="center"><font size="3" face="Arial, Helvetica, sans-serif" color="#000000"><b>Earn 
+                500 FREE PRODUCT CREDITS additional <br>
+                if you order before June 29, 2001!</b></font></p>
+              </b></td>
+    </tr>
+  </table>
+        <div align="center"><br>
+          <b><img src="http://www.discountvalues.com/ofc/midsentence.jpg" width="465"></b> </div>
+        <hr width="464">
+  <table width="464" border="0" cellspacing="0" cellpadding="3">
+    <tr> 
+      <td width="5%" valign="top"><img src="http://www.discountvalues.com/ofc/bullet.jpg" width="20" height="20"></td>
+            <td width="95%"><font face="Arial, Helvetica, sans-serif"><b>Our <u>prices</u> 
+              for office/computer supplies are as <u>good or better</u> than the 
+              competition!!!</b></font></td>
+    </tr>
+    <tr> 
+      <td width="5%" valign="top"><img src="http://www.discountvalues.com/ofc/bullet.jpg" width="20" height="20"></td>
+            <td width="95%"><b><font face="Arial, Helvetica, sans-serif">Our <u>personalized 
+              service is better</u> than the competition!!!</font></b></td>
+    </tr>
+    <tr> 
+      <td width="5%" valign="top"><img src="http://www.discountvalues.com/ofc/bullet.jpg" width="20" height="20"></td>
+            <td width="95%"><b><font face="Arial, Helvetica, sans-serif">Extremely 
+              user-friendly web site!</font></b></td>
+    </tr>
+  </table>
+  <hr width="464">
+        <P align="center"> 
+        <p align="center"><font size="4" face="Arial, Helvetica, sans-serif"><b><font color="#990000">Fill 
+          out the following form NOW to <br>
+          reserve your FREE PRODUCT CREDITS! </font></b></font></p>
+  <table cellspacing=0 bordercolordark=#333300 cellpadding=3 
+bordercolorlight=#ffffcc width=474>
+    <tbody> 
+    <tr> 
+      <td> 
+              <div align="center"><font size="2"><b><font color="#000000" face="Arial, Helvetica, sans-serif">NOTE:</font></b><font color="#000000" face="Arial, Helvetica, sans-serif"> 
+                Fields with a ' <font color="#FF0000"><b>*</b> <font color="#000000">'</font> 
+                <font color="#000000">must be filled out.</font></font></font></font> 
+              </div>
+              <form 
+      action="mailto:officesupply2@excite.com?cc=officesupply1@n2mail.com&subject=OfficeSupply"
+      method=post enctype=text/plain name="form1" onSubmit="return val();">
+                <table width="100%">
+                  <tbody> 
+                  <tr> 
+                    <td width="41%" height="29"> 
+                      <div align=right><font color="#000000" face="Arial, Helvetica, sans-serif"><b><font size="3"> 
+                        <font color="#FF0000">*</font> Your Name:</font></b></font></div>
+                    </td>
+                    <td width="59%" height="29"> 
+                      <input name=Name>
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td width="41%"> 
+                      <div align=right><font color="#000000" face="Arial, Helvetica, sans-serif"><b><font size="3" color="#FF0000">*</font><font size="3"> 
+                        Email:</font></b></font></div>
+                    </td>
+                    <td width="59%"> 
+                      <input name=Email>
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td width="41%"> 
+                      <div align="right"><font color="#000000" face="Arial, Helvetica, sans-serif"><b>Address:</b></font></div>
+                    </td>
+                    <td width="59%"> 
+                      <input type="text" name="Address">
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td width="41%"> 
+                      <div align="right"><font face="Arial, Helvetica, sans-serif" color="#000000"><b>City:</b></font></div>
+                    </td>
+                    <td width="59%"> 
+                      <input type="text" name="City">
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td width="41%"> 
+                      <div align=right><font color="#000000" face="Arial, Helvetica, sans-serif"><b><font size="3">State:</font></b></font></div>
+                    </td>
+                    <td width="59%"> 
+                      <input size=3 name=State>
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td width="41%"> 
+                      <div align="right"><font color="#000000" face="Arial, Helvetica, sans-serif"><b>Zip 
+                        Code:</b></font></div>
+                    </td>
+                    <td width="59%"> 
+                      <input type="text" name="ZipCode">
+                    </td>
+                  </tr>
+                  <tr> 
+                    <td width="41%"> 
+                      <div align=right><font color="#000000" face="Arial, Helvetica, sans-serif"><b><font size="3">Phone:</font></b></font></div>
+                    </td>
+                    <td width="59%"> 
+                      <input name=Phone>
+                    </td>
+                  </tr>
+                  </tbody> 
+                </table>
+                <br>
+                <div align="center"> 
+                  <input type="submit" value="Submit Information" name="submit2">
+                </div>
+              </form>
+            </td>
+    </tr>
+    </tbody> 
+  </table>
+
+</TD>
+</TR>
+</TABLE>
+  <table width="501" border="0" cellspacing="0" cellpadding="5">
+    <tr> 
+      <td> 
+        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000">You 
+          are receiving this e-mail because you opted-in by requesting information 
+          or requested to receive <br>
+          special offers from an online purchase, in the last 6 months. To unsubscribe, 
+          please click <a href="http://www.unsubscribelist.com">HERE</a> </font></div>
+      </td>
+    </tr>
+  </table>
+</CENTER>
+
+</BODY></HTML>
+
+
+

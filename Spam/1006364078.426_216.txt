@@ -1,0 +1,62 @@
+Return-Path: <MyGreenCard@redstar.onesourcecorp.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 2759 invoked from network); 20 Nov 2001 00:10:48 -0000
+Received: from 89.mucb.bstn.bstnmaco.dsl.att.net (HELO redstar) (12.101.194.89)
+  by agamemnon.bfsmedia.com with SMTP; 20 Nov 2001 00:10:48 -0000
+From: "MyGreenCard" <MyGreenCard@redstar.onesourcecorp.com>
+To: <goose.kennels@bfsmedia.com>
+Subject: Get your GREEN CARD for FREE
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 19 Nov 2001 19:16:06
+Content-Length: 1922
+Lines: 48
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+<div align="center">
+<table width="600" border="0" cellspacing="10">
+<tr>
+<td>
+<div align="center"><font face="Arial"><span class="logotitle2"><b><font size="4">Don't miss your opportunity
+</font></b></span></font></div>
+</td>
+</tr>
+<tr>
+<td>
+<hr>
+<font face="Arial"><br>
+</font>
+<ul>
+<li><font face="Arial">The <b>Diversity Immigrant Visa Lottery</b> (&quot;Green Card Lottery&quot;) has been established in the <b>1996 Immigration Act</b> in order to give immigration opportunity to natives from countries other than the main source of immigration to the U.S.A.</font></li>
+<li><font face="Arial">55,000 permanent resident visas (&quot;Green Cards&quot;) are awarded each year.</font></li>
+<li><font face="Arial">A Green Card gives you the legal right to live and work permanently in the United States.</font></li>
+<li><font face="Arial">Green card holders also receive <b>health,</b> <b>education</b>, <b>and other rights</b>.</font></li>
+<li><font face="Arial">A Green Card holder may later apply for <b>United States citizenship</b>.</font></li>
+<li><font face="Arial">When you receive a Green Card through the lottery, your husband or wife and all unmarried children under 21 years of age will also receive Green Cards.</font></li>
+<li><font face="Arial">There is <b>no fee</b> to enter the lottery.</font></li>
+<li><font face="Arial">Don't miss your chance to enter the Green Card Lottery.</font></li>
+</ul>
+<p><font face="Arial"><br>
+</font></p>
+<hr>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><font face="Arial"><b>Please Visit Our Website</b></font></p>
+<p><font face="Arial"><b><a href="http://www.mygreencard.info">CLICK HERE</a></b></font></p>
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,269 @@
+Return-Path: <ajeder@pumppkinpierecipiesfortheorangehead3jk789.com>
+Delivered-To: em-ca-lorena@em.ca
+Received: (qmail 27016 invoked from network); 19 Mar 2001 20:22:46 -0000
+Received: from unknown (HELO exchange.waei.com.cn) (211.99.197.5)
+  by em.ca with SMTP; 19 Mar 2001 20:22:46 -0000
+Received: from ip9.kansas-city7.mo.pub-ip.psi.net_[38.27.83.9] ([38.27.83.9]) by exchange.waei.com.cn with Microsoft SMTPSVC(5.0.2195.1600);
+	 Tue, 20 Mar 2001 04:23:21 +0800
+Received: from ims-firmen.de by ip9.kansas-city7.mo.pub-ip.psi.net with ESMTP; Mon, 19 Mar 2001 15:20:14 -0600
+Message-ID: <000018c555de$0000496a$00002fcc@ims-firmen.de>
+To: <howard@5Business.cc>
+From: ajeder@pumppkinpierecipiesfortheorangehead3jk789.com
+Subject: $1000 could await you inside                         12236
+Date: Mon, 19 Mar 2001 15:20:00 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Return-Path: ajeder@pumppkinpierecipiesfortheorangehead3jk789.com
+X-OriginalArrivalTime: 19 Mar 2001 20:23:23.0062 (UTC) FILETIME=[720EE560:01C0B0B2]
+Content-Length: 5788
+Lines: 243
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<SCRIPT LANGUAGE=3D"JavaScript1.1">
+
+
+
+<!-- Begin
+function right(e)
+
+
+ {
+
+
+var msg =3D "Not Available";
+
+
+if (navigator.appName =3D=3D 'Netscape' && e.which =3D=3D 3)
+
+
+ {
+
+
+alert(msg);  // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+else
+
+
+if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && event.button=
+=3D=3D2)
+
+
+ {
+
+
+alert(msg); // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+return true;
+
+
+}
+var mclick =3D  0;
+function cy(form)
+{
+    var mthanks =3D 'Thank  You For Your Interest';
+    var mclick =3D mclick+1;
+    var remmsg =3D "Error! Missing Data.";
+    if (!form.remove.value)
+         {
+         var remmsg =3D" Error!  Please enter an email address";
+         alert(remmsg);
+          return;
+          }
+    else
+         {
+            form.submit();
+            return;
+         }
+
+
+} // End of function validate_remove
+
+
+function cyorder(form)
+{
+  var x=3D1;
+  var ordermsg =3D "Error!  Missing Data";
+
+if (!form.State.value) {
+        var ordermsg =3D "Error!  Please enter your state.";
+         x=3D2; }
+ if (!form.City.value){
+        var ordermsg =3D "Error!  Please enter your city name.";
+          x=3D2; }
+ if (!form.Phone.value){
+        var ordermsg =3D "Error!  Please enter your phone number.";
+          x=3D2; }
+ if (!form.Name.value){
+        var ordermsg =3D "Error!  Please enter your name.";
+          x=3D2; }
+if (x=3D=3D2)
+{
+   alert(ordermsg);
+   return;
+}else{
+      form.submit();
+     return; }
+
+} // End of function validate_remove
+
+
+document.onmousedown =3D right;
+
+// End -->
+
+
+</SCRIPT>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Do You Yen To Be A Millionaire!</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#FFFFFF" LINK=3D"#FF0000" VLINK=3D"#FF0000" ALINK=3D"#FF0=
+000">
+
+<P ALIGN=3D"CENTER"><FORM ACTION=3D"mailto:nariman812@desertmail.com?subje=
+ct=3DMoreInfoYen" METHOD=3D"POST" ENCTYPE=3D"text/plain"></P>
+<P><FONT COLOR=3D"#0033FF" face=3D"Arial"><B>Do you have the Yen to be a M=
+illionare?<BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B>100% return in less t=
+han 90 days!</B></FONT><FONT COLOR=3D"#0033FF"
+face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B>Unique Strategy Tradi=
+ng in the International Currency Markets!</B></FONT><FONT
+COLOR=3D"#0033FF" face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B>Largest MarketPlace i=
+n the World!</B></FONT><FONT COLOR=3D"#0033FF"
+face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#000000" face=3D"Arial"><B>Get our Reports, Char=
+ts and Strategies on the U.S. Dollar vs<BR>
+Japanese yen and euro dollar.<BR>
+<BR>
+Example:</B></FONT><FONT COLOR=3D"#0033FF" face=3D"Arial"><B><BR>
+<BR>
+</B></FONT><FONT COLOR=3D"#FF3300" face=3D"Arial"><B>A $5,000 Investment i=
+n the yen vs the dollar, &quot;properly
+positioned&quot;,<BR>
+on 08/18 could have returned $15,000 on 09/18/99.</B></FONT></P>
+<P><FONT COLOR=3D"#000000" face=3D"Arial"><B>For a &quot;FREE NO OBLIGATIO=
+N&quot; information packet please fill out
+the form and click on the button below:</B></FONT></P>
+<P ALIGN=3D"CENTER"><FONT COLOR=3D"#FF0000"><B>U.S and Canadian Residents =
+Only</B></FONT></P>
+<CENTER>
+<P>
+<TABLE BORDER=3D"0" WIDTH=3D"68%">
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">Name
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"Name" SIZE=3D"25"><FONT C=
+OLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">Phone Number
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"Phone" SIZE=3D"25"><FONT =
+COLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">City
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"25"><FONT C=
+OLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">State
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"State" SIZE=3D"25"><FONT =
+COLOR=3D"#FF0000"><B>Required</B></FONT></TD>
+	</TR>
+	<TR>
+		<TD WIDTH=3D"35%">
+			<P ALIGN=3D"RIGHT">E-Mail
+		</TD>
+		<TD WIDTH=3D"65%"><INPUT TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"25"><FONT =
+COLOR=3D"#000000"><B>Optional</B></FONT><FONT COLOR=3D"#FFFFFF"><B>xxxxxxx=
+xxxx</B></FONT></TD>
+	</TR>
+</TABLE>
+<BR>
+<blink><FONT SIZE=3D"4" COLOR=3D"#DD0000"><B>(Request without phone number=
+ will not be processed)</B></FONT></blink></P>
+</CENTER>
+<CENTER>
+<P><BR>
+<INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"Click Here To Receive FREE=
+ NO OBLIGATION Information Packet"></P>
+</CENTER>
+<P>
+<CENTER>
+<P>
+<TABLE BORDER=3D"0" WIDTH=3D"563" BGCOLOR=3D"#DDDDDD">
+	<TR>
+		<TD WIDTH=3D"112" HEIGHT=3D"44"> 			</FORM>
+<FORM ACTION=3D"mailto:ajeder@pumpkinpierecipiesfortheorangehead3jk789.com=
+?subject=3Dremoveyenpromo" METHOD=3D"POST" ENCTYPE=3D"ascit/text"></TD>
+		<TD WIDTH=3D"100%" HEIGHT=3D"44" VALIGN=3D"TOP">
+			<P>This is a one-time mailing, done by an independent marketing company=
+ We respect your online privacy and apologize
+			if you have received this message in error. If you would like to be rem=
+oved from our mailing list just enter you
+			email address in the field below and select the remove button.<FONT COL=
+OR=3D"#000000"> </FONT><INPUT TYPE=3D"TEXT"
+			NAME=3D"acctemail" SIZE=3D"34"></P>
+			<CENTER>
+			<P><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"Remove"></P>
+</CENTER>
+			<P><FONT COLOR=3D"#000000">Please be aware that any disruption to our r=
+emove link prevents those who want to be removed
+			from our database from being removed.</FONT>
+		</TD>
+	</TR>
+</TABLE>
+
+</CENTER>
+<P>
+</FORM>
+
+
+</BODY>
+
+</HTML>
+
+
+
+

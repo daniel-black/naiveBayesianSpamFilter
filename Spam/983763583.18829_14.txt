@@ -1,0 +1,103 @@
+Return-Path: <yukon16@hotmail.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 8333 invoked from network); 5 Mar 2001 00:58:45 -0000
+Received: from ns1.tehnograf.net (HELO www.tehnograf.net) (194.106.168.180)
+  by bfsmedia.sk.ca with SMTP; 5 Mar 2001 00:58:45 -0000
+Received: from 210.104.41.3 (Toronto-ppp225287.sympatico.ca [64.228.36.40]) by www.tehnograf.net (8.8.8/SCO5) with SMTP id BAA04097; Mon, 5 Mar 2001 01:55:46 +0100 (Belgrade)
+From: yukon16@hotmail.com
+Message-ID: <00003a1b5b4d$00003dec$0000383e@208.245.148.82>
+To: <steffs99@hotmail.com>
+Subject: Earn An Extra $2000 WK
+Date: Sun, 04 Mar 2001 16:44:17 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 5305
+Lines: 83
+
+<HTML><head><META HTTP-EQUIV=3DContent-Type CONTENT=3Dtext/html;charset=3Di=
+so-8859-1><META content=3D"text/html; charset=3Dwindows-1252" http-equiv=3D=
+Content-Type><SCRIPT>
+function stopmouse(e) { 
+  if (navigator.appName =3D=3D 'Netscape' && (e.which =3D=3D 3 || e.which =
+=3D=3D 2))  
+   return false; 
+      else if  
+      (navigator.appName =3D=3D 'Microsoft Internet Explorer' && (event.bu=
+tton =3D=3D 2 || event.button =3D=3D 3)) {  
+   alert("Please fill out form and hit submit");
+  return false;  
+   }
+  return true; 
+      } 
+      document.onmousedown=3Dstopmouse;  
+      if (document.layers) 
+      window.captureEvents(Event.MOUSEDOWN); 
+       window.onmousedown=3Dstopmouse;  
+
+</SCRIPT></HEAD><BODY><P align=3Dcenter><B><FONT color=3D#0000ff size=3D5>=
+YOUR FINANCIAL FUTURE!&nbsp; Starting Today</FONT></B><P><FONT color=3D#ff=
+0000>Corporate America has conditioned us to believe that security comes f=
+rom employment. Yet we hope we never become the victims of downsizing, car=
+eer burn out, illness or injury. The frightening reality for most people i=
+s the plastic in their wallets determines the quality of their lives.<BR><=
+BR>Ask yourself, are you.....<BR><BR>* Tired of working for someone else a=
+nd getting paid what THEY tell you you're worth?<BR>* Do your credit card =
+balances total more than your bank accounts?<BR>* Tired of the get Rich qu=
+ick on $5 fantasy programs?<BR>* Tired of Dot com hype?<BR>* Looking for R=
+EAL wealth?</FONT></P><P><SPAN style=3D"FONT-FAMILY: 'Times New Roman'; FO=
+NT-SIZE: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-langua=
+ge: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><font co=
+lor=3D#008000>Our team of professionals is looking for a few quality indiv=
+iduals with a<BR>strong work ethic and DESIRE to generate $2,000 to $5,000=
+ to $20,000 per week from the<BR>comfort of their home. Be among the first=
+ to cash in on This 1 Billion Dollar Industry. No special skills needed fo=
+r our simple marketing system.</font></SPAN></P><P><FONT color=3D#0000ff s=
+ize=3D4><B>Just Fill Out The Form&nbsp; Below&nbsp; And Someone Will Conta=
+ct You To Explain This Solid Opportunity.</B></FONT></P><TABLE><TBODY><TR>=
+<TD align=3Dmiddle colSpan=3D2 width=3D100%><FORM action=3Dmailto:mytime10=
+4@arabia.com?SUBJECT=3DLeads encType=3Dtext/plain method=3Dpost><INPUT nam=
+e=3DAID type=3Dhidden value=3DDSours> <INPUT name=3DProduct type=3Dhidden =
+value=3DLeads.><TABLE border=3D0 cellPadding=3D3 cellSpacing=3D0 width=3D4=
+00><TBODY><TR><TD align=3Dright width=3D49%><FONT color=3D#000080 face=3DV=
+erdana size=3D2>Your Name:</FONT></TD><TD width=3D51%><FONT color=3D#00008=
+0 face=3DVerdana><INPUT name=3Drequiredname size=3D24></FONT></TD></TR><TR=
+><TD align=3Dright width=3D49%><FONT color=3D#000080 face=3DVerdana size=3D=
+2>Home Phone w/ Area Code:</FONT></TD><TD width=3D51%><FONT face=3DVerdana=
+><FONT color=3D#000080><INPUT name=3Drequiredhomephone size=3D24><BR></FON=
+T><FONT color=3D#993366 face=3DArial size=3D1>Example: (205) 123-4567</FON=
+T></FONT></TD></TR><TR><TD align=3Dright width=3D49%><FONT color=3D#000080=
+ face=3DVerdana size=3D2>Work Phone w/ Area Code:</FONT></TD><TD width=3D5=
+1%><FONT face=3DVerdana><FONT color=3D#000080><INPUT name=3Drequiredworkph=
+one size=3D24><BR></FONT><FONT color=3D#993366 face=3DArial size=3D1>Examp=
+le: (205) 567-8901</FONT></FONT></TD></TR><TR><TD align=3Dright width=3D49=
+%><FONT color=3D#000080 face=3DVerdana size=3D2>Best Time To Contact You:<=
+/FONT></TD><TD width=3D51%><FONT color=3D#000080 face=3DVerdana><SELECT na=
+me=3DrequiredBestTimeToContactYou size=3D1 style=3D"COLOR: #000080; FONT-F=
+AMILY: Verdana"> <OPTION selected value=3D"Choose one...">Choose one...</O=
+PTION> <OPTION value=3D"Morning at Work">Morning at Work</OPTION> <OPTION =
+value=3D"Afternoon at Work">Afternoon at Work</OPTION> <OPTION value=3D"Ev=
+ening at Work">Evening at Work</OPTION> <OPTION value=3D"Morning at Home">=
+Morning at Home</OPTION> <OPTION value=3D"Afternoon at Home">Afternoon at =
+Home</OPTION> <OPTION value=3D"Evening at Home">Evening at Home</OPTION></=
+SELECT></FONT></TD></TR><TR><TD align=3Dright width=3D49%><FONT color=3D#0=
+00080 face=3DVerdana size=3D2>Your E-Mail Address:</FONT></TD><TD width=3D=
+51%><FONT face=3DVerdana><FONT color=3D#000080><INPUT name=3Drequiredemail=
+address size=3D24><BR></FONT><FONT color=3D#993366 size=3D1>Must be in for=
+m: name@domain.com</FONT></FONT></TD></TR><TR><TD align=3Dright width=3D49=
+%><FONT face=3DVerdana>&nbsp;</FONT></TD><TD width=3D51%><FONT face=3DVerd=
+ana>&nbsp;</FONT></TD></TR><TR><TD align=3Dmiddle colSpan=3D2 width=3D100%=
+><B><FONT color=3D#993366 face=3DVerdana size=3D2>Please verify your infor=
+mation. Thank you!</FONT></B></TD></TR><TR><TD align=3Dmiddle colSpan=3D2 =
+width=3D100%><FONT color=3D#000080 face=3DVerdana><INPUT border=3D0 type=3D=
+submit value=3D"Click for &#13;&#10;&#13;&#10;Financial Freedom!"></FONT><=
+BR><BR><FONT color=3D#008080 face=3DVerdana size=3D2>This form is being su=
+bmitted via email. Simply click OK on the box that pops up, and we will pr=
+ocess your information promptly.</FONT></TD></TR></TBODY></TABLE></TD></TR=
+></FORM></TAB></TBODY></TABLE><p>To be removed From future mailings reply =
+to conrad@1033edge.com</p></BODY></HTML>
+
+

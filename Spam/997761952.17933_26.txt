@@ -1,0 +1,56 @@
+Return-Path: <chris0678@address.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 12913 invoked from network); 13 Aug 2001 07:55:51 -0000
+Received: from mail.thyssen.se (HELO mailsrv.Thyssen.se) (195.84.183.51)
+  by daedelus.bfsmedia.com with SMTP; 13 Aug 2001 07:55:51 -0000
+Received: from _[11.123.121.219]_by (PPPa19-ResaleMiamiB2-2R7353.dialinx.net [4.48.70.144]) by mailsrv.Thyssen.se with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.1960.3)
+	id QQH2WA5C; Mon, 13 Aug 2001 07:43:45 +0200
+Received: from  [145.77.220.81] by _[11.123.121.219]_by with SMTP id A103C26E2 Mon, 13 Aug 2001 01:28:54 PDT
+From: <chris0678@address.com>
+To: training@bfsmedia.com
+Subject: Kids Love Dinozine, it fun and educational              
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Mon, 13 Aug 2001 01:46:11
+Content-Length: 1016
+Lines: 39
+
+
+
+
+
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>DINOZINE&nbsp; is a educational publication for kids and the entire
+family</title>
+</head>
+
+<body>
+
+<p>DINOZINE&nbsp; is a educational publication for kids and the entire family. A new concept in magazine publishing for children...one that uses
+dinosaurs as a vehicle for creating <u> educational entertainment</u>. Subscribe
+now.&nbsp;&nbsp;</p>
+<p><a href="http://dinofacts.8m.net">Click Here To Learn More</a></p>
+<p><font color="#000000" size="3" PTSIZE="10">This is a one time transmission you
+will not receive this again, therefore removal is not necessary, however you may
+opt-out at <a href="mailto:remedy0678@email.com">CLICK HERE TO BE REMOVED</a>
+and your request will be honored.&nbsp;&nbsp;<br>
+</font></p>
+
+</body>
+
+</html>
+
+
+
+
+
+
+

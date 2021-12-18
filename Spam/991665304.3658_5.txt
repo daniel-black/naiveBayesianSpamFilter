@@ -1,0 +1,51 @@
+Return-Path: <questa45@email.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 9508 invoked from network); 4 Jun 2001 12:27:19 -0000
+Received: from unknown (HELO cpspmx01.brambles.com.au) (203.23.13.3)
+  by bfsmedia.sk.ca with SMTP; 4 Jun 2001 12:27:19 -0000
+Received: from mail_svr.bramwa.com.au (server_90.bramwa.com.au [172.20.129.15]) by cpspmx01.brambles.com.au with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id MHVYV6HL; Mon, 4 Jun 2001 18:34:50 +1000
+Received: from html (cpspmg01.bramwa.com.au [172.20.11.2]) by mail_svr.bramwa.com.au with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id MB2WXK4D; Mon, 4 Jun 2001 07:24:44 +0800
+From: webman890_936@email.com
+To: design@bfsmedia.com
+Subject: New Age in Auto Stocks
+Date: Sun, 3 Jun 2001 19:25:44
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 1017
+Lines: 29
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Stock Symbol PAAT&nbsp; finalized a multimillion dollar deal with World
+Transport for the entire Latin American region</title>
+</head>
+
+<body>
+
+<p>Stock Symbol PAAT&nbsp; finalized a multimillion dollar deal with World
+Transport for the entire Latin American region. The stock has been up over 150%
+since February.&nbsp;</p>
+<p>Your invited to learn more <a href="http://server49.hypermart.net/roadsterrace/roadsterrace/">CLICK
+HERE</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><font face="Arial" size="2">If you have received this email in error, we
+sincerely apologize and will make the utmost effort to remove you immediately <a href="mailto:celebparty@abac.com?subject=unsubscribe">CLICK
+HERE</a></font></p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

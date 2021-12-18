@@ -1,0 +1,63 @@
+Return-Path: <trimfast@bigfoot.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 3979 invoked from network); 7 Mar 2001 20:03:07 -0000
+Received: from relay1.nw.smtp.psi.net (38.9.154.2)
+  by em.ca with SMTP; 7 Mar 2001 20:03:07 -0000
+Received: from mail.hamamatsu.com ([38.161.160.133] helo=hcsmtp.hamamatsu.com)
+	by relay1.nw.smtp.psi.net with smtp (Exim 3.13 #3)
+	id 14ak8y-0007Qh-00; Wed, 07 Mar 2001 15:02:44 -0500
+Received: from 38.36.71.46 ([38.36.71.46]) by hcsmtp.hamamatsu.com (Lotus SMTP MTA v4.6.6  (890.1 7-16-1999)) with SMTP id 85256A08.006E726C; Wed, 7 Mar 2001 15:06:24 -0500
+Message-ID: <00002aae2d67$00001333$00004a8a@>
+To: <SomaBlast>
+From: trimfast@bigfoot.com
+Subject: "New" Soma Blast!
+Date: Wed, 07 Mar 2001 13:02:00 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 1223
+Lines: 40
+
+<html>
+<head>
+<title>Soma Blast</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF" link=3D"#FF0033" vlink=3D"#FF0000">
+<table width=3D"493" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr> 
+    <td height=3D"92"><b><font face=3D"Times New Roman, Times, serif">HAVE=
+ YOU HEARD 
+      OF HUMAN GROWTH HORMONE (HGH) ????</font></b><font face=3D"Times New=
+ Roman, Times, serif"><br>
+      Released by your own pituitary gland, HGH starts declining in your 2=
+0s, 
+      even more in your 30s and 40s, eventually resulting in the shrinkage=
+ of 
+      major organs, plus all other symptoms related to old age. <br>
+      <b>THIS CAN NOW BE REVERSED!!!!!</b></font></td>
+  </tr>
+  <tr> 
+    <td height=3D"50"><b><font color=3D"#FF0000" size=3D"7"><a href=3D"htt=
+p://www.greatfreesite.org/sblast">CLICK 
+      HERE!</a></font></b></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<font size=3D"1">To be removed <a href=3D"mailto:trimfast@bigfoot.com">CLI=
+CK HERE 
+</a></font> 
+</body>
+</html>
+
+
+

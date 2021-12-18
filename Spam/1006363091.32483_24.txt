@@ -1,0 +1,35 @@
+Return-Path: <qmail-return-78955-bruce-lists-djb-qmail=bruce-guenter.dyndns.org@list.cr.yp.to>
+Delivered-To: mailing list qmail@list.cr.yp.to
+Received: (qmail 31032 invoked from network); 20 Nov 2001 16:59:22 -0000
+Received: from smtpzilla2.xs4all.nl (194.109.127.138)
+  by koobera.math.uic.edu with SMTP; 20 Nov 2001 16:59:22 -0000
+Received: from cgi-aws2.xs4all.nl (cgi-aws2.xs4all.nl [194.109.6.57])
+	by smtpzilla2.xs4all.nl (8.12.0/8.12.0) with ESMTP id fAKGwum3071896
+	for <qmail@list.cr.yp.to>; Tue, 20 Nov 2001 17:58:56 +0100 (CET)
+Received: by cgi-aws2.xs4all.nl (8.9.0/8.9.0) id RAA21980;
+	Tue, 20 Nov 2001 17:58:51 +0100 (CET)
+Date: Tue, 20 Nov 2001 17:58:51 +0100 (CET)
+Message-Id: <200111201658.RAA21980@cgi-aws2.xs4all.nl>
+X-Authentication-Warning: cgi-aws2.xs4all.nl: nobody set sender to webmaster@gay-e-cards.com using -f
+To: qmail@list.cr.yp.to
+From: lance@postfixrules.com
+Reply-to: lance@postfixrules.com
+X-Mailer: Perl Powered Socket Mailer
+Subject: You have a Gay-E-Card waiting for you!
+Content-Length: 427
+
+Hi qmail,
+
+Lance Sterling stopped by our site, Gay-E-Cards.Com
+and created a Gay-E-Card just for you! To pick up your
+card, simply point your browser at the page listed below.
+
+   http://www.gay-e-cards.com/cards/nov20-2755321979.html
+
+
+=== WARNING ===
+Since this is a Gay-E-Card, you might expect male nudity.
+If you have any problems with this, please delete this E-mail!
+
+Your Card will remain on our server for two weeks.
+

@@ -1,0 +1,46 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 31401 invoked from network); 27 Jun 2001 05:06:15 -0000
+Received: from garibaldi.untroubled.org (192.168.1.1)
+  by lorien.untroubled.org (192.168.1.3) with SMTP; 27 Jun 2001 05:06:15 -0000
+Received: (qmail 25726 invoked from network); 27 Jun 2001 05:06:15 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by garibaldi.untroubled.org with SMTP; 27 Jun 2001 05:06:15 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S265259AbRF0FFR>; Wed, 27 Jun 2001 01:05:17 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S265258AbRF0FFH>; Wed, 27 Jun 2001 01:05:07 -0400
+Received: from [211.208.192.221] ([211.208.192.221]:3588 "HELO
+	asdfgh@yahoo.co.kr") by vger.kernel.org with SMTP
+	id <S265256AbRF0FE7>; Wed, 27 Jun 2001 01:04:59 -0400
+From:	<comzon@atozpia.com>
+To:	linux-kernel@vger.kernel.org
+Subject: =?ISO-8859-1?Q?pc=B0=FC=B7=C3=C1=A4=BA=B8=C0=D4=B4=CF=B4=D9?=
+Date:	=?ISO-8859-1?Q?=BC=F6,?= 27 6 2001 13:09:43
+Message-Id: <790.623323.849760@asdfgh@yahoo.co.kr>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 421
+
+
+최신형PC
+CPU……….933 (인텔)
+RAM………128 (삼성정품133)
+HDD………30 G
+MONITER.17"(삼성77E)
+
+모두43만원
+
+관심있으세요
+
+ http://comzon.atozpia.com/news/news.html
+
+이리로 오세요
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

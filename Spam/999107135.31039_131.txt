@@ -1,0 +1,374 @@
+Return-Path: <Communications.9093452.3598.0@a1f3-tr1.4at3.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 6379 invoked from network); 29 Aug 2001 17:38:18 -0000
+Received: from a1f3-mcd1.4at3.net (63.210.193.237)
+  by em.ca with SMTP; 29 Aug 2001 17:38:18 -0000
+From: "Chloe R. Seelbach, GrassisGreener.com" <Communications.9093452.3598.0@a1f3-tr1.4at3.net> 
+To: bruceg@em.ca
+Subject: Are You Still Interested in Job Opportunities?
+Date: Wed, 29 Aug 2001 10:35:09 -0700
+Message-ID: <999106510030.Communications.9093452.3598.0@a1f3-tr1.4at3.net>
+X-Mailer: Connect 1.0
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 21348
+
+
+<html>
+<!--Text version
+
+GrassIsGreener.com(TM)
+
+SEARCH 8 MILLION JOBS. FREE. 
+
+Dear Job Seeker, 
+
+Your search for that dream job just became easier 
+than ever before. 
+
+Our company recently acquired a large database 
+that contained your resume, and I am writing to 
+give you the opportunity to confirm that your 
+information is up to date. If you would prefer 
+not to hear from me again, you can unsubscribe as 
+directed below. 
+
+Hundreds of employers scan our database every day, 
+and I know from experience they pay particular 
+attention to resumes they believe are current.  
+Even if you are not looking for a job, it's always 
+worthwhile to update your resume, because you 
+never know when someone might make you an offer 
+you'd like to consider. If you would like to make 
+your resume anonymous to protect your identity 
+from employers, you can do so when you update. To 
+review and update your resume, please go to: 
+http://www.grassisgreener.com
+
+Here's what else we offer...all for free! 
+
+1. 8 million job listings from over 100,000 different 
+   sites - all in one place. 
+
+2. Biggest job site on the Web - 4 times bigger than 
+   Monster.com. 
+
+3. New Match Engine(sm) technology - the most precise 
+   search engine on the Web. 
+
+4. Free resume blasting to all major job boards and 
+   6,000 recruiters. 
+
+5. Search alerts to have job opportunities e-mailed 
+   to you. 
+
+6. Local salary comparison data. 
+
+7. Personalized job search management tools. 
+
+8. Proprietary job hunting and career advice. 
+
+To update your resume, go to:
+http://www.grassisgreener.com
+
+To tell a friend about GrassIsGreener.com, go to:
+http://host1.4at7.net/cgi-bin/a2bv/taf/src/grr/0002/grrtaf.jsp 
+
+If you have any questions, concerns or feedback, 
+please feel free to contact me either by 
+responding to this e-mail or clicking on the link 
+below. Thank you for your time and consideration. 
+
+Sincerely, 
+
+Chloe R. Seelbach 
+Product Manager - GrassIsGreener.com 
+cseelbach@grassisgreener.com 
+
+---------------------------------------------------------
+
+GrassIsGreener.com Privacy Policy: 
+http://secure.grassisgreener.com/userreg/Privacy.asp
+
+To be removed from our mailing list but keep a resume 
+on file, reply to this message and type "REMOVE" 
+in the subject line.
+
+To delete your resume from our database, go to:
+http://www.grassisgreener.com/resumeupdate/redirect.asp
+
+
+
+*************************************************************************************
+NOTICE: IF YOU CAN READ THIS, YOUR EMAIL PROGRAM IS NOT SET TO 
+RECEIVE HTML.  PLEASE DISREGARD THE CODE BELOW.  THANK YOU.
+*************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+<head>
+<title>grassisgreener.com</title>
+
+<!--<BASE HREF="http://www.netaddress.com/">-->
+</head>
+<body marginwidth=0 marginheight=0 topmargin=0 leftmargin=0 bgcolor="#FFFFFF">
+<!-- master table with background color -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%" bgcolor="#ffffff">
+    <tr> 
+        <td valign=top> 
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/grr_0001_01.gif" width=600 height=14 border=0 ></td> </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/grr_0001_02.jpg" width=600 height=26 border=0 ></td>
+                </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/grr_0001_03.jpg" width=600 height=75 border=0 ></td>
+                </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=0 width=600>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=43 height=329 border=0 ></td>
+
+<!--td holding body of text-->
+                    <td width=514 valign=top>
+                        <font size=5 color="#000000" face=verdana><b>SEARCH 8 MILLION JOBS. </b></font><font size=5 color="#336699" face=verdana><b>FREE.</b></font><br>
+                        <p>
+                        <font size=2 color="#000000" face=verdana> Dear Job Seeker, <br>
+                        </p>
+                        <p>
+                        Your search for that dream job just became easier than ever before.
+                        </p>
+<!--*******************dynamic URL's follow********************-->
+<p>
+Our company recently acquired a large database that contained your resume, and I am writing to give 
+you the opportunity to confirm that your information is up to date.  If you would prefer not to hear 
+from me again, you can unsubscribe as directed below. 
+</p>
+
+<p>
+Hundreds of employers scan our database every day, and I know from experience they pay particular 
+attention to resumes they believe are current.  Even if you are not looking for a job, it's always 
+worthwhile to update your resume, because you never know when someone might make you an offer you'd 
+like to consider.  If you would like to make your resume anonymous to protect your identity from 
+employers, you can do so when you update.  To review and update your resume, please <a href="http://4at3.net/KC19093452.3598.0.0.http%3A%2F%2Fwww.grassisgreener.com%2Fresumeupdate%2Fredirect.asp%3FuID%3D%7B20A3169B-EE09-470F-B74A-4344C6D64E87%7D%26vID%3D%7BC5BE3303-3988-4FBD-B960-78479CC4F3E3%7D%26cmd%3Dupdate">click here</a>. 
+</p>
+<p>
+Here's what else we offer...all for free!
+</p>
+
+<!--*******************dynamic URL's end********************-->
+                        </font>
+                        <table border=0 cellspacing=0 cellpadding=0>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>1.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>8 million job listings from over 100,000 different sites - all in one place.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>2.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>Biggest job site on the Web - 4 times bigger than Monster.com.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>3.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>New Match Engine<sup>sm</sup> technology - the most precise search engine on the Web.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>4.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana> Free resume blasting to all major job boards and 6,000 recruiters.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>5.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>Search alerts to have job opportunities e-mailed to you.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>6.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>Local salary comparison data.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>7.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>Personalized job search management tools.</font></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=4 border=0 ></td>
+                            </tr>
+                            <tr> 
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                                <td valign=top><font size=2 color="#000000" face=verdana><b>8.</b></font></td>
+                                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=10 height=2 border=0 ></td>
+                                <td><font size=2 color="#000000" face=verdana>Proprietary job hunting and career advice.</font></td>
+                            </tr>
+                        </table>
+                        <br>
+                        <font size=2 color="#000000" face=verdana>If you have any questions, concerns or feedback, 
+please feel free to contact me either by 
+responding to this e-mail or clicking on the link 
+below.  Thank you for your time and consideration. </font><br>
+                        <br>
+                        <font size=2 color="#000000" face=verdana>Sincerely,</font><br>
+                        <table border=0 cellspacing=0 cellpadding=0 width=514>
+                            <tr> 
+                                <td width=200><img src="http://4at2.com/email_domains/grr/0003/final/images/signature.gif" width=161 height=30 border=0 ><br>
+                                    <font size=2 color="#000000" face=verdana>Chloe R. Seelbach</font><br>
+                                     <font size=2 color="#000000" face=verdana>Product Manager - GrassIsGreener.com</font><br>
+                                    <font size=2 color="#000000" face=verdana><a href="http://4at3.net/KC19093452.3598.0.3479">cseelbach@grassisgreener.com</a><br>
+                                   <!--  <i>We get what you want</i><sup><font size=2 face=verdana>(sm)</font></sup><br> -->
+                                    <br>
+                                    </font></td>
+                                <td width=35><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=35 height=1 border=0 ></td>
+                                <td>
+	                                <table border=0 cellspacing=0 cellpadding=0>
+	                                	<tr>                                                                                                                                                       
+	                                		<td width=114><a href="http://4at3.net/KC19093452.3598.0.0.http%3A%2F%2Fwww.grassisgreener.com%2Fresumeupdate%2Fredirect.asp%3FuID%3D%7B20A3169B-EE09-470F-B74A-4344C6D64E87%7D%26vID%3D%7BC5BE3303-3988-4FBD-B960-78479CC4F3E3%7D%26cmd%3Dupdate"><img src="http://4at2.com/email_domains/grr/0003/final/images/resume.jpg" width="114" height="59" border="0"></a></td>
+	                                		<td width=15><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=15 height=1 border=0 ></td>
+	                                		<td width=114><a href="http://4at3.net/KC19093452.3598.0.3158"><img src="http://4at2.com/email_domains/grr/0003/final/images/taf.jpg" width="114" height="59" border="0"></a></td>
+	                                	</tr>
+	                                </table>
+                                </td>
+                                <td width=10><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=1 height=1 border=0 ></td>
+                            </tr>
+                        </table>
+                    </td>
+
+<!--/td holding body of text-->
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=43 height=329 border=0 ></td>
+                </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=600 height=38 border=0 ></td>
+                </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/grey_hr.jpg" width=600 height=2 border=0 ></td>
+                </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=0>
+                <tr> 
+                    <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=600 height=20 border=0 ></td>
+                </tr>
+            </table>
+            <table border=0 cellpadding=0 cellspacing=1>
+                <tr> 
+                    <td valign=top><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=43 height=10 border=0 ></td>
+                    <td width=515 valign=top><font size=1 color="#000000" face=verdana>GrassIsGreener.com <a href="http://4at3.net/KC19093452.3598.0.372">Privacy Policy</a></font></td>
+                <td valign=top><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=42 height=10 border=0 ></td>
+            </tr>
+        </table>
+        <table border=0 cellpadding=0 cellspacing=0>
+            <tr> 
+                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=600 height=5 border=0 ></td>
+            </tr>
+        </table>
+        <table border=0 cellpadding=0 cellspacing=1>
+            <tr> 
+                <td valign=top><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=43 height=55 border=0 ></td>
+                <td width=515 valign=top><font size=1 color="#000000" face=verdana>To be removed from our mailing list but keep a 
+resume on file, reply to this message and type "REMOVE" 
+in the subject line.<br><br>To delete your resume from our database, <a href="http://4at3.net/KC19093452.3598.0.0.http%3A%2F%2Fwww.grassisgreener.com%2Fresumeupdate%2Fredirect.asp%3FuID%3D%7B20A3169B-EE09-470F-B74A-4344C6D64E87%7D%26vID%3D%7BC5BE3303-3988-4FBD-B960-78479CC4F3E3%7D%26cmd%3Doptoutall">click here</a>.</font> </td>
+                <td valign=top><img src="http://4at2.com/email_domains/grr/0003/final/images/spacer.gif" width=42 height=55 border=0 ></td>
+            </tr>
+        </table>
+        <table border=0 cellpadding=0 cellspacing=0>
+            <tr> 
+                <td><img src="http://4at2.com/email_domains/grr/0003/final/images/pink_bar.jpg" width=600 height=23 border=0 ></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+</table>
+
+<!-- /master table with background color -->
+
+<img src="http://4at3.net/KC19093452.3598.0.-2.http%3A%2F%2F4at2.com%2Finvisible_gif%2Finvisible.gif"  WIDTH="1" HEIGHT="1">
+</body>
+</html>
+

@@ -1,0 +1,135 @@
+Return-Path: <cdalb56a@MailOps.Com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 13367 invoked from network); 22 Mar 2001 02:44:01 -0000
+Received: from olemail.terra.es (HELO tpsmtp1.mail.portal) (213.4.90.160)
+  by snssoftware.com with SMTP; 22 Mar 2001 02:44:01 -0000
+Received: from gauifnbece.cc.net.ei ([67.45.310.4]) by
+          rsi5s2.daida34xcentotera.chua.caimetsy.net.ie (8.9.1a/8.9.1/1.0)
+          with SMTP id NAA11875 ([219.45.36.257])        ([38.37.111.84])
+          by tpsmtp1.mail.portal (Netscape Messaging Server 4.15) with
+          SMTP id GAKVJ404.9LX; Thu, 22 Mar 2001 03:42:40 +0100 
+Message-ID: <00005aa5259e$00007ec2$00003065@pob23uifesi.cic.org.ar ([61.48.316.4]) by ris5s2.daidacent14sere1.chua.cesaimtv.net.ie (8.9.1a/8.9.1/1.0) with SMTP id NAE11975 ([217.45.256.4])>
+To: <res4>
+From: cdalb56a@MailOps.Com
+Subject: The StockDoubler - Buy Alert                          12389
+Date: Mon, 19 Mar 2001 16:20:49 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: cdalb56a@MailOps.Com
+Content-Length: 4019
+Lines: 110
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<title>THE STOCKDOUBLER</title>
+</head>
+
+<body>
+
+<div align=3D"center">
+  <table border=3D"0" width=3D"647" cellspacing=3D"0" cellpadding=3D"0">
+    <tr>
+      <td width=3D"645" bgcolor=3D"#000080">
+        <p align=3D"left"><font color=3D"#FFFFFF"><font face=3D"Arial" siz=
+e=3D"4"><b><br>
+        THE STOCKDOUBLER - BUY ALERT<br>
+        <br>
+        NATIONAL INSTITUTE COMPANIES OF AMERICA</b></font><br>
+        <br>
+        <font face=3D"Arial" size=3D"3"><b>Symbol:               NICM<br>
+        Listed:           OTC Pink Sheets<br>
+        Recent Price: .07<br>
+        52 Week Range: .04 - .77<br>
+        Shares Outstanding:       99 Million<br>
+        <br>
+        </b></font></font></td>
+    </tr>
+    <tr>
+      <td width=3D"645" bgcolor=3D"#FAF3C5">
+        <p align=3D"left"><br>
+        <font face=3D"Arial" size=3D"3">Now that we are in a bear market, =
+it's time for bargain hunting.
+        The StockDoubler is looking for companies that have dropped at lea=
+st 80% from their yearly highs, reasoning
+        that intelligent management will try to take advantage of depresse=
+d prices.  We believe
+        that National Institute Companies of America represents a great tu=
+rnaround opportunity.&nbsp;<br>
+        <br>
+        NICM has just announced a buy back of up to 10% of their outstandi=
+ng
+        shares and this is very bullish for three reasons:</font></p>
+        <ol>
+          <li>
+            <p align=3D"left"><font face=3D"Arial" size=3D"3">Management i=
+s optimistic and believes that their stock is
+            under priced.<br>
+            </font></li>
+          <li>
+            <p align=3D"left"><font face=3D"Arial" size=3D"3">Corporate bu=
+ying acts as a
+            &quot;floor&quot; beneath the market, forcing new buyers      =
+  to pay
+            more.<br>
+            </font></li>
+          <li>
+            <p align=3D"left"><font face=3D"Arial" size=3D"3">NICM has the=
+ excess cash available to buy their shares.</font></li>
+        </ol>
+        <p align=3D"left"><font face=3D"Arial" size=3D"3">National Institu=
+te Companies of America is a diversified financial holding company,
+        working with banks and financial institutions in their marketing o=
+f investments and
+        insurance. We expect NICM's experienced Board of Directors to cont=
+inue to be acquisition oriented
+        to fuel their growth.<br>
+        <br>
+        The stock is very liquid, typically trading over half a million sh=
+ares a day, and often has a
+        narrow bid/ask spread of a penny or less.  We also expect a bounce=
+ upward in price when
+        they graduate to the OTCBB later this year.<br>
+        <br>
+        Our strategy: Buy NICM at prices up to .25, and sell half if it do=
+ubles, holding the rest for
+        long-term gains.
+        </font>
+        <p align=3D"left"><font face=3D"Arial" size=3D"3">For inquiries an=
+d to
+        subscribe to future communications </font><a
+        href=3D"mailto:geoposti@uole.com?subject=3DMore Info NICM"><font f=
+ace=3D"Microsoft Sans Serif" size=3D"3"><b>CLICK
+        HERE</b></font></a><font color=3D"#0000ff"><u><br>
+        </u></font>
+        <hr color=3D"#000080">
+        <p align=3D"left"><font face=3D"Arial" size=3D"3">
+        The publisher of the StockDoubler is on retainer to the subject co=
+mpany at $5000/month,
+        and may buy or sell shares at any time.  Further information about=
+ National Institute
+        Companies of America may be obtained on-line at various financial =
+web sites.
+        </font>
+        <p align=3D"left"><font face=3D"Arial" size=3D"3"><a
+        href=3D"mailto:mortmail5@yahoo.com?subject=3DNo-NICM"><b>CLICK
+        HERE</b></a> to unsubscribe from further communication.<br>
+        </font></td>
+    </tr>
+  </table>
+</div>
+
+</body>
+
+</html>
+
+
+

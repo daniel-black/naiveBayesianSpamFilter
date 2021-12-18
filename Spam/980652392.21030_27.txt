@@ -1,0 +1,147 @@
+Return-Path: <itsblessed@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 23958 invoked from network); 28 Jan 2001 00:29:43 -0000
+Received: from unknown (HELO firewall) (210.241.239.202)
+  by em.ca with SMTP; 28 Jan 2001 00:29:43 -0000
+Received: (from root@localhost)
+	by firewall (8.9.3/8.9.3) id IAA29241;
+	Sun, 28 Jan 2001 08:48:38 +0800
+Date: Sun, 28 Jan 2001 08:48:38 +0800
+From: itsblessed@yahoo.com
+Message-Id: <200101280048.IAA29241@firewall>
+MIME-Version: 1.0
+Reply-To: itsblessed@yahoo.com
+To: better_1@email.com
+Subject: Full Version Software: FREE!!!!!
+Mime-Version: 1.0 
+Content-Type: text/html; charset="us-ascii"
+Content-Length: 8836
+Lines: 127
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<HTML>
+<HEAD>
+<script language="JavaScript">
+
+if (window.Event) // Only Netscape will have the CAPITAL E.
+  document.captureEvents(Event.MOUSEUP); // catch the mouse up event
+
+function nocontextmenu() //this function only applies to IE4, ignored otherwise.
+{
+        event.cancelBubble = true;
+        event.returnValue = false;
+        return false;
+}
+
+function norightclick(e)        // This function is used by all others
+{
+        if (window.Event)       // again, IE or NAV?
+        {
+                if (e.which == 2 || e.which == 3) return false;
+        }
+        else if (event.button == 2 || event.button == 3)
+        {
+                event.cancelBubble = true;
+                event.returnValue = false;
+                return false;
+        }
+}
+
+document.oncontextmenu = nocontextmenu;         // for IE5+
+document.onmousedown = norightclick;            // for all others
+window.oncontextmenu = nocontextmenu;         // for IE5+
+window.onmousedown = norightclick;            // for all others
+
+function initiate()
+{
+        //self.document.oncontextmenu = nocontextmenu;         // for IE5+
+        //self.document.onmousedown = norightclick;            // for all others
+        self.moveTo(100,100);
+}
+
+</SCRIPT>
+
+<noscript>
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://www.yahoo.com">
+</NOSCRIPT>
+
+</HEAD>
+<BODY BGCOLOR=#FFFFFF onLoad="initiate()">
+<form method="POST"
+action="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/http://yahoo.com/cgibin/search.cgi=what=help+me=http://www.yahoo.akadns.net/r/ed/highereducation/freesoft2.cgi">
+<div align="center">
+  <center>
+  <table border="1" cellspacing="0" width="460" cellpadding="3">
+    <tr>
+      <td width="717"><font size="2">The following message was sent to you as an
+        opt-in subscriber to our opt-in list. We&nbsp; will continue to bring
+        you valuable offers on the products and services that interest you most.
+        If you wish to unsubscribe <a href="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/remove/spl.html">click
+        here</a>:</font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+        <TR>
+                <TD>
+                        <a
+href="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865//HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft2/spl.html">
+                        <IMG SRC="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft/images/freesoft_01.gif" width=460 height=124 border="0"></a></TD>
+        </TR>
+        <TR>
+                <TD>
+                        <a
+href="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865//HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft2/spl.html">
+                        <IMG SRC="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft/images/freesoft_02.gif" width=460 height=99 border="0"></a></TD>
+        </TR>
+        <TR>
+                <TD bgcolor="#303468">
+            <font SIZE="2"></font><i><font size="3" color="#000080">.</font><font color="#FFFFFF"
+size="3"><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;Your resource for FREE cd-rom software!
+            Choose your FREE</font></i>
+            <p><i><font color="#FFFFFF" size="3">&nbsp;&nbsp;&nbsp;&nbsp;
+            software from<b> <u> thousands</u></b>  of the world's most popular
+            software</font></i></p>
+            <p><i><font color="#FFFFFF" size="3">&nbsp;&nbsp;&nbsp;&nbsp; titles
+            and you only pay $4.95 Shipping and Handling.</font></i></p>
+            <p><i><font color="#FFFFFF" size="3">&nbsp;&nbsp;&nbsp;&nbsp; Every
+            title you select is the complete, full-featured software-</font></i></p>
+            <p><i><font color="#FFFFFF" size="3">&nbsp;&nbsp;&nbsp;&nbsp; NOT
+            SHAREWARE OR DEMOS! No strings attached!</font></i></p>
+            <p><i><font color="#FFFFFF" size="3">&nbsp;&nbsp;&nbsp;&nbsp; Order
+            as many or as few as you like!
+            </font></i>
+  </center>
+        </TD>
+        </TR>
+        <TR>
+                <TD bgcolor="#303468">
+            <p align="right"><a
+href="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865//HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft2/spl.html"><img
+border="0" src="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft/images/freesoft_05.gif"></a>
+        </TD>
+        </TR>
+        <TR>
+                <TD>
+            <p align="center">
+                        <a
+href="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865//HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft2/spl.html">
+                        <IMG SRC="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/freesoft/images/freesoft_08.gif" width=460 height=86 border="0">
+                        </a>
+            <br>
+            <font size="2">Got a web site? <a href="http://32eb6eed5909675023bb30a451cdaa65-b8570aeb964:yahoo.com2b8c618a7066ac0891454-09603975782a6fd3Jx4+POyMerrJmeldSspZOn5jamMd6a4Ln5crU5M7Rxq2qmJibpqmrp28@696898287454081973172991196020261297062096.365375409332725729550921208179070754913983135888.2854495385411919762116571938898990272765493258.21778071482940061661655974875633165533377:23865/HoTMaiL.cgi+uid=666-http://www.cnn.net/today/20001225/worldnews/affiliate/spl.html">Click
+            Here </a>to become an affiliate &amp; give away <br>
+            FREE Full Version Software to your website visitors.</font></p>
+        </TD>
+        </TR>
+</TABLE>
+</div>
+</form>
+</BODY>
+</HTML>
+
+

@@ -1,0 +1,377 @@
+Return-Path: <acadiapark@labalaba.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 4061 invoked from network); 19 Feb 2001 01:39:50 -0000
+Received: from www.infomail.ne.jp (211.4.250.9)
+  by bfsmedia.sk.ca with SMTP; 19 Feb 2001 01:39:50 -0000
+Received: (qmail 19756 invoked from network); 19 Feb 2001 01:24:01 -0000
+Received: from unknown (HELO 900??205.184.255.23?) (205.184.255.23)
+  by www.infomail.ne.jp with SMTP; 19 Feb 2001 01:24:01 -0000
+Received: from Mail.NeweyAndEyre.Co.Uk by 900 with ESMTP; Sun, 18 Feb 2001 19:55:09 -0600
+Message-ID: <0000716a6a95$00005e9e$0000281c@Mail.NeweyAndEyre.Co.Uk>
+To: <a.congress@mail.dotcom.fr>
+From: acadiapark@labalaba.com
+Subject: Video Your Stock Broker does not want you to see                         10268
+Date: Sun, 18 Feb 2001 19:54:57 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: reverseme400@underwriters.com
+Return-Path: reverseme400@underwriters.com
+Reply-To: a.congress@mail.dotcom.fr
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+Content-Length: 10444
+Lines: 350
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<SCRIPT LANGUAGE=3D"JavaScript1.1">
+
+
+
+<!-- Begin
+function right(e)
+
+
+ {
+
+
+var msg =3D "Not Available";
+
+
+if (navigator.appName =3D=3D 'Netscape' && e.which =3D=3D 3)
+
+
+ {
+
+
+alert(msg);  // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+else
+
+
+if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && event.button=
+=3D=3D2)
+
+
+ {
+
+
+alert(msg); // Delete this line to disable but not alert user
+
+
+return false;
+
+
+}
+
+
+return true;
+
+
+}
+var mclick =3D  0;
+function cy(form)
+{
+    var mthanks =3D 'Thank  You For Your Interest';
+    var mclick =3D mclick+1;
+    var remmsg =3D "Error! Missing Data.";
+    if (!form.removeemail.value)
+         {
+         var remmsg =3D" Error!  Please enter an email address";
+         alert(remmsg);
+          return;
+          }
+    else
+         {
+            form.submit();
+            return;  
+         }
+           
+       
+} // End of function validate_remove
+
+
+function cyorder(form)
+{
+  var x=3D1;
+  var ordermsg =3D "Error!  Missing Data";
+  
+
+
+
+if (!form.Phone.value) {
+        var ordermsg =3D "Error!  Please enter your phone number.";
+         x=3D2; } 
+if (!form.State.value) {
+        var ordermsg =3D "Error!  Please enter your state.";
+         x=3D2; } 
+ if (!form.City.value){
+        var ordermsg =3D "Error!  Please enter your city.";
+          x=3D2; }
+ if (!form.Country.value){
+        var ordermsg =3D "Error!  Please enter your country.";
+          x=3D2; }
+ if (!form.Name.value){
+        var ordermsg =3D "Error!  Please enter your name.";
+          x=3D2; }
+if (x=3D=3D2) 
+{
+   alert(ordermsg);
+   return false; 
+}else{
+      form.submit();
+     return true; }
+   
+} // End of function validate_remove
+  
+
+document.onmousedown =3D right;
+
+// End -->
+
+
+</SCRIPT>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>This Automatic Money Magnet is Incredibley Easy 8215</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#FFFFFF">
+
+<P>
+<TABLE BORDER=3D"0" WIDTH=3D"553">
+	<TR>
+		<TD WIDTH=3D"481">
+			<P><FORM ACTION=3D"mailto:commodity4u8@usa.com?subject=3DPleaseCallandS=
+endVideo" METHOD=3D"POST" ENCTYPE=3D"text/plain"><FONT
+			COLOR=3D"#FF0000"><B>FREE DOW JONES INVESTMENT VIDEO! <BR>
+			</B></FONT><FONT COLOR=3D"#0033FF"><B>Build the future you want, with t=
+he index you can trust! <BR>
+			</B></FONT><FONT COLOR=3D"#000000"><BR>
+			Are you looking to protect yourself from a market correction<BR>
+			or to protect your overall portfolio? <B>Invest in something people<BR>
+			USE EVERYDAY </B>and will continue to use everyday...<B> COMMODITIES. <=
+/B><BR>
+			<BR>
+			<B>Don't just invest in stocks</B>, diversify your portfolio with futur=
+es<BR>
+			and futures options and accomplish your investment objectives!<BR>
+			There has never been a better time, and the correct information<BR>
+			has never been more readily available! Just look at the information <BR=
+>
+			you can find on the internet!<BR>
+			<BR>
+			People were making money with commodities long before the internet<BR>
+			was even invented! </FONT><FONT COLOR=3D"#0033FF"><B>This an inexpensiv=
+e alternative to &quot;just stock&quot;<BR>
+			ownership that can improve your overall portfolio by participating<BR>
+			in a broader worldwide market . </B></FONT><FONT COLOR=3D"#000000"><BR>
+			<BR>
+			Can you imagine, for just one day, how people would react<BR>
+			worldwide if they thought could not have their first cup of<BR>
+			coffee or even some orange juice in the morning?<BR>
+			</FONT><FONT COLOR=3D"#DD0000"><B>What would happen to prices? <BR>
+			</B></FONT><FONT COLOR=3D"#000000"><BR>
+			<B>Do you watch the news and pay attention to the signs around you? <BR=
+>
+			</B>At just a hint of a cold front, heating oil prices jump.<BR>
+			With just a hint of a frost in Florida or California,<BR>
+			orange prices jump. With just a hint of a hurricane heading<BR>
+			our way, plywood prices jump. Every year as vacation season<BR>
+			begins, gasoline prices jump.<BR>
+			<BR>
+			<B>This is the world of supply and demand...BUY LOW and SELL HIGH! </B>=
+<BR>
+			Do you remember when sugar prices went through the roof?<BR>
+			A lot of early investors in sugar made absolute fortunes!<BR>
+			<BR>
+			Commodities are used by people in literally every country<BR>
+			in the world. Such things as gasoline, heating oil, coffee,<BR>
+			sugar, corn, wheat, soybeans, apples, oranges, fish, beef,<BR>
+			and pork, are some of the more well known. You've probably<BR>
+			even heard of the infamous Pork Bellies! Let us show you<BR>
+			how you can participate and profit in this lucrative market<BR>
+			in the the new millenium!<BR>
+			<BR>
+			<B>Examples: <BR>
+			</B>1) Due to oversupplies, combined the current lack of Asian demand,<=
+BR>
+			<B>the prices of corn wheat, and soybeans are at their LOWEST<BR>
+			prices in 20 years! </B>However, with a significant drought in some maj=
+or grain<BR>
+			growing areas and early signs of economic recovery in Asia, grain<BR>
+			prices could increase substantailly soon. Learn how to speculate in<BR>
+			the grain markets by leveraging 25,000 bushels of corn, wheat, or soybe=
+ans!<BR>
+			<BR>
+			2) You can also profit NOW from today's high gas prices!<BR>
+			On a $5000 investment you can control over 420,000 gallons<BR>
+			of gasoline by using options. <B>Just a 5 cent movement in your favor<B=
+R>
+			means thousands of dollars of profit for you!</B><BR>
+			<BR>
+			&quot;Oil, a century old commodity, is behaving like an upstart<BR>
+			internet company.&quot; Wall Street Journal, April 2000<BR>
+			<BR>
+			Just ask Bill Lakewoth in Florida who said...<BR>
+			&quot;I clicked and<B> made $95,000 in less than 90 days! </B><BR>
+			Boy, do I like those Oil Markets!&quot;<BR>
+			<BR>
+			We are a small independent USA firm that really does cater to our clien=
+ts.<BR>
+			We have 25 years of experience and our results are second to none.<BR>
+			Learn how our clients get the best results and receive the most<BR>
+			professional care in the investment world today. <BR>
+			<BR>
+			</FONT><FONT COLOR=3D"#0033FF"><B>You have nothing to lose and everythi=
+ng to gain! </B></FONT><FONT COLOR=3D"#000000"><BR>
+			<BR>
+			</FONT><FONT COLOR=3D"#FF0000"><B>Get your FREE VIDEO NOW! </B></FONT><=
+FONT COLOR=3D"#000000"><BR>
+			<BR>
+			<B>Just type in the following required information and we<BR>
+			will call you back to confirm your request!</B><BR>
+			</FONT><BR>
+			
+			<TABLE BORDER=3D"0" WIDTH=3D"89%">
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">Full Name
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Name" SIZE=3D"29" MAXL=
+ENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%"><FONT COLOR=3D"#FF0000">Required</FONT></TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">Address
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Address" SIZE=3D"29" M=
+AXLENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%">&nbsp;</TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">City
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"29" MAXL=
+ENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%"><FONT COLOR=3D"#FF0000">Required</FONT></TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">State
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"State" SIZE=3D"29" MAX=
+LENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%"><FONT COLOR=3D"#FF0000">Required</FONT></TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">Country
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Country" SIZE=3D"29" M=
+AXLENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%"><FONT COLOR=3D"#FF0000">Required</FONT></TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">Zip Code
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Zip" SIZE=3D"14" MAXLE=
+NGTH=3D"14"></TD>
+					<TD WIDTH=3D"16%">&nbsp;</TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">Phone Number
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Phone" SIZE=3D"25" MAX=
+LENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%"><FONT COLOR=3D"#FF0000">Required</FONT></TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">Best Time To Contact You
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Best_Time" SIZE=3D"25"=
+ MAXLENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%">&nbsp;</TD>
+				</TR>
+				<TR>
+					<TD WIDTH=3D"36%">
+						<P ALIGN=3D"RIGHT">E-Mail
+					</TD>
+					<TD WIDTH=3D"48%"><INPUT TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"25" MAX=
+LENGTH=3D"35"></TD>
+					<TD WIDTH=3D"16%">&nbsp;</TD>
+				</TR>
+			</TABLE>
+<INPUT TYPE=3D"HIDDEN" NAME=3D"Subject" SIZE=3D"-1" VALUE=3D"Auth for Dow =
+Jones"><A NAME=3D"order"></A></P>
+			<P ALIGN=3D"CENTER"><B>Please click only once it may take up to 30 seco=
+nds.</B></P>
+			<CENTER>
+			<P><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VALUE=3D"I Authorize" onClick=
+=3D"cyorder(this.form)"></P>
+</CENTER>
+			<P><FONT COLOR=3D"#000000">**The Information submitted is treated as st=
+rictly confidential<BR>
+			and will be used for program package verification only.<BR>
+			<BR>
+			*There is a significant risk of loss in all commodity trading.<BR>
+			Only risk capital should be used. Carefully consider your<BR>
+			financial position before trading.</FONT></P>
+
+			<P><FONT COLOR=3D"#000000"><B><BR>
+			(REMOVAL INSTRUCTIONS)<BR>
+			</B>This mailing is done by an independent marketing company.<BR>
+			Please do not use the reply to this e-mail, an e-mail<BR>
+			reply cannot be read! If you would like to be removed from<BR>
+			our mailing list, just click below and send us a remove request email.<=
+BR>
+			<BR>
+			</FONT><BR>
+			<B>Please click only once it may take up to 30 seconds.</B><BR>
+						</FORM>
+<FORM ACTION=3D"getout2001@usa.com?subject=3DRemoveDowVideoPromo" METHOD=3D=
+"POST" ENCTYPE=3D"text/plain"><INPUT
+			TYPE=3D"HIDDEN" NAME=3D"RemoveIt" SIZE=3D"-1" VALUE=3D"Remove My Email =
+>From Any Future Dow Jones Mailings" ."> 
+			<TABLE BORDER=3D"0" WIDTH=3D"398" BGCOLOR=3D"#DDDDDD">
+				<TR>
+					<TD WIDTH=3D"100%" HEIGHT=3D"44" VALIGN=3D"TOP"><INPUT TYPE=3D"TEXT" =
+NAME=3D"removeemail" SIZE=3D"34"><INPUT TYPE=3D"SUBMIT" NAME=3D"Submit" VA=
+LUE=3D"Remove" onClick=3D"cy(this.form)"></TD>
+				</TR>
+			</TABLE>
+
+		</TD>
+	</TR>
+</TABLE>
+
+</FORM>
+
+
+</BODY>
+
+</HTML>
+
+
+

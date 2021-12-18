@@ -1,0 +1,49 @@
+Return-Path: <6L6dYThwi@verizon.com>
+Spam-Apparently-To: <bguenter@daedalus.bfsmedia.com>
+Received: (qmail 12346 invoked from network); 22 Jul 2001 00:40:35 -0000
+Received: from customer-148-223-160-40.uninet.net.mx (HELO mail.juce.com.mx) (148.223.160.40)
+  by daedelus.bfsmedia.com with SMTP; 22 Jul 2001 00:40:35 -0000
+Received: from 642k53VmJ (slip-12-64-24-248.mis.prserv.net [12.64.24.248]) by mail.juce.com.mx with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id P2CJQDQ2; Sat, 21 Jul 2001 02:08:55 -0600
+DATE: 21 Jul 01 12:06:31 AM
+FROM: 6L6dYThwi@verizon.com
+Message-ID: <dxoKQs2f1ZP7PI>
+Content-Type: text/htmlSUBJECT: Hey look at this, I can't believe how cheap this is...
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 5.50.4616.200" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV><FONT face=Arial size=2><FONT face=Arial size=2><FONT face=Arial 
+color=#0000ff size=2><STRONG>Remember the $200 website that was on TV?&nbsp;&nbsp; 
+  I just bought one for the business and Mary is getting one for her Ladies Golf 
+  Group. You can pick 4 different types of music and loads of different colors 
+  and templates.&nbsp; This same website was selling in L.A. for $3k retail at 
+  the convention last month.&nbsp; We only paid $200 AND it includes a vitual 
+  office and flash e-card so you can pass out floppys and the website as a business 
+  card! They give you a year of hosting for FREE!&nbsp; Better call them soon 
+  though, they may raise the price once this goes on TV again</STRONG></FONT><FONT face=Arial color=#0000ff size=2><STRONG>.&nbsp;If 
+  this doesn't play go to <A 
+href="http://flashmyweb.com">http:\\www.flashmyweb.com</A></STRONG></FONT></font></font></DIV><FONT face=Arial size=2>
+
+<P align=center>
+<OBJECT 
+codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#4,0,0,0 
+classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000 width="100%" height="100%"><PARAM NAME="_cx" VALUE="13388"><PARAM NAME="_cy" VALUE="4709"><PARAM NAME="Movie" VALUE="http://www.flashmyweb.com/800_3.swf"><PARAM NAME="Src" VALUE="http://209.126.160.37/800_3.swf"><PARAM NAME="WMode" VALUE="Window"><PARAM NAME="Play" VALUE="-1"><PARAM NAME="Loop" VALUE="-1"><PARAM NAME="Quality" VALUE="High"><PARAM NAME="SAlign" VALUE=""><PARAM NAME="Menu" VALUE="-1"><PARAM NAME="Base" VALUE=""><PARAM NAME="Scale" VALUE="ShowAll"><PARAM NAME="DeviceFont" VALUE="0"><PARAM NAME="EmbedMovie" VALUE="0"><PARAM NAME="BGColor" VALUE=""><PARAM NAME="SWRemote" VALUE=""><PARAM NAME="Stacking" VALUE="below">
+        <embed src="http://www.flashmyweb.com/800_3.swf" 
+pluginspage="http://www.macromedia.com/shockwave/download/" 
+type="application/x-shockwave-flash" width="100%" height="100%">    </embed>   
+</OBJECT></P></FONT>
+<div align="center">
+  <p>&nbsp;</p>
+  <p><b>You have received this email in accordance with your decision to opt-in 
+    on the Business Tools topics.</b></p>
+  <p>&nbsp;</p>
+  <p><b>To be removed from this list respond to optmeoutnow@aol.com with REMOVE 
+    in the subject line. </b></p>
+</div>
+</BODY></HTML>
+

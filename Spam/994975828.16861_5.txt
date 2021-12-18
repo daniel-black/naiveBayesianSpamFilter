@@ -1,0 +1,57 @@
+Return-Path: <cowboy1965@etang.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 25515 invoked from network); 12 Jul 2001 09:24:46 -0000
+Received: from jvcelec.com.my (202.185.189.1)
+  by snssoftware.com with SMTP; 12 Jul 2001 09:24:46 -0000
+Received: from html (localhost [127.0.0.1])
+	by jvcelec.com.my (8.10.1/8.10.1) with SMTP id f6C8k7v22461;
+	Thu, 12 Jul 2001 16:46:18 +0800 (SGT)
+Message-Id: <200107120846.f6C8k7v22461@jvcelec.com.my>
+From: cowboy1965@etang.com
+To: email@ueprom.com
+Subject: 
+Date: Thu, 12 Jul 2001 02:19:32
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 1088
+Lines: 35
+
+<p><u><i><Strong><b><font size="5">E-Marketing Specials:</font></b></strong></pp>
+
+</i></u>
+<ul>
+  <li>
+
+<font size="4">Bulk Friendly - Bulletproof hosting $269 per month/ no setup fee.&nbsp;</font></li>
+  <li>
+<font size="4">Bulk Friendly - Bulletproof POP3 Mailboxes. $219 per month $79 set up.&nbsp;</font></li>
+  <li>
+<font size="4">
+Daily Relay Service $100 per month.&nbsp;</font></li>
+  <li>
+<font size="4">
+Hosting and POP3 $399 per month no setup.&nbsp;</font></li>
+  <li>
+<font size="4">
+All 3 $488 per month no setup.&nbsp;(Savings of $100.00)</font></li>
+</ul>
+<p>
+<font size="4">
+Purchase any of the above packages and you receive
+free membership to the $99 club.&nbsp;</font></p>
+
+<p>
+
+<font size="4">
+
+FOR MORE INFO: <A HREF="mailto:cowboy1965@etang.com?Subject=More Hosting info!">Click HERE</A>&nbsp;</font>
+<font size="3">Please include contact information, email, name phone number</font></p>
+<font size="4">
+
+To Remove Your Address From Our Mailing List: <A HREF="mailto:cowboy1965@etang.com?Subject=Remove Me">Click HERE</A>&nbsp;</font>
+<p>&nbsp;</p>
+<p></font></p>

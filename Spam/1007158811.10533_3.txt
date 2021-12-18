@@ -1,0 +1,107 @@
+Return-Path: <info-sather-admin@gnu.org>
+Delivered-To: bruce-lists-sather@bruce-guenter.dyndns.org
+Received: (qmail 28536 invoked from network); 30 Nov 2001 16:00:53 -0000
+Received: from fencepost.gnu.org (199.232.76.164)
+  by lorien.untroubled.org (192.168.1.3) with ESMTP; 30 Nov 2001 16:00:53 -0000
+Received: from localhost ([127.0.0.1] helo=fencepost.gnu.org)
+	by fencepost.gnu.org with esmtp (Exim 3.22 #1 (Debian))
+	id 169q56-0000Yb-00; Fri, 30 Nov 2001 11:00:04 -0500
+Received: from [216.180.107.74] (helo=sclient)
+	by fencepost.gnu.org with esmtp (Exim 3.22 #1 (Debian))
+	id 169q3G-0000Vy-00
+	for <info-sather@gnu.org>; Fri, 30 Nov 2001 10:58:11 -0500
+Received: from koala.m6.net ([216.180.109.120]) by sclient with Microsoft SMTPSVC(5.0.2195.3779);
+	 Fri, 30 Nov 2001 16:07:01 +0000
+Received: from 110-MADR-XL5.libre.retevision.es [62.175.112.110] by koala.m6.net
+  (SMTPD32-7.04) id AC9951200A6; Fri, 30 Nov 2001 15:58:17 +0000
+From: "joaco@bocazas.com" <joaco@bocazas.com>
+To: <info-sather@gnu.org>
+Subject: hi
+MIME-Version: 1.0
+Content-Type: text/plain
+X-Mailer: JCourier 2000 - Version 1.2
+Message-Id: <20011130155832.SM03468@110-MADR-XL5.libre.retevision.es>
+X-OriginalArrivalTime: 30 Nov 2001 16:07:01.0366 (UTC) FILETIME=[0B9A5960:01C179B9]
+Sender: info-sather-admin@gnu.org
+Errors-To: info-sather-admin@gnu.org
+X-BeenThere: info-sather@gnu.org
+X-Mailman-Version: 2.0.5
+Precedence: bulk
+List-Help: <mailto:info-sather-request@gnu.org?subject=help>
+List-Post: <mailto:info-sather@gnu.org>
+List-Subscribe: <http://mail.gnu.org/mailman/listinfo/info-sather>,
+	<mailto:info-sather-request@gnu.org?subject=subscribe>
+List-Id: Announcements and discussions about the GNU Sather object oriented language <info-sather.gnu.org>
+List-Unsubscribe: <http://mail.gnu.org/mailman/listinfo/info-sather>,
+	<mailto:info-sather-request@gnu.org?subject=unsubscribe>
+List-Archive: <http://mail.gnu.org/pipermail/info-sather/>
+Date: Fri, 30 Nov 2001 05:02:24
+Content-Length: 8667
+
+Buenas! Soy Joaquin Grech, o Creative1. La version en castellano la pongo al final del email. (ojo que no son  exactamente iguales)
+
+Hi there! This is Joaquin Grech, an NYU student...
+
+First I appologize if you shouldn't be receiving this email, I am replying to my whole inbox (I had no idea I had more than 20000 email address on it) and I removed by hand some of them but I couldn't remove all of them. Anyway, since you are in my inbox you know me for one or another reason :)
+As you most likely know, Im currently in Madrid working my butt off to try to get money and finish my degree at nyu. Ironically nyu has its special International Students Office and clubs, but do NOT give any kind of scholarship or finantial help to international students. So at my senior year Im seen that most likely I won't be able to finish my degree eventhough the Office International Students' dean (Anne Blatz) keeps in touch with me and seriously, she tries her best to help us (international students) out, I have no complain about her as been the best dean I know. Ok, enough bitching about nyu...
+
+The point is, with the money I paid a semester tuition at nyu Im able to start  10 companies in Spain (that gives lot to think about...), so that's what I did. I have started my own company to try to get enough money to go back to ny and get my degree before deadline, and here is the result: http://www.bocazas.com
+
+The idea behind bocazas is to make publicly available what I was doing for years, anytime I had a question or was searching for information I wrote at forums, searched the web, but  most importantly I entered a chat network and joined whatever channel (#math #history #c++) and asked for help. I even started several years ago my own non-profit chat network joining some universities and companies as most of you know, which is currently the biggest latino international chat network in the world (20000 users per day), but lot of people doesn't even know that the chat can be of so much help, they see it as a 'flirt' place.
+So yeah, you can go into bocazas, register your own channel of whatever kind of subject you like in any chat network or enter any registered channel that already figures there (any language, any country, etc...) and put a direct link from your own website (or email)
+I also added forums just in case you need them and added my own chat program that can be downloaded and put in any website (on this first week I got more than 700 downloads and very good comments on it, I'm sleeping quite happy lately, I must admit that the program is quite impressive too :)
+
+Ok, all of that is for free, so you might be wondering how I'm planning to get money. Well, right now I have 3 options:
+1) The chat program you use has publicity, my website has publicity, and as today it is showing more than 30000 banners per day, so if anybody wants to put publicity on it... you are more than welcome :)
+2) If anybody wants the chat program modified without showing my logo or banners, and showing your logo and your banner (like any internet portal or company), you can register it.
+3) If anybody wants to remove my logo and ads from the forum they can pay a fee too, so they can add that on their company website.
+
+Ok, basically that's it, thanks alot to most of you guys who have been very supportive testing all my programming 'skills' (yep, I call those numerous old crashes skills hehe :) and special thanks to my nyu (Tete, Joe, Deana) and union latina friends (Juanito, Floria, Trencitas, Praedo, Natja, Mundofly...) who are there always for me.
+
+ps. I hope nyu sees that it is irrational not to give their own merit scholarships to ANY nyu student, EVEN international ones (and I don't mean a $2000 for a $32000 tuition) I hope some smart guy at nyu get this email. Economy is down big time in other countries compared to USA, that amount is huge!
+
+Joaquin Grech (personal email creative1@bigfoot.com)
+whatever question about bocazas info@bocazas.com
+
+http://www.bocazas.com
+http://www.creative1.net
+
+------ Version en castellano -----
+
+Buenas!
+
+Primero disculpadme sino deberiais estar recibiendo este email, estoy respondiendo a todo mi buzon de inbox (no tenia ni idea de que tenia mas de 20000 direcciones email ahi) y he borrado unas cuantas a mano pero no he podido con todas. De todas formas si estas en mi inbox es que me debes de conocer por uno u otro motivo :)
+Como seguramente sepas, actualmente estoy en Madrid matandome a currar para conseguir dinero y terminar mi carrera en la universidad de nueva york (nyu). Curiosamente nyu tiene su particular club y oficina para estudiantes internacionales pero no dan un duro en becas ni en nada si eres extranjero. Asi que me temo que a falta de un a¤o para terminar mi carrera no podre conseguirlo por falta de dinero, a pesar e que estoy en contacto continuo con la dean de la oficina de estudiantes internacionales (Anne Blatz) quien, todo hay que decirlo, intenta ayudarme como buenamente puede. (Es la mejor dean de la universidad para mi gusto). Bueno, dejo de quejarme de nyu...
+
+A lo que iba, con el dinero que cuesta pagar un semestre en nyu, puedo empezar casi 10 compa¤ias en Espa¤a (lo cual da mucho que pensar...), asi que eso hice. He empezado mi propia empresa para intentar conseguir suficiente dinero y volver a ny para terminar la carrera antes de la fecha limite, y el resultado ha sido: http://www.bocazas.com
+
+La idea detras de bocazas (si ya se que el nombre se las trae, ya contare algun dia su historia) es intentar hacer publico lo que llevo haciendo por varios a¤os, siempre que he tenido alguna duda o necesitaba ayuda inmediata sobre un tema en concreto, escribia en los foros, buscaba por internet, pero sobre todo, entraba a alguna red de chat al canal adecuado (#matematicas #cine #c++) y pedia ayuda. Incluso hace unos a¤os llegue a empezar mi propia red de chat sin animo de lucro, convirtiendose en el chat latino internacional mas grande del mundo con mas de 20000 usuarios al dia. Pero el problema es que la gran mayoria de la gente no sabe la gran ayuda que puede ser un canal de chat y solo lo ven como un sitio de 'ligoteo' lleno de 'raritos'.
+Asi que ahora mismo, puedes ir a bocazas, registrar tu propio canal del tema que te apetezca en cualquier red y en cualquier idioma o utilizar cualquiera de los canales ahi ya listados y linkarlo desde tu propia pagina web (o incluso desde el email).
+Tambien he a¤adido unos foros por si acaso los necesitais y me he currado mi propio programa de chat que puede bajarse e instalarse en cualquier pagina web (en esta primera semana se han bajado 700 y con muy buenos comentarios http://www.galeon.com/sologratis/bocazas.html (lo han descrito mejor que yo jejeje) asi que estoy bastante contento, aunque debo admitir que el programa me ha quedado bastante cuco :)
+
+Bueno, asi que todo esto es gratis, entonces me preguntaras de donde pienso sacar dinero a este paso? Bueno, pues ahora mismo tengo 3 vias de ingresos principales:
+1) El programa de chat que utilizais tiene publicidad, mi web tiene publicidad y hoy en dia muestra mas de 30000 anuncios al dia, asi que si alguien quiere poner publicidad... eres bienvenido :)
+2) Si alguien quiere mi programa de chat modificado para que no muestre ni mi logo ni mis anuncios, y que muestre tus logos y tus anuncios (como un portal o una compa¤ia), lo puedes registrar.
+3) Si alguien quiere quitar mi logo y mis anuncios de los foros, pueden pagar una tarifa y asi podran linkarlo desde su propia web sin que se note donde esta.
+
+Asi que basicamente eso es todo, muchas gracias a la mayoria de vosotros que ha estado apoyandome y comprobando mis habilidades informaticas (si, si, todos esos fallos que me ayudasteis a corregir eran habilidades informaticas) y gracias especialmente a mis amigos en nyu (Tete, Joe, Deana) y mis amigos en union latina (Juanito, Floria, Trencitas, Praedo, Natja, Mundofly...) quienes estan siempre ahi echandome un cable.
+
+ps. Hay que ser melones en nyu para no ver que las becas se deberian dar a todos los estudiantes por igual y no solo a los americanos.
+
+Joaquin Grech (email personal creative1@bigfoot.com)
+Cualquier tema relacionado con bocazas info@bocazas.com)
+
+http://www.bocazas.com
+http://www.creative1.net
+
+
+
+______________________________________________________________________
+This E-mail was sent using JCourier 2000, 1.2 - an E-mail Auto-Responder, Bulk-Mailer and Auto-Forwarding software. 
+For more information and FREE download - 
+visit http://www.myjavaworld.com
+
+_______________________________________________
+Info-sather mailing list
+Info-sather@gnu.org
+http://mail.gnu.org/mailman/listinfo/info-sather

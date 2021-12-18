@@ -1,0 +1,54 @@
+Return-Path: <GrowPenisGROW@hotmail.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 8375 invoked from network); 25 Mar 2001 23:59:04 -0000
+Received: from mta5-rme.xtra.co.nz (203.96.92.17)
+  by snssoftware.com with SMTP; 25 Mar 2001 23:59:04 -0000
+Received: from rmpkfnotes.rmpkf.co.nz ([210.54.249.21])
+          by mta5-rme.xtra.co.nz with ESMTP
+          id <20010325235143.SXUD9096912.mta5-rme.xtra.co.nz@rmpkfnotes.rmpkf.co.nz>;
+          Mon, 26 Mar 2001 11:51:43 +1200
+Received: from aol ([192.168.0.2])
+          by rmpkfnotes.rmpkf.co.nz (Lotus Domino Release 5.0.6a)
+          with SMTP id 2001032611084889:1968 ;
+          Mon, 26 Mar 2001 11:08:48 +1200 
+From: GrowPenisGROW@hotmail.com
+To: 
+Subject: hey
+Date: Sun, 25 Mar 2001 12:21:14 -0800
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-MIMETrack: Itemize by SMTP Server on rmpkfnotes/pkf-nz(Release 5.0.6a |January 17, 2001) at
+ 26/03/2001 11:08:49,
+	Serialize by Router on rmpkfnotes/pkf-nz(Release 5.0.6a |January 17, 2001) at
+ 26/03/2001 11:48:46,
+	Serialize complete at 26/03/2001 11:48:46
+Message-ID: <OF32C21B22.5E2088E9-ONCC256A1A.007F2679@rmpkf.co.nz>
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_7E81_000037C0.000057B5"
+Content-Length: 735
+Lines: 23
+
+------=_NextPart_000_7E81_000037C0.000057B5
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+<HTML>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function fullScreen(theURL) {
+window.open("http://www.freehostinet.com/members/justin3727/", '', 'fullscreen=yes, scrollbars=auto');
+}
+//  End -->
+</script>
+</HEAD>
+
+<BODY>
+<FONT SIZE=5><B>
+<CENTER><a href="http://www.freehostinet.com/members/justin3727/" onClick="fullScreen('full-screen.html');">Guys, add 2-4 inches to your penis within a few short weeks, Guaranteed!  Our program provides time tested methods, proven to work by top medical professionals. Our program has an over 98% success rate, and results are a promise. You have nothing to lose! CLICK HERE TO SEE!!</a></CENTER>
+<HTML>
+</BODY></HTML>
+
+

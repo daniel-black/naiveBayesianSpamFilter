@@ -1,0 +1,145 @@
+Return-Path: <M.Daniels@adicecei.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3787 invoked from network); 27 Nov 2001 12:10:52 -0000
+Received: from unknown (HELO gateway1.readyhosting.com) (63.119.175.29)
+  by agamemnon.bfsmedia.com with SMTP; 27 Nov 2001 12:10:52 -0000
+Received: from communigate.cdtel.fr [209.99.226.76] by gateway1.readyhosting.com
+  (SMTPD32-6.06) id A15D18180132; Tue, 27 Nov 2001 06:04:45 -0600
+From: "M.Daniels@adicecei.com" <M.Daniels@adicecei.com>
+To: "1827@aol.com" <1827@aol.com>
+Message-ID: <1006844201.0401113425@communigate.cdtel.fr>
+Subject: Pay nothing for your conference calls!
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 27 Nov 2001 06:05:55 -0600
+Content-Length: 4784
+
+<HTML><HEAD><TITLE>Take Control Of Your Conference Calls</TITLE>
+<META http-equiv=3DContent-Type content=3D=22text/html; charset=3Dwindows-1=
+252=22>
+<META content=3D=22MSHTML 5.50.4134.600=22 name=3DGENERATOR></HEAD>
+<BODY vLink=3D=23c0c0c0 link=3D=23c0c0c0 bgColor=3D=23000000 leftMargin=3D0><F=
+ONT 
+face=3Darial,helvetica>
+<P>
+<CENTER>
+<TABLE width=3D600 border=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle><B><FONT color=3D=23999999 size=3D6>Long Distance 
+      Conferencing<BR>Only <U>18 Cents</U> Per 
+Minute</B></FONT></TD></TR></TBODY></TABLE>
+<P><FONT color=3D=23ff0000 size=3D5><B>Connects Up To 100 Participants=21</=
+B></FONT> 
+<P>
+<TABLE width=3D350 border=3D0>
+  <TBODY>
+  <TR>
+    <TD><FONT color=3D=23999999 size=3D3><B>
+      <LI>No setup fees 
+      <LI>No contracts or monthly fees 
+      <LI>Call anytime, from anywhere, to anywhere 
+      <LI>International Dial In 18 cents per minute 
+      <LI>Simplicity in set up and administration 
+      <LI>Operator Help available 24/7 </B></FONT></LI></TD></TR></TBOD=
+Y></TABLE>
+<P>
+<TABLE width=3D500 border=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle><FONT color=3D=23ff0000 size=3D60><B><FONT size=3D5>G=
+et the best 
+      quality, the easiest to use, and lowest rate in the 
+      industry.</B></FONT></FONT></TD></TR></TBODY></TABLE>
+<P>
+<TABLE width=3D400 border=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle><FONT color=3D=23999999 size=3D4>If you like saving =
+money, fill 
+      out the form below and one of our consultants will contact 
+  you.</FONT></TD></TR></TBODY></TABLE>
+<P><FONT color=3D=23999999 size=3D2>Required Input Field<FONT color=3D=23ff0=
+000 
+size=3D2>*</FONT></FONT> 
+<P>
+<TABLE cellSpacing=3D0 borderColorDark=3D=23333300 cellPadding=3D3 width=3D6=
+00 
+borderColorLight=3D=23ffffcc>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle>
+      <FORM action=3Dmailto:inboxx987=40yahoo.com?subject=3DConference_Inq=
+uiry 
+      method=3Dpost encType=3Dtext/plain>
+      <TABLE width=3D=22100%=22>
+        <TBODY>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 
+          size=3D2>Name*</FONT></TD>
+          <TD><INPUT name=3DNAME></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>Web 
+            Address*</FONT></TD>
+          <TD><INPUT value=3Dhttp:// name=3DURL></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>Company 
+            Name*</FONT></TD>
+          <TD><INPUT name=3DCOMPANY_NAME></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>
+            State*</FONT></TD>
+          <TD><INPUT size=3D2 name=3DSTATE></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>Business 
+            Phone*</FONT></TD>
+          <TD><INPUT name=3DBUS_PHONE></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>Home 
+            Phone</FONT></TD>
+          <TD><INPUT name=3DHOME_PHONE></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>Email 
+            Address*</FONT></TD>
+          <TD><INPUT name=3DEMAIL></TD></TR>
+        <TR>
+          <TD align=3Dright width=3D=2250%=22><FONT 
+            face=3D=22Arial, Helvetica, sans-serif=22 color=3D=23ff0000 size=
+=3D2>Type of 
+            Business</FONT></TD>
+          <TD><INPUT name=3DTYPE_OF_BUSINESS></TD></TR></TBODY></TABLE>
+      <P><INPUT type=3Dsubmit value=3D=22Submit Information=22 name=3Dsubmit=
+> 
+    </FORM></P></TD></TR></TBODY></TABLE>
+<BR><BR>
+<TABLE width=3D500>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle><FONT face=3D=22Arial, Helvetica, sans-serif=22 colo=
+r=3D=23999999 
+      size=3D1>This ad is being sent in compliance with Senate Bill 1618=
+, Title 3, Section 301.
+      You have recently visited our web site, referral or affiliate sit=
+es which indicated you were 
+      interested in communication services.  If this email is reaching =
+you in error and you feel that you have not contacted 
+      us, <FONT color=3D=23666666><A href=3D=22mailto:marketingg02=40yahoo.c=
+om?subject=3DRemove_Conferencing=22>Click 
+      here</A></FONT>. We sincerely apologize, and assure you will be r=
+emoved from our distribution list.
+</FONT></TD></TR></TBODY></TABLE></P></CENTER></BODY></HTML>

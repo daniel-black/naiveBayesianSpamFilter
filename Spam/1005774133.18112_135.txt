@@ -1,0 +1,67 @@
+Return-Path: <greatdeals@oniken.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 1114 invoked from network); 14 Nov 2001 00:27:54 -0000
+Received: from unknown (HELO oniken.com) (209.114.204.66)
+  by agamemnon.bfsmedia.com with SMTP; 14 Nov 2001 00:27:54 -0000
+Received: (qmail 25256 invoked by uid 500); 14 Nov 2001 13:22:24 -0000
+Date: 14 Nov 2001 13:22:24 -0000
+Message-ID: <20011114132224.25255.qmail@oniken.com>
+X-Sender: oniken.com
+X-MailID: oni6_27200_123
+To: gn@bfsmedia.com
+From: Great Deals <greatdeals@oniken.com>
+Subject: gn, Your Mortgage Information
+Reply-To: Great Deals <greatdeals@oniken.com>
+Content-Type: text/html;
+Content-Length: 2341
+Lines: 49
+
+
+<html>
+<body bgcolor="#FFFFFF">
+<html>
+
+<div align="center">
+  <center>
+  <table border="0" width="550" cellspacing="0">
+    <tr>
+      <td width="100%">
+        <p align="center"><font face="Arial"><b><font size="4">Mortgage Rates Have Been Slashed Again!<br>
+        </font></b><font size="2">We can help you get up to 125% of your homes value
+        </font></font></p>
+          <p><font color="#FF0000" size="2" face="Arial"><b>- </b></font><font size="2" face="Arial" color="#FF0000"><b>Lower 
+            your monthly payment!<br>
+            - Shorten the term of your loan!<br>
+            - Reduce your interest rate!</b></font></p>
+        <p align="center"><font face="Arial" size="2"><b>You can save thousands
+        of dollars over the course of your loan with just a .25% drop in your
+        rate!</b></font></p>
+        <p align="center"><font face="Arial" size="2" color="#FF0000"><b>NOW is
+        the time to refinance... rates have NEVER been lower!</b></font></p>
+        <p align="center"><font face="Arial" size="2">We <b>CAN assist everyone</b>,
+        even if you've been turned down before!</font></p>
+        <p align="center"><font face="Arial" size="2">Take just a minute to
+        complete this form and a Loan Consultant will contact you at your
+        convenience.</font></p>
+        <p align="center"><b><a href="http://tracking.oniken.com/cgi-bin/t?d=123&e=gn@bfsmedia.com"><font face="Arial" size="5">Click
+        Here To Save Thousands</font></a></b>
+          <p align="center"><font face="Arial" size="2">Your information is <b>secure</b>, 
+            <b>confidential</b> and<br>
+            you are under <b>NO OBLIGATION</b> for this<br>
+            <b>FREE analysis</b>.</font>
+        </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p align="center"></p>
+<p align="center"><br>
+<br>
+<br>
+<p>&nbsp;</p>
+<font face=Arial size=1>
+<p>This is not an unsolicited (spam) e-mail. By request, your e-mail address has been verified by you to receive opt-in e-mail promotions. If you do not wish to receive these emails and want to remove yourself from the terms of this verification, please click this link: <a href="http://unsub.oniken.com/cgi-bin/remove.cgi?e=gn@bfsmedia.com">UNSUBSCRIBE ME</a>
+</body>
+<font face=Arial size=1>oni6_27200_123</font>
+</html>
+			

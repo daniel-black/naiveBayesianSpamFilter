@@ -1,0 +1,673 @@
+Return-Path: <news@thewesternweb.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 17097 invoked from network); 7 Oct 2001 23:30:30 -0000
+Received: from unknown (HELO ezonicmail.ns1.ezonic.net) (209.189.73.40)
+  by agamemnon.bfsmedia.com with SMTP; 7 Oct 2001 23:30:30 -0000
+Received: from localhost (unverified [209.189.73.7]) by ezonicmail.ns1.ezonic.net
+ (Vircom SMTPRS 5.0.193) with SMTP id <B0001539523@ezonicmail.ns1.ezonic.net> for <design@bfsmedia.com>;
+ Sun, 7 Oct 2001 16:37:12 -0700
+Date: Sun, 7 Oct 2001 16:37:12 -0700
+Message-ID: <B0001539523@ezonicmail.ns1.ezonic.net>
+Content-type: text/html
+To: design@bfsmedia.com
+From: news@thewesternweb.net
+Reply-to: news@thewesternweb.net
+Subject: The Western Web Newsletter
+Content-Length: 35795
+Lines: 655
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language='javascript' 
+
+src='http://hc2.humanclick.com/hc/61953557/x.js?cmd=file&file=chatScript3&site=61953557&category=en;general;set-b'> 
+
+</script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<style>
+<!--
+ A:link { font-family: Verdana,Tahoma,Arial,Helvetica,sans-serif; font-size: x-small; color: rgb(0,51,204); font-weight: 
+
+normal; font-style: normal;}-->
+</style>
+<body bgcolor="#000000">
+
+<div align="center">
+  <center>
+  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#0000FF" width="757" 
+
+height="433" id="AutoNumber1">
+    <tr>
+      <td width="757" height="85" bgcolor="#000000" colspan="4">
+      <p align="center">
+      <img height="115" src="http://www.thewesternweb.com/images/Advertisers/WWLogoPlain.jpg" width="508" align="center" 
+
+border="0"></td>
+    </tr>
+    <tr>
+      <td width="757" height="74" bgcolor="#000096" colspan="4">
+      <p align="center">
+      <img border="0" src="http://www.equinesupplydirect.net/_images/banners/logo_lowprice450redSALEoct.gif" width="449" height="139"></td>
+    </tr>
+    <tr>
+      <td width="757" height="52" colspan="4" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+      <p align="center"><B><FONT color=#0066cc face="Tahoma, Verdana" 
+            size=4>
+      <IMG 
+            src="http://www.dvdadvantage.com/images/sizzling.gif" width="125" height="45"> </FONT>
+      <FONT color=#0033CC face="Verdana" 
+            size=5>Featured Classified Ads</FONT></B></td>
+    </tr>
+    <tr>
+      <td width="182" height="24" bgcolor="#0000FF" bordercolor="#0000FF" bordercolorlight="#0000FF" 
+
+bordercolordark="#0000FF">
+      <p align="center" style="margin-top: 0; margin-bottom: 0">
+      <font color="#FFFFFF" face="Arial" size="1">FOR SALE: Beautiful Weanling</font></p>
+      <p align="center" style="margin-top: 0; margin-bottom: 0">
+      <font color="#FFFFFF" face="Arial" size="1">&nbsp;App Filly</font></td>
+      <td width="188" height="24" bgcolor="#0000FF" bordercolor="#0000FF" bordercolorlight="#0000FF" 
+
+bordercolordark="#0000FF">
+      <p align="center"><font color="#FFFFFF" face="Arial" size="1">FOR SALE: 
+      Grandson of Khemosabi</font></td>
+      <td width="175" height="24" bgcolor="#0000FF" bordercolor="#0000FF" bordercolorlight="#0000FF" 
+
+bordercolordark="#0000FF">
+      <p align="center"><font color="#FFFFFF" face="Arial" size="1">FOR SALE: 
+      Squirt Olena</font></td>
+      <td width="201" height="24" bgcolor="#0000FF" bordercolor="#0000FF" bordercolorlight="#0000FF" 
+
+bordercolordark="#0000FF" valign="top">
+      <p align="center"><b><font face="Arial" size="1" color="#FFFFFF">Show Off 
+      Your American Patriotism</font></b></td>
+    </tr>
+    <tr>
+      <td width="182" height="153" bordercolor="#0000FF" bordercolorlight="#0000FF" bordercolordark="#0000FF" 
+
+bgcolor="#FFFFFF" valign="middle">
+        <p></p>
+        <p>
+        <a href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=appaloosa&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=455&query=retrieval">
+        <img border="0" src="http://www.thewesternweb.com/nli/appaloosa455.jpg" align="left" width="75" height="60"></a><font face="Arial" size="1">Maggie 
+        has a baby doll head and round, muscled hip. Big dark eye and pretty 
+        neck. </font></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p align="center" style="margin-top: 0; margin-bottom: 0">
+        &nbsp;<p align="center" style="margin-top: 0; margin-bottom: 0">
+        <SPAN style="FONT-SIZE: xx-small"><font face="Arial">Click </font>
+        <a style="font-size: xx-small; font-weight: bold; font-family: Arial; color: rgb(0,51,204); font-style: normal" href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=appaloosa&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=455&query=retrieval">HERE</a><font face="Arial"> 
+        to view </font></SPAN><p align="center" style="margin-top: 0; margin-bottom: 0">
+        &nbsp;</td>
+      <td width="188" height="153" bordercolor="#0000FF" bordercolorlight="#0000FF" bordercolordark="#0000FF" 
+
+bgcolor="#FFFFFF" valign="middle">
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p><font size="1">
+      <a href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=arabians&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=665&query=retrieval">
+      <img border="0" src="http://www.thewesternweb.com/nli/arabians6651.jpg" align="left" width="75" height="56"></a></font></p>
+      <P style="PADDING-LEFT: 3px">
+        <font face="Arial" size="1">This guy will make a great western pleasure 
+        of endurance mount. He has a very willing attitude and a super 
+        personality. He leads, ties, loads, and stands for the ferrier</font></P>
+            <P style="PADDING-LEFT: 3px"><SPAN style="FONT-SIZE: xx-small">
+            <font face="Arial">Click </font>
+            <a style="font-size: xx-small; font-weight: bold; font-family: Arial; color: rgb(0,51,204); font-style: 
+
+normal" href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=arabians&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=665&query=retrieval">HERE</a><font face="Arial"> 
+            to view </font></SPAN></P></td>
+      <td width="175" height="153" bordercolor="#0000FF" bordercolorlight="#0000FF" bordercolordark="#0000FF" 
+
+bgcolor="#FFFFFF">
+      <a href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=asquarterhorses&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=2453&query=retrieval">
+      <img border="0" src="http://www.thewesternweb.com/nli/asquarterhorses2453.jpg" align="left" width="76" height="70"></a><font face="Arial" size="1">Real 
+      cute yearling Filly by AQHA World Champion Cutting Horse Si Olena, LTE 
+      $100,000 +.Out of an own daughter of Peppy San Badger. Email for Pictures.</font><p><SPAN style="FONT-SIZE: xx-small">
+            <font face="Arial">Click </font>
+            <a style="font-size: xx-small; font-weight: bold; font-family: Arial; color: rgb(0,51,204); font-style: 
+
+normal" href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=asquarterhorses&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=2453&query=retrieval">HERE</a><font face="Arial"> 
+            to view </font></SPAN></td>
+      <td width="201" height="153" bordercolor="#0000FF" bordercolorlight="#0000FF" bordercolordark="#0000FF" 
+
+bgcolor="#FFFFFF">
+      <p><SPAN style="FONT-SIZE: xx-small">
+      <font face="Arial">&nbsp;</font></SPAN><table border="0" cellPadding="0" cellSpacing="2" width="204">
+        <tr>
+          <td align="left" vAlign="top" width="200">
+          <a class="scap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2613">
+          <b><font face="Arial" size="1">Dog Tag with Beaded Flag</font></b></a></td>
+        </tr>
+        <tr>
+          <td vAlign="top" width="200">
+          <a href="http://www.equinesupplydirect.net/details.asp?prodID=2613">
+          <font face="Arial" size="1">
+          <img align="right" border="0" hspace="3" src="http://www.equinesupplydirect.net/_images/products/dogtagl80.jpg" vspace="3" width="40"></font></a><font face="Arial" size="1">
+          <span class="stext0">Show off your Patriotism with this Unique hand 
+          beaded American Flag Dog Tag. Shipping is $3.95</span> ... </font>
+          <a class="stext0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2613">
+          <b><font face="Arial" size="1">more</font></b></a><font face="Arial" size="1">
+          </font></td>
+        </tr>
+        <tr>
+          <td width="200">
+          <table border="0" cellPadding="0" cellSpacing="0" width="192">
+            <tr>
+              <td align="middle" class="sprice" noWrap width="192"><b>
+              <font face="Arial" size="2" color="#993300"><span class="new">
+              $21.56</span></font></b><p>&nbsp;</td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="182" height="28" bgcolor="#FFFFFF">&nbsp;</td>
+      <td width="564" height="28" colspan="3" bgcolor="#000096"><b>
+      <font face="Arial" size="2" color="#FFFFFF">
+      <a 
+
+href="http://www.westernwebclassified.com/cgi-bin/classifieds/classifieds.cgi?db=aspainthorse&website=&language=&session_key=&search_and_display_db_button=on&results_format=long&db_id=1427&query=retrieval">
+      <font color="#FFFFFF">Click Here To View Over 10,000 Classified Ads or Add 
+      Your FREE PHOTO Ad</font></a></font></b></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="669" 
+
+height="43" id="AutoNumber2">
+    <tr>
+      <td width="715" height="19" align="center" colspan="3" bgcolor="#FFFFFF">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="715" height="20" align="center" bgcolor="#0000FF" colspan="3">
+      <font face="Arial"><span style="font-size: large; color: #FFFFFF"><b>
+      <a href="../Drawing_Contests/contest.htm"><font size="5" color="#FFFFFF">Current 
+
+Contests</font></a></b></span></font></td>
+    </tr>
+    <tr>
+      <td width="264" height="52" align="center" bgcolor="#FFFFFF"><b>
+      <font face="Arial"><a href="../Drawing_Contests/bw.htm">Click Here For 
+      Recent Winners</a></font></b></td>
+      <td width="344" height="52" align="center" bgcolor="#FFFFFF">
+      <a href="http://www.thewesternweb.com/Drawing_Contests/contest.htm">
+      <img border="0" src="http://www.thewesternweb.com/Drawing_Contests/images/glc.gif" width="271" 
+
+height="60"></a></td>
+      <td width="98" height="52" align="center" bgcolor="#FFFFFF">
+      <a href="http://www.thewesternweb.com/Drawing_Contests/contest.htm">
+      <img border="0" src="http://www.thewesternweb.com/images/AdvertisingImages/ava183x60blk.jpg" width="183" 
+
+height="60"></a></td>
+    </tr>
+    <tr>
+      <td width="264" height="52" align="center" bgcolor="#FFFFFF"><P align="center" 
+
+style="margin-top: 0; margin-bottom: 0">
+    <font color="#008000" face="verdana, helvetica, arial" 
+
+size="3"><b>ATTENTION:</b></font></P><P align="center" style="margin-top: 0; margin-bottom: 
+
+0"><b>
+    <font color="#008000" face="verdana, helvetica, arial" size="2">If
+    you have a website or product that you would like to promote, The Western
+    Web is offering free advertising for those companies that would like to
+    participate in the contests and drawings.&nbsp; Please send an email to </font><font 
+
+color="#800000" face="verdana, helvetica, arial" size="2"> 
+    <a href="mailto:opportunities@thewesternweb.com">
+    opportunities@thewesternweb.com</a></font></b></P><P align="center" style="margin-top: 0; margin-bottom: 
+
+0">&nbsp;</P>
+      <p>&nbsp;</td>
+      <td width="344" height="52" align="center" valign="top" bgcolor="#FFFFFF">
+      <p>
+      <a href="http://www.thewesternweb.com/Drawing_Contests/contest.htm">
+      <img border="0" src="http://www.thewesternweb.com/Drawing_Contests/images/trail_330x60.jpg" width="245" 
+
+height="72"></a><p>
+      <img border="0" src="http://www.thewesternweb.com/Drawing_Contests/images/jetsetwinlogo340.jpg" width="340" height="68"><p>
+      <img border="0" src="http://www.thewesternweb.com/Drawing_Contests/images/winabettasaddle340.jpg" width="340" height="64"><p>
+      <img border="0" src="http://www.thewesternweb.com/Drawing_Contests/images/fflogoenter60.jpg" width="340" height="60"></td>
+      <td width="197" height="52" align="center" bgcolor="#FFFFFF">
+      <a href="http://www.thewesternweb.com/Drawing_Contests/contest.htm">
+      <img border="0" src="http://www.thewesternweb.com/images/AdvertisingImages/win_saddle_sq150blue.gif" align="middle" 
+
+width="150" height="156"></a></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="757" height="2" 
+
+id="AutoNumber3" bordercolor="#0066CC">
+    <tr>
+      <td width="757" height="46" colspan="4" bgcolor="#0033CC"><b>
+      <font face="Arial" style="font-size: large" color="#FFFFFF">New Products 
+      at <a href="http://www.equinesupplydirect.net">
+      <font color="#FFFFFF" size="5">Equine Supply Direct</font></a><font size="5" color="#FFFFFF"> 
+      Over 1000 New Items!</font></font></b></td>
+    </tr>
+    <tr>
+      <td width="184" height="49" bgcolor="#0033CC">&nbsp;</td>
+      <td width="364" height="49" colspan="2" bgcolor="#FFFFFF" bordercolor="#FFFFFF"><i><font size="5"><b>
+      
+
+      <font color="#FF0000" face="Arial Narrow">
+      <a href="http://www.equinesupplydirect.com/contest/esd_net_nl.asp">
+      <img border="0" src="http://www.equinesupplydirect.net/bd/bodnl250.gif" width="250" height="60"></a></font></b></font></i></td>
+      <td width="201" height="49" bgcolor="#0033CC">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="757" height="61" colspan="4" bgcolor="#0033CC"><p class="MsoTitle" align="center"><i><font size="5"><b>
+      
+
+      <font color="#FF0000" face="Arial Narrow">New!!!</font></b></font></i><p class="MsoTitle" align="center" style="margin-top: 0; margin-bottom: 0">
+      <b>
+      <font size="2" color="#FFFFFF" face="Arial"><i>Equine Supply Direct is Now 
+      Offering the </i></font><i>
+      <font size="2" color="#FF0000" face="Arial">BUY OF THE DAY!</font></i></b><p class="MsoTitle" align="center" style="margin-top: 0; margin-bottom: 0">
+      <b><i>
+      <font size="2" color="#FFFFFF" face="Arial">Every day a different 
+      product will be featured at a huge savings, if you would like to be 
+      notified by email </font></i></b>
+      <p class="MsoTitle" align="center" style="margin-top: 0; margin-bottom: 0">
+      <b><i>
+      <font size="4" color="#0033CC" face="Arial">
+      <a href="http://www.equinesupplydirect.com/contest/esd_net_nl.asp">
+      <font color="#FFFFFF" size="2">click 
+      here to subscribe to THE BUY OF THE DAY NOTIFICATION</font></a></font></i></b></td>
+    </tr>
+    <tr>
+      <td width="184" height="5" bgcolor="#FFFFFF">
+                  <a href="http://www.equinesupplydirect.net/details.asp?prodID=2325">
+                  <img align="left" border="0" hspace="5" src="http://www.equinesupplydirect.net/_images/products/1600blanket80.jpg" vspace="5" width="80"></a>
+                  <a class="cap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2325">
+                  <font face="Arial" size="1">Classic Equine Competitor 600D 
+                  Stable Blanket</font></a><font face="Arial" size="1"><br>
+                  <span class="price" nowrap>&nbsp;</span><br>
+&nbsp;</font><div class="text0">
+                    <font face="Arial" size="1">The most versatile stable 
+                    blanket for cool to cold conditions&nbsp;</font><a class="text0" href="http://www.equinesupplydirect.net/details.asp?prodID=2325"><font face="Arial" size="1">more...</font></a></div>
+                  <p>
+      &nbsp;</p>
+      </td>
+      <td width="187" height="5" bgcolor="#FFFFFF" valign="top">
+                  <a href="http://www.equinesupplydirect.net/details.asp?prodID=986">
+                  <img align="left" border="0" hspace="5" src="http://www.equinesupplydirect.net/_images/products/JessieRedsm.jpg" vspace="5" width="80"></a>
+                  <a class="cap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=986">
+                  <b><font face="Arial" size="1">Oregon Stable Supply California 
+                  Ultraquilt Blankets</font></b></a><font face="Arial" size="1"><br>
+                  </font><font face="Arial" size="1"><br>
+&nbsp;</font><div class="text0">
+                    <font face="Arial" size="1">The California Ultraquilt 
+                    Blanket Is Perfect For Year Round Use In Milder Areas&nbsp;</font><a class="text0" href="http://www.equinesupplydirect.net/details.asp?prodID=986"><font face="Arial" size="1">more...</font></a></div>
+                  <p>&nbsp;</td>
+      <td width="174" height="5" bgcolor="#FFFFFF" valign="top">
+                  <a href="http://www.equinesupplydirect.net/details.asp?prodID=987">
+                  <font face="Arial" size="1">
+                  <img align="left" border="0" hspace="5" src="http://www.equinesupplydirect.net/_images/products/morgnsht1.jpg" vspace="5" width="80"></font></a><font face="Arial" size="1">
+                  </font>
+                  <a class="cap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=987">
+                  <b><font face="Arial" size="1">Oregon Stable Supply Equilon 
+                  Sheet</font></b></a><font face="Arial" size="1"><br>
+                  <br>
+&nbsp;</font><div class="text0">
+                    <font face="Arial" size="1">Oregon Stable Supply Equilon 
+                    Sheet.&nbsp;</font><a class="text0" href="http://www.equinesupplydirect.net/details.asp?prodID=987"><font face="Arial" size="1">more...</font></a></div>
+                  <p>&nbsp;</td>
+      <td width="202" height="5" bgcolor="#FFFFFF">
+      <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+        <tr>
+          <td class="productlist" vAlign="top" width="100%">
+          <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+            <tr>
+              <td width="100%">
+              <table cellSpacing="0" cellPadding="0" width="114%" border="0">
+                <tr>
+                  <td vAlign="top" width="50%">
+                  <a href="http://www.equinesupplydirect.net/details.asp?prodID=2290">
+                  <font face="Arial" size="1">
+                  <img hspace="5" src="http://www.thewesternweb.com/nl/images/cdn-100sm.jpg" align="left" vspace="5" 
+
+border="0" width="80" height="59"></font></a><font face="Arial" size="1">
+                  </font>
+                  <a class="cap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2290">
+                  <b><font face="Arial" size="1">Classic Equine Dyno Bell Boot</font></b></a><font face="Arial" 
+
+size="1"><br>
+&nbsp;</font><div class="text0">
+                    <font face="Arial" size="1">No-turn fit also offers superb 
+                    protection while also being very durable&nbsp;</font><a class="text0" 
+
+href="http://www.equinesupplydirect.net/details.asp?prodID=2290"><font face="Arial" size="1">more...</font></a></div>
+                  </td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+      </table>
+&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="184" height="23" bgcolor="#FFFFFF" valign="top">
+      <span class="price" nowrap><font face="Arial"><b><font color="#800000" size="2"><span class="new">$101.25</span></font></b></font></span></td>
+      <td width="187" height="23" bgcolor="#FFFFFF" valign="top"><b><font face="Arial" size="2" color="#800000">
+                  <span class="price" nowrap><span class="new">Starting At 
+                  $60.75</span></span></font></b></td>
+      <td width="174" height="23" bgcolor="#FFFFFF" valign="top"><b><font face="Arial" size="2" color="#800000">
+                  <span class="price" nowrap><span class="new">Starting At 
+      $66.60</span></span></font></b></td>
+      <td width="202" height="23" bgcolor="#FFFFFF"><b>
+      <font size="2" color="#993300" face="Arial"><span class="price" nowrap>
+      <span class="new">$20.66</span></span></font></b></td>
+    </tr>
+    <tr>
+      <td width="184" height="23" bgcolor="#FFFFFF" valign="top">
+      &nbsp;</td>
+      <td width="187" height="23" bgcolor="#FFFFFF" valign="top">&nbsp;</td>
+      <td width="174" height="23" bgcolor="#FFFFFF" valign="top">&nbsp;</td>
+      <td width="202" height="23" bgcolor="#FFFFFF">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="184" height="1" bgcolor="#FFFFFF" valign="top">
+      <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+        <tr>
+          <td class="productlist" vAlign="top" width="100%">
+          <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+            <tr>
+              <td width="100%">
+              <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+                <tr>
+                  <td vAlign="top" width="50%">
+                  <a href="http://www.equinesupplydirect.net/details.asp?prodID=2279">
+                  <img hspace="5" src="http://www.thewesternweb.com/nl/images/legacycolors80.jpg" align="left" vspace="5" 
+
+border="0" width="80" height="120"></a>
+                  <a class="cap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2279">
+                  <b><font face="Arial" size="1">Classic Equine Legacy Medicine 
+                  Boot System</font></b></a><font face="Arial" size="1"><br>
+&nbsp;</font><div class="text0">
+                    <font face="Arial" size="1">This boot boasts the ultimate in 
+                    heavy-duty construction and innovative features&nbsp;</font><a class="text0" 
+
+href="http://www.equinesupplydirect.net/details.asp?prodID=2279"><font face="Arial" size="1">more...</font></a></div>
+                  </td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+      </table>
+      </td>
+      <td width="187" height="1" bgcolor="#FFFFFF" valign="top">
+      <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+        <tr>
+          <td class="productlist" vAlign="top" width="100%">
+          <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+            <tr>
+              <td width="100%">
+              <table cellSpacing="0" cellPadding="0" width="100%" border="0" height="128">
+                <tr>
+                  <td vAlign="top" width="50%" height="128">
+                  <a href="http://www.equinesupplydirect.net/details.asp?prodID=2270">
+                  <img hspace="5" src="http://www.thewesternweb.com/nl/images/COP-100C-tan-300w80.jpg" align="left" 
+
+vspace="5" border="0" width="80" height="47"></a>
+                  <a class="cap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2270">
+                  <b><font face="Arial" size="1">Classic Equine CountourPedic 
+                  32&quot; Roper</font></b></a><font face="Arial" size="1"><br>
+                  <br>
+&nbsp;</font><div class="text0">
+                    <font face="Arial" size="1">Orthopedic Competition Pad with 
+                    a blended wool felt top that is bonded to shock absorbing 
+                    neoprene&nbsp;</font><a class="text0" 
+
+href="http://www.equinesupplydirect.net/details.asp?prodID=2270"><font face="Arial" size="1">more...</font></a></div>
+                  </td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+      </table>
+      </td>
+      <td width="174" height="1" bgcolor="#FFFFFF" valign="top">
+      <table border="0" cellPadding="0" cellSpacing="2" width="100%">
+        <tr>
+          <td align="left" vAlign="top">
+          <a class="scap0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2612">
+          <b><font face="Arial" size="1">FDNY USA Flag Cap - To Support The 
+          September 11th Fund</font></b></a></td>
+        </tr>
+        <tr>
+          <td vAlign="top">
+          <a href="http://www.equinesupplydirect.net/details.asp?prodID=2612">
+          <font face="Arial" size="1">
+          <img align="right" border="0" hspace="3" src="http://www.equinesupplydirect.net/_images/products/hat_usa80.jpg" vspace="3" width="40"></font></a><font face="Arial" size="1">
+          <span class="stext0">ALL 100% of Proceeds will be donated to the 
+          September 11th</span> ... </font>
+          <a class="stext0" href="http://www.equinesupplydirect.net/details.asp?ProdID=2612">
+          <b><font face="Arial" size="1">more</font></b></a><font face="Arial" size="1">
+          </font></td>
+        </tr>
+        <tr>
+          <td>
+          <table border="0" cellPadding="0" cellSpacing="0" width="100%">
+            <tr>
+              <td align="middle" class="sprice" noWrap><b>
+              <font face="Arial" size="2" color="#800000"><span class="new">
+              $26.96</span></font></b></td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+      </table>
+      </td>
+      <td width="202" height="1" bgcolor="#FFFFFF" rowspan="2">
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <span style="color: #CC6600"><font size="1" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/department.asp?DepID=26">
+                  <font size="1">Classic Equine</font></a></font></span></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <span style="color: #CC6600"><font size="1" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/department.asp?DepID=26">
+                  <font size="1">Martin Saddlery</font></a></font></span></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <span style="color: #CC6600"><font size="1" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/department.asp?DepID=26">
+                  <font size="1">Gary Gist Bits and Spurs</font></a></font></span></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <span style="color: #CC6600"><font size="1" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/list.asp?CtgID=221">
+                  <font size="1">Over 100 New Bits and Spurs</font></a></font></span></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <span style="color: #CC6600"><font size="1" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/list.asp?CtgID=221">
+                  <font size="1">Champion Turf 2001 Products</font></a></font></span></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <font size="1" color="#CC6600" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/list.asp?CtgID=67">
+                  <font size="1">Cowboy Tack Saddles</font></a></font></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <font size="1" color="#CC6600" face="Arial">
+                  <a href="http://www.equinesupplydirect.net/department.asp?DepID=27">
+                  <font size="1">Nylon Headstalls and Halters</font></a></font></P>
+                  <P style="margin-top: 0; margin-bottom: 0">
+                  <font face="Arial" size="1" color="#CC6600">
+                  <a href="http://www.equinesupplydirect.net/department.asp?DepID=27">
+                  <font size="1">Burwash Brand Horse Gear</font></a></font></P>
+                  </td>
+    </tr>
+    <tr>
+      <td width="184" height="23" bgcolor="#FFFFFF" valign="top">
+      <span class="price" nowrap><font face="Arial" size="1">&nbsp;</font><b><font face="Arial" size="2" 
+
+color="#800000"><span class="new">$59.04</span></font></b></span><font face="Arial" size="1"><br>
+&nbsp;</font></td>
+      <td width="187" height="23" bgcolor="#FFFFFF" valign="top"><b>
+      <font face="Arial" size="2" color="#800000"><span class="price" nowrap>
+      <span class="old">$99.40</span></span></font></b></td>
+      <td width="174" height="23" bgcolor="#FFFFFF" valign="top">
+      <b>
+              <font face="Arial" size="2" color="#800000"><span class="new">
+              $26.96</span></font></b></td>
+      </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="756" height="72" 
+
+id="AutoNumber4">
+    <tr>
+      <td width="756" height="31" colspan="2" bgcolor="#0033CC">
+      <p align="center"><b>
+      <font face="Arial" style="font-size: large" color="#FFFFFF">Featured 
+      Websites</font></b></td>
+    </tr>
+    <tr>
+      <td width="284" height="24" bgcolor="#FFFFFF">
+      <a href="http://stallionspotlight.com/home.html">
+      <img border="0" src="http://www.thewesternweb.com/nli/spotlight.jpg" width="317" height="58"></a></td>
+      <td width="466" height="24" bgcolor="#FFFFFF" bordercolor="#0000FF">
+      <p style="margin-top: 0; margin-bottom: 0">
+      <font color="#663300" face="Arial" size="2">Our goal is to bring you the 
+      highest quality stallions in every breed. You can help by nominating your 
+      stallion for review. We are going to be working hard to make Stallion 
+      Spotlight your one stop stallion locater. Enjoy!</font><font face="Verdana, Arial, Helvetica" size="2"> </font>
+      </p>
+      <p style="margin-top: 0; margin-bottom: 0">
+      <font face="Verdana, Arial, Helvetica" size="2">
+      <a href="http://stallionspotlight.com/home.html">CLICK HERE</a></font></td>
+    </tr>
+    <tr>
+      <td width="284" height="17" bgcolor="#FFFFFF">
+      <a href="http://www.prospectcreekloghomes.com/">
+      <img border="0" src="http://www.thewesternweb.com/nli/loighomes.jpg" width="317" height="32"></a></td>
+      <td width="466" height="17" bgcolor="#FFFFFF" bordercolor="#0033CC">
+      <span style="FONT-FAMILY: Arial, Helvetica, Univers, 'Zurich BT', sans-serif">
+      <font size="2">Thank you for choosing <b>Prospect Creek Log Homes</b> and 
+      welcome to our log home page.&nbsp; Inside we will discuss saving money, energy 
+      efficient, selection, quality and the products we offer.</font> </span>
+      <font face="Arial" size="2">&nbsp;</font><font face="Verdana, Arial, Helvetica" size="2"><a href="http://www.prospectcreekloghomes.com/">CLICK HERE</a></font></td>
+    </tr>
+    <tr>
+      <td width="284" height="17" bgcolor="#FFFFFF">
+      <a href="http://www.azwoodman.com/">
+      <img border="0" src="http://www.thewesternweb.com/nli/arizona.jpg" width="165" height="94"><img border="0" src="http://www.thewesternweb.com/nli/arizona1.jpg" width="108" height="94"></a></td>
+      <td width="466" height="17" bgcolor="#FFFFFF" bordercolor="#0033CC">
+      <font face="arial, helvetica"><b>Handcrafted Wooden Boxes:</b></font> &nbsp; &nbsp;<font face="arial, helvetica"><b><i>You 
+      Design It . . . We'll Build It!</i></b></font><font face="Arial, Arial, Helvetica" size="2">&nbsp; </font>
+      <font face="Verdana, Arial, Helvetica" size="2">
+      <a href="http://www.azwoodman.com/">CLICK HERE</a></font></td>
+    </tr>
+    <tr>
+      <td width="750" height="30" bgcolor="#FFFFFF" colspan="2">
+      <font face="Arial, Arial, Helvetica" size="2" color="#FF00FF"><b>Add your 
+      website to<a href="http://www.searchthewesternweb.com"> The Western Web 
+      Search Engine</a> and Reach Over 3,000,000 users a month! </b></font>
+      <font face="Arial, Arial, Helvetica" size="2">&nbsp;Featured Websites are 
+      selected to be included in the newsletter (75,000+ Subscribers)</font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="756" height="30" 
+
+id="AutoNumber5">
+    <tr>
+      <td width="756" height="30" colspan="2" bgcolor="#0033CC">
+      <p align="center"><b>
+      <font face="Arial" style="font-size: large" color="#FFFFFF">News, 
+      Announcements and Press Releases</font></b></td>
+    </tr>
+    <tr>
+      <td width="198" height="67" bgcolor="#FFFFFF">
+      <a href="http://www.horsesmidwest.com/auction/">
+      <img src="http://www.horsesmidwest.com/auction/auctionlogo.jpg" width="252" height="50"></a></td>
+      <td width="552" height="67" bgcolor="#FFFFFF" bordercolor="#0033CC">
+      <font face="Arial" size="2">All proceeds go to the Jared Murry Trust Fund. 
+      This year's auction is anticipated to draw more stallion service donations 
+      than last year. We are in need of volunteers to solicit donated breedings 
+      &amp; to help market this wonderful fund raiser. Please contact </font>
+      <a href="mailto:pat@horsesmidwest.com"><font face="Arial">Pat Bores</font></a><font face="Arial" size="2"> 
+      if you are interested in helping. Please go to this address to read about 
+      Jared's special needs: </font><a href="http://www.jaredmurry.org">
+      <font face="Arial">http://www.jaredmurry.org</font></a><font face="Arial" size="2">
+      </font></td>
+    </tr>
+    <tr>
+      <td width="756" height="67" colspan="2" bgcolor="#FFFFFF">
+      <br>
+      <font face="Arial" size="2">9/6, 7PM, RICHLAND CO. MEETING, SC Awareness &amp; 
+      Rescue for Equines, Horrell Hill Dressage Center, 803-776-6493, Claudia 
+      Garner<br>
+      <br>
+      9/18, 7PM, LEXINGTON CO. MEETING, SC Awareness &amp; Rescue for Equines, 
+      Delano Kneece Farm, 803-892-2636, Cristi Price<br>
+      <br>
+      9/18, 6:30PM, CHARLESTON CO. MEETING, SC Awareness &amp; Rescue for Equines, 
+      Half Pass Farm, 843-556-0782, Kim Sturgeon<br>
+      <br>
+      9/25, 7PM, DARLINGTON/FLORENCE/MARION MEETING, SC Awareness &amp; Rescue for 
+      Equines, Florence Horse Center, 843-423-7178, Phyllis Rodes<br>
+      <br>
+      10/06, 10AM, FUN HORSE SHOW, to benefit SC Awareness &amp; Rescue for Equines, 
+      Hopkins, SC 1-888-866-8744, Karen Zajicek.<br>
+&nbsp;</font></td>
+    </tr>
+    <tr>
+      <td width="756" height="8" colspan="2" bgcolor="#FFFFFF" bordercolor="#0033CC">
+      &nbsp;</td>
+    </tr>
+    <tr>
+      <td width="756" height="55" colspan="2" bgcolor="#FFFFFF" bordercolor="#0033CC">
+      <font face="Arial"><font size="2">Please email all News, Announcements and 
+      Press Releases to </font><a href="mailto:nl@thewesternweb.com">
+      pressrelease@thewesternweb.com</a><font size="2"> and it will be included in the 
+      next issue.</font></font></td>
+    </tr>
+    <tr>
+      <td width="756" height="55" colspan="2" bgcolor="#FFFFFF" bordercolor="#0033CC">
+            <P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: xx-small">
+            <font face="Arial">This e-mail is never sent unsolicited.&nbsp;
+            </font>
+            <a style="font-size: xx-small; font-family: Arial; color: rgb(0,51,204); font-weight: normal; font-style: normal" href="http://www.thewesternweb.com/">
+            thewesternweb.com</a><font face="Arial"> Newsletter is a 
+            supplement you subscribed to. To unsubscribe from this list and 
+            receive no future letters, simply reply to this e-mail with the word 
+            "REMOVE" in the subject heading, or </font>
+            <a style="font-size: xx-small; font-family: Arial; color: rgb(0,51,204); font-weight: normal; font-style: normal" href="mailto:nl@thewesternweb.com?subject=REMOVE ME FROM LIST">CLICK HERE</a><font face="Arial">, then click 
+            "Send".</font></SPAN></P>
+      <p align="center">&nbsp;</td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+
+
+<P>---------------------------------------------------------------------------<BR><FONT SIZE="-1" FACE="arial, helvetica">To be unsubscribed from the  mailing list, simply click on the link below:<BR></FONT><A HREF="http://www.thewesternweb.com/md/s.pl?r=1&l=2&e=design=:bfsmedia.com"><FONT SIZE="-1" FACE="arial,  helvetica"><B>Unsubscribe design@bfsmedia.com</B></FONT></A><BR><BR><BR></P>
+
+

@@ -1,0 +1,190 @@
+Return-Path: <fsusers-owner@freeservers.com>
+Spam-Apparently-To: <marco@em.ca>
+Received: (qmail 616 invoked from network); 13 Feb 2001 02:29:43 -0000
+Received: from www23.freeservers.com (63.108.71.123)
+  by em.ca with SMTP; 13 Feb 2001 02:29:43 -0000
+Received: (from free@localhost)
+	by www23.freeservers.com (8.9.3/8.9.3) id SAA05105;
+	Mon, 12 Feb 2001 18:47:00 -0700
+Date: Mon, 12 Feb 2001 18:47:00 -0700
+Message-Id: <200102130147.SAA05105@www23.freeservers.com>
+X-Authentication-Warning: www23.freeservers.com: free set sender to fsusers-owner@freeservers.com using -f
+From: FreeServers Special Offer <special_offers@freeservers.com>
+To: fsusers@freeservers.com
+Subject: Freeservers Special Offer: GroupLotto
+MIME-Version: 1.0
+Content-Type: multipart/alternative;boundary="2w6ubsmAwe7d32db238787"
+Sender: fsusers-owner@freeservers.com
+Precedence: list
+
+--2w6ubsmAwe7d32db238787
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+
+_____________________________________________________________________
+FREESERVERS.COM SPECIAL OFFER                       February 12, 2001
+** This special offer is sent only to Freeservers.com site owners. **
+** To unsubscribe, please read the instructions at the bottom.     **
+
+_____________________________________________________________________
+FREESERVERS SPECIAL OFFER: GROUPLOTTO
+
+CASH WINNER! You are a Guaranteed Cash Prize* Winner! 
+
+Dear Winner,
+
+Come to GroupLotto, register and play to claim your cash. Don't 
+wait! Will you claim up to $10 Million for FREE?
+
+http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01
+
+Just visit the link above and play GroupLotto's
+FREE Lottery with daily prizes and a Grand Prize 
+of up to $10 Million and claim your guaranteed 
+cash prize.* 
+
+Click the link below now and win...
+
+http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01
+
+Click below now for your FREE chances at our 
+overflowing mega-jackpot of up to $10,000,000! 
+
+Free... Guaranteed Cash... Win up to 
+Millions and Millions... Mmmmm... Play now! 
+
+Thank you and Good Luck, 
+
+The GroupLotto.com Team
+
+*By registering for GroupLotto and playing our free sweepstakes, 
+everyone wins at least $1.00. You will be notified via email of your 
+cash prize which will be awarded through PayPal. One time offer to 
+new registrants only. All GroupLotto drawings are independently 
+performed by SCA Promotions. Winners are responsible for taxes on 
+all prizes. Must be over 18 to play or win. No purchase necessary. 
+See contest rules for complete details.
+
+http://freeservers.com/cgi-bin/redirect?id=d0212GLOT02
+
+_____________________________________________________________________
+HOW TO UNSUBSCRIBE
+
+  --> This message is not spam! You received this special offer
+      because you (or someone using your e-mail account) signed up
+      for a website on Freeservers. If you do not want to receive any
+      more e-mails from us about your website, you can delete your
+      website by going to
+         http://members.freeservers.com/cgi-bin/util/deleteaccount
+
+  --> If you do not recall your site name and password, go to
+         http://www.freeservers.com/cgi-bin/forgot
+      and they will be e-mailed to you. (Be sure to use the same
+      e-mail address you signed up with!) If you have more than one
+      website, you must delete them all in order to be removed from
+      our website owners list.
+_____________________________________________________________________
+
+--2w6ubsmAwe7d32db238787
+Content-Type: text/html
+
+<HTML>
+<BODY BGCOLOR=#3366CC TOPMARGIN="0">
+<TABLE BORDER=0 CELLPADDING=6 WIDTH=100% CELLSPACING="0" ALIGN="CENTER">
+  <TR ALIGN="LEFT"> 
+    <TD COLSPAN="2"> 
+      <TABLE BORDER=0 CELLPADDING=0 WIDTH=100% CELLSPACING="0" ALIGN="CENTER">
+        <TR> 
+          <TD BGCOLOR="#3366CC" NOWRAP ALIGN="LEFT" WIDTH="100%"><A HREF="http://www.freeservers.com/"><FONT SIZE="4" FACE="Arial Black, Helvetica, Arial, sans-serif" COLOR="#FFFFFF"><IMG SRC="http://www.freeservers.com/fs_img/fs2/freeserverslogo3.gif" WIDTH="175" HEIGHT="40" BORDER="0" ALT="Freeservers.com" ALIGN="ABSMIDDLE"></FONT></A></TD>
+          <TD BGCOLOR="#E7E7F7" ALIGN="RIGHT" NOWRAP><FONT SIZE="1" FACE="Arial, Helvetica, sans-serif" COLOR="#000099">  This 
+            special offer is sent only to Freeservers Web site owners.  <BR>
+              <A HREF="#delete">Click here to find out how to delete 
+            your Web site/unsubscribe</A>.  </FONT> </TD>
+        </TR>
+        <TBODY> </TBODY> 
+      </TABLE>
+    </TD>
+  </TR>
+  <TR ALIGN="LEFT"> 
+  
+  <TD BGCOLOR="#FFFFFF" COLSPAN="2"> 
+<!-- start here -->
+<CENTER> 
+<TABLE WIDTH="451" BORDER="1" CELLSPACING="0" CELLPADDING="20" BORDERCOLOR="#006666" BGCOLOR=FFFFFF>
+  <TR>
+    <TD VALIGN="top"> 
+      <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="451">
+        <TBODY> 
+        <TR> 
+          <TD COLSPAN=2 HEIGHT=77 ROWSPAN=2><FONT FACE="Courier New, Courier, mono" SIZE="6" COLOR="#FF3300"><B>CASH 
+            WINNER!</B></FONT></TD>
+          <TD COLSPAN=4 HEIGHT=77 ROWSPAN="2" WIDTH="193">
+            <DIV ALIGN="right"><B><FONT 
+      FACE="Courier New, Courier, mono" SIZE=5>You are a<BR>
+              Guaranteed<BR>
+              Cash Prize*<BR>
+              Winner!</FONT></B></DIV>
+          </TD>
+        </TR>
+        <TR> </TR>
+        </TBODY> 
+      </TABLE>
+      
+      
+   <P><FONT FACE="Courier New, Courier, mono" SIZE=2>Dear Winner,<BR><BR>Come 
+      to <A HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01">GroupLotto</A>, register and 
+      play to claim your cash. Don't wait! </FONT><FONT 
+      FACE="Courier New, Courier, mono" SIZE=2>Will you claim up to $10 Million 
+      for FREE?<BR><BR>Just click the banner below and play <A 
+      HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01">GroupLotto's<BR>FREE Lottery</A> with 
+      daily prizes and a Grand Prize <BR>of up to $10 Million and claim your 
+      guaranteed <BR>cash prize.* <BR><BR>Click the banner below to 
+      win...</FONT></P>
+      <P><A HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01"><IMG HEIGHT=60 
+      ALT="Give me more information on my cash prize!" 
+      SRC="http://bargaindog.about.com/misc/freeservers/grouplotto6-revised/advisorybanner.gif" WIDTH=400 
+      BORDER=0><BR></A><FONT FACE="Courier New, Courier, mono"><A 
+      HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01"><FONT SIZE=2><BR>
+      Click 
+      here</FONT></A><FONT SIZE=2> now for your FREE chances at our 
+      <BR>overflowing mega-jackpot of up to $10,000,000! <BR><BR>Free... 
+      Guaranteed Cash... Win up to <BR>Millions and Millions... Mmmmm... Play 
+      now! <BR><BR>Thank you and Good Luck, <BR></FONT></FONT></P>
+      <P><FONT FACE="Courier New, Courier, mono" SIZE=2>The <A 
+      HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01">GroupLotto.com</A> Team</FONT></P>    
+      
+      
+      <P ALIGN="left"><FONT FACE="Courier New, Courier, mono"><A HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT01"><IMG SRC="http://bargaindog.about.com/misc/freeservers/grouplotto6-revised/guaranteed_3_26.gif" WIDTH="163" HEIGHT="108" BORDER="0"></A><FONT SIZE=2></FONT><FONT FACE="Courier New, Courier, mono" 
+      SIZE=1><P>*By registering for GroupLotto and playing our free sweepstakes, everyone wins at least $1.00. You will be notified via 
+      email of your cash prize which will be awarded through PayPal. One time 
+      offer to new registrants only. All GroupLotto drawings are independently performed by SCA Promotions.  Winners are responsible for taxes on all prizes.  Must be over 18 to play or win.  No purchase necessary.  See contest rules for complete details</FONT>.<BR>
+      <FONT SIZE="1" FACE="Courier New"><A HREF="http://freeservers.com/cgi-bin/redirect?id=d0212GLOT02">http://grouplotto.com/rules2.html</A></FONT>  </P></FONT>
+      <P ALIGN="left">  </P>
+      </TD>
+  </TR>
+</TABLE>
+</CENTER>
+<!-- end here -->
+  </TD>
+  </TR>
+  <TBODY> 
+  <TR> 
+    <TD BGCOLOR="#E7E7F7" COLSPAN="2"> <FONT SIZE="2" FACE="Arial Black, Helvetica, Arial, sans-serif" COLOR="#000099"><A NAME="delete"></A>HOW 
+      TO DELETE YOUR WEB SITE/UNSUBSCRIBE</FONT> <FONT SIZE="2"><BR>
+      </FONT> <FONT SIZE="2" FACE="Arial, Helvetica, sans-serif" COLOR="#000099">This 
+      message is not spam! You received this special offer because you (or someone 
+      using your e-mail account) signed up for a website on Freeservers. If you 
+      do not want to receive any more e-mails from us about your website, you 
+      can delete your website by <A HREF="http://members.freeservers.com/cgi-bin/util/deleteaccount">clicking 
+      here</A>. If you do not recall your site name and password, <A HREF="http://members.freeservers.com/cgi-bin/forgot">click 
+      here</A> and they will be e-mailed to you. (Be sure to use the same e-mail 
+      address you signed up with!) If you have more than one Web site, you must 
+      delete them all in order to be removed from our Web site owners list. </FONT> 
+    </TD>
+  </TR>
+  </TBODY> 
+</TABLE>
+</BODY>
+</HTML>
+
+--2w6ubsmAwe7d32db238787--

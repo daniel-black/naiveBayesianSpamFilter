@@ -1,0 +1,204 @@
+Return-Path: <Research@Make-Cents>
+Delivered-To: bruceg@agamemnon.bfsmedia.com
+Received: (qmail 23679 invoked from network); 6 Dec 2001 14:59:09 -0000
+Received: from unknown (HELO www.BMS153.com) (203.177.41.181)
+  by agamemnon.bfsmedia.com with SMTP; 6 Dec 2001 14:59:09 -0000
+From: Research@Make-Cents
+To: bruceg
+Subject: Gain One Day And Give Back The Next Could Be The Market Pattern
+Sender: Research@Make-Cents
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 6 Dec 2001 14:55:28 +0800
+Content-Length: 14411
+
+<html>
+<head>
+<title>Newsletter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table width="500" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#CCCCCC">
+  <tr> 
+    <td width="50%"><a href="http://www.make-cents.com"><img src="http://www.make-cents.com/images/newslogo.gif" width="249" height="60" border="0"></a></td>
+    <td width="50%"><a href="http://www.zurichinvestmentgroup.com/signews.htm"><img src="http://www.make-cents.com/images/szigban.gif" width="250" height="60" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td width="50%"><font size="4"><b><font size="4"><b><font size="2">NEWSLETTER</font></b></font></b></font></td>
+    <td width="50%"> 
+      <div align="right"><font size="4"><font size="4"><font size="2">Thursday, 
+        December 6, 2001</font></font></font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="50%"><b><img src="http://www.make-cents.com/images/us.gif" width="30" height="17"></b><img src="http://chart.neural.com/servlet/WatchList?mode=1&chrow=666699&chrname=Verdana&chrtxt=FFFFFF&crow1=eeeeee&crow2=wht&cfcol1=eeeeee&cfcol2=wht&ahr=2&adr=3&afc=1&fhrname=Verdana&cfcdtxt=000000&fhrname=B&fhrsize=9&ffcsize=9$fdrsize=9&cup=006600&width=220&height=17&border=0&gline=1&cgline=eeeeff&field=NCGT&symbol=$COMPQ&name=Nasdaq"><br>
+      <img src="http://chart.neural.com/servlet/GIFChart?sym1=$compq&height=120&width=250&cbcku=FFFFF0&cbckl=red&cbckd=ffffff&ctxtu=006699&ctxtd=006699&ctxtl=006699&csym1=6666FF&cbckg=eeeeee&cind7a=red&cind7=dgrn&source=SP&dres=min&pdcdata=0&ignore=1220004345&texttype=1&mode=1&image=png" border=0></td>
+    <td width="50%"><img src="http://www.make-cents.com/images/sw.gif" width="30" height="17"><img src="http://chart.neural.com/servlet/WatchList?mode=1&chrow=666699&chrname=Verdana&chrtxt=FFFFFF&crow1=eeeeee&crow2=wht&cfcol1=eeeeee&cfcol2=wht&ahr=2&adr=3&afc=1&fhrname=Verdana&cfcdtxt=000000&fhrname=B&fhrsize=9&ffcsize=9$fdrsize=9&cup=006600&width=220&height=17&border=0&gline=1&cgline=eeeeff&field=NCGT&symbol=$SSMI&name=Zurich SMI"><br>
+      <img src="http://chart.neural.com/servlet/GIFChart?sym1=$SSMI&height=120&width=250&cbcku=FFFFF0&cbckl=red&cbckd=ffffff&ctxtu=006699&ctxtd=006699&ctxtl=006699&csym1=6666FF&cbckg=eeeeee&cind7a=red&cind7=dgrn&source=SP&dres=max&pdcdata=0&ignore=1220004345&texttype=1&mode=1&image=png" border=0></td>
+  </tr>
+</table>
+<table width="500" border="0" cellspacing="0" cellpadding="6" align="center" bgcolor="#FFFFFF">
+  <tr> 
+    <td width="60%" valign="top"> 
+      <table width="100%" border="0" cellspacing="1" cellpadding="8" align="center" bgcolor="#000000">
+        <tr> 
+          <td bgcolor="#FFFFF0"> 
+            <p><b>Global Equity Strategy</b></p>
+            <p><font size="2"><font size="2"><b><img src="http://www.make-cents.com/images/smclogo.gif" width="60" height="16"> 
+              Make-Cents</b></font><font size="1" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2">MARKET REVIEW<font size="1" face="Arial, Helvetica, sans-serif"><br>
+              </font></font>On Wednesday the stock market staged its strongest 
+              rally yet since September 11. Capping a week of better than expected 
+              economic data, the NAPM non-manufacturing diffusion index suggested 
+              that service company activity actually expanded in November, with 
+              a 51.3 reading compared with more modest consensus expectations 
+              of 43.0. That 10:00 A.M. release electrified a market already moving 
+              higher on solid data earlier in the week and encouraging words from 
+              Cisco CEO John Chambers at that company's annual confab the day 
+              earlier. How good was it? The DJIA finished above 10,000 for the 
+              first time since early September, and the Nasdaq closed above 2,000 
+              for the first time since early August. All the major indexes were 
+              up 2% to 4%, and trading curbs were in - to the upside, for the 
+              first time in anyone's memory. The S&amp;P 500 and DJIA each finished 
+              within points of their 200-day<br>
+              moving averages. The Nasdaq Composite index, up 90, cruised through 
+              its 200-day average early in the session and never looked back. 
+              Volume was very heavy, and technicians tend to like high volume 
+              and wide breadth on strong rally days. The SOX index of semiconductor 
+              companies was at it again, leading the tech sector higher on news 
+              that Asian memory manufacturers have raised chip prices for the 
+              first time in more than a year. Stocks benefiting from the encouraging 
+              level of economic activity - banks, brokers, retailers, automakers, 
+              entertainment conglomerates - were particularly strong. The defensive 
+              stocks favored in prior months - utilities, healthcare - again underperformed, 
+              but there was enough market momentum to lift even these sectors. 
+              </font><font size="2"></font><font size="2"><br>
+              </font><font size="2"><font color="#0000FF">for more <a href="http://www.zurichinvestmentgroup.com/signews.htm">Subscribe 
+              here </a></font></font></p>
+            <p><b><img src="http://www.make-cents.com/images/us.gif" width="30" height="17"> 
+              Technical Market Update</b><font size="1" face="Arial, Helvetica, sans-serif"></font><br>
+              <font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.make-cents.com/images/bob.gif" width="102" height="102"><br>
+              Bob Dickey<br>
+              MANAGING DIRECTOR RESEARCH<br>
+              for RBC Dain Rauscher Wessels</font><font size="2"><b><br>
+              </b></font></p>
+            <p><font size="2">Gain one day and give back the next could be the 
+              market pattern for the next month or two. We believe the short-term 
+              market has reached a minor peak in terms of sentiment and enthusiasm, 
+              as measured by the volume, the put/call ratio, the VIX, and the 
+              advance-declines. That makes it difficult for the market to extend 
+              the gains of the past two months without first having enough of 
+              a consolidation period, or a pullback, to relieve some of the near-term 
+              overbought condition, in our opinion. The resistance is also heavy 
+              in the 10,200 area of the DJIA and at 2,000 on the Nasdaq. We believe 
+              it would take a clean break above these levels in order for the 
+              markets to break out and extend the gains by a meaningful amount.</font><font size="2"></font><font size="2"></font><font size="2"><br>
+              <font color="#0000FF">for more <a href="http://www.zurichinvestmentgroup.com/openacc.htm">Subscribe 
+              here</a></font></font></p>
+            </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="40%"> 
+      <table width="100%" border="0" cellspacing="1" cellpadding="8" align="center" bgcolor="#0000FF">
+        <tr> 
+          <td bgcolor="#F4F4F4"> 
+            <p><b>Research News</b></p>
+            <p><font size="2"><b><img src="http://www.make-cents.com/images/scsfb.gif" width="60" height="16"> 
+              CSFB</b><br>
+              </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif">&#149; 
+              </font></font> <font size="1" face="Arial, Helvetica, sans-serif">MOVERS 
+              &amp; SHAKERS<br>
+              U.S. stocks rallied, driving the Dow Jones Industrial Average above 
+              10,000 for the first time in three months, as growth at service 
+              businesses boosted optimism the economy and corporate profits will 
+              rebound next year. Semiconductor shares including Intel Corp. (INTC) 
+              and financial stocks such as Citigroup Inc. (C) lifted the Standard 
+              &amp; Poor's 500 Index. Software maker Oracle Corp. (ORCL) rose 
+              after Chief Executive Larry Ellison said business has stabilized.</font></p>
+            <p><font size="1" face="Arial, Helvetica, sans-serif">TSMC (2330.TW) 
+              CP:TWD 78.50 TP:TWD 135 CAP:TWD 1.3t SB <br>
+              Adding Taiwan Semiconductor Manufacturing (TSMC) to the US Focus 
+              List<br>
+              TSMC attributes stronger outlook to a steady pace of order improvement 
+              from all segments, with the possible exception of wire-line networking. 
+              On top of industry-wide factors, TSMC is benefiting from the market 
+              share gain at leading-edge process technology with the company taking 
+              a disproportionate share of production demand related to advanced 
+              semiconductor ICs for the latest exciting products.</font></p>
+            <p><font size="1" face="Arial, Helvetica, sans-serif">Strategy - Europe 
+              Quantitative Analysis <br>
+              More Confidence in a Continued Cyclical Rally &amp; Looking to a 
+              Low Valuation Portfolio <br>
+              In looking at the recent rally in equities, we would note that this 
+              strong performance has particularly been driven by highly and lowly 
+              rated stocks.</font><font size="1" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2"><font color="#0000FF" size="1" face="Arial, Helvetica, sans-serif">for 
+              more </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#0000FF"><a href="http://www.zurichinvestmentgroup.com/signews.htm">subscribe 
+              here</a></font><br>
+              </font></font></p>
+            <p><font size="2"><b><img src="http://www.make-cents.com/images/sargus.gif" width="60" height="16"><br>
+              Argus Market Report</b><br>
+              </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif">&#149; 
+              MARKET REVIEW<br>
+              &#149; </font></font><font size="1" face="Arial, Helvetica, sans-serif">Monthly 
+              adjustments to the Technology Model Portfolio.<br>
+              </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif">&#149; 
+              </font></font><font size="1" face="Arial, Helvetica, sans-serif"> 
+              Focus List: AOL's CEO announces succession plan and his retirement 
+              in mid-2002.<br>
+              </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif">&#149; 
+              </font></font><font size="1" face="Arial, Helvetica, sans-serif"> 
+              Growth Stock: Raising target price on BUY-rated Marriott International 
+              to $45.</font><font size="1" face="Arial, Helvetica, sans-serif"><br>
+              </font><font size="2"><font size="1" face="Arial, Helvetica, sans-serif"></font></font><font size="2"><font size="2"><font size="2"><font size="2"><font size="2"><font size="2"><font size="2"><font size="2"><font color="#0000FF" size="1" face="Arial, Helvetica, sans-serif">for 
+              more </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#0000FF"><a href="http://www.zurichinvestmentgroup.com/signews.htm">subscribe 
+              here</a></font></font></font></font></font></font><font size="1" face="Arial, Helvetica, sans-serif"></font></font></font></font></font></p>
+            <p><font size="2"><b><img src="http://www.make-cents.com/images/sdain.gif" width="60" height="16"><br>
+              RBC Dain Rauscher Wessels</b><br>
+              </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif">&#149; 
+              (APPB) Applebee's International, Inc. <br>
+              Buy-Aggressive ; Price Target: $35.00 (Prev:$33.00) RESTAURANTS 
+              <br>
+              OPERATING ENVIRONMENT REMAINS DIFFICULT; MAINTAINING RATING; RAISING 
+              EST</font></font></p>
+            <p><font size="1" face="Arial, Helvetica, sans-serif">*Fourth-quarter 
+              earnings are expected to advance 4.7% to $0.44, $0.01 better than 
+              our previous estimate and in line with consensus estimates, reflecting 
+              below trend-line growth due to the difficult economic and operating 
+              environment.<br>
+              *Company restaurant sales are expected to increase 0.3% to $162.2 
+              million, reflecting additional units in operation and expected comp 
+              gains of 0.5%.</font><font size="2"><font size="2"><font size="1" face="Arial, Helvetica, sans-serif"><font color="#0000FF"><br>
+              </font><font size="2"><font size="2"><font color="#0000FF" size="1" face="Arial, Helvetica, sans-serif">for 
+              more </font><font size="1" face="Arial, Helvetica, sans-serif"><font color="#0000FF"><a href="http://www.zurichinvestmentgroup.com/signews.htm">subscribe 
+              here</a></font></font></font></font></font></font></font></p>
+            </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top"> 
+      <div align="center"><a href="http://www.zurichinvestmentgroup.com/signews.htm"><img src="http://www.make-cents.com/images/tempban.gif" width="468" height="60" border="0"></a></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top"> 
+      <div align="center"> 
+        <p align="center"><font size="2"><a href="http://www.make-cents.com/refer.htm">EMAIL 
+          TO A FRIEND</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.make-cents.com/txtnews.htm">PRINTER 
+          FRIENDLY FORMAT</a></font></p>
+        <p><font size="2">Make-Cents.com E-Mail Center: <a href="http://www.zurichinvestmentgroup.com/signews.htm">subscribe</a> 
+          or <a href="http://www.zurichinvestmentgroup.com/unscribe.htm">unsubscribe</a> 
+          to Newsletter at Make-Cents<br>
+          ________________________________________<br>
+          <br>
+          Copyright &copy; 2001 Make-Cents. All rights reserved. </font></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

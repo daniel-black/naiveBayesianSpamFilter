@@ -1,0 +1,53 @@
+Return-Path: <bizop@btamail.net.cn>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 9057 invoked from network); 23 Aug 2001 18:42:00 -0000
+Received: from unknown (HELO centenario4.neunet.com.ar) (200.51.11.67)
+  by daedelus.bfsmedia.com with SMTP; 23 Aug 2001 18:42:00 -0000
+Received: from server.sat-arg.com.ar (centenario4 [200.51.11.67])
+	by centenario4.neunet.com.ar (Postfix) with ESMTP
+	id 399D456946; Thu, 23 Aug 2001 10:20:07 -0300 (GMT)
+Received: from 63.232.117.193 ([63.232.117.193])
+          by server.sat-arg.com.ar (Lotus Domino Release 5.0.4)
+          with SMTP id 2001082310305184:5481 ;
+          Thu, 23 Aug 2001 10:30:51 -0300 
+To: <hrnr8b4coesp@hotmail.com>
+From: bizop@btamail.net.cn
+Subject: Latest Michael Jackson Newsflash
+Date: Thu, 23 Aug 2001 22:25:49 -0400
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MIMETrack: Itemize by SMTP Server on server/Sat-Arg(Release 5.0.4 |June 8, 2000) at 23/08/2001
+ 10:30:53 a.m.,
+	Serialize by Router on server/Sat-Arg(Release 5.0.4 |June 8, 2000) at 23/08/2001
+ 10:31:07 a.m.,
+	Serialize complete at 23/08/2001 10:31:07 a.m.
+Message-ID: <OFE1F48D43.6939DB34-ON03256AB1.004A3D44@sat-arg.com.ar>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Length: 728
+Lines: 21
+
+From: Michael Jackson
+To: MJ Fans Worldwide
+Subject: Latest Michael Jackson Newsflash
+---
+ Great news from the King of Pop!
+ Michael Jackson reaches out to his global fan community:
+
+ Dernières nouvelles du Roi de la Pop!
+ Michael Jackson plus que jamais proche de ses fans du monde entier :
+
+ Brandheiße News vom King of Pop!
+ Michael Jackson geht interaktiv auf seine Fans zu:
+
+ ¡Informaciones exclusivas del Rey del Pop!
+ Michael Jackson se aproximara a todos sus aficionados del mundo:
+
+ http://66.70.24.80/mj_send_01/mj_main.swf
+---
+To be removed from future mailings, please click go to http://www.removeyou.com - we use an independent 3rd party to manage removes. #022481 or send email to vorishg@yahoo.com
+            
+

@@ -1,0 +1,77 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 10679 invoked from network); 27 Feb 2001 20:25:47 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bruce-guenter.dyndns.org with SMTP; 27 Feb 2001 20:25:47 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S129839AbRB0UXX>; Tue, 27 Feb 2001 15:23:23 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129854AbRB0UXP>; Tue, 27 Feb 2001 15:23:15 -0500
+Received: from [195.161.132.222] ([195.161.132.222]:60427 "EHLO got.mmtel.ru")
+	by vger.kernel.org with ESMTP id <S129839AbRB0UWz>;
+	Tue, 27 Feb 2001 15:22:55 -0500
+Received: from aaru [195.161.132.182] by got.mmtel.ru
+  (SMTPD32-5.05) id A90FD5210130; Wed, 28 Feb 2001 00:16:17 +0300
+From:	Serg <aaru@got.mmtel.ru>
+To:	linux-kernel@vger.kernel.org
+Subject: =?ISO-8859-1?Q?=E8=CF=D4=C9=D4=C5?= =?ISO-8859-1?Q?=D3=D4=C1=D4=D8?= =?ISO-8859-1?Q?=C4=C9=D0=CC=CF=CD=C1=D4=CF=CD=3F?= =?ISO-8859-1?Q?=E8=CF=D4=C9=D4=C5?= =?ISO-8859-1?Q?=C9=CD=C5=D4=D8?= =?ISO-8859-1?Q?=C4=C9=D0=CC=CF=CD=C1=D4=C9=DE=C5=D3=CB=C9=CA?= =?ISO-8859-1?Q?=D3=D4=C1=D4=D5=D3=3F?= =?ISO-8859-1?Q?=F4=CF=C7=C4=C1?= =?ISO-8859-1?Q?=DC=D4=CF?= =?ISO-8859-1?Q?=C9=CD=C5=CE=CE=CF?= =?ISO-8859-1?Q?=D4=CF,?= =?ISO-8859-1?Q?=DE=D4=CF?= =?ISO-8859-1?Q?=F7=C1=CD?= =?ISO-8859-1?Q?=CE=C5=CF=C2=C8=CF=C4=C9=CD=CF.?= =?ISO-8859-1?Q?(=F0=C9=D3=D8=CD=CF?=). Email, 095-7059285#92889
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+Reply-To: aaru@got.mmtel.ru
+Date:	27.02.2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=koi8-r
+Message-Id: <200102280016281.SM00185@aaru>
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1573
+
+
+Уважаемые господа.
+
+Приносим свои извинения за вмешательство в Ваше электронное пространство, но Ваш 
+электронный адрес был взят из открытых источников. Данная рассылка носит исключительно 
+разовый характер и более повторяться не будет.
+
+Предлагаем к приобретению Самое полное и максимально подробное руководство:
+
+"Нетрадиционный путь получения дипломатического статуса"
+
+Данное руководство было издано в Лондоне Английской Адвокатской Компанией, более никогда и 
+нигде не издавалась и не переиздавалась.
+
+Данное издание содержит подробнейшие инструкции, порядок действий, образцы писем и 
+документов, законодательные акты.
+
+Вся информация неоднократно проверена и относится абсолюдно ко всем, ни гражданство, ни 
+прописка, никакие иные данные принципиального значения не имеют.
+
+Более подробной и точной информации Вы не сможете более найти нигде.
+
+Язык руководства русский или английский по Вашему выбору.
+
+Варианты:
+
+- твердый переплет    -  50 у.е.
+- мягкий переплет     -   40 у.е.
+- электронная версия - 30 у.е.
+
+Доставка:  Наложный платеж; Авансовый платеж; Курьерская.
+
+Стоимость доставки по Москве и Московской области входит в стоимость(кроме курьерской).
+
+Скидки:
+- от 10 экз. - 10%
+- от 25 экз. - 15%
+- от 50 экз. - 20%
+- авансовый платеж - 10%.
+
+Обращайтесь. Мы ждем Вас!
+
+е-м: arcot@beep.ru
+t\f\a : 7059285#92889
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

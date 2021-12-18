@@ -1,0 +1,147 @@
+Return-Path: <"lists@"@topsender.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29182 invoked from network); 22 Apr 2001 13:43:11 -0000
+Received: from ch8as11-75-166-225.cw-visp.com (HELO oemcomputer) (212.137.166.225)
+  by em.ca with SMTP; 22 Apr 2001 13:43:11 -0000
+From: "Dad" <lists@@topsender.com>
+To: <bruceg@em.ca>
+Subject: IMPORTANT Virus/Worm Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Sun, 22 Apr 2001 14:45:52
+Content-Length: 4906
+
+**********************************************************************************
+"You too can create your own unique product in no time flat
+and then sell it like crazy from a simple single page web site"
+
+It's time to discover the secret to building a profitable online
+business The Quick Way.  
+
+For More Details email me at: lesliemacdonald2000@yahoo.com
+
+Please put "quickway" in the body or subject line of your message
+***********************************************************************************
+
+
+Hi,
+
+I don't normally send out virus warnings, but this one  is
+apparently one of the latest infections running rampant on 
+the 'Net.
+
+If you use an email client and you receive an email that says
+"Take a look at the attachment" - delete it immediately.  Do not
+"take a look"!
+
+The email is infected with a "worm" called "TROJ_BADTRANS.A"
+and if you click on the attachment, you'll get the worm.  The
+worm replies to all unread email messages with itself attached
+to the email. This email has the same subject header and
+message body as the original email. The name of the sender is
+the name of the user who is currently logged on to the
+infected computer.
+
+The worm is only a few days old, and some of you have probably
+gotten it from other sources and are now wondering what the
+heck to do about it. 
+
+Here is the cure: 
+
+(1)  Go to: http://www.antivirus.com/vinfo/ and click on the
+TROJ BADTRANS.A (should be listed as number 8 in the Top 10
+list).
+
+(2)  Follow the directions under "Solution".  We found that
+Steps 4 and 5 were not necessary, but you might need them, so
+follow them if you can.
+
+(3)  Even if you have a good anti-virus software, the scan at
+this site:
+http://housecall.antivirus.com/housecall/start_corp.asp
+is the best we've found, as it uncovered kak worm files that
+were dormant and overlooked by both McAfee and Norton.  Click
+that link, then select your Country and click Go, wait a
+minute or two depending on your connection speed, and a window
+will pop up asking if you want to download their Trend Micro
+scanner.  Click Yes.
+
+(4)  A small window will pop up that says "Active Update" and
+indicates that the file is downloading.  This can take 1-10
+minutes depending on your connection speed.
+
+(5)  When the file has downloaded, you'll see the screen that
+looks like your directory listing, with "My Computer" and the
+names of your drives.  Put a checkmark next to the drives you
+want to scan and click the gray SCAN button.  You'll see it
+scanning your files, which will take 1-10 minutes depending on
+the number of files in the drives you selected.
+
+(6)  If you have infected files on your computer, look at the
+"Scan Result" column of the screen.  If it says "Non
+Cleanable" then you can just delete the file.  If it says
+"Cleanable" then click on the Clean button when the scan is
+finished.
+
+That's it!  Thankfully, this worm is low-risk and does not
+corrupt data or programs residing on your hard drive.  It's
+just extremely annoying and it propagates with lightening
+speed.  If you're not sure you've been infected, you should do
+the scan anyway just to be sure.
+
+To be completely safe, you should never click on an email
+attachment from anyone unless you know for sure what the 
+attached file contains.  Even your best friend can
+unknowingly send you a virus!
+
+If you have questions about the steps covered in this email, 
+you will likely find the answer if you study the antivirus.com 
+web site (see above).  Their Virus Information Center 
+(top left tab on their site) is an extensive resource.
+
+To your computer's health!
+
+
+Leslie Macdonald
+FIND ANYONE...ANYWHERE...ANYTIME
+http://www.1avenue.com/leslie2000/index.html
+lesliemacdonald2000@yahoo.com
+icq 13224882
+Tel +44-077-877-23507
+
+
+
+
+
+
+
+
+****************************************************************** 
+We are either members of same safe list or opt-in mailing list, 
+or we have had previous email contact through my various other 
+web sites, or you contacted me for some reason, or perhaps you 
+were referred to me by a mutual friend of ours. 
+
+Under Bill s.1618 TITLE III passed by the 105th US Congress this
+letter cannot be considered spam as long as the sender includes
+contact information and a method of removal.
+
+Removal and Contact information:
+
+Leslie Macdonald
+FIND ANYONE...ANYWHERE...ANYTIME
+http://www.1avenue.com/leslie2000/index.html
+lesliemacdonald2000@yahoo.com
+icq 13224882
+Tel +44-077-877-23507
+
+DO NOT REPLY To be removed from this list.
+
+This email is being sent from a "no reply" address so that we won't 
+get the virus (automatically) from you if your machine is infected.
+
+SEND an email to lesliemacdonald2000@yahoo.com  with REMOVE 
+in the subject line. Please make sure you send your message 
+using the email address that we emailed you with otherwise 
+we will not be able to remove you from our list.
+********************************************************************

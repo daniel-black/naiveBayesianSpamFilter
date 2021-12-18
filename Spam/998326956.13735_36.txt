@@ -1,0 +1,43 @@
+Return-Path: <questa@email.com>
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 4043 invoked from network); 17 Aug 2001 00:13:35 -0000
+Received: from mgci.com (HELO rackspace) (64.49.223.150)
+  by em.ca with SMTP; 17 Aug 2001 00:13:35 -0000
+Message-Id: <200108161912.f7GJCGx08617@rackspace>
+From: <questa@email.com>
+Subject: DINOZINE is for kids and the entire family        
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Thu, 16 Aug 2001 20:03:57
+Content-Length: 1037
+Lines: 29
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>DINOZINE&nbsp; is a educational publication for kids and the entire
+family</title>
+</head>
+
+<body>
+
+<p>DINOZINE&nbsp; is a educational publication for kids and the entire family. A new concept in magazine publishing for children...one that uses
+dinosaurs as a vehicle for creating <u> educational entertainment</u>. Subscribe
+now.&nbsp;&nbsp;</p>
+<p><a href="http://www.1xin.net/dinozine/">Click Here To Learn More</a></p>
+<p><font color="#000000" size="3" PTSIZE="10">This is a one time transmission you
+will not receive this again, therefore removal is not necessary, however you may
+opt-out at <a href="mailto:remedy0678@email.com?subject=Unsubscribe Dino">CLICK HERE TO BE REMOVED</a>
+and your request will be honored.&nbsp;&nbsp;<br>
+</font></p>
+
+</body>
+
+</html>
+
+

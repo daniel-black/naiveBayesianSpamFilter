@@ -1,0 +1,25 @@
+Return-Path: <dns-return-6899-bruce-lists-djb-dns=bruce-guenter.dyndns.org@list.cr.yp.to>
+Delivered-To: mailing list dns@list.cr.yp.to
+Received: (qmail 10798 invoked from network); 24 Jan 2001 10:28:03 -0000
+Received: from ns1.soget.fr (HELO soget.fr) (212.208.240.37)
+  by muncher.math.uic.edu with SMTP; 24 Jan 2001 10:28:03 -0000
+Received: from xetudes.local (IDENT:phg@xetudes.local [192.168.0.103])
+	by soget.fr (8.9.3/8.9.3) with ESMTP id LAA02702
+	for <dns@list.cr.yp.to>; Wed, 24 Jan 2001 11:27:16 +0100
+Date: Wed, 24 Jan 2001 11:32:26 +0100 (CET)
+From: Philippe Gay <phg@soget.fr>
+X-Sender: phg@xetudes.local
+To: dns@list.cr.yp.to
+Subject: Pendant qu'on y est ...
+Message-ID: <Pine.LNX.4.10.10101241126270.10207-100000@xetudes.local>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Length: 163
+
+Celle ci m=E9rite aussi d'=EAtre m=E9dit=E9e.
+http://www.lafontaine.net/fables/1enfmai.htm
+J'arr=E8te l=E0!
+Je demande bien sur pardon (aux anglophones)
+Philippe
+

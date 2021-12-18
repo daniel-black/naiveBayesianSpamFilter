@@ -1,0 +1,60 @@
+Return-Path: <debtreduction@msn.com>
+Delivered-To: sklawmgt-postmaster@sasklaw.com
+Received: (qmail 9921 invoked from network); 7 Oct 2001 18:54:58 -0000
+Received: from unknown (HELO my-public.sc.cninfo.net) (61.139.33.132)
+  by agamemnon.bfsmedia.com with SMTP; 7 Oct 2001 18:54:58 -0000
+Received: from html([209.61.190.155]) by my-public.sc.cninfo.net(JetMail 2.5.3.0)
+	with SMTP id jmf73bc0b059; Sun,  7 Oct 2001 18:54:54 -0000
+From: mathewgreen2233@mailandnews.com
+To: anglfwn@aol.com
+Subject: Accelerating payments $ave$ thousands
+Date: Sun, 7 Oct 2001 12:57:10
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 1398
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<HTML>
+<HEAD>
+<TITLE>Free Debt Analysis</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!-- Hide script from older browsers
+
+if(navigator.appVersion.indexOf("AOL")==-1)
+if(navigator.appVersion.indexOf("AOL 3.0")==-1)
+if(navigator.appVersion.indexOf("AOL 4.0")==-1)
+if(navigator.appVersion.indexOf("AOL 5.0")==-1)
+if(navigator.appVersion.indexOf("AOL 6.0")==-1)
+if(navigator.appName.indexOf("WebTV")==-1) {
+
+
+  myWin = open('', 'winin','toolbar=0,menubar=0,scrollbars=1,status=0,resizable=0,width=600,height=600');
+  myWin.blur();
+  myWin.location = 'http://66.78.57.250/~edebtcn/form3.htm';
+   }
+
+// end hiding contents -->
+</script>
+<SCRIPT language=JavaScript>
+ <!--
+ var message="";
+ function clickIE() {if (document.all) {(message);return false;}}
+ function clickNS(e) {if 
+ (document.layers||(document.getElementById&&!document.all)) {
+ if (e.which==2||e.which==3) {(message);return false;}}}
+ if (document.layers) 
+ {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+ else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+ // --> 
+ </SCRIPT>
+
+</HEAD>
+<center>
+<table>
+<td width="600" height="150"><a href="http://66.78.57.250/~edebtcn/form3.htm"><Img Src="http://66.78.57.250/~edebtcn/congrats.gif" Alt="" Width="600" Height="150"></a></Td>
+

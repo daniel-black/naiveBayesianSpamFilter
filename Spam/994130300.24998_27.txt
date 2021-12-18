@@ -1,0 +1,40 @@
+Return-Path: <illbethere@address.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 13033 invoked from network); 2 Jul 2001 20:51:50 -0000
+Received: from fl-mta03.durocom.com (216.53.195.244)
+  by bfsmedia.sk.ca with SMTP; 2 Jul 2001 20:51:50 -0000
+Received: from [216.97.196.59] by fl-mta03.durocom.com with SMTP
+          id <20010702204415.VVDR6335.fl-mta03@[216.97.196.59]>;
+          Mon, 2 Jul 2001 16:44:15 -0400
+Received: from  [241.32.177.14] by _[83.22.193.44]_by with SMTP id A51C25E1 Mon, 2 Jul 2001 16:21:10 PDT
+From: <illbethere@address.com>
+Subject: AMSE trading at 50% of book value				nbv              
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Mon, 2 Jul 2001 16:38:27
+Message-Id: <20010702204415.VVDR6335.fl-mta03@[216.97.196.59]>
+Content-Length: 504
+Lines: 22
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Stock Symbol AMSE</title>
+</head>
+
+<body>
+
+<p>Stock Symbol AMSE, is trading at 50% of book value with increased revenues of over
+1000%. Undervalued? You're invited to do the research<br>
+<br>
+Please Visit By <a href="http://mortgage1020.iwarp.com/">CLICKING HERE</a></p>
+
+</body>
+
+</html>
+
+

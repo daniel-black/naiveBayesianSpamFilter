@@ -1,0 +1,21 @@
+Return-Path: <tester1211@earthlink.net>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 20079 invoked from network); 5 Jun 2001 08:57:04 -0000
+Received: from spitalcfr.codec.ro (193.230.240.177)
+  by bfsmedia.sk.ca with SMTP; 5 Jun 2001 08:57:04 -0000
+Received: from 209.66.115.37 (MAX04-1-37.icgla.cwia.com [209.66.115.37])
+	by spitalcfr.codec.ro (8.8.5/8.8.5) with SMTP id MAA28121;
+	Tue, 5 Jun 2001 12:04:16 +0300
+From: tester1211@earthlink.net
+Message-ID: <000064ee7599$00003091$00003ffe@>
+To: <tester1211@earthlink.net>
+Subject: .
+Date: Mon, 04 Jun 2001 16:06:15 -1200
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: tester1211@earthlink.net
+Reply-To: tester1211@earthlink.net
+X-Mailer: outlook express
+Content-Length: 0
+Lines: 0
+

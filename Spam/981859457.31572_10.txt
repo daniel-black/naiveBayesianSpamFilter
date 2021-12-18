@@ -1,0 +1,89 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 23327 invoked from network); 10 Feb 2001 08:30:10 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bruce-guenter.dyndns.org with SMTP; 10 Feb 2001 08:30:10 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S130735AbRBJI3R>; Sat, 10 Feb 2001 03:29:17 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S129664AbRBJI26>; Sat, 10 Feb 2001 03:28:58 -0500
+Received: from [211.78.11.151] ([211.78.11.151]:46088 "EHLO web-server")
+	by vger.kernel.org with ESMTP id <S129322AbRBJI2t> convert rfc822-to-8bit;
+	Sat, 10 Feb 2001 03:28:49 -0500
+Received: from [202.178.205.218] by web-server
+  (ArGoSoft Mail Server Plus, Version 1.4 (1.4.0.8)); Sat, 10 Feb 2001 04:04:37 
+X-Originating-IP: 172.16.16.2
+Subject: A brand new free web site is coming!
+From:	"pop@traderslobby.com" <pop@traderslobby.com>
+Date:	Sat, 10 Feb 2001 03:47:37 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Transfer-Encoding: 8BIT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="big5"
+X-Mailer: JMail 3.7.0 by Dimac (www.dimac.net)
+Message-ID: <3xyrwaho4z8wwsp.100220010404@web-server>
+To:	unlisted-recipients:; (no To-header on input)
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 2294
+
+This is an advertising message, if you do not want to receive this unwanted
+message further, please send your advises to nomail@traderslobby.com , and
+we do apology for disturbing you, thank you!
+
+www.Traderslobby.com is a brand new free trade website, which bring
+Information, Promotion and Management together for your business.
+
+www.Traderslobby.com is a high-effect website designed for any size
+business, any type business and any area business.
+
+www.Traderslobby.com is not simply a trade website; it is a Smart, Friendly
+and Multi-function Internet platform for your business management.
+
+www.Traderslobby.com is a join free site. We charge nothing for memberships,
+because we service members!
+
+
+What can traderslobby.com do for you? We can:
+
+1. Provide you global biz opportunities.
+2. Collect sellers and buyers¡¦ information worldwide everyday for you.
+3. Provide you product alerts and free company list.
+4. Provide you real time global business news.
+5. Provide you a low-cost, high-effect global promotion system.
+6. Provide you a multi-function and friendly interface for your business
+management.
+7. Connect your business with people you need.
+
+What can you do for your business with traderslobby.com? You can:
+
+1. Find biz opportunities, trade information and business partners in an
+easier way.
+2. Promote your business and products worldwide.
+3. Distribute your business or trade information worldwide.
+4. Issue your own business news worldwide.
+5. Establish your private office for business management.
+6. Enjoy Smart, Friendly and Multi-function application services to handle
+your business.
+7. Connect your business with global trade market and meet your business
+parents on the Net.
+Using traderslobby.com is nothing about technology; it¡¦s about the way you
+doing business! Let¡¦s have a Go!
+
+www.Traderslobby.com is a free website, for more information please contact
+welcome@traderslobby.com
+
+This is an advertising message, if you do not want to receive this unwanted
+message further, please send your advises to nomail@traderslobby.com , and
+we do apology for disturbing you, thank you!
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+Please read the FAQ at http://www.tux.org/lkml/

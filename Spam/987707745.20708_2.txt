@@ -1,0 +1,48 @@
+Return-Path: <info-sather-admin@gnu.org>
+Delivered-To: bruce-lists-sather@bruce-guenter.dyndns.org
+Received: (qmail 20110 invoked from network); 19 Apr 2001 18:24:42 -0000
+Received: from fencepost.gnu.org (199.232.76.164)
+  by bruce-guenter.dyndns.org with SMTP; 19 Apr 2001 18:24:42 -0000
+Received: from localhost ([127.0.0.1] helo=fencepost.gnu.org)
+	by fencepost.gnu.org with esmtp (Exim 3.16 #1 (Debian))
+	id 14qJ62-00077G-00; Thu, 19 Apr 2001 14:24:02 -0400
+Received: from delysid.gnu.org ([158.121.106.20])
+	by fencepost.gnu.org with esmtp (Exim 3.16 #1 (Debian))
+	id 14qJ4d-00076H-00; Thu, 19 Apr 2001 14:22:35 -0400
+Received: from [61.155.189.78] (helo=user1)
+	by delysid.gnu.org with smtp (Exim 3.20 #1)
+	id 14qJ4b-00031a-00
+	for <info-sather@gnu.org>; Thu, 19 Apr 2001 14:22:33 -0400
+From: "zwj" <zwj88zww@371.net>
+To: <info-sather@gnu.org>
+Subject: Introducing a New Concept on Advanced Garbage Treatment Process
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Message-Id: <E14qJ4b-00031a-00@delysid.gnu.org>
+Sender: info-sather-admin@gnu.org
+Errors-To: info-sather-admin@gnu.org
+X-BeenThere: info-sather@gnu.org
+X-Mailman-Version: 2.0.3
+Precedence: bulk
+List-Help: <mailto:info-sather-request@gnu.org?subject=help>
+List-Post: <mailto:info-sather@gnu.org>
+List-Subscribe: <http://mail.gnu.org/mailman/listinfo/info-sather>,
+	<mailto:info-sather-request@gnu.org?subject=subscribe>
+List-Id: Announcements and discussions about the GNU Sather object oriented language <info-sather.gnu.org>
+List-Unsubscribe: <http://mail.gnu.org/mailman/listinfo/info-sather>,
+	<mailto:info-sather-request@gnu.org?subject=unsubscribe>
+List-Archive: <http://mail.gnu.org/pipermail/info-sather/>
+Date: Fri, 20 Apr 2001 02:26:12
+Content-Length: 545
+
+Introducing a new concept on advanced garbage treatment process, and licensing patents
+For details, please reference the web site:
+http://zwj5382.3322.net
+http://zwj5382.163.net
+The inventor would like to assign exclusive patent license to anyone who is interested in patented advanced garbage treatment process technology.  For patent license, please contact the inventor via E-mail:
+zwj88zww@371.net
+
+_______________________________________________
+Info-sather mailing list
+Info-sather@gnu.org
+http://mail.gnu.org/mailman/listinfo/info-sather

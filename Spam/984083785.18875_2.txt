@@ -1,0 +1,162 @@
+Return-Path: <adammason785@spire.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 10948 invoked from network); 8 Mar 2001 20:36:15 -0000
+Received: from search.cnnic.net.cn (159.226.6.5)
+  by bfsmedia.sk.ca with SMTP; 8 Mar 2001 20:36:15 -0000
+Received: from [38.27.42.229] by search.cnnic.net.cn
+          (Netscape Mail Server v2.02) with SMTP id AAJ1107083;
+          Thu, 8 Mar 2001 23:12:08 -0800
+Received: from mail.cit.ac.nz by ip229.kansas-city22.mo.pub-ip.psi.net with ESMTP; Thu, 08 Mar 2001 09:18:14 -0600
+Message-ID: <00007ec34ee3$00007fa8$00003f38@mail.cit.ac.nz>
+To: <jojn@jordanmail.com>
+From: adammason785@spire.com
+Subject: The Answer to Stock Market Volatility                         16184
+Date: Thu, 08 Mar 2001 09:18:04 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: bobjones@sudanmail.com
+X-Mailer: USANET web-mailer (34WB1.4.03)
+Content-Length: 4072
+Lines: 137
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//htt=
+p://3472742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-ny=
+ry.htm@00000000321.0000000032.0000000041.0000000020/vpaysystems.net/0006F.=
+html?redirect=3Dangelfire.lycos.com/ogoqstn/purvbrqfb/ufzd.htm?digitaldata=
+streamcomputernetworking.com/redirect.cgi?-refer#4908732?http://geocities.=
+net/majorcomputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://=
+redirect?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldat=
+astreamcomputernetworking.com/main.html?http://geocities.net/majorcomputer=
+networking:endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.co=
+m/hobbies/http://mnumeralhexadecimal.com?12.5.102.4/","Hello","scrollbars"=
+);
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472742=
+688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@0000=
+0000321.0000000032.0000000041.0000000020/vpaysystems.net/0006F.html?redire=
+ct=3Dangelfire.lycos.com/ogoqstn/purvbrqfb/ufzd.htm?digitaldatastreamcompu=
+ternetworking.com/redirect.cgi?-refer#4908732?http://geocities.net/majorco=
+mputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://redirect?eb=
+ay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldatastreamcomp=
+uternetworking.com/main.html?http://geocities.net/majorcomputernetworking:=
+endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.com/hobbies/h=
+ttp://mnumeralhexadecimal.com?12.5.102.4/","screen");
+		}
+	}
+	else
+	{
+		location.href=3D"http://216.32.74.52/stealth.cgi=3Dkey57985//http://3472=
+742688/apache2i8/convert.cgi/?http://996.682.889.0-aasrdh-gouri-nyry.htm@0=
+0000000321.0000000032.0000000041.0000000020/vpaysystems.net/0006F.html?red=
+irect=3Dangelfire.lycos.com/ogoqstn/purvbrqfb/ufzd.htm?digitaldatastreamco=
+mputernetworking.com/redirect.cgi?-refer#4908732?http://geocities.net/majo=
+rcomputernetworking:endofline.com?needanumeralhexadec.com:1.5.4://redirect=
+?ebay.com/hobbies/http://mnumeralhexadec.com?12.5.102.4?digitaldatastreamc=
+omputernetworking.com/main.html?http://geocities.net/majorcomputernetworki=
+ng:endofline.com?http://www.delhadata.com:1.5.4://redirect:ebay.com/hobbie=
+s/http://mnumeralhexadecimal.com?12.5.102.4/";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+ </BODY>
+
+</HTML>
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN"><p><HTML><p><p><p><p><p><=
+p>
+</BODY>
+</HTML>
+
+

@@ -1,0 +1,135 @@
+Return-Path: <twisted.rizla002@freeuk.com.fr>
+Spam-Apparently-To: <entrepreneurs@em.ca>
+Received: (qmail 8263 invoked from network); 30 Sep 2001 09:41:39 -0000
+Received: from unknown (HELO ns.emdm.taito.tokyo.jp) (211.15.57.98)
+  by agamemnon.bfsmedia.com with SMTP; 30 Sep 2001 09:41:39 -0000
+Received: from html (slip129-37-27-49.ga.us.prserv.net [129.37.27.49]) by ns.emdm.taito.tokyo.jp with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id TVKW4946; Sat, 29 Sep 2001 09:22:07 +0900
+From: twisted.rizla002@freeuk.com.fr
+To: entrepreneurs@sgi.com
+Subject: Check this out
+Date: Fri, 28 Sep 2001 19:23:03
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT"
+
+<CENTER>
+  <P><b>COMPLETE CREDIT RECOVERY SYSTEM!!!</b></P>
+  <P><b>Credit Repair At Your Fingertips!</b></P>
+  <P>Easy To Use WorkBook<BR>Everything You Will Need To Literally Wash Away
+  Negative Credit<BR>3 Easy To Use Steps<BR>Every Thing You Need Is Contained In
+  This Workbook<BR>Easy To Follow<BR><BR><BR></P>
+  <DIV align=center>
+  <TABLE cellSpacing=0 width="85%" border=0>
+    <TBODY>
+    <TR>
+      <TD width="100%">
+        <P align=center><B><FONT face="Times New Roman" color=#cc0000 
+        size=5>Everyone Needs&nbsp;</FONT></B></P>
+        <P align=center><B><FONT face="Times New Roman" color=#cc0000 
+        size=5>The Credit Recovery System!</FONT></B></P>
+        <P><b><font face="Times New Roman">I had over $19,000.00 in negative
+        debt, and my credit was shot.&nbsp; I could not see the light at the end
+        of the tunnel.&nbsp; I used my book &quot;Credit Recovery System&quot;,
+        and literally washed all my debt and negative credit history away.&nbsp;
+        Now my credit history is squeaky clean.&nbsp; In my opinion it does not
+        matter how much debt you have, or how bad your credit history is, this
+        workbook worked for me, and hundreds of other clients.&nbsp; It can work
+        for you!&nbsp; If you are tired of being in debt up to your wazzoo, and
+        having a terrible credit history, then this is your book.&nbsp; It's
+        easy to use, easy to follow, and everything you will need is contained
+        within the workbook.</font></b> </P>
+        <P><b><font face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Jon Gonzales</font></b> </P></TD></TR>
+    <TR>
+      <TD width="100%">
+      </TD></TR></TBODY></TABLE></DIV></CENTER>
+  <CENTER>
+  <P>
+  <DIV align=center>
+  <TABLE cellSpacing=0 width="85%" border=0>
+    <TBODY>
+    <TR>
+      <TD width="100%">
+        <P align=center><B><I><FONT color=#cc0000 size=2>Please fill out the
+        form below completely and click the submit button.&nbsp; This is your
+        first step in complete Credit Recovery.&nbsp; The cost of the workbook
+        is $29.95.&nbsp; A small price to pay for repairing your credit.&nbsp;
+        Upon filling out the below form, one of our credit recovery specialist
+        will contact you to gather any information needed to rush you out the
+        Credit Recovery System.&nbsp;&nbsp;</FONT></I></B></P></TD></TR></TBODY></TABLE></DIV>
+  <FORM name=form action="mailto:janet_balinki_01@yahoo.com?SUBJECT=Credit" 
+  method=post encType=text/plain <tr>
+  <DIV align=left>
+  <TABLE width="95%" border=0>
+    <TBODY>
+    <TR>
+      <TD align=right width="61%"><FONT size=2><B>&nbsp;Email 
+        Address:</B><BR><FONT color=#ff0000>be sure to use your full address 
+        </FONT>(i.e.<FONT color=#ff0000> </FONT>user@domain.com)</FONT></TD>
+      <TD align=middle width="39%"><INPUT size=29 name=user_email></TD></TR>
+    <TR>
+      <TD align=right width="61%"><B><FONT size=2>Your Name:</FONT></B></TD>
+      <TD align=middle width="39%"><INPUT size=29 name=Applicant_Name></TD></TR>
+    <TR>
+      <TD align=right width="61%"><B><FONT size=2>Address:</FONT></B></TD>
+      <TD align=middle width="39%"><INPUT size=29 name=Business_Name></TD></TR>
+    <TR>
+      <TD align=right width="61%"><B><FONT size=2>City, State and Zip:</FONT></B></TD>
+      <TD align=middle width="39%"><INPUT size=29 name=Business_Phone></TD></TR>
+    <TR>
+      <TD align=right width="61%"><B><FONT size=2>Phone 
+      Number:</FONT></B></TD>
+      <TD align=middle width="39%"><INPUT size=29 name=HomePhone></TD></TR>
+    <TR>
+      <TD align=right width="61%"></TD>
+      <TD width="39%">
+        <DIV align=left>
+        <TABLE width="95%" border=0>
+          <TBODY>
+          <TR>
+            <TD align=right width="61%"><B><FONT size=2>Best Time 
+        To Call:</FONT></B></TD>
+      <TD width="39%">
+        <DIV align=left>
+        <TABLE width="95%" border=0>
+          <TBODY>
+          <TR>
+            <TD align=middle width="12%"><INPUT type=radio value=anytime 
+              name=Best_Time></TD>
+            <TD width="88%">Anytime</TD></TR>
+          <TR>
+            <TD align=middle width="12%"><INPUT type=radio value=morning 
+              name=Best_Time></TD>
+            <TD width="88%">Morning</TD></TR>
+          <TR>
+            <TD align=middle width="12%"><INPUT type=radio value=day 
+              name=Best_Time></TD>
+            <TD width="88%">Day</TD></TR>
+          <TR>
+            <TD align=middle width="12%"><INPUT type=radio value=evening 
+              name=Best_Time></TD>
+            <TD width="88%">Evening</TD></TR></TBODY></TABLE></DIV></TD></TR>
+    <TR>
+      <TD width="100%" colSpan=2>
+        <DIV align=center>
+        <CENTER>
+        <TABLE width="13%" border=0>
+          <TBODY>
+          <TR>
+            <TD width="100%">
+              <P 
+          align=center><INPUT type=submit value=Submit name=B1></P></TD></TR></TBODY></TABLE></CENTER></DIV></TD></FORM>
+      <BLOCKQUOTE></BLOCKQUOTE></TR></TBODY></TABLE></DIV><BR>
+  <DIV align=center>
+  <CENTER>
+  <TABLE borderColor=#c0c0c0 cellSpacing=0 width="85%" bgColor=#e8e8e8 
+    border=3><TBODY>
+    <TR>
+      <TD width="100%" bgColor=#e8e8e8><FONT size=2><B>Your information is 
+        confidential, it will not be sold or used for any other purpose, and you 
+        are under no obligation.&nbsp;</B></FONT> 
+    </TD></TR></TBODY></TABLE></CENTER></DIV></FORM>
+  <P align=center><BR><B><FONT color=#ff0000 size=3>List Removal/OPT-OUT 
+  Option</FONT></B> <BR><B><FONT color=#000000><FONT size=-1><A 
+  href="mailto:xp105ledr@excite.com?subject=remove-credit">Click 
+  Here</A></FONT></FONT></B> </P>

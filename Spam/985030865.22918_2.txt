@@ -1,0 +1,158 @@
+Return-Path: <milleibar@accunet.co.uk>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 17455 invoked from network); 19 Mar 2001 19:22:08 -0000
+Received: from sirsi.nassau.lib.fl.us (208.60.47.5)
+  by bfsmedia.sk.ca with SMTP; 19 Mar 2001 19:22:08 -0000
+Received: from taffar (1Cust173.tnt1.sherman-oaks.ca.da.uu.net [63.23.164.173])
+	by sirsi.nassau.lib.fl.us (8.8.8+Sun/8.8.8) with SMTP id OAA28480;
+	Mon, 19 Mar 2001 14:20:05 -0500 (EST)
+From: milleibar@accunet.co.uk
+Message-ID: <000037787aba$00005624$000015a6@oemcomputer ([102.74.4.25]) by mtiwmhc08.worldnet.att.net (InterMail v03.02.07.07 118-134) with SMTP id <20000116195506.ZOOK28505@oemcomputer> from worldnet.att.net ([12.77.194.15]) by mtiwmhc03.worldnet.att.net>
+To: <dagmar@pld.net>
+Subject: Increase Your Internet Speed For $3!
+Date: Sun, 20 Mar 2022 11:24:31 -0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: johnir789pryu83@concentric.net
+X-Mailer: Mozilla 4.72 [en] (Win98; U)
+Content-Length: 4325
+Lines: 138
+
+
+
+Thats right, increase your average Internet down
+load and up load throughput by at least 100%.
+
+Everyone running Windows 95 or Windows 98,
+ALL versions and languages, may take advantage
+of this simple but powerful tool. Sorry Mac owners.
+
+It works with ALL browser's and Clients, any ISP
+and , Yes, AOL too. No special phone lines
+required. No other costs, period! Indeed, if you
+access the Internet via long distance or pay any
+other 'timed' charges, you will see a noticeable
+reduction in those costs.
+
+Turn your 14.4 K modem into the equivalent of a
+28.8 K modem, your 28.8 K into a 56 K or make
+your 56 K unit blaze at ISDN speeds !
+
+It works equally well with all modem types, models
+and brands. It works with any SLIP or PPP type
+Internet connection. If you use a 14.4 K to 56 K
+modem for your Internet connection: This will
+work for you !!!
+
+On the average you will double your Internet
+speed on the Web, with e-mail, news groups,
+FTP and all of your other Internet data transfers.
+Audio and Video will come alive.
+
+Impossible you say ! Double my Internet
+speed for just $3? No way, can't be done!
+Then you must be one of the few that believe
+Microsoft does everything perfectly ?
+
+In their infinite wisdom, Microsoft saw fit
+to optimize the communications platform
+of their latest Operating Systems for
+maximum Local Area Network (LAN)
+performance, not the Internet.
+
+Simply put, it all has to do with packet transfer
+size and fragmentation. Windows 95/98
+work with a 1500 bit packet size. This is
+perfect for LAN use, but not so for the Intent
+standard of 576 bits per packet. This difference
+in size causes packet fragmentation, requiring
+the same data to be sent over and over again,
+until it all gets through. By resetting the packet
+size for optimal Internet performance you
+eliminate fragmentation and very noticeably
+increase your data throughput !
+
+This is not new information. It just has not
+been widely known. Show any networking
+expert the above paragraph and they will
+confirm these facts.
+
+Why did Microsoft set the packet size to
+this value ? To be fair to Microsoft, they
+had to set it to some value. As Windows
+is used extensively on LAN's also, maybe
+it was decided by the flip of a coin. What's
+important is, how can you safely and quickly
+change your packet size for best Internet use
+and, if need be, back for the LAN ?
+
+Up until several months ago, the only way to
+make the necessary changes was slow, difficult
+and dangerous. You had to manually alter
+two basic files of the Windows operating
+system. This was not a practical or safe
+procedure for the average user to undertake.
+
+About a year ago a few program utilities, that
+helped ease the process, became available.
+Until three months ago, these utilities only
+offered a marginal improvement over the
+old manual way. Now there is a clear leader
+among these utilities, that makes it quick,
+easy and safe to make these changes.
+Now anyone may double the speed of
+their Internet connection !
+
+How to get FREE Software !
+FOR JUST $3
+YOU CAN GET SOFTWARE WORTH
+THOUSANDS OF DOLLARS !
+
+PLUS MUCH MUCH MORE YOU WILL BE HAPPY
+WITH WHAT YOU WILL RECEIVE FOR JUST $3
+
+You would spend hours to find all this information
+
+These programs are free and you could find them on
+your own. After several weeks of searching,
+trial and error, and a few system crashes,
+you might know what we offer for only $3
+
+In just a few days you too will be enjoying
+this exciting new technology. Within 24
+hours of receipt of your order, we'll email
+you all the info needed along with a special
+code and web site to down load the utility.
+
+Here is what you do to ORDER the speed
+doubling utility and related information:
+
+You have a few options:
+
+1) Take a blank letter size piece of paper
+and clearly print the following on it:
+
+HERE'S MY $3, SEND INTERNET X-2, (your name)
+(Your e-mail address)
+
+Now wrap three one dollar bills (US) in the
+paper with your email address on it, put it
+in an envelope and mail it to:
+
+PWM Speed
+PMB
+7850 Reseda Blvd. suite 205
+Reseda, Ca 91335
+
+As I'm trying to develop a solid
+reputation of providing high value
+information at a low cost,
+
+Send your Internet X-2 order TODAY.
+In a few days you will double your
+Internet speed !
+
+Thank You ..... art
+Message Presented By Boston  Plus,
+==================================================
+

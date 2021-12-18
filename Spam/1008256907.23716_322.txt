@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10379 invoked from network); 13 Dec 2001 08:40:51 -0000
+Received: from unknown (HELO mail.em.ca) (209.149.254.163)
+  by agamemnon.bfsmedia.com with SMTP; 13 Dec 2001 08:40:51 -0000
+From: "American Cellular" <>
+Date: Thu, 13 Dec 2001 16:45:13
+To:bruceg@em.ca
+Subject: Free Phones!!!!!!!
+MIME-Version: 1.0
+Content-Type: multipart/related;
+  boundary="----=_NextPart_RYIVAKOREC"
+Content-Transfer-Encoding: 7bit
+Message-ID: PM20004:45:13 PM
+Content-Length: 4839
+
+This is an HTML email message.  If you see this, your mail client does not support HTML messages.
+
+------=_NextPart_RYIVAKOREC
+Content-Type: text/html;charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>American Cellular, Inc - Family Plan </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#FF0000" vlink="#FF0000" alink="#FF0000" topmargin="2">
+<div align="center">
+  <table width="510" border="1" cellspacing="0" cellpadding="3" height="500" bordercolor="#000066">
+    <tr>
+      <td valign="top" height="443"> 
+        <div align="center">
+          <table width="500" border="0" cellspacing="0" cellpadding="0">
+            <tr> 
+              <td width="184"> 
+                <div align="center"><a href="http://www.freefamilyphone.com/ede/index.asp"><img src="http://209.149.254.180/olcc/aclogo.gif" width="154" height="79" border="0"></a></div>
+              </td>
+              <td width="316"> 
+                <div align="center"><a href="http://www.freefamilyphone.com/ede/index.asp"><img src="http://209.149.254.180/olcc/congrats.gif" width="294" height="75" border="0"></a></div>
+              </td>
+            </tr>
+            <tr> 
+              <td colspan="2" height="108"> 
+                <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#000066"><br>
+                  <font size="4">NOW more than ever it is important to stay in 
+                  touch!</font><font size="3"><br>
+                  </font><br>
+                  Sign up today for the ALL NEW Shared Advantage Plan and get<br>
+                  <font color="#CC0000">2 FREE</font> Cellular Phones and accessories 
+                  !!!<br>
+                  </font></b></font></div>
+              </td>
+            </tr>
+            <tr> 
+              <td width="184" height="106" valign="middle"> 
+                <div align="center"><a href="http://www.freefamilyphone.com/ede/index.asp"><img src="http://209.149.254.180/olcc/phones.gif" width="184" height="211" border="0"></a></div>
+              </td>
+              <td width="316" height="106" valign="top"> 
+                <div align="center"><br>
+                  <b><font face="Arial, Helvetica, sans-serif" size="3" color="#000066"><font size="4">What 
+                  you get for <font color="#CC0000">FREE</font></font></font></b> 
+                  <ul>
+                    <li><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>2 
+                      Free Cellular Phones</b></font></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">2 
+                      Free car chargers </font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">2 
+                      Free leather carrying cases</font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">2 
+                      Free hands free head sets</font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">Up 
+                      to 1500 anytime shared minutes</font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">Unlimited 
+                      Mobile to Mobile minutes</font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">Up 
+                      to 2000 Weekend shared minutes</font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">FREE 
+                      Nationwide Long Distance</font></b></li>
+                    <li><b><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">Free 
+                      shipping via FEDEX</font></b></li>
+                  </ul>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <b><font face="Arial, Helvetica, sans-serif" size="3" color="#000066"><a href="http://www.freefamilyphone.com/ede/index.asp"><font size="4"><br>
+          CLICK HERE TO REDEEM YOUR FREE PHONES</font></a></font></b></div>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <b><font face="Geneva, Arial, Helvetica, san-serif" size="1" color="#000066">American 
+  Cellular, Inc is an authorized AT&amp;T Wireless dealer<br>
+  <br>
+  <img src="http://209.149.254.180/olcc/top.gif" width="130" height="39"></font></b></div>
+
+
+<center>
+<br>
+<table width="320"><tr><td><hr><center><font color="#000000">This is not Spam. If you wish to Opt Out/Unsubscribe  </font> <a href="http://209.149.254.180/remove.html"><font color="#ff0000">Click Here</font></a>
+<hr></td></tr></table>
+
+</body>
+</html>
+
+------=_NextPart_RYIVAKOREC--
+

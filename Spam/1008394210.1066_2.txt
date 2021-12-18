@@ -1,0 +1,33 @@
+Return-Path: <safepcs_75128@xoip.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 26597 invoked from network); 15 Dec 2001 00:10:45 -0000
+Received: from unknown (HELO yh.hz.zj.cn) (61.153.8.98)
+  by agamemnon.bfsmedia.com with SMTP; 15 Dec 2001 00:10:45 -0000
+Received: from mail.([65.91.70.59]) by yh.hz.zj.cn(JetMail 2.5.3.0)
+	with SMTP id jm1103c1ab284; Sat, 15 Dec 2001 00:06:53 -0000
+Message-ID: <kfH76ydSB7DU4.ZBeQSBv.yvvE9OVc.IjUHf@mail.>
+From: safepcs_75128@xoip.com <safepcs_75128@xoip.com>
+Bcc:
+Subject: The "Perfect" Stocking Stuffer !!
+Date: Fri, 14 Dec 2001 17:26:02 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: TEXT/HTML; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+Content-Length: 1930
+Lines: 15
+
+<HTML>
+<BODY bgcolor="FFFFFF">
+<center>
+<font size="5" color="0000AA" face="Verdana, Arial, Helvetica, sans-serif"><b><font color="C00000">Increase</font> your cell phone<br>reception for just <font color="C00000">$14.99<br><br><font size="5"><a href="http://www.ecom-plus.org/booster/">Click Here</a></b></font><br><br></font></font>			
+<table width="400" cellspacing="0" cellpadding="0" border="0">
+  <tr><td align="center"><p align="justify"><font color="000000" face="Arial, Helvetica, sans-serif" size="2"><font size="3" color="0000AA"><b>We will <font color="CC0000">increase your reception dramatically</font> or your money back!</b></font> Enhance your cell phone, pager, or two way radio's signal for better reception in large buildings, tunnels, elevators, and many other places where the signal may get weak causing static, missed calls, dropped calls, etc. This easy-to-install internal antenna is like adding 4 feet worth of antenna to your phone! this signal booster will:</font></p><table align="center" cellspacing="0" cellpadding="0" border="0"><tr><td><font face="Arial, Helvetica, sans-serif" color="0000A0" size="3"><b><ul type="square"><li>reduce static<li>provide clarity<li>stabilize reception<li>work on any phone<li>work on any system</ul></b></font></td></tr></table></td></tr>
+  <tr><td align="center"><br><font face="Arial, Helvetica, sans-serif" size="3" color="000000"><b>Easy to Install</b><br><font size="2">Just slip in behind battery!</font></font></td></tr>
+  <tr><td align="center"><font size="5" color="0000AA" face="Verdana, Arial, Helvetica, sans-serif"><b><br><a href="http://www.ecom-plus.org/booster/">Click Here</a><br><br></b></font></td></tr>  
+  <tr><td align="center"><font size="1" color="000000" face="Arial, Helvetica, sans-serif"><br><br>To unsubscribe, click <a href="http://www.ecom-plus.org/booster/remove.html">here</a>.</font></td></tr>
+</table>
+</center>
+</BODY>
+</HTML>
+
+

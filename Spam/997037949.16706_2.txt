@@ -1,0 +1,256 @@
+Return-Path: <tpogjue75523@yahoo.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 1414 invoked from network); 5 Aug 2001 06:15:40 -0000
+Received: from unknown (HELO WELEX.welling-essen.de) (62.16.158.70)
+  by daedelus.bfsmedia.com with SMTP; 5 Aug 2001 06:15:40 -0000
+Received: from 62.0.110.38 ([216.117.64.129]) by WELEX.welling-essen.de with Microsoft SMTPSVC(5.0.2195.2966);
+	 Sun, 5 Aug 2001 03:52:35 +0200
+Message-ID: <000028747fc5$000031eb$000059ee@62.0.110.38>
+To: <Friend>
+From: tpogjue75523@yahoo.com
+Subject: RE:                         23022
+Date: Thu, 10 Apr 1997 21:55:00 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Return-Path: tpogjue75523@yahoo.com
+X-OriginalArrivalTime: 05 Aug 2001 01:52:41.0546 (UTC) FILETIME=[5009CAA0:01C11D51]
+Content-Length: 15908
+Lines: 233
+
+<html> <head> <title>Loan Application Form</title> <script language=3D"Java=
+Script">
+ 
+ <!--
+ function check(form) {
+  if ( (form.Name.value =3D=3D "") ||
+     (form.City.value =3D=3D "") ||
+     (form.Address.value =3D=3D "") ||
+     (form.State.value =3D=3D "") ||
+     (form.Mortgage1.value =3D=3D "") ||
+     (form.Mortgage2.value =3D=3D "") ||
+     (form.PostalCode.value =3D=3D "") ||
+     (form.Email.value =3D=3D "") ) {
+  alert("Please fill in ALL required fields. Thank You!");
+  return false;
+  } else {
+  return true;
+  }
+  }
+ 
+  function validate(string) {
+      if (!string) return false;
+      var Chars =3D "0123456789 ";
+ 
+      for (var i =3D 0; i < string.length; i++) {
+         if (Chars.indexOf(string.charAt(i)) =3D=3D -1)
+            return false;
+      }
+            return true;
+ }
+  //-->
+ </script> </head> <blockquote type=3D"cite" cite> <b><font size=3D"5" col=
+or=3D"#FF0000"><p align=3D"center">We will help you get the mortgage loan =
+you want! </font><br> Whether a new home loan is what you seek or<br> to r=
+efinance your current home loan at a lower interest rate and payment, we c=
+an help!<br> <br> <font size=3D"4">Mortgage rates haven't been this low in=
+ the last 12 months, take action now!<br> </font>Refinance your home with =
+us and include all of those pesky credit card bills or<br> use the extra c=
+ash for that pool you've always wanted... <br> <font size=3D"4" color=3D"#=
+0000FF">Where others says NO, we say YES!!!<br> </font>Even if you have be=
+en turned down elsewhere, we can help! <br> <br> <font size=3D"4" color=3D=
+"#FF0000">Take just 2 minutes to complete the following form.<br> </font><=
+/b><font size=3D"2"><i>There is no obligation, all information is kept str=
+ictly confidential, and you must be at least 18 years of age.</i></font></=
+p> <body text=3D"#000040" bgcolor=3D"#FFFFFF" link=3D"#0000FF" vlink=3D"#8=
+00080" alink=3D"#FF0000"> <form method=3D"POST" onSubmit=3D"return check(t=
+his)" action=3D"mailto:faqegsj10612@yahoo.com?subject=3DRates DROPPED! -c"=
+ enctype=3D"text/plain"> <table border=3D"0" width=3D"600" align=3D"center=
+"> <tr><td align=3D"center" height=3D"285" bgcolor=3D"#COCOCO"> <br> <hr w=
+idth=3D"100%" align=3D"center"><br><p>Please complete all the information =
+below.<br> Our loan specialist will be contacting you at your convenience.=
+<br> Thank You!</p> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" align=3D"center" width=3D"600"><tr><td align=3D"CENTER" valign=3D"TOP"> =
+<hr width=3D"100%" align=3D"center"><p>Please use your mouse to navigate b=
+etween fields. Thank You.</b></font></td></tr></table><br> <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"2" align=3D"center" width=3D"535"> <t=
+r><td align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg"> <f=
+ont size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica, sans-serif"><b>=
+ Your Full Name</b></font></td><td width=3D"282" align=3D"left"> <input ty=
+pe=3D"text" size=3D"20" name=3D"Name"> *</td></tr><tr> <td align=3D"RIGHT"=
+ width=3D"296" background=3D"Greenbackground.jpg"> <font size=3D"2" color=3D=
+"#000000" face=3D"Arial, Helvetica,sans-serif"><b> Address</b></font></td>=
+ <td width=3D"282"> <input type=3D"text" name=3D"Address" size=3D"20"> *</=
+td></tr><tr> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackgrou=
+nd.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-=
+serif"><b> City</b></font></td> <td width=3D"282"> <input type=3D"text" si=
+ze=3D"20" name=3D"City"> *</td></tr><tr> <td align=3D"RIGHT" width=3D"296"=
+ background=3D"Greenbackground.jpg"> <font size=3D"2" color=3D"#000000" fa=
+ce=3D"Arial, Helvetica,sans-serif"><b> State(USA Only)</b></font></td> <td=
+ width=3D"282"> <select name=3D"State" size=3D"1"> <option value=3D"AK">AK=
+</option> <option value=3D"AL">AL</option> <option value=3D"AR">AR</option=
+> <option value=3D"AZ">AZ</option> <option value=3D"CA">CA</option> <optio=
+n value=3D"CO">CO</option> <option value=3D"CT">CT</option> <option value=3D=
+"DC">DC</option> <option value=3D"DE">DE</option> <option value=3D"FL">FL<=
+/option> <option value=3D"GA">GA</option> <option value=3D"HI">HI</option>=
+ <option value=3D"IA">IA</option> <option value=3D"ID">ID</option> <option=
+ value=3D"IL">IL</option> <option value=3D"IN">IN</option> <option value=3D=
+"KS">KS</option> <option value=3D"KY">KY</option> <option value=3D"LA">LA<=
+/option> <option value=3D"MA">MA</option> <option value=3D"MD">MD</option>=
+ <option value=3D"ME">ME</option> <option value=3D"MI">MI</option> <option=
+ value=3D"MN">MN</option> <option value=3D"MO">MO</option> <option value=3D=
+"MS">MS</option> <option value=3D"MT">MT</option> <option value=3D"NC">NC<=
+/option> <option value=3D"ND">ND</option> <option value=3D"NE">NE</option>=
+ <option value=3D"NH">NH</option> <option value=3D"NJ">NJ</option> <option=
+ value=3D"NM">NM</option> <option value=3D"NV">NV</option> <option value=3D=
+"NY">NY</option> <option value=3D"OH">OH</option> <option value=3D"OK">OK<=
+/option> <option value=3D"OR">OR</option> <option value=3D"PA">PA</option>=
+ <option value=3D"RI">RI</option> <option value=3D"SC">SC</option> <option=
+ value=3D"SD">SD</option> <option value=3D"TN">TN</option> <option value=3D=
+"TX">TX</option> <option value=3D"UT">UT</option> <option value=3D"VA">VA<=
+/option> <option value=3D"VT">VT</option> <option value=3D"WA">WA</option>=
+ <option value=3D"WI">WI</option> <option value=3D"WV">WV</option> <option=
+ value=3D"WY">WY</option> </select><b> * <u>UNITED STATES ONLY!</u></b></t=
+d></tr><tr> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackgroun=
+d.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-s=
+erif"><b> Zip/Postal Code</b></font></td><td width=3D"282"> <input type=3D=
+"text" size=3D"10" maxlength=3D"15" name=3D"PostalCode"> *</td></tr><tr><t=
+d align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg"> <font =
+size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-serif"><b> Home=
+ Phone</b></font></td> <td width=3D"282"> <input type=3D"text" size=3D"20"=
+ maxlength=3D"30" name=3D"HPhone"> *</td></tr><tr> <td align=3D"RIGHT" wid=
+th=3D"296" background=3D"Greenbackground.jpg"> <font size=3D"2" color=3D"#=
+000000" face=3D"Arial, Helvetica,sans-serif"><b> Work Phone</b></font></td=
+><td width=3D"282"> <input type=3D"text" size=3D"20" maxlength=3D"55" name=
+=3D"WPhone"> *</td></tr><tr> <td align=3D"RIGHT" width=3D"296" background=3D=
+"Greenbackground.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, H=
+elvetica,sans-serif"><b> Email Address</b></font></td><td width=3D"282"> <=
+input type=3D"text" size=3D"20" maxlength=3D"30" name=3D"Email"> *</td></t=
+r><tr> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg=
+"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-serif"=
+><b> Best Time To Call</b></font></td><td width=3D"282" background=3D"Gree=
+nbackground.jpg"> <select size=3D"1" name=3D"CallTime"> <option value=3D"M=
+orning at Home" selected>Morning at Home</option> <option value=3D"Morning=
+ at Work">Morning at Work</option> <option value=3D"Afternoon at Home">Aft=
+ernoon at Home</option> <option value=3D"Afternoon at Work">Afternoon at W=
+ork</option> <option value=3D"Evening at Home">Evening at Home</option> <o=
+ption value=3D"Late Evening at Work">Late Evening at Home</option> </selec=
+t> *</td></tr><tr> <td align=3D"RIGHT" width=3D"296" background=3D"Greenba=
+ckground.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica=
+,sans-serif"><b> Do You Own Your Home?</b></font></td><td width=3D"282" ba=
+ckground=3D"Greenbackground.jpg"> <select size=3D"1" name=3D"Homeowner"> <=
+option value=3D"Yes" selected>Yes</option> <option value=3D"No">No</option=
+> </select><font color=3D"#000000" size=3D"1"> * Mobile Homes Do Not Quali=
+fy</font></td></tr><tr> <td align=3D"RIGHT" width=3D"296" background=3D"Gr=
+eenbackground.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helv=
+etica,sans-serif"><b> Property Value</b></font></td><td width=3D"282"> <in=
+put type=3D"text" size=3D"13" name=3D"PropertyValue" onBlur=3D"if (!valida=
+te (this.value>=3D 50000)) { alert('Not Valid! Please enter the approximat=
+e value of current property or property you wish to purchase \n (greater t=
+han or equal to 50000) using only number characters - 0123456789'); this.f=
+ocus(); this.select(); return false; }"> * <font size=3D"1" color=3D"#0000=
+00">Please use numbers only</font></td></tr><tr> <td align=3D"RIGHT" width=
+=3D"296" background=3D"Greenbackground.jpg"> <font color=3D"#000000" face=3D=
+"Arial, Helvetica,sans-serif" size=3D"2"><b>Property Type</b></font></td> =
+<td width=3D"282" background=3D"Greenbackground.jpg"> <select size=3D"1" n=
+ame=3D"PropertyType"> <option value=3D"Single Family Residence" selected>S=
+ingle Family Residence</option> <option value=3D"Condo">Condo</option> <op=
+tion value=3D"Townhouse">Townhouse</option> <option value=3D"2-4 Plex">2-4=
+ Plex</option> <option value=3D"Other">Other</option> </select> *</td></tr=
+><tr> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg"=
+> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-serif">=
+<b> Purchase Price</b></font></td><td width=3D"282"> <input type=3D"text" =
+size=3D"13" name=3D"PurchasePrice"> * <font size=3D"1" color=3D"#000000">P=
+lease use numbers only</font></td></tr><tr> <td align=3D"right" width=3D"2=
+96" background=3D"Greenbackground.jpg"> <font size=3D"2" color=3D"#000000"=
+ face=3D"Arial, Helvetica,sans-serif"><b><p> Year Acquired</b></font></td>=
+<td align=3D"left" width=3D"282"> <input type=3D"text" name=3D"YearAcquire=
+d" size=3D"13"> *</td></tr><tr align=3D"CENTER"> <td align=3D"RIGHT" width=
+=3D"296" background=3D"Greenbackground.jpg"> <font color=3D"#000000" face=3D=
+"Arial, Helvetica,sans-serif" size=3D"2"><b>1st Mortgage-Balance Owed</b><=
+/font></td> <td width=3D"282" align=3D"left"> <input type=3D"text" size=3D=
+"13" maxlength=3D"30" name=3D"Mortgage1" onBlur=3D"if (!validate (this.val=
+ue)) { alert('Not Valid! Please enter only number characters - 0123456789\=
+n If you have no current mortgage please enter 0'); this.focus(); this.sel=
+ect(); return false; }"> * <font size=3D"1" color=3D"#000000">Please use n=
+umbers only (ex:45000) enter 0 for none</font></td></tr> <tr align=3D"cent=
+er"> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg">=
+ <font color=3D"#000000" face=3D"Arial, Helvetica,sans-serif" size=3D"2"><=
+b>1st Mortgage-Interest Rate</b></font></td> <td width=3D"282" align=3D"le=
+ft"><b> <select size=3D"1" name=3D"CurrentIntRate"> <option value=3D"10.0"=
+ selected>10 or above</option> <option value=3D"7.0">Below 7.0</option> <o=
+ption value=3D"7.25">7.1 - 7.49</option> <option value=3D"7.75">7.5 - 7.99=
+</option><option value=3D"8.0">8.0 - 8.49</option> <option value=3D"8.75">=
+8.5 - 8.99</option> <option value=3D"9.25">9.0 - 9.49</option> <option val=
+ue=3D"9.75">9.5 - 9.99</option> <option value=3D"0">None</option> </select=
+> %</b></td></tr><tr align=3D"center"><td align=3D"RIGHT" width=3D"296" ba=
+ckground=3D"Greenbackground.jpg"> <font size=3D"2" color=3D"#000000" face=3D=
+"Arial, Helvetica,sans-serif"><b> Is 1st Adjustable or Fixed?</b></font></=
+td><td align=3D"LEFT" width=3D"282" background=3D"Greenbackground.jpg"> <s=
+elect size=3D"1" name=3D"FirstType"> <option value=3D"Fixed" selected>Fixe=
+d</option> <option value=3D"Adjustable">Adjustable</option> </select> *</t=
+d></tr> <tr align=3D"center"> <td align=3D"RIGHT" width=3D"296" background=
+=3D"Greenbackground.jpg"> <font color=3D"#000000" face=3D"Arial, Helvetica=
+,sans-serif" size=3D"2"><b>Employer</b></font></td> <td width=3D"282" alig=
+n=3D"left"> <input type=3D"text" size=3D"15" maxlength=3D"30" name=3D"Empl=
+oyer"> *</td></tr><tr align=3D"center"><td align=3D"RIGHT" width=3D"296" b=
+ackground=3D"Greenbackground.jpg"> <font size=3D"2" color=3D"#000000" face=
+=3D"Arial, Helvetica,sans-serif"><b> Monthly Gross&nbsp;Household Income</=
+b></font></td><td width=3D"282" align=3D"left"> <input type=3D"text" size=3D=
+"13" maxlength=3D"30" name=3D"MonthlyGrIncome"> * <font size=3D"1" color=3D=
+"#000000">Please use numbers only</font></td></tr> <tr align=3D"center"> <=
+td align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg"> <font=
+ size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-serif"><b> 2nd=
+ Mortgage Balance owed</b></font></td><td width=3D"282" align=3D"left"> <i=
+nput type=3D"text" size=3D"13" maxlength=3D"30" name=3D"Mortgage2" onBlur=3D=
+"if (!validate (this.value)) { alert('Not Valid! Please enter only number =
+characters - 0123456789\n If you have no second mortgage please enter 0');=
+ this.focus(); this.select(); return false; }">> * <font size=3D"1" color=3D=
+"#000000">Please use numbers only(ex:45000) enter 0 for none</font></td></=
+tr><tr align=3D"center"> <td align=3D"RIGHT" width=3D"296" background=3D"G=
+reenbackground.jpg"> <font color=3D"#000000" face=3D"Arial, Helvetica,sans=
+-serif" size=3D"2"><b>Amount You Wish To Borrow</b></font></td> <td width=3D=
+"282" align=3D"left"> <select size=3D"1" name=3D"BorrowRequest"> <option v=
+alue=3D"25000" selected>15,000 - 30,000</option> <option value=3D"40000">3=
+0,000 - 45,000</option> <option value=3D"55000">45,000 - 60,000</option> <=
+option value=3D"70000">60,000 - 75,000</option> <option value=3D"85000">75=
+,000 - 90,000</option> <option value=3D"105000">90,000 - 110,000</option> =
+<option value=3D"120000">110,000 - 125,000</option> <option value=3D"15000=
+0">125,000 &amp; Up</option> </select> *</td></tr><tr align=3D"center"> <t=
+d align=3D"RIGHT" width=3D"296" background=3D"Greenbackground.jpg"> <font =
+size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,sans-serif"><b> Cred=
+it Rating</b></font></td><td width=3D"282" align=3D"left"> <select size=3D=
+"1" name=3D"CreditRating"> <option value=3D"Good" selected>Good</option> <=
+option value=3D"Fair">Fair</option> <option value=3D"Poor">Poor</option> <=
+option value=3D"Excellent">Excellent</option> </select> *</td></tr><tr ali=
+gn=3D"center"> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackgr=
+ound.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,san=
+s-serif"><b> Monthly Debt</b></font></td><td width=3D"282" align=3D"left">=
+ <input type=3D"text" size=3D"13" name=3D"MonthlyDebt"> * <font color=3D"#=
+000000" size=3D"1">Please use numbers <b>only</b></font></td></tr><tr vali=
+gn=3D"middle"> <td align=3D"RIGHT" width=3D"296" background=3D"Greenbackgr=
+ound.jpg"> <font size=3D"2" color=3D"#000000" face=3D"Arial, Helvetica,san=
+s-serif"><b> Loan Interested In</b></font></td><td width=3D"282" align=3D"=
+left"> <select size=3D"1" name=3D"LoanInterested"> <option value=3D"Debt C=
+onsolidation" selected>Debt Consolidation</option> <option value=3D"Second=
+ Mortgage">Second Mortgage</option> <option value=3D"Home Improvement">Hom=
+e Improvement</option> <option value=3D"Refinance">Refinance</option> <opt=
+ion value=3D"Purchase">Purchase</option> </select> *<br>&nbsp;</td></tr><t=
+r align=3D"center"> <td align=3D"center" colspan=3D"2" width=3D"582" "><p>=
+<b><font face=3D"Arial">Fast &amp; Easy -You Are Done !</font></b><br> <in=
+put type=3D"submit" value=3D"Submit This Application"></td></tr></table></=
+td></tr></table> </form><p><font face=3D"Helvetica, sans-serif, Arial" siz=
+e=3D"2">REMOVAL INSTRUCTIONS: This message is being sent to you in complia=
+nce with the current Federal legislation. You must have either posted an A=
+D to my FFA site, web-site, or requested information, or responded to one =
+of our email letters. If you do not want to receive further emails or any =
+other information from us, or you have received this mail in error, or for=
+ immediate removal you may simply use reply on your email program with &qu=
+ot;Remove from your mailing list#9661&quot; in the subject. </font></p> </=
+body> </html>
+
+
+

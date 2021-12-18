@@ -1,0 +1,194 @@
+Return-Path: <offer6@campaign.mediaring.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 28493 invoked from network); 1 Jan 2001 05:12:08 -0000
+Received: from mrussjex4087.mediaring.com (HELO 198.169.201.64) (nobody@216.35.101.87)
+  by em.ca with SMTP; 1 Jan 2001 05:12:08 -0000
+From:MediaRing.com<offer6@campaign.mediaring.com>
+To:bait@em.ca
+Return-Path:offer6@campaign.mediaring.com
+Subject:We're giving gifts!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=ygj022e6a0f85d644b5aedc28d1edb9f053
+Content-Length: 11771
+Lines: 180
+
+--ygj022e6a0f85d644b5aedc28d1edb9f053
+Content-Type: text/html; charset=iso-8859-1
+
+<html>
+<head>
+<title>MediaRing newsletter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#FFFFFF">
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="2" align="left" bgcolor="#FFFFFF"> <!-- AD TAG --> <!-- L90 BANNER STARTS HERE! -->
+	      <div align="center"><IFRAME NORESIZE="NORESIZE" FRAMEBORDER="0" WIDTH=468 HEIGHT=60 MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" SRC="http://ads.admonitor.net/adengine.cgi?F527|1001|1|iframe|C7888|||_admonitor">
+	        <SCRIPT LANGUAGE="JavaScript" SRC="http://ads.admonitor.net/adengine.cgi?F527|1001|1|jscript|C7888|||_admonitor"></SCRIPT>
+	        <NOSCRIPT><A HREF="http://ads.admonitor.net/clicktrack.cgi?F527|1001|1|image2|C7888|||" TARGET=_admonitor><IMG SRC="http://ads.admonitor.net/adengine.cgi?F527|1001|1|image2|C7888|||" BORDER=0 WIDTH=468 HEIGHT=60></A></NOSCRIPT><br>
+	        </IFRAME>
+	<!-- L90 BANNER ENDS HERE!-->
+<!-- /AD TAG -->&nbsp;</div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="215" align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FF6600"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_mrlogo"><img src="http://www.mediaring.com/domore/newsletter/titlenews.gif" width="192" height="64" border="0"></a></font></td>
+    <td valign="bottom" align="right" width="385"><img src="http://www.mediaring.com/domore/newsletter/flaky.gif" width="254" height="58"></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height=26 colspan="2" background="http://www.mediaring.com/domore/newsletter/bg.gif"><br>
+    </td>
+  </tr>
+</table>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#FFFFFF">
+    <td width="156" bgcolor="#FFFFFF" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">December,
+      2000 </font></td>
+    <td width="444" valign="middle">
+      <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+        <a href="mailto:unsubscribe@mediaring.com">Unsubscribe</a> | <a href="mailto:editor@mediaring.com">Feedback</a>
+        </font></div>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFFF" valign="top" align="left">
+    <td colspan="2">
+      <table width="600" border="0" cellspacing="0" cellpadding="2">
+        <tr valign="middle">
+          <td height="20" colspan="2" bgcolor="#CCCCCC"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b><font color="#990000">Seasons
+            Greetings, </font></b><a href="#">bait@em.ca</a> <b><font color="#990000">,
+            here's your newsletter!</font></b></font></td>
+        </tr>
+        <tr>
+          <td width="450" align="left">
+          </td>
+          <td rowspan="2" valign="top" align="left" width="150" bgcolor="#CCCCCC">
+            <table width="145" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr valign="middle" bgcolor="#FFCC66">
+                <td colspan="2">
+                  <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#660000"><b>We
+                    recommend.. </b></font></div>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <div align="center"><font color="#CCCCCC" face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                    </font> <font color="#CCCCCC"><font color="#CCCCCC" face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+                    <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_vcard"><img src="http://www.mediaring.com/domore/newsletter/xmasgif.gif" width="120" height="60" border="0"></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                    <br>
+                    </font></font></div>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" colspan="2">&nbsp; </td>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <div align="center"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_dmscrsav"><img src="http://www.mediaring.com/domore/newsletter/screengif.gif" width="120" height="60" border="0"></a><br>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+                    </font></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td align="left" valign="top">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <img src="http://www.mediaring.com/domore/newsletter/dot.gif" width="4" height="4" vspace="2">
+            </font><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF6600" size="1"><b>
+            <font color="#006600">Call Anywhere in the world cheaply!</font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+            <font size="1">Try VoizFone today - our new, low-cost, web-based PC-to-Phone service lets you call almost anywhere in the world at incredibly competitive rates.
+            There are no peak hour surcharges, no subscription fees; just clear calls at the highest quality all the time, any time! We could tell you more but the only way
+            you can experience what we're saying is to try it yourself. So visit the all-new VoizFone web site now to make your first VoizFone call:<br>
+            </font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_vfone"><br>
+            http://voizfone.mediaring.com</a></font>
+            <hr noshade align="center" size="1">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> <img src="http://www.mediaring.com/domore/newsletter/dot.gif" width="4" height="4" vspace="2">
+            </font> <font face="Verdana, Arial, Helvetica, sans-serif" color="#FF6600" size="1"><b>
+            <font color="#006600">It's the season to be jolly &amp; joy is in
+            giving!</font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+            <font size="1">With Year 2000 coming to an end, we'd like to say "Thank
+            you" for staying with us. We'll also like to spread some cheer. So
+            send an online Christmas card to friends and loved ones now. We included
+            a fun little game you can download as our token of appreciation. We've
+            also developed a screensaver so you can say "Season's greetings" even
+            when you're away from your computer. Come get it at: <br>
+            </font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_dm"><br>
+            http://www.mediaring.com/consumer</a></font>
+            <hr noshade align="center" size="1">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="http://www.mediaring.com/domore/newsletter/dot.gif" width="4" height="4" vspace="2">
+            <font color="#006600" size="1"><b>Do you hear what I hear...</b></font><br>
+            <font size="1">I didn't know you could sing! And I bet you didn't
+            either. Step out of your shower and onto the Internet. You only have
+            the world as your audience. Sing us your favorite holiday song and
+            congratulate yourself for having done something 'different' before
+            the end of the beginning of this new Millennium. Do it now at:</font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="1"><br>
+            <br>
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_dm">http://www.mediaring.com/consumer</a></font>
+            </font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+            <br>
+            </font>
+            <hr noshade align="center" size="1">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="http://www.mediaring.com/domore/newsletter/dot.gif" width="4" height="4" vspace="2">
+            <font color="#006600" size="1"><b>Did you have too much or too little
+            to be thankful for?</b></font><br>
+            <font size="1">One reader lamented that there was not much to be thankful
+            for this year. We think it's a matter of perspective. There is always
+            something to be thankful for and something to dislike. What do you
+            think? Give us your two cents at the forum: <br>
+            <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_del" target="_blank"><br>
+            http://people.delphi.com/mrtalker/index.html</a></font></font> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+            </font>
+            <hr noshade align="center" size="1">
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font>
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="http://www.mediaring.com/domore/newsletter/dot.gif" width="4" height="4" vspace="2"></font>
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006600"><b>What
+            would you like to read about?</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+            <font size="1">We welcome your comments and suggestions. Tell us what
+            we can do to make this eNewsletter more useful for you. Send your
+            feedback to: <a href="mailto:editor@mediaring.com">editor@mediaring.com</a>
+            </font> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+            </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+            </font> </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left" valign="top">
+            <hr noshade id="ruler" width="95%" size="1">
+            <br>
+            <font face="Verdana, Arial, Helvetica, sans-serif" size="1">You are
+            receiving this newsletter because you signed up for a MediaRing account.
+            If you do not wish to receive future newsletters from us, you may
+            unsubscribe from this mailing list by clicking the link below. Please
+            DO NOT REPLY to this message. <br>
+            <br>
+            <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_tunsub">http://regsrv.mediaring.com/webpage/</a><br>
+            <br>
+            Although we are sending this email to you, MediaRing is not responsible
+            for the advertisers' content and makes no warranties or guarantees
+            about the products or services advertised. To learn more about MediaRing's
+            use of personal information, please read our Privacy Policy by <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=decw_tpp">clicking
+            here</a>. </font>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1">If
+              you have friends who might enjoy this newsletter, please feel free
+              to forward it to them. </font></p>
+            <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Copyright
+              2000 MediaRing Ltd. All rights reserved.</font></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<img height=1 width=1 src="http://em2.mediaring.com/cgi-bin/em/em2?a=decw_open">
+</body>
+</html>
+--ygj022e6a0f85d644b5aedc28d1edb9f053--
+.
+

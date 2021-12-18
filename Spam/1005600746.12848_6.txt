@@ -1,0 +1,216 @@
+Return-Path: <biztoday@mail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8364 invoked from network); 12 Nov 2001 19:59:47 -0000
+Received: from van-bc56-136.netcom.ca (HELO mail.com) (142.154.202.200)
+  by agamemnon.bfsmedia.com with SMTP; 12 Nov 2001 19:59:47 -0000
+Content-Type: text/html; charset=US-ASCII
+Date: Mon, 12 Nov 2001 12:04:37 PM -0000
+To: bruceg@em.ca
+From: NewTLDRegistry.net <biztoday@mail.com>
+X-Mailer: Mailloop 5.0
+Subject: 00:00:01 EST Status : LIVE
+Organization: 
+Content-Length: 12292
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0198)http://64.4.22.250/cgi-bin/getmsg?curmbox=F000000001&a=ae75f18c1dcdac5985eddc353c4df52c&msg=MSG1005244449.40&start=572732&len=13523&mimepart=3&disk=64.4.22.65_d820&login=kongdavid&domain=hotmail.com -->
+<HTML><HEAD><TITLE>RegisterNewExtensions.com</TITLE>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META content="MSHTML 5.00.2920.0" name=GENERATOR></HEAD>
+<BODY aLink=#ff9900 bgColor=#005ed0 leftMargin=0 link=#990000 text=#000000 
+topMargin=0 vLink=#990000 marginheight="0" marginwidth="0">
+<TABLE align=center bgColor=#000000 border=0 cellPadding=0 cellSpacing=2 
+width=640>
+  <TBODY>
+  <TR>
+    <TD bgColor=#00ccff>
+      <TABLE border=0 cellPadding=0 cellSpacing=3 width="100%">
+        <TBODY>
+        <TR vAlign=top>
+          <TD height=2><FONT face="Verdana, Tahoma, Helvetica, SansSerif" 
+            size=1><B>.BIZ IS NOW LIVE!</B></FONT></TD>
+          <TD height=25>
+            <DIV align=right><B><FONT 
+            face="Verdana, Tahoma, Helvetica, SansSerif" size=1>November 7, 
+            2001</FONT></B></DIV></TD></TR>
+        <TR bgColor=#cc0000 vAlign=top>
+          <TD bgColor=#ffffff colSpan=2 height=1></TD></TR>
+        <TR bgColor=#ffc000 vAlign=top>
+          <TD bgColor=#000099 colSpan=2 height=1></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD>
+      <TABLE align=center border=0 cellPadding=1 cellSpacing=0 width=640>
+        <TBODY>
+        <TR>
+          <TD vAlign=top>
+            <TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD bgColor=#ffffff colSpan=2>
+                  <TABLE align=center 
+                  background=newinternetdomainhtmlnovember08_files/cgi-bin.htm 
+                  border=0 cellPadding=0 cellSpacing=0 width=600>
+                    <TBODY>
+                    <TR>
+                      <TD colSpan=2>
+                        <DIV align=center>
+                        <P><FONT color=#cc0000 
+                        face="Verdana, Arial, Helvetica, sans-serif" 
+                        size=5><B><FONT size=6>Status Alert: 
+                        </FONT></B></FONT><B><BR><FONT 
+                        face="Verdana, Arial, Helvetica, sans-serif" size=8>.BIZ 
+                        is NOW LIVE!</FONT></B></P>
+                        <P align=left><FONT face="Arial, Helvetica, sans-serif" 
+                        size=2>The new .BIZ domain extension was officially 
+                        launched today, and new registrations are already on a 
+                        record-setting pace. Several sites have just made .BIZ 
+                        available to the general public which means that 
+                        ordinary internet users can register this exciting new 
+                        domain without the cumbersome paperwork. One such 
+                        popular site is: <A 
+                        href="http://www.NewTLDRegistry.net/" 
+                        target=_blank>http://www.NewTLDRegistry.net/</A> 
+                        </FONT></P></DIV>
+                        <HR>
+
+                        <TABLE align=right border=0 cellPadding=0 cellSpacing=6 
+                        width=300>
+                          <TBODY>
+                          <TR>
+                            <TD>
+                              <TABLE border=0 cellPadding=0 cellSpacing=0 
+                              width=300 vspace="3" hspace="3">
+                                <TBODY>
+                                <TR>
+                                <TD bgColor=#000000>
+                                <TABLE border=0 cellPadding=4 cellSpacing=2 
+                                width=300>
+                                <TBODY>
+                                <TR>
+                                <TD bgColor=#ffcc33>
+                                <P><FONT face="Arial, Helvetica, sans-serif" 
+                                size=2><B>The Benefits:</B></FONT></P>
+                                <P><FONT face="Arial, Helvetica, sans-serif" 
+                                size=2>.BIZ aims to be the quintessential domain 
+                                choice for all businesses on the Internet. Short 
+                                for .BUSINESS, the .BIZ domain directly 
+                                addresses the growing need for new generic 
+                                domain names to eventually replace .COM as the 
+                                Internet most widely used domain name. The 
+                                benefits to go .BIZ are clear:<BR></FONT></P>
+                                <UL>
+                                <LI><FONT face="Arial, Helvetica, sans-serif" 
+                                size=2>abundant availability of easy to remember 
+                                and practical domain names<BR></FONT>
+                                <LI><FONT face="Arial, Helvetica, sans-serif" 
+                                size=2>technically recognized across the 
+                                Internet's DNS<BR></FONT>
+                                <LI><FONT face="Arial, Helvetica, sans-serif" 
+                                size=2>short and catchy extension<BR></FONT>
+                                <LI><FONT face="Arial, Helvetica, sans-serif" 
+                                size=2>affordable registration fees and 
+                                simplified registration 
+                                procedures<BR></FONT></LI></UL>
+                                <TABLE align=center bgColor=#cc0000 border=0 
+                                cellPadding=0 cellSpacing=2 width=120>
+                                <TBODY>
+                                <TR>
+                                <TD align=middle bgColor=#ffff00 height=20><FONT 
+                                face="Arial, Helvetica, sans-serif" size=2><B><A 
+                                href="http://www.NewTLDRegistry.net/" 
+                                target=_blank>Register 
+                                Today!</A></B></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><FONT 
+                        face=arial size=2><FONT 
+                        face="Arial, Helvetica, sans-serif"><B>Brief 
+                        History</B></FONT> </FONT>
+                        <P><FONT face="Arial, Helvetica, sans-serif" size=2>Back 
+                        in November, 2000, ICANN, the regulatory agency which 
+                        oversees the Internet's Domain Name System, approved 
+                        seven new domain extensions to meet growing demand from 
+                        the consumer and business sectors. Since the new 
+                        extensions were first announced last year, experts have 
+                        widely expected .BIZ to become the most popular of the 
+                        new extensions and to eventually supercede .COM. The 
+                        .BIZ registry will be managed by upstart NeuLevel, in 
+                        direct competition with the former monopoly of Network 
+                        Solutions. .BIZ represents the first new generic domain 
+                        name to be introduced since .COM was first launched in 
+                        1984. In the ten year span between 1984 and 1994, less 
+                        than one million .COM domains were registered in total. 
+                        Today, the registration total for .BIZ will have already 
+                        exceeded one million. How times have 
+                        changed…<BR></FONT><FONT 
+                        face="Arial, Helvetica, sans-serif"></FONT></P></TD></TR>
+                    <TR>
+                      <TD align=middle bgColor=#000000 colSpan=2>
+                        <TABLE border=0 cellPadding=6 cellSpacing=2 
+width="100%">
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#00ccff>
+                              <P><FONT face="Arial, Helvetica, sans-serif" 
+                              size=2><B>"Establishing a .biz domain name also 
+                              will help companies cut through the .com clutter. 
+                              More than 28 million .com names have already been 
+                              registered. Since the .com domain covers so many 
+                              sites serving so many different purposes, it's 
+                              impossible to know whether a particular .com 
+                              address represents a bona-fide business. In 
+                              contrast, .biz means business, 
+                              period."</B></FONT></P>
+                              <P align=right><FONT 
+                              face="Arial, Helvetica, sans-serif" size=2><B><I>- 
+                              Chicago Tribune, August 22, 
+                              2001</I></B><BR></FONT></P></TD></TR>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <P><FONT face="Arial, Helvetica, sans-serif" 
+                              size=2>To register a new .BIZ extension, you will 
+                              simply need to check the availability of your 
+                              domain name at: <A 
+                              href="http://www.NewTLDRegistry.net/" 
+                              target=_blank>http://www.NewTLDRegistry.net/</A> 
+                              and then register it using the easy 3 step process 
+                              which takes less than 5 minutes.</FONT></P>
+                              <TABLE align=center bgColor=#0066cc border=0 
+                              cellPadding=0 cellSpacing=2 width=120>
+                                <TBODY>
+                                <TR>
+                                <TD align=middle bgColor=#00ccff height=20><FONT 
+                                face="Arial, Helvetica, sans-serif" size=2><B><A 
+                                href="http://www.NewTLDRegistry.net/" 
+                                target=_blank><FONT color=#000099>Register 
+                                Today!</FONT></A></B></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD align=middle colSpan=2>
+                        <P align=left><FONT 
+                        face="Verdana, Arial, Helvetica, sans-serif" 
+                        size=1><BR>*We strongly oppose the continued sending of 
+                        unsolicited email and do not want to send email to 
+                        anyone who does not wish to receive our special 
+                        mailings. As a result, we have retained the services of 
+                        an independent 3rd party to administer our list 
+                        management and removal services 
+                        <A 
+                              href="http://www.autoemailremoval.com/cgi-bin/remove.pl" 
+                              target=_blank>Click Here</A> 
+                        This is not unsolicited email. If you do not wish to 
+                        receive further mailings, please click this link. The 
+                        removal administrator can then preclude your email 
+                        address from future mailings. Auto Email Removal 
+                        Company. Ref# 011005</FONT></P>
+                        <P>&nbsp;</P></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD bgColor=#666666 colSpan=2 height=10></TD></TR>
+              <TR>
+                <TD bgColor=#333333 colSpan=2 height=1></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc colSpan=2 height=1></TD></TR>
+              <TR>
+                <TD bgColor=#ffffff colSpan=2 height=2></TD></TR>
+              <TR>
+                <TD bgColor=#999999 colSpan=2 height=1></TD></TR>
+              <TR>
+                <TD bgColor=#00ccff 
+        colSpan=2>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>
+

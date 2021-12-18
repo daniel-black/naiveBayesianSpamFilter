@@ -1,0 +1,160 @@
+Return-Path: <send@fmailh3.real-net.net>
+Spam-Apparently-To: <csuggitt@bfsmedia.com>
+Received: (qmail 5425 invoked from network); 2 Jun 2001 23:49:47 -0000
+Received: from unknown (HELO fmailh3.real-net.net) (208.147.92.39)
+  by bfsmedia.sk.ca with SMTP; 2 Jun 2001 23:49:47 -0000
+Received: (from send@localhost)
+	by fmailh3.real-net.net (8.9.3/8.9.3) id QAA07384;
+	Sat, 2 Jun 2001 16:45:41 -0700
+Date: Sat, 2 Jun 2001 16:45:41 -0700
+Message-Id: <200106022345.QAA07384@fmailh3.real-net.net>
+X-Batch-Number: 010511EL16-36886,csuggitt@bfsmedia.com
+To: csuggitt@bfsmedia.com
+Subject: Put the fun back on your desktop: introducing RealArcade!
+From: RealArcade <news@real-net.net>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<style type=text/css>
+<!--
+.a11w {font: 11px arial; color:white;}
+.a11b {font: 11px arial; color:black;}
+.a10g {font: 10px arial; color:cccccc;}
+.a10blue {font: 10px arial; color:6699ff;}
+.a11blueb {font: bold 11px arial; color:6699ff;}
+.a16blueb {font: bold 16px arial; color:6699ff;}
+.v10blueb {font: bold 10px verdana; color:6699ff;}
+-->
+</style>
+</head>
+
+<body bgcolor=#000000 text=#FFFFFF link=#6699FF vlink=#6699FF alink=#FF6600>
+<table width=500 border=0 cellspacing=0 cellpadding=0 align=center>
+<tr><td><font class=a10g>(For e-mailing list removal information see bottom of email.)</font></td></tr>
+<tr><td><img src="http://www.real-net.net/R/EMAL.010511EMAL16img.ra.00..R/html-images.realnetworks.com/pics/clear_.gif" width=10 height=3></td></tr>
+</table>
+
+<table width=500 border=0 cellspacing=0 cellpadding=0 bgcolor=#E3E3E3 align=center>
+<tr><td width=181><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.01..R/realguide.real.com/games/?s=game_download&sub=sbp><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/main_bubble.jpg width=181 height=230 border=0></a></td><td>
+
+<table width=300 border=0 cellspacing=0 cellpadding=0>
+<tr><td><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.02..R/www.realarcade.com/index.html><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/txt_head.gif width=300 height=55 border=0></a></td></tr>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=8></td></tr>
+<tr>
+<td><font color=#000000 class=a11b>Get RealArcade, the first easy, all-in-one 
+Internet game service, today! With RealArcade it's easy to discover great new 
+games, connect and play online with others, organize your games, and much more&#133;and 
+did we mention it&#146;s free?</font></td>
+</tr>
+<tr>
+<td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=15></td>
+</tr>
+<tr><td align=center><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.03..R/www.realarcade.com/index.html><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/button_download.gif width=172 height=33 border=0></a></td></tr>
+</table>
+      
+</td></tr></table>
+
+<table width=500 border=0 cellspacing=0 cellpadding=0 align=center bgcolor=#000000>
+<tr><td colspan=11><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=2></td></tr>
+<tr><td width=80><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.04..R/realguide.real.com/games/?s=game_download&sub=tabb><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pic_battlebots.gif width=80 height=60 border=0></a></td>
+<td width=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=2 height=10></td>
+<td width=80><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.05..R/realguide.real.com/games/?s=game_download&sub=kayak><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pic_kayak.gif width=80 height=60 border=0></a></td>
+<td width=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=2 height=10></td>
+<td width=80><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.06..R/realguide.real.com/games/?s=game_download&sub=sbp><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pic_bubble.gif width=80 height=60 border=0></a></td>
+<td width=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=2 height=10></td>
+<td width=80><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.07..R/realguide.real.com/games/?s=game_download&sub=primal><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pic_primal.gif width=80 height=60 border=0></a></td>
+<td width=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=2 height=10></td>
+<td width=80><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.08..R/realguide.real.com/games/?s=game_download&sub=arcadeclassics><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pic_atari.gif width=80 height=60 border=0></a></td>
+<td width=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=2 height=10></td>
+<td width=80><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.09..R/realguide.real.com/games/?s=game_download&sub=cueclub><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pic_pool.gif width=80 height=60 border=0></a></td></tr>
+<tr><td colspan=11><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=2></td></tr>
+<tr bgcolor=#000033 valign=top align=center>
+<td><font><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.10..R/realguide.real.com/games/?s=game_download&sub=tabb class=a10blue>Big Bot Battles</a></font></td>
+<td>&nbsp;</td><td><font><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.11..R/realguide.real.com/games/?s=game_download&sub=kayak class=a10blue>Kayak Extreme</a></font></td>
+<td>&nbsp;</td><td><font><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.12..R/realguide.real.com/games/?s=game_download&sub=sbp class=a10blue>Super Bubble Pop</a></font></td>
+<td>&nbsp;</td><td><font><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.13..R/realguide.real.com/games/?s=game_download&sub=primal class=a10blue>Primal  Prey</a></font></td>
+<td>&nbsp;</td><td><font><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.14..R/realguide.real.com/games/?s=game_download&sub=arcadeclassics class=a10blue>Arcade Classics</a></font></td>
+<td>&nbsp;</td><td><font><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.15..R/realguide.real.com/games/?s=game_download&sub=cueclub class=a10blue>Cue Club</a></font></td></tr>
+</table>
+
+<table width=500 border=0 cellspacing=0 cellpadding=0 align=center bgcolor=#000033>
+<tr><td align=center>
+
+<table width=460 border=0 cellspacing=0 cellpadding=0>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=25></td></tr>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/txt_sub.gif width=450 height=15></td></tr>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=10></td></tr>
+</table>
+
+<table width=460 border=0 cellspacing=0 cellpadding=0>
+<tr valign=top><td width=20><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/icon_pacman.gif width=12 height=12></td>
+<td><font class=a11w>Try free demos of every downloadable game - over 50 titles 
+and growing</font></td>
+</tr>
+<tr valign=top><td colspan=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=5></td></tr>
+<tr valign=top><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/icon_pacman.gif width=12 height=12></td>
+<td><font class=a11w>Get great games in every genre, including action, puzzle, 
+casino and more</font></td>
+</tr>
+<tr valign=top><td colspan=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=5></td></tr>
+<tr valign=top><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/icon_pacman.gif width=12 height=12></td>
+<td><font class=a11w>Play over 50 different full-version Web games, absolutely 
+FREE</font></td>
+</tr>
+<tr valign=top><td colspan=2><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=5></td></tr>
+<tr valign=top><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/icon_pacman.gif width=12 height=12></td>
+<td><font class=a11w>Chat with others, preview new games, and get hot tips and 
+tricks</font></td>
+</tr>
+</table>
+
+<table width=460 border=0 cellspacing=0 cellpadding=0>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=25></td></tr>
+<tr><td class=wa><font><b><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.16..R/www.realarcade.com/index.html><span class=a11blueb>Download RealArcade for FREE today</span></a></b><span class=a11w> and put the fun back on your desktop!</span></font></td></tr>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=25></td></tr>
+<tr><td align=center><font class=a16blueb><b><a href=http://www.real.com/R/EMAL.010511EMAL16.ra.17..R/www.realarcade.com/index.html>Click here for RealArcade</a></b></font></td></tr>
+<tr><td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=40></td></tr>
+ </table>
+
+</td></tr></table>
+
+<table width=500 border=0 cellspacing=0 cellpadding=0 align=center>
+<tr>
+<td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=10></td>
+</tr>
+<tr> 
+<td class=wa><font class=a10g>You are receiving this e-mail because you downloaded 
+RealPlayer&reg; or RealJukebox&reg; and indicated a preference to receive product 
+news, updates, and special offers from RealNetworks&reg;.</font></td>
+</tr>
+<tr>
+<td class=wa><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=10></td>
+</tr>
+<tr>
+<td class=a10g>If you do not wish to receive e-mails from us in the future, click 
+on the Remove Me link below.</td>
+</tr>
+<tr>
+<td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=10></td>
+</tr>
+<tr>
+<td align=center><font><b><a href="http://www.real.com/R/EMAL.010511EMAL16.ra.18..R/ml.real.com/ml/ml.html?email=csuggitt@bfsmedia.com" class=v10blueb>remove 
+me</a> <span class=a10g>|</span> <a href=http://www.real.com/R/EMAL.010511EMAL16.ra.19..R/www.realnetworks.com/company/privacy/index.html class=v10blueb>privacy 
+policy</a></b></font></td>
+</tr>
+<tr>
+<td><img src=http://html-images.realnetworks.com/pics/real/email/rpgames/pixel.gif width=10 height=10></td>
+</tr>
+<tr>
+<td><font class=a10g>RealNetworks&reg; and RealArcade&#153; are trademarks or 
+registered trademarks of RealNetworks, Inc. All other companies or products listed 
+herein are trademarks or registered trademarks of their respective owners.</font></td>
+</tr>
+</table>
+
+</body>
+</html>
+
+

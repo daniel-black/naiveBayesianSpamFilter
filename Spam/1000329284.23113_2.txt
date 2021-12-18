@@ -1,0 +1,238 @@
+Return-Path: <offers@synergyconnect.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 7568 invoked from network); 11 Sep 2001 22:43:36 -0000
+Received: from proxy4.newnanutilities.org (HELO synergyconnect.com) (216.130.156.53)
+  by agamemnon.bfsmedia.com with SMTP; 11 Sep 2001 22:43:36 -0000
+X-Mailer: MailWorkZ MailEngine Version 1.0.0
+X-Sender: offers@synergyconnect.com
+Date: Tue, 11 Sep 2001  17:34:41 -0400
+From: <offers@synergyconnect.com>
+To: "design@bfsmedia.com" <design@bfsmedia.com>
+Subject: 
+Reply-To: offers@synergyconnect.com
+Errors-To: offers@synergyconnect.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Length: 13464
+Lines: 220
+
+<html>
+<head>
+<title>Synergy Connect - Fast Web Hosting Solutions</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#000066" text="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+<table width="781" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr align="left"> 
+    <td colspan="2" height="82" bgcolor="#ff6600" valign="top"><IMG height=82 src="http://www.synergyconnect.com/graphics/synergylogo.gif" width=271></td>
+    <td width="19%" height="82" bgcolor="#ff6600" valign="top"> 
+      <div align="right"><IMG height=82 src="http://www.synergyconnect.com/graphics/rttop1.gif" width=118></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" bgcolor="#ffe100" height="22" valign="top" align="left"> 
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+      <div align="center"><font size="3" face="Arial, Helvetica, sans-serif"><b><a href="http://www.synergyconnect.com/order/order.html">Click 
+        Here to Order Now!</a></b></font></div>
+    </td>
+    <td width="19%" align="right" bgcolor="#ffe100" height="22" valign="top"><IMG height=21 src="http://www.synergyconnect.com/graphics/rtbottom.gif" width=118></td>
+  </tr>
+  <tr bgcolor="#ffffff"> 
+    <td width="25%" align="left" valign="top" height="219"> 
+      <div align="center"><IMG height=148 src="http://www.synergyconnect.com/graphics/ServerRoom.jpg" width=200><br>
+        <br>
+        <i><font face="Arial, Helvetica, sans-serif" size="3"><b><font color="#ff6600" size="2">At 
+        Synergy Connect, we work around the clock so you <br>
+        don't have to!</font></b></font></i></div>
+    </td>
+    <td width="56%" rowspan="2" align="left" valign="top"> 
+      <div align="center">
+        <table width="100%" border="0" cellspacing="3" cellpadding="5">
+          <tr> 
+            <td align="left" valign="top" height="590"> 
+              <p><font face="Arial, Helvetica, sans-serif" size="3" color="#ff6600"><b><IMG height=44 src="http://www.synergyconnect.com/graphics/webhosting.gif" width=106><br>
+                <br>
+                </b></font><font face="Arial, Helvetica, sans-serif" size="2"><b>Domain 
+                Hosting on High Speed Servers</b><br>
+                Synergy's Industry-leading web hosting plans offer you the range 
+                of features you need to get your web site online quickly and professionally. 
+                Synergy has High Speed Connections and reliable servers at discounted 
+                prices. With our domain hosting <a href="http://www.synergyconnect.com/order/order.html">online 
+                order form</a>, we can setup your account in quickly and efficiently.</font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">With plans 
+                starting at just $16.16 a month (when paid quarterly), there's 
+                no reason why you shouldn't choose Synergy Connect for your hosting 
+                needs.</font></p>
+            <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+            size=3><B><A 
+            href="http://www.synergyconnect.com/order/order.html">Click Here to 
+            Order Now!</A></B></FONT></DIV>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Free E-commerce 
+                Software</b></font><br>
+                <font face="Arial, Helvetica, sans-serif" size="2">Free MIVA Merchant 
+                ® shopping cart software with every <a href="http://www.synergyconnect.com/eplatinum.html">E-Commerce 
+                Platinum</a> account (a $595 Value). Full featured E-Commerce 
+                software with real-time cred card process, unlimited products, 
+                browser based administration, and more! MIVA Merchant is the same 
+                shopping cart used by ebaystore.com. MIVA Merchant makes building 
+                and managing e-stores as easy as point, click and fill in the 
+                blanks.</font></p>
+            <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+            size=3><B><A 
+            href="http://www.synergyconnect.com/order/order.html">Click Here to 
+            Order Now!</A></B></FONT></DIV>
+            <P><font face="Arial, Helvetica, sans-serif" size="2"><b>Virtual 
+                Control Panel</b> <br>
+                Included with every account is our <a href="http://www.synergyconnect.com/controlpanel.html">Virtual 
+                Control Panel</a>. The control panel gives you the capability 
+                to manage all aspects of your account. With this extraordinary 
+                tool, you will not only gain control, but also the flexibility 
+                to make changes to your account and Web Site easily. Our Control 
+                Panel comes in English, Spanish, German and French!</font></P>
+            <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+            size=3><B><A 
+            href="http://www.synergyconnect.com/order/order.html">Click Here to 
+            Order Now!</A></B></FONT></DIV>
+            <P><b><font size="2" face="Arial, Helvetica, sans-serif">Switching 
+                Providers is Easy!<br>
+                </font></b><font size="2" face="Arial, Helvetica, sans-serif">Just 
+                fill out our easy to use order form and we'll take care of the 
+                rest! All you have to do is upload your site form your current 
+                provider, or provide us with all the appropiate information and 
+                we'll move it for you!</font></P>
+            <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+            size=3><B><A 
+            href="http://www.synergyconnect.com/order/order.html">Click Here to 
+            Order Now!</A></B></FONT></DIV>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#ff6600">Features:</font></b><br>
+                At Synergy, we offer affordable hosting solutions based on <b>Linux 
+                Servers</b> for optimum performance and reliability. All hosting 
+                plans come with Microsoft <b>Frontpage 2000</b> server extensions, 
+                as well as <b>UNLIMITED E-MAIL</b> accounts and <b>MySQL</b> databases.</font></p>
+            <P><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#ff6600">Easy 
+                to use Control Panel</font></b> Applet for ease of modification.<br>
+                <b><font color="#ff6600">Free E-Commerce Software</font></b> with 
+                all Commerce hosting plans - <br>
+                Free Miva Merchant shopping cart software with every E-Commerce 
+                Platinum hosting plan - <b>A $495 Value!<br>
+                <font color="#ff6600">Free MySQL</font> Databases with every account.<br>
+                Standard Disk space allowance of 200 to 500MB per account.<br>
+                Monthly Transfers from 4GB to 8GB Standard.<br>
+                <font color="#ff6600">Daily Tape Backups</font> of your site and 
+                its content.<br>
+                <font color="#ff6600">Dedicated IP Address</font> for your site, 
+                no name hosting only here.<br>
+                <font color="#ff6600">99.9% Network Uptime.</font><br>
+                <font color="#ff6600">Web Based E-Mail.<br>
+                SMTP Server.</font><br>
+                <font color="#ff6600">FTP Server Access.</font><br>
+                <font color="#ff6600">Domain Registrations for only $25.00</font> 
+                ($10.00 less than InterNIC).<br>
+                <font color="#ff6600">Free Domain Name Parking.</font><br>
+                </b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#ff6600">Unlimited 
+                CGI-BIN access</font> in your own CGI-BIN Directory.<br>
+                <font color="#ff6600">Custom 404 Pages.</font><br>
+                <font color="#ff6600">SSH Telnet Access.</font><br>
+                <font color="#ff6600">And Much More!</font><br>
+                </b></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                </font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#ff6600">Faster 
+                than OC12 Backbone Connectivity:<br>
+                </font></b></font><font face="Arial, Helvetica, sans-serif" size="2" color="#000000">Direct 
+                Fiber Optic Backbone Connection to the Internet</font></P>
+            <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+            size=3><B><A 
+            href="http://www.synergyconnect.com/order/order.html">Click Here to 
+            Order Now!</A></B></FONT></DIV>
+              </td>
+          </tr>
+        </table>
+      </div>
+      </td>
+    <td valign="top" rowspan="2" align="right" width="19%"> 
+      <div align="center"> 
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><b><font size="3" color="#ff6600">Standard 
+          Hosting</font></b></font><font size="1" face="Arial, Helvetica, sans-serif"><br>
+          <font size="2">200 MB Disk Space<br>
+          Unlimited E-Mail Accounts<br>
+          MySQL DB</font></font></p>
+        <p><a href="http://www.synergyconnect.com/standard.html"><font size="1" face="Arial, Helvetica, sans-serif"><b><font size="3">Only 
+          $17.95/Month</font></b><br>
+          </font></a><a href="http://www.synergyconnect.com/standard.html"><font size="1" face="Arial, Helvetica, sans-serif">Click 
+          Here for More Information</font></a> <br>
+          <br>
+          <b><font size="3" face="Arial, Helvetica, sans-serif" color="#ff6600">Premium 
+          Hosting</font></b><br>
+          <font face="Arial, Helvetica, sans-serif" size="2">300MB Disk Space<br>
+          Unlimited E-Mail Accounts<br>
+          MySQL DB's</font><br>
+        </p>
+        <p><font size="3" face="Arial, Helvetica, sans-serif"><b><a href="http://www.synergyconnect.com/premium.html">Only 
+          $27.95/Month</a></b></font><br>
+          <a href="http://www.synergyconnect.com/premium.html"><font size="1" face="Arial, Helvetica, sans-serif">Click 
+          Here for More Information</font></a> </p>
+        </div>
+      <div align="center">
+        <p><b><font size="3" face="Arial, Helvetica, sans-serif" color="#ff6600">E-Commerce 
+          Gold</font></b><br>
+          <font face="Arial, Helvetica, sans-serif" size="2">400MB Disk Space<br>
+          Unlimited E-Mail Accounts<br>
+          MySQL DB's</font><br>
+          <font face="Arial, Helvetica, sans-serif" size="2">MIVA Order</font></p>
+        <p><font size="3" face="Arial, Helvetica, sans-serif"><b><a href="http://www.synergyconnect.com/gold.html">Only 
+          $37.95/Month</a></b></font><a href="http://www.synergyconnect.com/gold.html"><br>
+          <font size="1" face="Arial, Helvetica, sans-serif">Click Here for More 
+          Information</font></a> </p>
+        <p><b><font size="3" face="Arial, Helvetica, sans-serif" color="#ff6600">E-Commerce 
+          Platinum</font></b><br>
+          <font face="Arial, Helvetica, sans-serif" size="2">500MB Disk Space<br>
+          Unlimited E-Mail Accounts<br>
+          MySQL DB's</font><br>
+          <font size="2" face="Arial, Helvetica, sans-serif">MIVA Merchant</font><br>
+        </p>
+        <p><font size="3" face="Arial, Helvetica, sans-serif"><b><a href="http://www.synergyconnect.com/eplatinum.html">Only 
+          $47.95/Month</a></b></font><br>
+          <a href="http://www.synergyconnect.com/eplatinum.html"><font size="1" face="Arial, Helvetica, sans-serif">Click 
+          Here for More Information</font></a> </p>
+        </div>
+    </td>
+  </tr>
+  <tr bgcolor="#ffffff"> 
+    <td width="25%" height="368" align="middle" valign="top"> 
+      <p><IMG height=31 src="http://www.synergyconnect.com/graphics/fpcreated.gif" width=88></p>
+      <p><IMG height=32 src="http://www.synergyconnect.com/graphics/miva.gif" width=99></p>
+      <p><IMG height=47 src="http://www.synergyconnect.com/graphics/mysql100-2.gif" width=100></p>
+      <p><IMG height=25 src="http://www.synergyconnect.com/graphics/penglogo_thumb.jpg" width=93></p>
+      <p><IMG height=46 src="http://www.synergyconnect.com/graphics/poweredby.gif" width=115></p>
+      <p><IMG height=42 src="http://www.synergyconnect.com/graphics/poweredbydell.gif" width=117></p>
+    </td>
+  </tr>
+  <tr bgcolor="#ff6600"> 
+    <td width="25%">&nbsp;</td>
+    <td width="56%">
+      <div align="center"><FONT face=Arial size=1>If you feel 
+      you received this e-mail in error, or do not want to receive future offers 
+      from WarmBlood Magazine, please reply to this message with the word 
+      "remove" in the subject field.</FONT></div>
+      <DIV align=center><FONT face=Arial size=1>This message is being sent in 
+      compliance with Senate bill 1618, Title 3, section 301. SECTION 301. Per 
+      Section 301, Paragraph (a)(2)(C) of S. 1618,&nbsp; Further transmissions 
+      to you by the sender of this email may be stopped at no cost to you by 
+      sending a reply to this email address with the word "remove" in the 
+      subject line.<BR><BR></FONT><font size="1" face="Arial, Helvetica, sans-serif">©Copyright 2001 Synergy Consulting Services 
+      <BR> 
+            DBA Synergy Connect</font></DIV>
+    </td>
+    <td width="19%"> 
+      <div align="center"></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+

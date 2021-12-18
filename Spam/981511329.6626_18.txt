@@ -1,0 +1,131 @@
+Return-Path: <wolfgangbrandl@mailasia.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15393 invoked from network); 7 Feb 2001 01:25:21 -0000
+Received: from ns.escada.co.jp (210.162.109.146)
+  by em.ca with SMTP; 7 Feb 2001 01:25:21 -0000
+Received: from [205.184.255.196] by ns.escada.co.jp (post.office MTA v1.9.3
+          ID# 0100111-43408) with SMTP id AAD1009;
+          Wed, 7 Feb 2001 03:44:01 +0900
+Received: from alpha.gns.cri.nz by FHJDJHFJFJF with ESMTP; Tue, 06 Feb 2001 13:48:05 -0600
+Message-ID: <000079bd2a65$0000337a$000065f8@alpha.gns.cri.nz>
+To: <howard@5Business.cc>
+From: wolfgangbrandl@mailasia.com
+Subject: Are you looking for the perfect tax write off?                         26104
+Date: Tue, 06 Feb 2001 13:48:01 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: johnboy@5Business.cc
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Content-Length: 1969
+
+<HTML>
+<BODY>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<meta http-equiv=3D"Page-Enter" CONTENT=3D"RevealTrans(Duration=3D4,Transi=
+tion=3D10)">
+<script language=3D"JavaScript"> <!--
+
+var message=3D"Sorry, that function is disabled."; // Message for the aler=
+t box
+
+// Don't edit below!
+function closeit() {
+
+     window.close()
+
+}
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=3D-1) &&
+(navigator.userAgent.indexOf("MSIE")!=3D-1) &&
+(parseInt(navigator.appVersion)=3D=3D4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href=3D"http://www.hongkong.com";
+}
+function popup()
+{
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	version =3D parseFloat(navigator.appVersion.substring(navigator.appVersio=
+n.indexOf('.')-1,navigator.appVersion.length));
+	if (version >=3D 4)
+	
+	{
+	if (navigator.appName=3D=3D"Netscape")
+ {
+    Hello =3D window.open("http://infonowcom.freeyellow.com/leads.html","H=
+ello",
+"scrollbars");
+    Hello.focus();
+                
+}
+
+		
+if (navigator.appName=3D=3D"Microsoft Internet Explorer")
+		{
+			window.open("http://infonowcom.freeyellow.com/leads.html","screen","ful=
+lscreen=3Dyes");
+		}
+	}
+	else
+	{
+		location.href=3D"http://infonowcom.freeyellow.com/leads.html";
+	}
+
+}
+function click(e) {
+if (document.all) {
+if (event.button =3D=3D 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which =3D=3D 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=3Dclick;
+// --> </script>
+
+	<META NAME=3D"GENERATOR" Content=3D"Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html;CHARSET=3Diso-8859=
+-1">
+	<TITLE>Hello</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=3D"#0000AA" LINK=3D"#000000" onLoad=3D"intro()">
+
+<P><SCRIPT LANGUAGE=3D"Javascript">
+</SCRIPT>
+
+
+</BODY>
+
+</HTML>
+
+
+

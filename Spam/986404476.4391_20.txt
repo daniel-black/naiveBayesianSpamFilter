@@ -1,0 +1,33 @@
+Return-Path: <info@webmaxim.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 20984 invoked from network); 4 Apr 2001 17:02:08 -0000
+Received: from unknown (HELO smail-cal.shawcable.com) (24.64.63.13)
+  by em.ca with SMTP; 4 Apr 2001 17:02:08 -0000
+Received: from alisha ([24.64.227.128]) by smail-cal.shawcable.com
+ (Sun Internet Mail Server sims.4.0.2000.05.17.04.13.p6)
+ with SMTP id <0GBA00L3H1YNXM@smail-cal.shawcable.com> for bruceg@em.ca; Wed,
+ 4 Apr 2001 11:01:37 -0600 (MDT)
+Date: Wed, 04 Apr 2001 11:01:37 -0600 (MDT)
+Date-warning: Date header was inserted by smail-cal.shawcable.com
+From: Maxim Group <info@webmaxim.com>
+Subject: Job Opportunity
+To: bruceg@em.ca
+Message-id: <002c01c0bd31$f0300560$0901010a@alisha>
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+Content-type: text/plain; charset=iso-8859-1
+Content-transfer-encoding: 7BIT
+Content-Length: 1187
+
+
+
+Please find below a job opportunity.  If you have 4 years of experience with ALL of the below applications or know of anyone who does, please forward your resume to ONLY mortonb@webmaxim.com
+
+Thanks,
+Bob Morton
+Maxim Group Inc.
+
+
+
+Network AdministratorWindows NT 4.0 Environment, MS Exchange Server, Raptor FirewallAs a key and senior member of our 4-person IT group, you will ensure that the ongoing network needs of about 100 users are fulfilled and will work closely with other providers of IT support.  You will also plan and implement future expansions and upgrades.Your technical qualifications include: MCSE certification or equivalent credentials; at least three years network administration experience - involving Windows NT 4.0 servers and workstations, and MS Exchange servers; familiarity with the Windows NT registry; experience with remote connection routers and switches; proficiency  with Raptor Firewalls; and working knowledge of Backup Exec, MS Access, Win Instal and Visual Basic.  Your key competencies include: a knack for troubleshooting; an ability to relate to and communicate with users; a strong team orientation; and a commitment to continuous improvement.

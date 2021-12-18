@@ -1,0 +1,66 @@
+Return-Path: <a12249@portugalmail.com>
+Delivered-To: em-ca-bob.smith@em.ca
+Received: (qmail 31006 invoked from network); 10 Nov 2001 02:22:18 -0000
+Received: from unknown (HELO server2000) (194.78.221.28)
+  by agamemnon.bfsmedia.com with SMTP; 10 Nov 2001 02:22:18 -0000
+Received: from france-mail.com (65.44.224.40) by server2000 with SMTP; Sat, 10 Nov 2001 03:41:04 +0100
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Subject: Win a Florida Vacation!!
+Message-Id: <1osx1ye7yv8pkx112.5uipnf5@france-mail.com>
+Received: from france-mail.com [192.168.226.13] by cxsjr.france-mail.com with SMTP; Fri, 09 Nov 2001 21:23:28 -0500
+Date: Fri, 09 Nov 2001 21:23:28 -0500
+To: knedeisenp@exo.com
+Importance: Normal
+From: a12249@portugalmail.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=C73AAFB13C0F418F80DAF55150761CA6
+Content-Length: 2030
+Lines: 45
+
+This is a multipart message in MIME format.
+
+--C73AAFB13C0F418F80DAF55150761CA6
+Content-Type: text/html;
+	 charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body>
+<p align="center"><font face="Elephant" color="#ff0066" size="6"><b>Congratulations!</b></font><font face="Elephant" color="#cc33ff"><br>
+You've been selected to ENTER to WIN!</font><font face="Times New Roman" color="#008080" size="4"><br>
+You have been given the opportunity to win an exclusive first class Florida vacation.<br>
+All you have to do is <a href="http://ten.workoff45.com/index2.html">click here</a> and fill out the entry form.</font></p>
+
+<p align="center"><font face="Times New Roman" color="#008080" size="4">You will enjoy an 8 day / 7 night Florida vacation in Orlando, Daytona Beach, and Key West.</font></p>
+<ul>
+  <li><b>4 days / 3 nights of first class hotel accommodations in Orlando, home of Disney World</b>
+  <li><b>3 days / 2 nights of oceanfront accommodations in Daytona Beach</b>
+  <li><b>3 days / 2 nights on the white sandy beach of Key West.</b>
+  <li><b>Rental car with UNLIMITED mileage</b>
+  <li><b>Casino Cruise</b></li>
+</ul>
+<p align="center"><font face="Elephant" size="5"><a href="http://ten.workoff45.com/index2.html">Click Here to ENTER!</a></font></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><font size="1">We apologize for any email you may have inadvertently received.<br>
+Please <a href="http://four.workoff45.com">CLICK HERE</a> to be removed from future mailings.</font></p>
+</body>
+</html>
+
+
+--C73AAFB13C0F418F80DAF55150761CA6
+Content-Type: text/plain
+Content-Disposition: inline
+
+____________________________________________________________
+This messsage was sent using the trial version of the 
+1st Class Mail Server software.
+
+The 1st Class Mail Server 3.0 has lots of cool new features.
+Best of all, it's still free! To download the latest version,
+go to http://www.1cis.com/download/1cismail.asp
+
+--C73AAFB13C0F418F80DAF55150761CA6--

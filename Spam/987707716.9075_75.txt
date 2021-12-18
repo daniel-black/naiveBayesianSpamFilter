@@ -1,0 +1,118 @@
+Return-Path: <resumes@hirediversity.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 9361 invoked from network); 19 Apr 2001 18:59:27 -0000
+Received: from dns1.hbinc.com (HELO mail.hbinc.com) (63.149.249.2)
+  by em.ca with SMTP; 19 Apr 2001 18:59:27 -0000
+Received: by dns1.hbinc.com with Internet Mail Service (5.5.2653.19)
+	id <26KW8NV6>; Thu, 19 Apr 2001 11:59:20 -0700
+Message-ID: <A9F857A45F1DD511AB010002B321B50508B1D1@dns1.hbinc.com>
+From: resumes@hirediversity.com
+To: bruceg@em.ca
+Subject: ADV:  HireDiversity.com-- Free Job Seeker Services
+Date: Thu, 19 Apr 2001 11:59:18 -0700
+X-MS-TNEF-Correlator: <A9F857A45F1DD511AB010002B321B50508B1D1@dns1.hbinc.com>
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C0C902.D647C840"
+Content-Length: 5024
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------_=_NextPart_000_01C0C902.D647C840
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello from HireDiversity.com
+This email was sent to you as a result of your name/resume being listed =
+on
+the Net as an active job seeker.  If you are not currently looking for =
+a new
+job/career please disregard this notice and we apologize for taking =
+your
+valuable time.=20
+
+Are you currently seeking a new job/career?  If so, we can offer you an
+exciting array of job seeker services completely free of charge!
+www.HireDiversity.com specializes in recruiting diverse candidates =
+including
+all women, minorities, bilingual, veterans, disabled and mature =
+workers. We
+offer resume posting, the latest information and articles on getting =
+your
+dream job and our own corporate recruiters helping to match your resume =
+with
+our vast list of job openings.=20
+
+Here are just a few of our clients:
+=B7American Express			=B7IBM/Microsoft/Dell
+=B7AT&T Corporation			=B7Motorola /Nokia
+=B7CIA/US Post Office			=B7Pfizer Inc.
+=B7Dell Computer			=B7Procter & Gamble
+				=09
+Visit our web-site at http://www.hirediversity.com to view all of the
+exciting services and clients we work with. You may post your resume on =
+our
+site or send it as an email or attached as a Word Document to:
+Resumes@hirediversity.com
+
+Sincerely,
+Rich Lugo
+HireDiversity.com
+
+**This is a one time mailing.**Your resume will not be posted unless =
+you
+send it to us or post it yourself.=20
+
+
+------_=_NextPart_000_01C0C902.D647C840
+Content-Type: application/ms-tnef
+Content-Transfer-Encoding: base64
+
+eJ8+IhUSAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAEIgAcAGAAAAElQTS5NaWNy
+b3NvZnQgTWFpbC5Ob3RlADEIAQuAAQAhAAAAMjA0OTE3MTFFQTM0RDUxMUFCMTkwMDAyQjMyMUI1
+MDUAxAYBBYADAA4AAADRBwQAEwALADsAEgAEAEsBASCAAwAOAAAA0QcEABMACwA7ABIABABLAQEJ
+gAEAIQAAADIwNDkxNzExRUEzNEQ1MTFBQjE5MDAwMkIzMjFCNTA1AMQGAQSAAQAzAAAAQURWOiAg
+SGlyZURpdmVyc2l0eS5jb20tLSBGcmVlIEpvYiBTZWVrZXIgU2VydmljZXMAJxEBDYAEAAIAAAAC
+AAIAAQOQBgAwCAAAIAAAAAMAJgAAAAAAQAA5AEDIR9YCycABAwDxPwkEAAAeADFAAQAAAAgAAABS
+RVNVTUVTAAMAGkAAAAAAHgAwQAEAAAAIAAAAUkVTVU1FUwADABlAAAAAAAIBCRABAAAAQQQAAD0E
+AACsBgAATFpGdeqgZRKHAAoBDQNDdGV4dAH3/wKkA+QF6wKDAFAC8wa0AoMmMgPFAgBjaArAc2XY
+dDAgBxMCgH0KgAjPPwnZAoAKhAs3EsIB0CBItGVsFNAgA1IXwGkVQBhEaXYEkACQdHkuTQWgbQqj
+CoBUaAQAIOZlAMADEXdhBCAToAIwVCB0GBB5CGAgGsFhIiAVQHN1bAVAb2bTG2IFwG5hB4AvHAIH
+gIggYmULgGcgbAQAzQ7wZBxgA6B0aB2QB8AvBUAbsgOgANB0GNEgaiRvYhrhZWsEkC4gvCBJHIMb
+oBVAHOBvBUBOYwhwFUACMGx5HgBvvG9rHdICEAXAG+BuB9FZIAEvYyFBBJAgC1Bl2xrAHZBkBAAV
+QGcLER6hcxohIYFpYx2QAHAeYHfFJeFwFMFnaXodkCLi1wGQIpMco3YHQHUBoCRA/xswB3EgoBmV
+GZUHEB2QG3IvIcggQh3SIy4/ILNzb94sJjIjwAOgHHBmJAEbc7sDoA8AYxkgK0Mh4GEiQOcccSAI
+GuFydiXBBCAZYX8kMQ7wIjEDUAngHGITYmfUZSEgsHcygC4Yjxrg/nAFkAcxJtEEIAuAG/EFAD51
+LpQkoBjiLTMkoGRh+w7wNIJjCkAkoCtSF/AaoPcDcAnwLQBtC4AFsC6RB5DdLQBiAxAd0ShAbC0A
+GOD/DvAvEACALQAkoShSHmAmAl0AwHQIcB2QN5ByIHFz/SCgVzGiLbIdRSaAHjAd0f8tAB6yC2A2
+cQVAC4Ai4Trh/mkegSYCCsAlsSRABCAegfcyMAJAJ4dkFUAdAB/zJgL5HLJvdwOgBaEmgC8QDvDL
+NMYY8SAewGxwHdIbQf864RNgHJQdRQPwHrBBgygQ9z3xHhIvRm8z8AMAHeA7sc8pDBfQIVEhQmp1
+PfEb4H8tsAfgHHEcsjbQCJACMHPqOikGJwGwQQeABRAtUvhFeHAcARMwAZEDMExIwUsBSUJNL00l
+wANgMyzgAYAvRBfhSopUJnxUIAhQQjQ+oUw/AbBNTyGQBbAG8BvgL04igWFBSolDSUEvVQXwUHk8
+8SBPASAlwVA/AbBQ11PgJuAFwEk2wC5KiU5C+09xMOB1OZFUL1UxA2AfoPEkASYgRx0AKGEpBled
+e1eYGaRWBAAZIEGDJkBiLi0ZESXhBUBoAkBwOvwvLzKCGhAVQTMbG0EwYP8H0TdSHHEesi5nMDcm
+AkoF7yYyO1JFIyCgWRuBAMAiQP884kRrHoEcsl0DBbEa8R5g/1xRHzQaVCLyAkAA0B7AOoHtG8JX
+BbAeYERY0B1xGxNlSnZSHVNzQF4/KQxTdzaxSGEiMCxpJiXARFBMOHVnb0fmGJ8pGyoqfxoDGiEb
+4AIgKIQ60TjTLv9wAGNBRKk3YSGCHbA80x5R/HVuP3EEIBtyZcYbQUjwn2WCY8NcURyiE6BsZiju
+An13sAAAAAMA/T/kBAAAHgBwAAEAAAAtAAAASGlyZURpdmVyc2l0eS5jb20tLSBGcmVlIEpvYiBT
+ZWVrZXIgU2VydmljZXMAAAAAAgFxAAEAAAAWAAAAAcDJAtZHERdJITTqEdWrGQACsyG1BQAAAgFH
+AAEAAAA3AAAAYz1VUzthPSA7cD1IaXNwYW5pYyBCdXNpbmVzO2w9TUFJTC0wMTA0MTkxODU5MTha
+LTMzNzg0AAACAfk/AQAAAFgAAAAAAAAA3KdAyMBCEBq0uQgAKy/hggEAAAAAAAAAL089SElTUEFO
+SUMgQlVTSU5FU1MgSU5DL09VPUhCSS0wMS9DTj1SRUNJUElFTlRTL0NOPVJFU1VNRVMAHgD4PwEA
+AAAaAAAAcmVzdW1lc0BoaXJlZGl2ZXJzaXR5LmNvbQAAAB4AOEABAAAACAAAAFJFU1VNRVMAAgH7
+PwEAAABYAAAAAAAAANynQMjAQhAatLkIACsv4YIBAAAAAAAAAC9PPUhJU1BBTklDIEJVU0lORVNT
+IElOQy9PVT1IQkktMDEvQ049UkVDSVBJRU5UUy9DTj1SRVNVTUVTAB4A+j8BAAAAGgAAAHJlc3Vt
+ZXNAaGlyZWRpdmVyc2l0eS5jb20AAAAeADlAAQAAAAgAAABSRVNVTUVTAEAABzAUHNrVAsnAAUAA
+CDBqPV3WAsnAAR4APQABAAAABwAAAEFEVjogIAAAHgAdDgEAAAAtAAAASGlyZURpdmVyc2l0eS5j
+b20tLSBGcmVlIEpvYiBTZWVrZXIgU2VydmljZXMAAAAAHgA1EAEAAAA4AAAAPEE5Rjg1N0E0NUYx
+REQ1MTFBQjAxMDAwMkIzMjFCNTA1MDhCMUQxQGRuczEuaGJpbmMuY29tPgADADYAAAAAAAsAKQAA
+AAAACwAjAAAAAAADAAYQU91AXgMABxAxBAAAAwAQEAAAAAADABEQAQAAAB4ACBABAAAAZQAAAEhF
+TExPRlJPTUhJUkVESVZFUlNJVFlDT01USElTRU1BSUxXQVNTRU5UVE9ZT1VBU0FSRVNVTFRPRllP
+VVJOQU1FL1JFU1VNRUJFSU5HTElTVEVET05USEVORVRBU0FOQUNUSVYAAAAAAgF/AAEAAAA4AAAA
+PEE5Rjg1N0E0NUYxREQ1MTFBQjAxMDAwMkIzMjFCNTA1MDhCMUQxQGRuczEuaGJpbmMuY29tPgDv
+RQ==
+
+------_=_NextPart_000_01C0C902.D647C840--

@@ -1,0 +1,283 @@
+Return-Path: <trailk99@vnn.vn>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 29841 invoked from network); 29 Nov 2001 16:43:45 -0000
+Received: from unknown (HELO S447636A.artextil.com) (212.163.132.46)
+  by agamemnon.bfsmedia.com with SMTP; 29 Nov 2001 16:43:45 -0000
+Received: from mu11.vnn.vn ([4.4.170.204])
+          by S447636A.artextil.com (Lotus Domino Build 5.0.5)
+          with ESMTP id 2001112904512129:1393 ;
+          Thu, 29 Nov 2001 04:51:21 +0100 
+To: <Living Healthier>
+From: "Health Center" <trailk99@vnn.vn>
+Subject: "ADV:" Physician Prescribed Human Growth Hormone - Lowest Prices in the World               6709
+Date: Wed, 28 Nov 2001 22:49:45 -1700
+MIME-Version: 1.0
+Reply-To: 43edc@polbox.com
+X-MIMETrack: Itemize by SMTP Server on DominoServer/Artextil(Build 5.0.5 |23 Octubre, 2000) at
+ 29/11/2001 04:51:32 a. m,
+	Serialize by Router on DominoServer/Artextil(Build 5.0.5 |23 Octubre, 2000) at
+ 29/11/2001 05:46:00 p. m,
+	Serialize complete at 29/11/2001 05:46:01 p. m,
+	Serialize by Router on DominoServer/Artextil(Build 5.0.5 |23 Octubre, 2000) at
+ 29/11/2001 05:46:01 p. m
+Message-ID: <OF60F726DA.7572F94C-ONC1256B13.0015328F@artextil.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Length: 9810
+Lines: 254
+
+<HTML><HEAD><TITLE>hgh2</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3DISO-8859-1=
+">
+<META content=3D"MSHTML 6.00.2600.0" name=3DGENERATOR>
+<SCRIPT language=3DJavascript1.2>
+
+// (C) 2000 www.CodeLifter.com
+// http://www.codelifter.com
+// Free for all users, but leave in this  header
+
+// Set the message for the alert box
+am =3D "This function is disabled!";
+
+// do not edit below this line
+// =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D
+bV  =3D parseInt(navigator.appVersion)
+bNS =3D navigator.appName=3D=3D"Netscape"
+bIE =3D navigator.appName=3D=3D"Microsoft Internet Explorer"
+
+function nrc(e) {
+   if (bNS && e.which > 1){
+      alert(am)
+      return false
+   } else if (bIE && (event.button >1)) {
+     alert(am)
+     return false;
+   }
+}
+
+document.onmousedown =3D nrc;
+if (document.layers) window.captureEvents(Event.MOUSEDOWN);
+if (bNS && bV<5) window.onmousedown =3D nrc;
+
+</SCRIPT>
+</HEAD>
+<BODY text=3D#000000 bgColor=3D#ffffff leftMargin=3D0 topMargin=3D0 MARGIN=
+HEIGHT=3D"0" 
+MARGINWIDTH=3D"0">
+<CENTER>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D557 border=3D0 NOF=3D"LY">
+  <TBODY>
+  <TR vAlign=3Dtop align=3Dleft>
+    <TD width=3D23 height=3D18><IMG height=3D1 src=3D"hgh2_files/clearpixe=
+l.gif" 
+      width=3D23 border=3D0></TD>
+    <TD width=3D1><IMG height=3D1 src=3D"hgh2_files/clearpixel.gif" width=3D=
+1 
+    border=3D0></TD>
+    <TD width=3D2><IMG height=3D1 src=3D"hgh2_files/clearpixel.gif" width=3D=
+2 
+    border=3D0></TD>
+    <TD width=3D507><IMG height=3D1 src=3D"hgh2_files/clearpixel.gif" widt=
+h=3D507 
+      border=3D0></TD>
+    <TD width=3D11><IMG height=3D1 src=3D"hgh2_files/clearpixel.gif" width=
+=3D11 
+      border=3D0></TD>
+    <TD width=3D13><IMG height=3D1 src=3D"hgh2_files/clearpixel.gif" width=
+=3D13 
+      border=3D0></TD></TR>
+  <TR vAlign=3Dtop align=3Dleft>
+    <TD colSpan=3D3></TD>
+    <TD width=3D518 bgColor=3D#ffffcc colSpan=3D2>
+      <TABLE cellSpacing=3D0 cellPadding=3D13 width=3D518 border=3D3 NOF=3D=
+"TI">
+        <TBODY>
+        <TR>
+          <TD>
+            <P><B><FONT color=3D#990000 size=3D+1>Physician Prescribed - h=
+GH (Human 
+            Growth Hormone)<BR></FONT></B>The breakthrough medication that=
+ can 
+            turn back your Body's Biological Clock - You will feel the res=
+ults 
+            in 30 to 90 days! Guaranteed!!!!<BR>Get your FREE prescription=
+ for 
+            IGF-1 blood test, find out if you are growth hormone deficient=
+</P>
+            <P>Available to you NOW online and delivered to your mailbox 
+            monthly. <BR>Directly from a US Licensed Pharmacist.</P>
+            <P>Don't be fooled by the Non Prescription hGH products.&nbsp;=
+ 
+            <BR>Only Physician prescribed hGH is SCIENTIFICALLY PROVEN TO =
+TURN 
+            BACK THE YEARS:</P>
+            <P>The Rich and Famous have been using this miracle drug for y=
+ears. 
+            AND they happily pay from:<BR>$1,000.00&nbsp; to $3,000.00 per=
+ 1 
+            month supply!!!</P>
+            <P>WE OFFER THE LOWEST PRICES ANYWHERE<BR>We have made hGH 
+            affordable!!!<BR>at the unbelievably LOW price of $260.00 per =
+1 
+            month supply</P>
+            <UL>
+              <LI>READ THE NEWS ARTICLES 
+              <LI>READ THE RESEARCH - BELOW </LI></UL>
+            <P>Plus we offer:</P>
+            <P>A Pain-Free and Needle-Free<BR>Auto Injector System<BR>This=
+ 
+            system actually makes the daily subcutaneous<BR>Injections - A=
+ 
+            PLEASURE!!</P>
+            <P>Online Ordering is:<BR>Convenient, affordable and 
+Confidential</P>
+            <P>Review Some of the Research</P>
+            <P>* <A 
+            href=3D"http://content.nejm.org/cgi/content/abstract/323/1/1?m=
+axtoshow=3D&amp;HITS=3D20&amp;hits=3D20&amp;RESULTFORMAT=3D&amp;titleabstr=
+act=3D%22Human+Growth+Hormone%22&amp;searchid=3D1004815670155_10513&amp;st=
+ored_search=3D&amp;FIRSTINDEX=3D0&amp;sortspec=3DPUBDATE_SORTDATE+desc+Sco=
+re+desc&amp;fdate=3D1/1/1975&amp;tdate=3D">The 
+            Rudman Study</A> <BR>* <A 
+            href=3D"http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?ui=
+d=3D2022560&amp;form=3D6&amp;db=3Dm&amp;Dopt=3Db">Increased 
+            muscle mass without exercise</A><BR>* <A 
+            href=3D"http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?ui=
+d=3D8796135&amp;form=3D6&amp;db=3Dm&amp;Dopt=3Db">Wrinkle 
+            reduction&nbsp; and smoothing and strengthening of bones</A><B=
+R>* <A 
+            href=3D"http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?ui=
+d=3D2022561&amp;form=3D6&amp;db=3Dm&amp;Dopt=3Db">Increase 
+            energy, stamina,&nbsp; vitality, and cardiac output</A><BR>* <=
+A 
+            href=3D"http://www.annals.org/issues/v133n2/nts/200007180-0001=
+0.html">Lower 
+            blood pressure and improve cholesterol profile</A><BR>* Improv=
+e 
+            sleep, memory and sharper vision<BR>* New hair growth and&nbsp=
+; 
+            color reparation<BR>* Strengthen the immune system and the red=
+uce 
+            high blood pressure<BR>* Increased fertility, sexual drive and=
+ 
+            performance<BR>* <A 
+            href=3D"http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?ui=
+d=3D2245968&amp;form=3D6&amp;db=3Dm&amp;Dopt=3Db">Improved 
+            Psychological Well-being</A></P>
+            <P>Human Growth Hormone in the News</P>
+            <UL>
+              <LI>MSNBC - <A 
+              href=3D"http://www.msnbc.com/news/550100.asp">Searching for =
+the 
+              fountain of youth</A> 
+              <LI>AmedNews - <A 
+              href=3D"http://www.ama-assn.org/sci-pubs/amnews/pick_00/hlsa=
+1204.htm">Dipping 
+              into the Fountain of Youth</A> 
+              <LI>CNN - <A 
+              href=3D"http://www.cnn.com/TRANSCRIPTS/0002/16/lkl.00.html">=
+Larry 
+              King Live with Nick Nolte</A> 
+              <LI>USA Today - <A 
+              href=3D"http://www.usatoday.com/life/health/alternative/lhal=
+t013.htm">Fountain 
+              of youth flows from a needle</A> 
+              <LI>USA Today - <A 
+              href=3D"http://www.usatoday.com/life/health/alternative/lhal=
+t015.htm">Elixir 
+              of the Stars</A> </LI></UL></TD></TR></TBODY></TABLE></TD>
+    <TD></TD></TR>
+  <TR vAlign=3Dtop align=3Dleft>
+    <TD colSpan=3D6 height=3D16></TD></TR>
+  <TR vAlign=3Dtop align=3Dleft>
+    <TD></TD>
+    <TD width=3D521 bgColor=3D#ffffcc colSpan=3D4>
+      <TABLE cellSpacing=3D0 cellPadding=3D13 width=3D521 border=3D3 NOF=3D=
+"TI">
+        <TBODY>
+        <TR>
+          <TD>
+            <P>For Complete hGH information: We Require<BR>That You Opt-In=
+ by 
+            Requesting a Web Link: 
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D=
+0 NOF=3D"TE">
+              <TBODY>
+              <TR>
+                <TD align=3Dmiddle>
+                  <FORM name=3DTable2FORM action=3D"" method=3Dpost>
+                  <TABLE id=3DTable2 cellSpacing=3D4 cellPadding=3D0 width=
+=3D441 
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD width=3D170>
+                        <P align=3Dcenter>
+                        <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"10=
+0%" border=3D0 
+                        NOF=3D"TE">
+                          <TBODY>
+                          <TR>
+                            <TD align=3Dmiddle><INPUT id=3D"Forms Checkbox=
+1" 
+                              type=3Dcheckbox CHECKED 
+                              value=3D"Please Send Me a Web address where =
+I can Learn more about Low Cost  Physician prescribed HGH" 
+                              name=3DYes2></TD></TR></TBODY></TABLE>Yes</P=
+></TD>
+                      <TD width=3D259>
+                        <P>Please send me the Web Link Where I can:</P></T=
+D></TR>
+                    <TR>
+                      <TD height=3D24>
+                        <P>&nbsp;</P></TD>
+                      <TD width=3D259>
+                        <P>Review the Benefits</P></TD></TR>
+                    <TR>
+                      <TD>
+                        <P>&nbsp;</P></TD>
+                      <TD width=3D259>
+                        <P>Review the Risks</P></TD></TR>
+                    <TR>
+                      <TD>
+                        <P>&nbsp;</P></TD>
+                      <TD width=3D259>
+                        <P>Review the Medical Research</P></TD></TR>
+                    <TR>
+                      <TD>
+                        <P>&nbsp;</P></TD>
+                      <TD width=3D259>
+                        <P>Make Informed decisions for my Health</P></TD><=
+/TR>
+                    <TR>
+                      <TD width=3D170>
+                        <P>Submit Request by clicking</P></TD>
+                      <TD width=3D259>
+                        <P>&nbsp;<A 
+                        href=3D"mailto:43edc@polbox.com?subject=3DPlease s=
+end me hGH Web Link">Submit</A> 
+                        then hit 
+              Send</P></TD></TR></TBODY></TABLE></FORM></TD></TR></TBODY><=
+/TABLE><BR></P></TD></TR></TBODY></TABLE></TD>
+    <TD></TD></TR>
+  <TR vAlign=3Dtop align=3Dleft>
+    <TD colSpan=3D6 height=3D18></TD></TR>
+  <TR vAlign=3Dtop align=3Dleft>
+    <TD colSpan=3D2></TD>
+    <TD width=3D509 colSpan=3D2>
+      <P><FONT size=3D-1>This e-mail has been sent to you by SplitRock Mar=
+keting 
+      Inc. an independent marketing company. You are receiving this e-mail=
+ 
+      because you opted-in by requesting information or requested to recei=
+ve 
+      special offers from an online purchase. To be removed permanently fr=
+om our 
+      mailing list, hit REPLY and type ``REMOVE" in the subject 
+    Box.</FONT></P></TD>
+    <TD colSpan=3D2></TD></TR></TBODY></TABLE></CENTER></BODY></HTML>
+
+
+

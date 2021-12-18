@@ -1,0 +1,37 @@
+Return-Path: <znc@persia-mail.com>
+Delivered-To: em-ca-bait-20010116130339@em.ca
+Received: (qmail 38 invoked from network); 21 Jan 2001 16:58:31 -0000
+Received: from unknown (HELO node1.persia-mail.com) (61.11.248.146)
+  by em.ca with SMTP; 21 Jan 2001 16:58:31 -0000
+Received: from Z9H5K9 ([61.11.248.139]) by node1.persia-mail.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.1960.3)
+	id DLVPJ8D9; Sun, 21 Jan 2001 20:26:31 +0330
+MIME-Version: 1.0
+To: "PUBLIC" <>
+From: znc@persia-mail.com
+Subject: TRADING
+Content-Type: multipart/mixed; boundary="divider"
+Content-Length: 327
+Lines: 22
+
+--divider
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+Dear manager
+
+please let me know the field of your activity.
+
+If you have any catalog, please send me one.
+
+My address:
+P.O.Box 14155 - 5841 Tehran, Iran
+Tel & Fax: +9821 742 4714
+Jan 19, 2001
+Yours sincerely,
+F. Shahbazi
+
+
+
+--divider--
+

@@ -1,0 +1,61 @@
+Return-Path: <knedown911@buddybistro.com>
+Spam-Apparently-To: <saskndp@sk.sympatico.ca>
+Received: (qmail 7214 invoked by uid 531); 28 May 2001 22:10:35 -0000
+Delivered-To: saskndp1-office@saskndp.com
+Received: (qmail 7210 invoked from network); 28 May 2001 22:10:33 -0000
+Received: from unknown (HELO eagle.wccs.k12.in.us) (DJ-Tiesto@206.140.184.100)
+  by saskndp.com with SMTP; 28 May 2001 22:10:33 -0000
+Received: from mail2.buddybistro.com (PPPa29-ResaleSouthfield1-1R7403.dialinx.net [4.16.194.58])
+          by eagle.wccs.k12.in.us (8.9.3/8.9.3) with SMTP
+	  id QAA14121; Mon, 28 May 2001 16:57:44 -0500
+From: knedrager1@buddybistro.com
+Reply-To: njihyf65@ematic.com
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+To: illytrini7@sasknet.ca
+Date: Mon, 28 May 2001 18:10:39 -0500
+CC: sdalziel@sasknet.ca, murrayc@sasknet.ca, crosson@sasknet.ca,
+        wizard@sasknet.ca, mjwater@sasknet.ca, mlonkey@sasknet.ca,
+        jerryb@sasknet.ca, office@sasknet.ca, c.eisbrenner@sasknet.ca
+Received: from mail2.buddybistro.com [192.168.222.24] by 16bvo.mail2.buddybistro.com with SMTP; Mon, 28 May 2001 18:10:39 -0500
+Message-Id: <0ylb2el3clbtcyagdq3.y5bh1a18opxy2@mail2.buddybistro.com>
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Subject: Boost Your Windows Reliability!
+
+<html>
+<body>
+
+<p>Dear Windows User,<br>
+<br>
+Now you can boost the reliability of ordinary Windows 95, 98 and ME to nearly
+the level of Windows NT or 2000, Microsoft's professional and industrial 
+version
+of Windows.<br>
+<br>
+The new WinFix is a very effective way to improve the reliability of Windows,
+because it makes Windows fault-tolerant and self-repairing.<br>
+<br>
+And WinFix is very safe, because it operates completely independent of 
+Windows.<br>
+<br>
+<u><font color="#0000ff"><a href="http://topman.buddybistro.com/">CLICK 
+HERE</a></font></u> to find out more about WinFix, the safest, most effective 
+way to keep you working, by keeping your PC working non-stop.<br>
+<br>
+Arlen Dixon, CEO<br>
+Pinewood Software Marketing<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+This announcement is intended for PC users who asked to be kept<br>
+informed about new developments in Windows technology.<br>
+</p>
+<p>To be removed from future mailings, please reply with REMOVE in the 
+subject
+line.<br>
+</p>
+
+</body>
+</html>
+

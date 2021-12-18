@@ -1,0 +1,47 @@
+Return-Path: <c35277504@hotmail.com>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 10099 invoked from network); 2 Jun 2001 10:38:22 -0000
+Received: from rf.ficnet.net.tw (202.145.102.34)
+  by bfsmedia.sk.ca with SMTP; 2 Jun 2001 10:38:22 -0000
+Received: by rf.ficnet.net.tw with Internet Mail Service (5.5.1960.3)
+	id <K9TVVYNK>; Sat, 2 Jun 2001 18:30:45 +0800
+Received: from 202.145.102.34 (c155.h061013220.is.net.tw [61.13.220.155]) by rf.ficnet.net.tw with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.1960.3)
+	id K9TVVYNJ; Sat, 2 Jun 2001 18:30:33 +0800
+From: c35277504@hotmail.com
+Reply-To: c35277504@hotmail.com
+To: laws@ai.sri.com
+Subject:最完整的保護和破解程式出爐了！．．．．．．．最完整的保護和破解程式出爐了！．．．最完整的保護和破解程式出爐了！最完整的保護和破解程式出爐了！．．．．
+MIME-Version: 1.0
+Content-Type: text/html; charset=big5
+Content-Transfer-Encoding: base64
+Content-Length: 2148
+Lines: 28
+
+PGh0bWw+DQoNCjxoZWFkPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29u
+dGVudD0iemgtdHciPg0KDQo8bWV0YSBuYW1lPSJHRU5FUkFUT1IiIGNvbnRlbnQ9Ik1pY3Jvc29m
+dCBGcm9udFBhZ2UgNC4wIj4NCjxtZXRhIG5hbWU9IlByb2dJZCIgY29udGVudD0iRnJvbnRQYWdl
+LkVkaXRvci5Eb2N1bWVudCI+DQo8dGl0bGU+rVmmuatIpfO1ubF6sWGo06Sjq0s8L3RpdGxlPg0K
+PC9oZWFkPg0KDQo8Ym9keSBiZ2NvbG9yPSIjMDAwMDAwIiB0ZXh0PSIjRkZGRkZGIj4NCg0KPHAg
+YWxpZ249ImNlbnRlciI+rVmmuatIpfO1ubF6sWGo06Sjq0uhQb3QsXqmaKZoqKO9zKFJPC9wPg0K
+PHAgYWxpZ249ImNlbnRlciI+p9qtzL3mqrqko6xPpuKxoSyko6xPpGq4yamrLKbTrE+l0afarcy2
+17awuOquxr1zvGem06aoqrqodKZDpfq60CEhPC9wPg0KPHAgYWxpZ249ImNlbnRlciI+PGEgaHJl
+Zj0iaHR0cDovL2hvbWUua2ltby5jb20udHcvc2NkMDAwNi8iPjxpbWcgYm9yZGVyPSIwIiBzcmM9
+Imh0dHA6Ly9ob21lLmtpbW8uY29tLnR3L3NjZDk5OTIvYWQuanBnIj48L2E+PC9wPg0KPHAgYWxp
+Z249ImNlbnRlciI+PGEgaHJlZj0iaHR0cDovL2hvbWUua2ltby5jb20udHcvc2NkMDAwNi8iPjxm
+b250IGNvbG9yPSIjMDAwMEZGIj6ieLZppEqlu6+4ong8L2ZvbnQ+PC9hPjwvcD4NCjxwIGFsaWdu
+PSJjZW50ZXIiPjxmb250IGNvbG9yPSIjRkZGRkZGIj6lu6R1p0Crx7ZPpEa0WK3TpOuquq7JtqEs
+pqy2sKRGvMakUbrYtXumoSyow6r+pFekpKTluNSlW7uhqfosPC9mb250PjwvcD4NCjxwIGFsaWdu
+PSJjZW50ZXIiPjxmb250IGNvbG9yPSIjRkZGRkZGIj6lRK1updiquqxPrLCkRsX9plWm7L7HsW+n
+87CqsmCqurlxuKOn3qWpLKjDr+ClzqZiq0/FQKbbpHa5cbijLDwvZm9udD48L3A+DQo8cCBhbGln
+bj0iY2VudGVyIj48Zm9udCBjb2xvcj0iI0ZGRkZGRiI+pUinS6j8pUykSK99w2GpTcHXp0uxeqq6
+uOquxqV+rKouPC9mb250PjwvcD4NCjxwIGFsaWduPSJjZW50ZXIiPjxmb250IGNvbG9yPSIjZmYw
+MDAwIj6n2q3MqMOko6fGseaxeqdspqyzb6jHqr7D0SylzqjTwEi3TrZppVilTKRIuvSvuKnOtXOo
++qVMpEi8t7i5sUu9WC4uLrWlLMH2tU2zb6jHt3zF3LFvq9yuZan2LjwvZm9udD48L3A+DQo8cCBh
+bGlnbj0iY2VudGVyIj48Zm9udCBjb2xvcj0iIzAwRkZGRiI+pcOkW7r0p32hR2h0dHA6Ly9iaWc1
+LnRvL7ZXr8Wl+rrQPC9mb250PjwvcD4NCg0KPC9ib2R5Pg0KDQo8L2h0bWw+DQo8SFRNTD4NCjxB
+IG5hbWU9Ig0Ks8ynub7jqroNClBNIDA1OjIyOjI1DQoyMDAxLzYvMg0KMTAwMDAzDQoiPjwvYT4N
+CjwvSFRNTD4NCjxIVE1MPg0KPEEgbmFtZT0iDQqzzKe5vuOquqtPxUCpTa99uNG1e6ahpVjEbKRG
+oUkNClBNIDA1OjI3OjU3DQoyMDAxLzYvMg0KMTAwMDAzDQoiPjwvYT4NCjwvSFRNTD4NCjxIVE1M
+Pg0KPEEgbmFtZT0iDQqzzKe5vuOqug0KUE0gMDU6MzM6MTENCjIwMDEvNi8yDQoxMDAwMDMNCiI+
+PC9hPg0KPC9IVE1MPg0KPEhUTUw+DQo8QSBuYW1lPSINCrPMp7m+46q6q0/FQKlNr3240bV7pqEN
+ClBNIDA2OjM3OjAzDQoyMDAxLzYvMg0KMTAwMDAzDQoiPjwvYT4NCjwvSFRNTD4NCg==

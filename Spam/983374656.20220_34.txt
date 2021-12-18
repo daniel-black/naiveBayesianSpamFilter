@@ -1,0 +1,82 @@
+Return-Path: <eric2461@caramail.com>
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 20595 invoked from network); 28 Feb 2001 15:36:36 -0000
+Received: from unknown (HELO bacho.adi.fr) (195.219.37.3)
+  by bruce-guenter.dyndns.org with SMTP; 28 Feb 2001 15:36:36 -0000
+Received: from localhost ([195.219.37.42])
+	by bacho.adi.fr (8.11.0/8.11.0) with ESMTP id f1SGS0O32520
+	for <bruce@bruce-guenter.dyndns.org>; Wed, 28 Feb 2001 17:28:01 +0100
+Message-Id: <200102281628.f1SGS0O32520@bacho.adi.fr>
+X-Sender: eric2461@caramail.com
+From: RICO <eric2461@caramail.com>
+To: bruce@bruce-guenter.dyndns.org
+Date: Wed, 28 Feb 2001 16:42:52 +0100
+Subject: Gratuitement : le meilleur du web !
+Reply-To: eric2461@caramail.com
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_001__341586034_60172,44"
+Content-Length: 3141
+
+This is a Multipart MIME message.
+
+------=_NextPart_000_001__341586034_60172,44
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_002__341586034_60172,44"
+
+
+------=_NextPart_001_002__341586034_60172,44
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+
+------=_NextPart_001_002__341586034_60172,44
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9u
+YWwvL0VOIj4NCjwhLS0gc2F2ZWQgZnJvbSB1cmw9KDAwMjIpaHR0cDovL2ludGVybmV0LmUt
+bWFpbCAtLT48SFRNTD48SEVBRD48VElUTEU+UXVvaSBkZSBuZXVmIHN1ciBTSE9QUElORzwv
+VElUTEU+DQo8TUVUQSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9d2luZG93cy0xMjUy
+IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIGNvbnRlbnQ9Ik1pY3Jvc29mdCBG
+cm9udFBhZ2UgNC4wIiBuYW1lPUdFTkVSQVRPUj4NCjxNRVRBIGNvbnRlbnQ9RnJvbnRQYWdl
+LkVkaXRvci5Eb2N1bWVudCBuYW1lPVByb2dJZD48L0hFQUQ+DQo8Qk9EWT4NCjxUQUJMRSBi
+b3JkZXI9MCBib3JkZXJDb2xvcj0jMDAwMDAwIGJvcmRlckNvbG9yTGlnaHQ9I2ZmY2NmZiBj
+ZWxsUGFkZGluZz0xMCANCmNlbGxTcGFjaW5nPTUgd2lkdGg9NTUwPg0KICA8VEJPRFk+DQog
+IDxUUj4NCiAgICA8VEQgYmdDb2xvcj0jRkZGRkZGIHdpZHRoPTM3Mz4NCiAgICAgIDxQIGNs
+YXNzPU1zb05vcm1hbD48Rk9OVCBmYWNlPUFyaWFsPjxCPjxJPjxGT05UIGNvbG9yPSNmZmZm
+ZmYgDQogICAgICBzaXplPTM+PEJSPjwvRk9OVD48L0k+IA0KICAgICAgPC9CPjwvRk9OVD48
+Qj48Zm9udCBmYWNlPSJBcmlhbCIgc2l6ZT0iNCIgY29sb3I9IiNGRjAwMDAiPjx1PkVYQ0xV
+U0lGICENCiAgICAgIC4uLi48L3U+PC9mb250PjwvQj48L1A+DQogICAgICA8UCBjbGFzcz1N
+c29Ob3JtYWw+PEI+PGZvbnQgZmFjZT0iQXJpYWwiIHNpemU9IjMiPlTpbOljaGFyZ2VyIA0K
+ICAgICAgZ3JhdHVpdGVtZW50IGxlIG1laWxsZXVyIGR1IHdlYjwvZm9udD48L0I+PC9QPg0K
+ICAgICAgPFAgY2xhc3M9TXNvTm9ybWFsPjxCPjxGT05UIGNvbG9yPSNmZmZmZmY+PEZPTlQg
+ZmFjZT1WZXJkYW5hIA0KICAgICAgc2l6ZT0xPjxCUj48L0ZPTlQ+PC9GT05UPjxGT05UIGNv
+bG9yPSNmZmZmZmYgZmFjZT0iVmVyZGFuYSIgc2l6ZT0iNCI+Jmd0OzwvRk9OVD48Rk9OVCBj
+b2xvcj0jMDAwMEZGIGZhY2U9IlZlcmRhbmEiIHNpemU9IjQiPiZndDsmZ3Q7PC9GT05UPjwv
+Qj48Zm9udCBzaXplPSI0Ij48Rk9OVCANCiAgICAgIGNvbG9yPSNGRjAwRkYgZmFjZT1WZXJk
+YW5hPjxCPiA8L0I+PC9GT05UPg0KICAgICAgPFNDUklQVCBsYW5ndWFnZT1qYXZhc2NyaXB0
+IA0KICAgICAgc3JjPSJjaWQ6MzQxNTg2MDU0MzAxMzBAZnVsbC5odG1sIj48L1NDUklQVD4g
+PEEgDQogICAgICBocmVmPSJmaWxlOi8vL0M6L0RvY3VtZW50cyUyMGFuZCUyMFNldHRpbmdz
+L0FkbWluaXN0cmF0ZXVyLktBTVVTLkFESS9Mb2NhbCUyMFNldHRpbmdzL1RlbXAvc2hvcHBp
+bmclMjBkdSUyMDI3LjAyLjAxLmh0bSMiIA0KICAgICAgb25jbGljaz0iRnJlZVBvcHVwKCk7
+cmV0dXJuIGZhbHNlOyI+Q2xpcXVleiBpY2kgITwvQT48L2ZvbnQ+PC9QPg0KICAgICAgPFAg
+Y2xhc3M9TXNvTm9ybWFsPiZuYnNwOzwvUD48L1REPjwvVFI+DQogIDwvVEJPRFk+PC9UQUJM
+RT4NCjwvQk9EWT48L0hUTUw+DQo=
+
+------=_NextPart_001_002__341586034_60172,44--
+
+------=_NextPart_000_001__341586034_60172,44
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-ID: <34158605430130@full.html>
+
+CmZ1bmN0aW9uIEZyZWVQb3B1cCgpewoJCWlmKG5hdmlnYXRvci5hcHBWZXJzaW9uLmluZGV4
+T2YoIk1TSUUgNSIpPj0wKXsKCQl3aW5kb3cub3BlbignaHR0cDovL29uZXN0YXJ0cGFnZS5m
+cmVlMm9uZS5jb20vc2NyaXB0cy9mb3JtLnBocDM/cmVmPTIwMDEwMTI0ODEwMDI0NScsJ0lk
+ZW50JywndG9vbGJhcj1ubyxsb2NhdGlvbj1ubyxkaXJlY3Rvcmllcz1ubyxzdGF0dXM9bm8s
+bWVudWJhcj1ubyxyZXNpemFibGU9bm8sc2Nyb2xsYmFycz1ubyx3aWR0aD0yNTAsaGVpZ2h0
+PTQwMCcpOwoJfQoJfQoKCgo=
+
+------=_NextPart_000_001__341586034_60172,44--
+

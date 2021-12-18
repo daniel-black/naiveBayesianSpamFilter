@@ -1,0 +1,30 @@
+Return-Path: <bizcntr@msn.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 16605 invoked from network); 6 Oct 2001 10:26:02 -0000
+Received: from unknown (HELO msplab.ee.tsinghua.edu.cn) (166.111.64.223)
+  by agamemnon.bfsmedia.com with SMTP; 6 Oct 2001 10:26:02 -0000
+Received: from html [209.61.190.155] by msplab.ee.tsinghua.edu.cn
+  (SMTPD32-7.00 EVAL) id ABF17D0100; Sat, 06 Oct 2001 18:24:49 +0800
+From: mathewgreen702@Flashmail.com
+To: bluegoose23@hotmail.com
+Subject: Manage your financial situation
+Date: Sat, 6 Oct 2001 04:28:05
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Message-Id: <20011006182573.SM01540@html>
+Content-Length: 409
+Lines: 9
+
+<html>
+<head>
+<title>Debt Relief</title>
+</head>
+<BODY text=#ffffff vLink=#ffffff aLink=#ffffff link=#ffffff>
+<A HREF="#" onClick="window.open('http://66.78.57.250/~edebtcn/form3.htm','1382', 'toolbar=0,menubar=0,scrollbars=1,status=0,resizable=0,width=600,height=600');return false">
+<p align="center"><Img Src="http://66.78.57.250/~edebtcn/congrats.gif" Alt="" Width="600" Height="225"></A>
+</body>
+</html>

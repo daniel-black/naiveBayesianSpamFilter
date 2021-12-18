@@ -1,0 +1,65 @@
+Return-Path: <bequette@j.broadcastnow.net>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 23796 invoked from network); 28 Feb 2001 13:07:00 -0000
+Received: from ns.yestron.co.jp (210.226.118.66)
+  by bfsmedia.sk.ca with SMTP; 28 Feb 2001 13:07:00 -0000
+Received: from nqidd.broadcastnow.net (unverified [63.27.39.214]) by ns.yestron.co.jp
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000105424@ns.yestron.co.jp>;
+ Wed, 28 Feb 2001 22:08:32 +0900
+Received: from nqidd.broadcastnow.net [192.168.222.21] by 3hbl.nqidd.broadcastnow.net with SMTP; Wed, 28 Feb 2001 08:11:02 -0500
+Date: Wed, 28 Feb 2001 08:11:02 -0500
+Reply-To: howdy9832@ematic.com
+X-Mailer: Mozilla 4.7 [en] (Win95; U)
+Return-Path: whatchdog34@arabia.com
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+From: bequette@j.broadcastnow.net
+To: timolnar@bfsmedia.com
+Message-Id: <2c457li.n5lcqowcxh7viv@nqidd.broadcastnow.net>
+Subject: REGAIN CONTROL OF YOUR CASH FLOW NOW! (free i...
+Content-Length: 1750
+Lines: 42
+
+<html>
+<body>
+<img border="0" src="http://00000000325.0000000030.00000000341.
+00000000122/credit_cards.gif" width="155" height="106">
+<img border="0" src="http://00000000325.0000000030.00000000341.
+00000000122/stress_05.gif" width="344" height="69">
+<p align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" 
+color="#000066" size="2">Is
+the stress of making a living and paying your bills keeping you from 
+fulfilling
+your dreams?</font></b></p>
+<ul>
+  <li><font face="Verdana, Arial, Helvetica, sans-serif" color="#0000ff" 
+size="3"><b><font color="#ff00ff" size="2">This
+    is not a loan!</font></b></font>
+  <li><font color="#ff00ff" size="2"><b><font face="Verdana, Arial, Helvetica,
+ sans-serif">Everyone
+    qualifies!</font></b></font>
+  <li><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" 
+color="#ff00ff">We
+    are a non-profit organization!</font></b></font></li>
+</ul>
+<p><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000066" 
+size="2">Congratulations,
+you have taken the first step in becoming debt free. To better help us serve 
+you
+and provide you with complete, <font color="#ff0033"><u>FREE</u></font>
+information, please click the link below.</font></b></p>
+<p align="center">
+<b><a href="http://00000000325.0000000030.00000000341.00000000122/"><font 
+face="Verdana, Arial, Helvetica, sans-serif" color="#000066" size="5">CLICK 
+HERE</font></a></b></p>
+<p align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" 
+color="#000066" size="2">You
+will receive an auto response which will provide the information necessary to
+begin reducing your debt.</font></b></p>
+<p></p>
+<p>To be removed from further mailings reply with REMOVE in the subject line.
+</p>
+</body>
+</html>
+

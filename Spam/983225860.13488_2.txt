@@ -1,0 +1,61 @@
+Return-Path: <ecosys@mail-societe.com>
+Delivered-To: snssoftw-email@snssoftware.com
+Received: (qmail 10500 invoked from network); 26 Feb 2001 21:50:51 -0000
+Received: from unknown (HELO relay01.freechal.com) (211.218.200.131)
+  by snssoftware.com with SMTP; 26 Feb 2001 21:50:51 -0000
+Received: from [200.41.39.146] (200.41.39.146) by relay01.freechal.com (NPlex 4.5.053)
+        id 3A9AAB8800000CDD; Tue, 27 Feb 2001 06:48:49 +0900
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7BIT
+Date: Mon, 26 Feb 2001 14:47:08 -0700
+Subject: ~ FREE Debt Analysis ~
+To: @socket.net
+From: ecosys@mail-societe.com
+Message-Id: <wnexumxillgdn.yppbommvcbfcexo@207.46.138.21>
+X-FREECHAL-MAIL: IMSFA-3A9AAB89
+Content-Length: 1414
+Lines: 42
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Credit Consolidation</title>
+</head>
+
+<body>
+
+<div align="center">
+  <center>
+  <table border="1" cellspacing="0" width="65%" bordercolordark="#FFFFFF" 
+bordercolorlight="#FFFFFF" cellpadding="0" bordercolor="#FFFFFF">
+    <tr>
+      <td width="50%">
+        <p align="center"><a href="http://www.geocities.
+com/ecosystem2120/index.html"><img border="0" src="http://www.geocities.
+com/ecosystem2120/logo.gif" width="377" height="95"></a></td>
+      <td width="50%">
+        <font color="#FF0000"><a href="http://www.geocities.
+com/ecosystem2120/index.html"><img border="0" src="http://www.geocities.
+com/ecosystem2120/no-loan.gif" width="86" height="86"></a></font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p align="center"><b><span style="background-color: #FFFFFF"><a 
+href="http://www.geocities.com/ecosystem2120/index.html"><font size="5" 
+color="#FF0000">No-</font></a><a href="http://www.geocities.
+com/ecosystem2120/index.html"><font size="5" 
+color="#000080">Obligation</font><font size="5" color="#FF0000">
+FREE </font><font size="5" color="#000080">Debt</font><font size="5" 
+color="#FF0000">
+Analysis</font><font size="5" color="#000080">!</font></a></span></b></p>
+
+</body>
+
+</html>
+

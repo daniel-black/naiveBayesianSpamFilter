@@ -1,0 +1,33 @@
+Return-Path: <hello@mail.tatanova.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 11854 invoked from network); 13 Aug 2001 07:30:00 -0000
+Received: from unknown (HELO hydmail.tatanova.com) (203.124.250.74)
+  by daedelus.bfsmedia.com with SMTP; 13 Aug 2001 07:30:00 -0000
+Received: (qmail 70224 invoked by uid 209); 11 Aug 2001 19:23:20 -0000
+Received: from unknown (HELO pyby.net) ([203.124.234.81]) (envelope-sender <hello@mail.tatanova.com>)
+          by 203.124.250.74 (qmail-ldap-1.03) with SMTP
+          for <bluegold@att.net>; 11 Aug 2001 19:23:20 -0000
+From: <btcbg@mantraonline.com>
+To: <timh@halcyon.com>
+Subject: ((( URGENT Recieve Your Checks Weekly ! ! )))
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary= "----=_NextPart_000_001E_4AB5822D.A290411F"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 605
+Lines: 12
+
+------=_NextPart_000_001E_4AB5822D.A290411F
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+
+VEhJUyBJUyBBIEdMT0JBTCBPUFBVUlRVTklUWSEhIQ0KDQpSRUNJRVZFIFlPVVIgQ0hFQ0tT
+IFdFRUtMWSBBTkQgQUxMIFRIRSBXRUVLUyBJTiBUSEUgWUVBUiAkICQNCg0KSVQgSVMgQVMg
+U0lNUExFIEFTIDEyMyBDTElDSyA6IGh0dHA6Ly93d3cubWxtZHluYW1pdGUubmV0LzI4OTAN
+Cg0KKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioNCnlvdSBh
+cmUgbGlzdGVkIGluIEVtYWlscyBnYWxsb3JlDQoNClVuc3Vic2NyaWJlOiAgYnRjYmdAbWFu
+dHJhb25saW5lLmNvbQ0KKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqICAgIA==
+------=_NextPart_000_001E_4AB5822D.A290411F--

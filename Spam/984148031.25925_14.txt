@@ -1,0 +1,31 @@
+Return-Path: <a852@7visits.cc>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 27435 invoked from network); 9 Mar 2001 12:35:21 -0000
+Received: from dns.nextra.cz (HELO smtp.nextra.cz) (195.70.130.1)
+  by bfsmedia.sk.ca with SMTP; 9 Mar 2001 12:35:21 -0000
+Received: from unspecified.host (mail.tsml.cz [194.149.119.242])
+	by smtp.nextra.cz (8.11.1/8.11.1) with SMTP id f29CYjh14262;
+	Fri, 9 Mar 2001 13:34:48 +0100 (CET)
+	(envelope-from a852@7visits.cc)
+Received: from 208.187.96.24 ([208.187.96.24]) by 194.149.119.242 (WinRoute Pro 4.0a) with SMTP; Fri, 9 Mar 2001 01:05:17 +0100
+Message-ID: <00002ac11a27$000014a7$00005dba@>
+To: <Undisclosed.Recipients@smtp.nextra.cz>
+From: a852@7visits.cc
+Subject: great P/E ratio 
+Date: Thu, 08 Mar 2001 19:06:41 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 358
+Lines: 7
+
+Stock just started trading on the OTCBB, symbol FADI with first trade at $0.81 now at $1.88.
+Company has less than 4 million shares issued and outstanding fully diluted. 
+Multi-billion $$$ market segment.
+Market is consolidating with major players such as Cintas (NASDAQ CTAS) buying up smaller companies.
+Do your due diligence so you don’t miss this one!
+
+

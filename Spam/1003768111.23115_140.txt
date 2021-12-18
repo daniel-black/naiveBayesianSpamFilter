@@ -1,0 +1,598 @@
+Return-Path: <sales@germatron.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 16455 invoked from network); 22 Oct 2001 10:24:33 -0000
+Received: from unused-216-37-198-154.epix.net (HELO Hubb?7) (216.37.198.154)
+  by agamemnon.bfsmedia.com with SMTP; 22 Oct 2001 10:24:33 -0000
+From: Germatron<sales@germatron.com>
+Subject: Protection From Anthrax ..
+Reply-To: sales@germation.com
+X-Mailer: Advanced Mass Sender v 3.21b (Buld-In Smtp relay v 2.5)
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="= Multipart Boundary 1022010630"
+Date: Mon, 22 Oct 2001 06:30:45 -0400
+Content-Length: 22803
+Lines: 582
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 1022010630
+Content-Type: text/html; charset="koi8-r"
+Content-Transfer-Encoding: 7bit
+
+<HTML><HEAD><TITLE>Post Message</TITLE>
+<STYLE type="text/css"><!--
+BODY {
+  margin: 5px 5px 5px 5px;
+  background-color: #FFFFFF;
+}
+/*----------Text Styles----------*/
+HR { color: #000000}
+BODY, TABLE /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  text-decoration: none;
+}
+SPAN.RVTS1 /* Normal */
+{
+  font-size: 14pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS2 /* Normal */
+{
+  font-size: 14pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS3 /* Normal */
+{
+  font-size: 14pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS4 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS5 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS6 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS7 /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #800000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS8 /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS9 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #800000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS10 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS11 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: normal;
+  color: #800000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS12 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+A.RVTS13, SPAN.RVTS13 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: normal;
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS13:hover { color: #0000FF; }
+A.RVTS14, SPAN.RVTS14 /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS14:hover { color: #0000FF; }
+A.RVTS15, SPAN.RVTS15 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS15:hover { color: #0000FF; }
+A.RVTS16, SPAN.RVTS16 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS16:hover { color: #0000FF; }
+A.RVTS17, SPAN.RVTS17 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #0000FF;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS17:hover { color: #0000FF; }
+A.RVTS18, SPAN.RVTS18 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #800080;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS18:hover { color: #0000FF; }
+A.RVTS19, SPAN.RVTS19 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #800000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS19:hover { color: #0000FF; }
+A.RVTS20, SPAN.RVTS20 /* Normal */
+{
+  font-size: 12pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: bold;
+  color: #800000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS20:hover { color: #0000FF; }
+SPAN.RVTS21 /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial Black";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS22 /* Normal */
+{
+  font-size: 8pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS23 /* Normal */
+{
+  font-size: 8pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+SPAN.RVTS24 /* Normal */
+{
+  font-size: 8pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: bold;
+  color: #800000;
+  background-color: transparent;
+  text-decoration: none;
+}
+A.RVTS25, SPAN.RVTS25 /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #800080;
+  background-color: transparent;
+  text-decoration: underline;
+}
+A.RVTS25:hover { color: #0000FF; }
+/*----------Para Styles----------*/
+P /* Left */
+{
+  text-align: left;
+  text-indent: 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+P.RVPS1  /* Centered */
+{
+  text-align: center;
+  text-indent: 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 50px 0px 50px;
+}
+P.RVPS2  /* Right */
+{
+  text-align: right;
+  text-indent: 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+P.RVPS3  /* Justify */
+{
+  text-align: justify;
+  text-indent: 30px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+P.RVPS4  /* Framed */
+{
+  text-align: center;
+  text-indent: 0px;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
+  padding: 2px 2px 2px 2px;
+  margin: -2px 18px -2px 18px;
+}
+
+--></STYLE>
+</HEAD>
+<BODY>
+<P class=RVPS1><IMG align=middle src="cid:k4hvdq9tj96crx9c9g68rq2d3___img1.jpg"></P>
+<P class=RVPS1><A class=RVTS25 href="http://www.germatron.com">www.germatron.com</A></P>
+<P class=RVPS1>&nbsp;</P>
+<P class=RVPS1><SPAN class=RVTS3>How to protect yourself?</SPAN></P>
+<P class=RVPS1><SPAN class=RVTS5>Properly used, a handheld UV-C Light source kills the agents that cause diseases, Like Anthrax.</SPAN></P>
+<P class=RVPS1>&nbsp;</P>
+<P class=RVPS1><SPAN class=RVTS6>Our solution?</SPAN></P>
+<P class=RVPS1><SPAN class=RVTS2>The Germatron.</SPAN></P>
+<P class=RVPS1>&nbsp;</P>
+<P class=RVPS1><SPAN class=RVTS11>You can get the same protection that labratories use at </SPAN><A class=RVTS15 href="http://www.germatron.com">www.germatron.com</A><SPAN class=RVTS11> .</SPAN></P>
+<P class=RVPS1><SPAN class=RVTS11>Cost effective protection for your family.</SPAN></P>
+<P class=RVPS1>&nbsp;</P>
+<P><SPAN class=RVTS21>UV "C" light causes damage to the nucleic acid of microorganisms, UV-C light prevents the DNA of many desease causing pathenogens (including anthrax) from being "unzipped" for replication, and the organism is unable to reproduce. In fact, when the organism tries to replicate, it dies.</SPAN></P>
+<P><SPAN class=RVTS4>&nbsp;</SPAN></P>
+<P class=RVPS1><A class=RVTS20 href="http://www.germatron.com">www.germatron.com</A></P>
+<P class=RVPS1><A class=RVTS20 href="http://www.germatron.com">&nbsp;</A></P>
+<P class=RVPS1><SPAN class=RVTS5>Safety first.</SPAN></P>
+<P class=RVPS1><SPAN class=RVTS24>A portion of each sale will go towards the Red Cross disaster releif fund.</SPAN></P>
+<P><SPAN class=RVTS4>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS21>Ultraviolet light is classified into three wavelength ranges: UV-C, from 100 nanometers (nm) to 280 nm; UV-B, from 280 nm to 315 nm; and UV-A, from 315 nm to 400 nm. UV-C light is "germicidal" - i.e., it deactivates the DNA of bacteria, viruses and other pathogens and thus destroys their ability to multiply and cause disease. Specifically,&nbsp by forming covalent bonds between certain adjacent bases in the DNA. The formation of such bonds prevents the DNA from being "unzipped" for replication, and the organism is unable to reproduce. In fact, when the organism tries to replicate, it dies.</SPAN></P>
+<P><SPAN class=RVTS21>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS21>UV light with a wavelength of approximately 260 nm provides the highest germicidal effectiveness. While susceptibility to UV light varies, exposure to UV energy for about 20 milliwatt-seconds/cm2 is adequate to deactivate 99 percent of the pathogens. Exposure to pathogens does not always cause disease.</SPAN></P>
+<P><SPAN class=RVTS4>&nbsp;</SPAN></P>
+<P class=RVPS1><IMG align=middle src="cid:k4hvdq9tj96crx9c9g68rq2d3___img2.jpg"></P>
+<P class=RVPS1><A class=RVTS25 href="http://www.germatron.com">www.germatron.com</A></P>
+<P class=RVPS1>&nbsp;</P>
+<P class=RVPS1>&nbsp;</P>
+</BODY></HTML>
+
+--= Multipart Boundary 1022010630
+Content-Type: image/jpeg;
+	name="___img1.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <k4hvdq9tj96crx9c9g68rq2d3___img1.jpg>
+
+/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQE
+BQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/
+2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABaARoDASIAAhEBAxEB/8QA
+HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUF
+BAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1
+dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEB
+AQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAEC
+AxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRom
+JygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU
+1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD8qqKKKACi
+iigAooooAKKULk8c1bttNeZgMcUCuU8VIsDuflUn8K6fT/D6t1XNdLY+H4kx
++7+bgYx/KqUW3ZGUqljzpNMuJPuoT+FTpoF24z5Z/KvZ9E8B6hq4zY6ZPcrn
+G6KEsM+mf6dan1Dwve6LcGC+sprOZeqTxlSPXggf5xWzozjHma07mP1hPZnj
+MfhS9k6IfyqwPBF8R0I/4DX25+zN+x1qn7RWn3t/Z6nBp9taTeVKJgQenBUg
+HP8AFx2217f8T/8AgmdD4F+F+veIrTxJLfalplq12LU24CyKgy43Z/uhu1a/
+V7L3nZ9iHibO1j8uE8CXp5LAfUU8+AbvP+sX05HP86/RX9h/9kzw58dNM1vU
+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
+
+--= Multipart Boundary 1022010630
+Content-Type: image/jpeg;
+	name="___img2.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <k4hvdq9tj96crx9c9g68rq2d3___img2.jpg>
+
+/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcH
+Bw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/
+2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4e
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCADnAFADASIAAhEBAxEB/8QA
+HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUF
+BAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1
+dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEB
+AQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAEC
+AxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRom
+JygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU
+1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDj6KKK8c6A
+ooooAKKKKACiiigAooooAKKKKACiitHQtE1LW7nyNOtmmI+83RV+pppN7CbS
+M6ivUdL+DuoTxGW+1SC3VVy7KuVQepYkAD+vFZOt+GPA+jpMbrxwrtCu59kc
+agdf78ik9PStVh5voR7WJwlFW7uCybfc6NqUGraeCP8ASbcHapIBCv8A3WwR
+x71UrKUXF2ZaaYUUUUhhRRRQAV7B8JPEOg2fhjToYEe81S9DPHZ2yBppNp5P
+oqjIG5iB2zXkAFZ/wS8SS+GvFF+WwZMiEk84QFjgegySa9HBUee9jmxErNH0
+Nf8Ahjxt48SJPEDr4X0yGUsLKORbqWc54ZiP3a/Q7x/Tf8OfCjwbpTxTHShq
+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
+
+--= Multipart Boundary 1022010630--

@@ -1,0 +1,53 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 31542 invoked from network); 28 Aug 2001 07:18:38 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by lorien.untroubled.org (192.168.1.3) with ESMTP; 28 Aug 2001 07:18:38 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S270321AbRH1HUb>; Tue, 28 Aug 2001 03:20:31 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S270319AbRH1HUV>; Tue, 28 Aug 2001 03:20:21 -0400
+Received: from 27-135-60-61.lease.isl.net.tw ([61.60.135.27]:34830 "HELO
+	weider") by vger.kernel.org with SMTP id <S270311AbRH1HUR>;
+	Tue, 28 Aug 2001 03:20:17 -0400
+Received: from iris
+	by hotmail.com with SMTP id hjrSDe8ICqgcfmrgcur8taP;
+	Tue, 28 Aug 2001 15:18:33 +0800
+Message-ID: <rVaM9dIC3qPX86b@sky.seed.net.tw>
+From:	=?ISO-8859-1?Q?=BC=D6=C4=5F?=@vger.kernel.org
+To:	400000@vger.kernel.org
+Subject: =?big5?Q?=BA=F4=B8=F4SEX=B1=A1=BD=EC=BA=EB=AB~=A9=B1?=
+X-Mailer: sifDpjlRbLotdTGjVTbu1I
+Content-Type: text/plain;
+Content-Transfer-Encoding: Quoted-Printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Date:	Tue, 28 Aug 2001 03:20:17 -0400
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1105
+
+                                                              
+=B1z=A4=A3=AF=E0=BF=F9=B9L=AA=BA~=BA=F4=B8=F4SEX=B1=A1=BD=EC=BA=EB=AB~=A9=B1~=B6W=BB=C5=B6W=ABl=B6W=C3z..=BCK=AB=A6!=BCK=AB=A6!
+ 
+ 
+                           =A5=BB=BA=F4=B8T=A4=EE=A4Q=A4K=B7=B3=A5H=A4U=B6i=A4J
+ 
+                                 http://happy.ohbi.net
+
+ ---------------------------------------------------------------------------------------------------------
+ 
+                     =A1=B4 =A5=BB=BA=F4=B6i=A4f=A6h=B0=EA=A6U=A6=A1=AA=BA=B1=A1=BD=EC=BA=EB=AB~
+                     =A1=B4 =B0=AA=AF=C5, =BD=C3=A5=CD, =A6w=A5=FE, =AB~=BD=E8=A4@=ACy
+                     =A1=B4 =BB=F9=AE=E6=C0u=B4f, =A8=C9=A8=FC=B6W=AD=C8=AA=BA=C5w=B4r!
+                     =A1=B4 =A5X=B3f=A5]=B8=CB=C1=F4=B1K, =BD=D0=A6w=A4=DF=BF=EF=C1=CA!
+ 
+                                 http://happy.ohbi.net
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

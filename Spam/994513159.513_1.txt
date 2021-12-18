@@ -1,0 +1,65 @@
+Return-Path: <prod@rector.smallworld.com>
+Spam-Apparently-To: <marco@em.ca>
+Received: (qmail 4411 invoked from network); 30 Jun 2001 07:08:20 -0000
+Received: from unknown (HELO rector.smallworld.com) (147.208.14.50)
+  by em.ca with SMTP; 30 Jun 2001 07:08:20 -0000
+Received: (from prod@localhost)
+	by rector.smallworld.com (8.9.3+Sun/8.9.1) id DAA09665
+	for marco@em.ca; Sat, 30 Jun 2001 03:00:37 -0400 (EDT)
+Date: Sat, 30 Jun 2001 03:00:37 -0400 (EDT)
+Message-Id: <200106300700.DAA09665@rector.smallworld.com>
+To: marco@em.ca
+From: "The Sporting News" <news@smallworld.com>
+Subject:  Play Midseason Fantasy Baseball
+Reply-To: "Unsubscribe marco@em.ca" <unsubs@va.smallworld.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=NextPart29059
+
+--NextPart29059
+Content-Type: text/plain
+
+===Play Midseason Fantasy Baseball===
+
+Falling behind in your fantasy baseball league? The Sporting News Midseason Fantasy Baseball (http://www.smallworld.com/baseball/midseason/fantasy/) is your chance to start from scratch. Sign up for free now, and we'll give you 50 million Sporting News Dollars to build yourself a squad that'll rip through the second half of the baseball season and maybe even win you a 32" color television! 
+
+The Sporting News Midseason Fantasy Baseball (http://www.smallworld.com/baseball/midseason/fantasy/) is a unique game model that combines the thrill and strategy of fantasy baseball with the excitement of a live player market. Think you have what it takes? Build a private league to prove to your friends that there is only one champion! 
+
+The season starts on July 12, so sign up today! It's FREE! http://www.smallworld.com/baseball/midseason/fantasy/
+
+
+
+
+If you do not want to receive future mailings from Small World, please reply to this email with "Unsubscribe marco@em.ca" in the SUBJECT line. 
+
+
+--NextPart29059
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Untitled</title>
+</head>
+
+<body bgcolor="White" marginheight="0" marginwidth="0" topmargin=0 leftmargin=0 text="Blue" 
+link="blue" vlink="blue" alink="blue"> 
+
+<table cellpadding="10" cellspacing="0" border="0"> 
+                                        <tr> 
+                                                <td width="400"> 
+                                                <!-- start game news paragraph box table --> 
+                                                <img src="http://www.smallworld.com/images/smallworld/homepage_top.gif" border="0" width="383" height="112"><br><font face="Verdana, Arial, sans-serif" size="3" color="red"><B>===Play Midseason Fantasy Baseball===</font></B><br><br> <font face="Verdana, Arial, sans-serif" size="2" color="000000">Falling behind in your fantasy baseball league?  <a href="http://www.smallworld.com/baseball/midseason/fantasy/">The Sporting News Midseason Fantasy Baseball</a> is your chance to start from scratch.  <a href="http://www.smallworld.com/baseball/midseason/fantasy/">Sign up</a> for <B>free</B> now, and we'll give you 50 million Sporting News Dollars to build yourself a squad that'll rip through the second half of the baseball season and maybe even win you a 32" color television!
+<br><br> 
+<a href="http://www.smallworld.com/baseball/midseason/fantasy/">The Sporting News Midseason Fantasy Baseball</a> is a unique game model that combines the thrill and strategy of fantasy baseball with the excitement of a live player market.  Think you have what it takes?  Build a private league to prove to your friends that there is only one champion!
+<br><br>
+The season starts on July 12, so <a href="http://www.smallworld.com/baseball/midseason/fantasy/">sign up today</a>!  It's FREE!
+<br><br><br>
+<font face="verdana" size="-2"><br><br>If you do not want to receive future mailings from Small World, please
+reply to this email with "Unsubscribe marco@em.ca" in the SUBJECT line.</font>
+ </td> 
+   </tr> 
+     </table> 
+
+</body>
+</html>

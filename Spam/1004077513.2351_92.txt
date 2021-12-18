@@ -1,0 +1,100 @@
+Return-Path: <john1013@371.net>
+Delivered-To: em-ca-info@em.ca
+Received: (qmail 2368 invoked from network); 26 Oct 2001 01:58:57 -0000
+Received: from unknown (HELO cl-04.hichina.com) (210.77.157.202)
+  by agamemnon.bfsmedia.com with SMTP; 26 Oct 2001 01:58:57 -0000
+Received: from html ([202.108.251.71])
+	by cl-04.hichina.com (8.9.3/8.9.3) with SMTP id BAA24134;
+	Wed, 8 Nov 2000 01:30:25 -0800
+Message-Id: <200011080930.BAA24134@cl-04.hichina.com>
+From: John<john1013@371.net>
+To: kiki0595@aol.com
+Subject: FREE $229 Cell Phone! Time:10:02:14
+Date: Fri, 26 Oct 2001 10:02:14
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Content-Length: 3029
+Lines: 78
+
+<html>
+
+<head>
+<title>FREE DELIVERY, FREE INTERNET, FREE VOICEMAIL AND FREE PHONE</title>
+</head>
+
+<body>
+<font SIZE="2">
+<p align="center"><img border="0" src="http://www.yourfreepcs.com/header.jpg" width="468" height="80"></p>
+<div align="center">
+  <center>
+  <table border="0" width="612" cellspacing="0" cellpadding="0">
+    <tr>
+      <td rowspan="3" width="163">
+        <p align="center"><font face="Tahoma"><img border="0" src="http://www.yourfreepcs.com/sprint1.gif" width="123" height="271"></font></td>
+          </font>
+    <td width="305">
+      <p align="center"><b><font size="3" face="Tahoma">NO CREDIT CARD REQUIRED!</font></b></td>
+<font SIZE="2">
+<td rowspan="3" width="130">
+  <p align="center"><font face="Tahoma"><img border="0" src="http://www.yourfreepcs.com/sprint2.jpg" width="100" height="257"></font></td>
+    </tr>
+          </font>
+  <tr>
+    <td width="305">
+      <table border="2" width="100%" bordercolor="#000000" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="100%" align="center"><b><font color="#FF0000" size="4" face="Tahoma">Retail
+            Price: $229<br>
+            Your Price: FREE</font></b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="305">
+      <p align="center"><b><font face="Tahoma" size="3"><font color="#0000FF">Choose from these Plans:</font><br>
+      </font><font face="Tahoma" size="2"><font color="#0000FF">$34</font> <font color="#FF0000"> for 300 Free Long Distance Nationwide</font><br>
+      <font color="#0000FF">$49</font> <font color="#FF0000"> for 500 Free Long Distance Nationwide</font><br>
+      <font color="#0000FF">$59</font>  <font color="#FF0000"> for 1500 Free Long Distance Nationwide</font><br>
+      </font><font face="Tahoma" size="3"><br>
+      FREE SHIPPING, FREE INTERNET &amp; ACTIVATION</font></b></td>
+  </tr>
+  <tr>
+    <td width="163">
+      <p align="center"><b><font size="3" color="#FF0000" face="Tahoma">Sanyo
+      4700</font></b></td>
+<font SIZE="2">
+<td width="305"></td>
+          </font>
+    <td width="130">
+      <p align="center"><b><font size="3" color="#FF0000" face="Tahoma">Samsung
+      8500</font></b></td>
+  </tr>
+<font SIZE="2">
+<tr>
+  <td width="163">
+    <p align="center"><font face="Tahoma"><img border="0" src="http://www.yourfreepcs.com/bd21298_.gif" width="102" height="13"></font></td>
+  <td width="305">
+    <table border="2" width="100%" bordercolor="#FF0000" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="100%">
+          <p align="center"><b><font face="Tahoma"><a href="http://www.omegapage.com/yourfreepcs/sprintform.htm" target="_self" style="font-family: Tahoma; font-size: 12pt; color: #000000">CLICK
+          HERE TO GET<br>
+          YOUR FREE PHONE</a></font></b></td>
+      </tr>
+    </table>
+  </td>
+  <td width="130">
+    <p align="center"><font face="Tahoma"><img border="0" src="http://www.yourfreepcs.com/AAROW.gif" width="102" height="13"></font></td>
+</tr>
+  </table>
+  </center>
+</div>
+          </font>
+</body>
+
+</html>

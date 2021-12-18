@@ -1,0 +1,139 @@
+Return-Path: <709906000@excite.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 13031 invoked from network); 16 Jul 2001 17:41:45 -0000
+Received: from mail.questerit.com (HELO tristan.questerit.com) (216.81.227.163)
+  by daedelus.bfsmedia.com with SMTP; 16 Jul 2001 17:41:45 -0000
+Received: from html ([204.71.143.222]) by tristan.questerit.com with Microsoft SMTPSVC(5.0.2195.2966);
+	 Mon, 16 Jul 2001 12:31:05 -0500
+From: Member Services<709906000@excite.com>
+To: a_torr@hotmail.com
+Subject: FREE Internet-Ready Cell Phone
+Date: Mon, 16 Jul 2001 13:30:08
+Mime-Version: 1.0
+Content-Type: text/html; charset="DEFAULT_CHARSET"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+Return-Path: 709906000@excite.com
+Message-ID: <TRISTANsdEmM3sw8Acg0000206b@tristan.questerit.com>
+X-OriginalArrivalTime: 16 Jul 2001 17:31:06.0032 (UTC) FILETIME=[17DD8B00:01C10E1D]
+Content-Length: 4396
+Lines: 116
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Free Internet Ready Cell Phone!</title>
+<style>
+<!--
+-->
+</style>
+<SCRIPT>
+<!--
+function validate()
+{
+if (document.getEmail.Email.value=="")
+{
+ alert ("Please Enter a Valid Email Address!")
+ return false
+}
+else
+{
+ alert ("Thank you! Click OK to continue.")
+ return true
+}
+
+}
+
+function remove()
+{
+if (document.getUnsub.Email.value=="")
+{
+ alert ("Please Enter a Valid Email Address!")
+ return false
+}
+else
+{
+ alert ("Thank you! Click OK to continue.")
+ return true
+}
+
+}
+</script>
+
+</head>
+
+<body>
+<p align="center"><img border="0" src="http://www.1chn.com/don0711/images/header.jpg" width="468" height="80"></p>
+
+<div align="center">
+  <center><table border="0" width="100%" cellspacing="0" cellpadding="2">
+    <tr>
+      <td width="30%" align="center" valign="top"><img border="0" src="http://www.1chn.com/don0711/images/sch3500.jpg" width="145" height="300">
+        <p><img border="0" src="http://www.1chn.com/don0711/images/free.jpg" width="170" height="100"></p>
+      </td>
+    </center>
+      <td width="40%" align="center" valign="top">
+        <p align="left"><font face="Arial" size="5" color="#FF0000">Enter
+        your Email Address to receive your FREE phone!*</font>
+        <ul>
+          <li>
+            <p align="left"><font face="Arial" size="2" color="#336699">FREE PHONE ($149.00 Store Value)</font></li>
+          <li>
+            <p align="left"><font face="Arial" size="2" color="#336699">Not
+            Available in any stores!</font></li>
+          <li>
+            <p align="left"><font face="Arial" size="2" color="#336699">Lightweight, Durable, Sporty and fun&nbsp;</font></li>
+          <li>
+            <p align="left"><font face="Arial" size="2" color="#336699">Pure Digital Network&nbsp;</font></li>
+          <li>
+            <p align="left"><font face="Arial" size="2" color="#336699">Limited Supply Call Now!</li></ul>
+          <p align="left">
+            Almost everyone nowadays has a cellular phone, and if you don't have one, then here's
+            the perfect chance to receive a FREE cell phone of your own. Even if you already own a cell phone
+            you should not pass up this extraordinary offer for a friend or family member.
+            Now here's your chance to receive a great offer (A FREE cell phone with FREE activation and delivery)
+            that includes top quality PCS Wireless Services.</font></p>
+        
+  <center>
+        <form method="POST" name="getEmail" onSubmit="return validate()" action="http://www.1chn.com/don0711/cgi-bin/email.cgi">
+          <p><font color="#FF0000" face="Arial"><b><font size="2" face="Arial" color="#FF0000">Email:
+          </font></b> <input type="text" name="Email" size="30"></font><font face="Arial Narrow"><br>
+          <input type="submit" value="Submit" name="B1">
+          <br>
+          </font>
+          </p>
+        </form>
+        </center>
+        </td>
+      <td width="30%" align="center" valign="top"><img border="0" src="http://www.1chn.com/don0711/images/scp4500.jpg" width="145" height="300">
+        <p><img border="0" src="http://www.1chn.com/don0711/images/free.jpg" width="170" height="100"></p>
+    </td>
+    </tr>
+    <tr>
+      <td width="30%" align="center" valign="top">
+        <p><img border="0" src="http://www.1chn.com/don0711/images/globe1.gif" width="152" height="88"></td>
+      <td width="40%" align="center" valign="top"><font color="#FF0000" face="Arial"><b>*OFFER
+        ONLY AVAILABLE TO CUSTOMERS IN U.S.A.</b></font>
+        <form method="POST" name="getUnsub" onSubmit="return remove()" action="http://www.1chn.com/don0711/cgi-bin/remove.cgi">
+          <p><b><font size="2" face="Arial" color="#FF0000">Remove</font></b><font color="#FF0000" face="Arial"><b><font size="2" face="Arial" color="#FF0000">:
+          </font></b> <input type="text" name="Email" size="30"></font><font face="Arial Narrow"><br>
+          <input type="submit" value="Submit" name="B2">
+          </font>
+          </p>
+        </form>
+      </td>
+      <td width="30%" align="center" valign="top">
+        <p><img border="0" src="http://www.1chn.com/don0711/images/globe2.gif" width="150" height="88"></td>
+    </tr>
+  </table>
+</div>
+
+
+</body>
+
+</html>

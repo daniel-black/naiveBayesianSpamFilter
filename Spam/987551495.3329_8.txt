@@ -1,0 +1,75 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 2883 invoked from network); 17 Apr 2001 23:07:51 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bruce-guenter.dyndns.org with SMTP; 17 Apr 2001 23:07:51 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S132731AbRDQXFh>; Tue, 17 Apr 2001 19:05:37 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S132740AbRDQXFb>; Tue, 17 Apr 2001 19:05:31 -0400
+Received: from [195.161.132.176] ([195.161.132.176]:34061 "HELO emax.ru")
+	by vger.kernel.org with SMTP id <S132731AbRDQXFH>;
+	Tue, 17 Apr 2001 19:05:07 -0400
+Message-ID: <005101c0c792$9031a860$ac84a1c3@777>
+From:	"LSL" <lsl@emax.ru>
+To:	linux-kernel@vger.kernel.org
+Subject: =?ISO-8859-1?Q?=EB=D2=C5=C4=C9=D4=D9.?= =?ISO-8859-1?Q?=E9=CE=D7=C5=D3=D4=C9=C3=C9=C9.?= =?ISO-8859-1?Q?=EC=C9=DA=C9=CE=C7.?= =?ISO-8859-1?Q?=E2=C5=DA=DA=C1=CC=CF=C7=CF=D7=D9=C5?= =?ISO-8859-1?Q?=C9?= =?ISO-8859-1?Q?=D3=D2=CF=DE=CE=D9=C5?= =?ISO-8859-1?Q?=D7=C1=D2=C9=C1=CE=D4=D9.?= =?ISO-8859-1?Q?=EE=C5?= =?ISO-8859-1?Q?=D3=D0=C1=CD.?= =?ISO-8859-1?Q?=F0=CF=D7=D4=CF=D2=CF=D7?= =?ISO-8859-1?Q?=CE=C5?= =?ISO-8859-1?Q?=C2=D5=C4=C5=D4.?= 
+Date:	Wed, 18 Apr 2001 03:02:53 +0400
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 980
+
+Уважаемые господа.
+
+Предлагаем  помощь в получении различных форм и видов финансирования. В том
+числе беззалоговые и срочные варианты.
+
+Сумма финансирования может быть любой кратной 50 000 у.е.
+
+Процентные ставки:
+- обычные варианты - от 2%;
+- беззалоговые(безгарантийные) варианты - от 5%;
+- срочные варианты - от 7,5%;
+
+Сроки подготовки и оформления:
+- обычные варианты - от 180 дней;
+- беззалоговые варианты - от 180 дней;
+- срочные варианты - от 7 рабочих дней.
+
+Прочие условия - договорные.
+
+Убедительная просьба присылать только конкретные запросы.
+Только при получении требуемой информации мы сможем предложить конкретные
+варианты.
+
+АО "LSL"
+Леонид Воронов,
+113054, Москва, Стремянный пер., 36,
+е-м: lsl@emax.ru
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

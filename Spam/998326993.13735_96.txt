@@ -1,0 +1,276 @@
+Return-Path: <owner-SYTEBUILDER1*lorena**EM*-CA@LISTSERV.SYTEBUILDER.COM>
+Delivered-To: em-ca-lorena@EM.CA
+Received: (qmail 4618 invoked from network); 17 Aug 2001 21:21:43 -0000
+Received: from ns.networld.com (HELO LISTSERV.SYTEBUILDER.COM) (207.247.12.36)
+  by em.ca with SMTP; 17 Aug 2001 21:21:43 -0000
+Received: from incoming (207.247.12.36:1417) by LISTSERV.SYTEBUILDER.COM (LSMTP for Windows NT v1.1b) with SMTP id <8.000031F3@LISTSERV.SYTEBUILDER.COM>; Fri, 17 Aug 2001 14:09:01 -0600
+Date:         Fri, 17 Aug 2001 12:49:18 -0600
+From:         Sytebuilder List Manager <listmanager@SYTEBUILDER.COM>
+Subject:      Important - Sytebuilder Announcement
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=ISO-8859-1
+To:           lorena@EM.CA
+Content-Length: 8984
+Lines: 260
+
+<html>
+<head>
+<title>Networld.com - Sytebuilder.com</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-1=
+">
+</head>
+<body bgcolor=3D#ffffff>
+
+<table width=3D650 border=3D0 cellpadding=3D0 cellspacing=3D0 align=3D"cente=
+r">
+ <tr>
+  <td>
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/spacer.gif" width=3D"142"
+height=3D"1"></td>
+  <td>
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/spacer.gif" width=3D"508"
+height=3D"1"></td>
+ </tr>
+ <tr>
+  <td colspan=3D"2">
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/masthead.gif" width=3D650
+height=3D67 border=3D0 usemap=3D"#masthead_Map"></td>
+ </tr>
+ <tr valign=3D"top">
+  <td width=3D"142">
+<!----------
+NAVIGATION COLUMN
+----------->
+<table width=3D"145" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+ <tr>
+  <td>
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/left_top.gif" width=3D"142=
+"
+height=3D"9"></td>
+ </tr>
+ <tr valign=3D"top">
+  <td
+background=3D"http://www.sytebuilder.com/newswire/images/left_background.gif=
+">
+   <table border=3D"0" cellpadding=3D"4" background=3D""
+width=3D"100%" height=3D"100%">
+    <tr>
+     <td align=3D"left" valign=3D"top">
+                        <img
+src=3D"http://www.sytebuilder.com/newswire/images/Freeservices.gif"><BR>
+       <font color=3D"red">
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.sytebuilder.com/signup_freesyte.sb" target=3D"new"><font
+face=3D"Verdana" color=3D"navy" size=3D"-2">Family Website</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/classifieds" target=3D"new"><font
+face=3D"Verdana" color=3D"navy" size=3D"-2">Classified Ads</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://finance.networld.com/" target=3D"new"><font face=3D"Verdana"
+color=3D"navy" size=3D"-2">Finance</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/login.cfm" target=3D"new"><font face=3D"Verd=
+ana"
+color=3D"navy" size=3D"-2">Free E-mail</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://horoscopes.networld.com/" target=3D"new"><font face=3D"Verdan=
+a"
+color=3D"navy" size=3D"-2">Horoscopes</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://news.networld.com/" target=3D"new"><font face=3D"Verdana"
+color=3D"navy" size=3D"-2">News Groups</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://software.networld.com/" target=3D"new"><font face=3D"Verdana"=
+
+color=3D"navy" size=3D"-2">Software</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networlduniversity.com/" target=3D"new"><font face=3D"Ver=
+dana"
+color=3D"navy" size=3D"-2">University</font></a>
+                            </font><BR><br>
+                        <img
+src=3D"http://www.sytebuilder.com/newswire/images/Businessservices.gif">
+           <font color=3D"red">
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.sytebuilder.com/signup_business.sb" target=3D"new"><font
+face=3D"Verdana" color=3D"navy" size=3D"-2">Sytebuilder</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/business/" target=3D"new"><font face=3D"Verd=
+ana"
+color=3D"navy" size=3D"-2">Domain Registration</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/corp/advertising/" target=3D"new"><font
+face=3D"Verdana, Arial" color=3D"navy" size=3D"-2">Advertising</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/ecommerce.cfm" target=3D"new"><font
+face=3D"Verdana" color=3D"navy" size=3D"-2">Biz 2 Biz</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/colocation.cfm" target=3D"new"><font=
+
+face=3D"Verdana" color=3D"navy" size=3D"-2">Co-Location</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/" target=3D"new"><font face=3D"Verda=
+na"
+color=3D"navy" size=3D"-2">Web Hosting</font></a>
+       <li><a
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://wireless.networld.com/" target=3D"new"><font face=3D"Verdana"=
+
+color=3D"navy" size=3D"-2">Wireless</font></a>
+                            </font></LI>
+     </td>
+    </tr>
+   </table>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/left_bottom.gif"
+width=3D"142" height=3D"18"></td>
+ </tr>
+</table>
+<!----------
+/ NAVIGATION COLUMN
+----------->
+  </td>
+  <td width=3D"508">
+<!----------
+CONTENT COLUMN
+----------->
+<table width=3D"508" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+ <tr>
+  <td>
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/main_top.gif" width=3D"508=
+"
+height=3D"9"></td>
+ </tr>
+ <tr>
+  <td align=3D"left">
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/new_sytebuilder.gif"
+width=3D"193" height=3D"30"></td>
+ </tr>
+ <tr valign=3D"top">
+  <td align=3D"left">
+          <a href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.sytebuilder.com"><img
+src=3D"http://www.sytebuilder.com/newswire/images/sytebuilder.gif"
+border=3D"0"></a><br><hr color=3D"5C5C85">
+  </td>
+ </tr>
+ <tr valign=3D"top">
+  <td align=3D"left">
+          <a href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.bluemooncandleco.com"><img
+src=3D"http://www.sytebuilder.com/newswire/images/bluemoon.gif"
+border=3D"0"></a><Br><hr color=3D"5C5C85">
+  </td>
+ </tr>
+ <tr valign=3D"top">
+  <td align=3D"left">
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/new_thismonth.gif"
+width=3D"193" height=3D"32"></td>
+ </tr>
+ <tr valign=3D"top">
+  <td align=3D"left">
+          <a href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.weedqueen.com"><img
+src=3D"http://www.sytebuilder.com/newswire/images/weedqueen.gif"
+border=3D"0"></a><Br><hr color=3D"5C5C85">
+  </td>
+ </tr>
+ <tr valign=3D"top">
+  <td align=3D"left">
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/new_thismonth.gif"
+width=3D"193" height=3D"32"></td>
+ </tr>
+ <tr valign=3D"top">
+  <td align=3D"left">
+          <a href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.proeargear.com"><img
+src=3D"http://www.sytebuilder.com/newswire/images/proeargear.gif"
+border=3D"0"></a><Br><br>
+ </tr>
+</table>
+<!----------
+/ CONTENT COLUMN
+----------->
+  </td>
+ </tr>
+    <Tr><Td colspan=3D"2"><font face=3D"Verdana, Arial" size=3D"-2">
+ This email has been sent in compliance with <a
+href=3D"http://www.sytebuilder.com/newswire/HR1910.pdf">Bill H. R. 1910 - "E=
+-
+Mail User Protection Act"</a> passed by the 106th US Congress this letter
+is not considered spam as long as the sender includes contact information
+and a method of removal. <a href=3D"http://www.sytebuilder.com/unsubscribe.s=
+b?
+mail=3Dlorena@EM.CA">Click Here</a> to be removed from all future newsletters. We
+apologize for any inconveniences.</font></td></tr>
+ <tr>
+  <td colspan=3D"2">
+   <img
+src=3D"http://www.sytebuilder.com/newswire/images/footer.gif" width=3D"650"
+height=3D"28" border=3D"0" usemap=3D"#footer_Map"></td>
+ </tr>
+</table>
+
+<map name=3D"masthead_Map">
+<area shape=3D"rect" alt=3D"Home" coords=3D"464,29,592,45"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/">
+<area shape=3D"rect" alt=3D"Home" coords=3D"0,3,241,47"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/">
+<area shape=3D"rect" alt=3D"Secure, Power Redundant Co-location"
+coords=3D"521,5,592,19" href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/colocation.cfm">
+<area shape=3D"rect" alt=3D"Hosting" coords=3D"419,4,514,20"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/">
+<area shape=3D"rect" alt=3D"FAST Wireless Access" coords=3D"295,5,407,19"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://wireless.networld.com/">
+</map>
+<map name=3D"footer_Map">
+<area shape=3D"rect" alt=3D"Home" coords=3D"508,10,638,29"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/">
+<area shape=3D"rect" alt=3D"" coords=3D"3,3,36,29"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/">
+<area shape=3D"rect" alt=3D"Co-Location" coords=3D"365,7,461,25"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/colocation.cfm">
+<area shape=3D"rect" alt=3D"Web Hosting" coords=3D"222,8,350,25"
+href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://www.networld.com/hosting/">
+<area shape=3D"rect" alt=3D"Tired of web surfing from the wading pool?"
+coords=3D"50,9,204,26" href=3D"http://www.sytebuilder.com/redirect.sb?
+redir=3Dhttp://wireless.networld.com/">
+</map>
+</body>
+</html>

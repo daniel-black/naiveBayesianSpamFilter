@@ -1,0 +1,162 @@
+Return-Path: <achaney683@icytundra.com>
+Delivered-To: bfsmedia-sales@bfsmedia.com
+Received: (qmail 14089 invoked from network); 22 Jun 2001 10:48:15 -0000
+Received: from unknown (HELO dns.acu.org.tw) (210.64.141.10)
+  by bfsmedia.sk.ca with SMTP; 22 Jun 2001 10:48:15 -0000
+Received: from [4.54.215.253] by dns.acu.org.tw (Post.Office MTA v3.5.3
+          release 223 ID# 619-63627U100L2S100V35) with SMTP id tw;
+          Fri, 22 Jun 2001 01:11:07 +0800
+Received: from mail4.icytundra.com by gw04 with ESMTP; Thu, 21 Jun 2001 11:56:14 -0400
+Message-ID: <00006f22210c$00001cd1$0000686f@mail4.icytundra.com>
+To: <schr@neenahprinting.com>
+Cc: <holly@bfsr.com>,
+	<health@matrixinet.com>,
+	<tim.molnar@bfsmedia.com>,
+	<olsoncharle@delphi.com>,
+	<schrab@neenahprinting.com>,
+	<wendell@wendell-pam.com>,
+	<stevemat@delphi.com>,
+	<gn@bfsmedia.com>,
+	<accounting@bfsmedia.com>,
+	<scott@wendelltextiles.com>,
+	<sadoyama@delphi.com>,
+	<isabelle@bfsr.com>,
+	<raven@bfsr.com>,
+	<wendi@wendi.com>,
+	<csnyder@wendell.com>,
+	<schourp@neenahprinting.com>,
+	<design@bfsmedia.com>,
+	<rivero@wendelin.com>,
+	<olson_lanma@delphi.com>,
+	<xrlhpk@bfsqtctn.com>,
+	<skibum@matrixinet.com>,
+	<jneel@delphi.com>,
+	<language@wendell.com>,
+	<joan@bfsr.com>,
+	<schradef@neenahprinting.com>,
+	<schraden@neenahprinting.com>,
+	<schouten@neenahprinting.com>,
+	<kdiplock@bfsprint.com>,
+	<schrader@neenahprinting.com>,
+	<schraag@neenahprinting.com>,
+	<olson_lanman@delphi.com>,
+	<dyverge@delphi.com>,
+	<a.kristensen@wendia.com>,
+	<schou@neenahprinting.com>,
+	<pfallon@bfsprinters.com>,
+	<lea@matrixinet.com>,
+	<raymo@delphi.com>,
+	<olson@delphi.com>,
+	<training@bfsmedia.com>,
+	<molnar@bfsmedia.com>,
+	<cvndv@bfsplvq.com>,
+	<hill403@delphi.com>,
+	<j.svendsen@wendia.com>,
+	<mdoh@bfsqtb.com>,
+	<shotgun@matrixinet.com>,
+	<cwillis@wendfab.com>,
+	<msuggitt@bfsmedia.com>,
+	<timolnar@bfsmedia.com>,
+	<dyver@delphi.com>,
+	<olson562@delphi.com>,
+	<popsicle@wendellhjaguarh.net>,
+	<jneely@delphi.com>,
+	<slick@matrixinet.com>,
+	<wendy@wenders.com>,
+	<raymon@delphi.com>,
+	<snark@wendigo.castle.riga.lv>,
+	<ism@matrixinet.com>,
+	<schrage@neenahprinting.com>,
+	<jneblues@delphi.com>,
+	<msmit@wendfall.com>,
+	<goose.kennels@bfsmedia.com>,
+	<schow@neenahprinting.com>,
+	<jnebeker@delphi.com>,
+	<schpider@neenahprinting.com>,
+	<stevemath@delphi.com>,
+	<sadoyle@delphi.com>,
+	<wendell@wendellcraig.com>,
+	<sales@bfsmedia.com>,
+	<nancy@bfsr.com>,
+	<schow2@neenahprinting.com>,
+	<henrik@matrixinet.com>,
+	<fdld@bfsnp.net>,
+	<astoll@wendellmotors.com>,
+	<hill4865@delphi.com>,
+	<bvjfw@bfsmwn.com>,
+	<dyvars@delphi.com>,
+	<jnedder@delphi.com>,
+	<jneedles@delphi.com>,
+	<silver@matrixinet.com>,
+	<schp@neenahprinting.com>,
+	<amyb@wendellcastle.com>,
+	<a.m.dattellis@delphi.com>,
+	<craig@bfsnz.co.nz>,
+	<ken@wendigo.com>,
+	<hill8204@delphi.com>,
+	<dreammagic@wendell-pam.com>,
+	<simpson@matrixinet.com>,
+	<schram@neenahprinting.com>,
+	<info@bfsmedia.com>,
+	<wknecht@wendell.com>,
+	<wendell@wendellrivera.com>,
+	<buddym@wendelin.com>,
+	<msmith@wendfall.com>,
+	<gifts@wendell.com>,
+	<wend@wenders.com>,
+	<wendellc@wendellcenter.com>,
+	<raymond101@delphi.com>,
+	<kat@bfsr.com>
+From: achaney683@icytundra.com
+Subject: Boost Your Windows Reliability!!!!                         26735
+Date: Thu, 21 Jun 2001 11:56:08 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: matt4498@runbox.com
+Content-Length: 1070
+Lines: 40
+
+<html>
+<body>
+
+<p>Dear Windows User,<br>
+<br>
+Now you can boost the reliability of ordinary Windows 95, 98 and ME to nea=
+rly
+the level of Windows NT or 2000, Microsoft's professional and industrial v=
+ersion
+of Windows.<br>
+<br>
+The new WinFix is a very effective way to improve the reliability of Windo=
+ws,
+because it makes Windows fault-tolerant and self-repairing.<br>
+<br>
+And WinFix is very safe, because it operates completely independent of Win=
+dows.<br>
+<br>
+<u><font color=3D"#0000ff"><a href=3D"http://pooh.gryeengoddess.net/">CLIC=
+K HERE</a></font></u> to find out more about WinFix, the safest, most effe=
+ctive way to keep you working, by keeping your PC working non-stop.<br>
+<br>
+Arlen Dixon, CEO<br>
+Pinewood Software Marketing<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+This announcement is intended for PC users who asked to be kept<br>
+informed about new developments in Windows technology.<br>
+</p>
+<p>To be removed from future mailings, please reply with REMOVE in the sub=
+ject
+line.<br>
+</p>
+
+</body>
+</html>
+
+
+

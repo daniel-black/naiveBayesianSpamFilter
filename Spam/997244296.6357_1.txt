@@ -1,0 +1,51 @@
+Return-Path: <dell@switchgrass.net>
+Spam-Apparently-To: <blueg@bfsmedia.com>
+Received: (qmail 26802 invoked by uid 502); 8 Aug 2001 04:18:26 -0000
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 26798 invoked from network); 8 Aug 2001 04:18:25 -0000
+Received: from unknown (HELO ns1.switchgrass.net) (168.143.160.77)
+  by daedelus.bfsmedia.com with SMTP; 8 Aug 2001 04:18:25 -0000
+Date: Wed, 8 Aug 2001 00:23:45 -0400
+Message-Id: <200108080423.AAA28815@ns1.switchgrass.net>
+To: "dell@switchgrass.net" <dell@switchgrass.net>
+From: "dell@switchgrass.net" <dell@switchgrass.net>
+Subject: Re:  Change Your Life In 10 Minutes!!
+Errors-To: "dell@switchgrass.net" <dell@switchgrass.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="==__SENDMAIL__K9yZXQtgaRvSAzc6oOwAHO97l__=="
+
+--==__SENDMAIL__K9yZXQtgaRvSAzc6oOwAHO97l__==
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: base64
+
+ICAgIA==
+
+
+--==__SENDMAIL__K9yZXQtgaRvSAzc6oOwAHO97l__==
+Content-Type: text/html; name="507.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="507.html"
+
+PGh0bWw+DQoNCjxoZWFkPg0KPHRpdGxlPkZSRUUgQWlyPC90aXRsZT4NCjxzY3JpcHQgbGFuZ3Vh
+Z2U9IkphdmFTY3JpcHQiPg0KDQogPCEtLQ0KLy8gTm8gcmlnaHRjbGljayBzY3JpcHQgdi4yLjUN
+Ci8vIChjKSAxOTk4IGJhcnRzMTAwMA0KLy8gYmFydHMxMDAwQGFvbC5jb20NCi8vIERvbid0IGRl
+bGV0ZSB0aGlzIGhlYWRlciENCg0KdmFyIG1lc3NhZ2U9IlNvcnJ5LCB0aGF0IGZ1bmN0aW9uIGlz
+IGRpc2FibGVkLlxuVGhpcyBQYWdlIENvcHlyaWdodGVkIGFuZFxuSW1hZ2VzIGFuZCBUZXh0IHBy
+b3RlY3RlZCFcbkFMTCBSSUdIVFMgUkVTRVJWRUQiOyANCg0KLy8gRG9uJ3QgZWRpdCBiZWxvdyEN
+Cg0KZnVuY3Rpb24gY2xpY2soZSkgew0KaWYgKGRvY3VtZW50LmFsbCkgew0KaWYgKGV2ZW50LmJ1
+dHRvbiA9PSAyKSB7DQphbGVydChtZXNzYWdlKTsNCnJldHVybiBmYWxzZTsNCn0NCn0NCmlmIChk
+b2N1bWVudC5sYXllcnMpIHsNCmlmIChlLndoaWNoID09IDMpIHsNCmFsZXJ0KG1lc3NhZ2UpOw0K
+cmV0dXJuIGZhbHNlOw0KfQ0KfQ0KfQ0KaWYgKGRvY3VtZW50LmxheWVycykgew0KZG9jdW1lbnQu
+Y2FwdHVyZUV2ZW50cyhFdmVudC5NT1VTRURPV04pOw0KfQ0KZG9jdW1lbnQub25tb3VzZWRvd249
+Y2xpY2s7DQovLyAtLT4gDQoNCjwvc2NyaXB0Pg0KPC9oZWFkPg0KPGJvZHkgYmdjb2xvcj0iI0ZG
+Q0M5OSI+DQo8Yj48Zm9udCBmYWNlPSJhcmlhbCIgc2l6ZT00PjxQIEFMSUdOPSJDRU5URVIiPg0K
+MiBGUkVFIEFJUkxJTkUgVElDS0VUUzxCUj4NCkpVU1QgRk9SIFZJU0lUSU5HIE9VUiBXRUJTSVRF
+PFAgQUxJR049IkNFTlRFUiI+DQo8YSBocmVmPSJodHRwOi8vd3d3LmF2aXJ0dWFsaG9zdGluZy5j
+b20vMTAwMC9mbHlmcmVlLzUwN1BSLmh0bWwiPg0KQ0xBSU0gWU9VUiBUSUNLRVRTIE5PVzwvYT4N
+CjxQIEFMSUdOPSJDRU5URVIiPg0KDQpJVCdTIFRIQVQgU0lNUExFITxCUj4NCkVOSk9ZIFlPVVIg
+RkxJR0hUPC9QPjwvRk9OVD48L0I+DQoNCjxGT05UIEZBQ0U9IkFSSUFMIiBTSVpFPTE+PFA+DQo8
+YSBIUkVGPSJtYWlsdG86bWFyeUBzd2l0Y2hncmFzcy5uZXQ/c3ViamVjdD1SRU1PVkUiPg0KUkVN
+T1ZFPC9hPjwvUD4NCg0KPC9CT0RZPg0KPC9IVE1MPg0KDQo=
+
+--==__SENDMAIL__K9yZXQtgaRvSAzc6oOwAHO97l__==--
+

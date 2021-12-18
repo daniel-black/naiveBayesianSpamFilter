@@ -1,0 +1,343 @@
+Return-Path: <NShah@paranz.com>
+Spam-Apparently-To: <hr@clevengerassoc.com>
+Received: (qmail 23267 invoked from network); 2 Aug 2001 17:51:14 -0000
+Received: from athm-216-217-xxx-189.home.net (HELO smtp9) (216.217.85.189)
+  by clevengerassoc.com with SMTP; 2 Aug 2001 17:51:14 -0000
+Received: from mail2clevengerassoc ([216.217.85.189]) by smtp9 with Microsoft SMTPSVC(5.0.2195.2966);
+	 Thu, 2 Aug 2001 13:59:58 -0400
+Date: Thu, 02 Aug 2001 13:59:58 Eastern Daylight Time
+From: NShah@paranz.com
+To: hr@clevengerassoc.com
+Subject: Paranz Hotlist(UDB DB2 DBA, Oracle Financials, Vignette, Oracle DBA, BroadVision, Unix Admin etc.,)
+X-Mailer: Flicks Softwares OCXMail 2.2f
+Content-Type: text/plain; charset="us-ascii"
+Return-Path: NShah@paranz.com
+Message-ID: <SMTP9cMsGMhC18liatz0000a988@smtp9>
+X-OriginalArrivalTime: 02 Aug 2001 17:59:58.0640 (UTC) FILETIME=[F19A4B00:01C11B7C]
+
+Dear HR Manager,
+
+Greetings from Nshah@PARANZ.com,
+
+Paranz is a global B2B Services Provider .We create worldwide markets,allowing anyone to buy from anyone, anytime, anywhere in the world. With more than 400 experienced internet consulting and technology specialists, We help our clients achieve rapid break-troughs into the B2B Economy and beyond.
+
+Our consultants have proved their excellences in their projects and marked their performance by working towards meeting their Clients Needs & Goals. Let me present you the List of our Excellent consultants currently available.
+
+
+1) Sunny E  --- VIGNETTE CERTIFIED (only for NY/NJ)  15 YEARS EXPERIENCE
+*  Certification	: Vignette certified  System Administrator, Architect 
+*  Web Languages	: Java, JSP, TCL, JAVASCRIPT, HTML and some ASP
+*  eBusiness Platform	: Vignette V/5 (rel 5.5, 5.6.2)
+*  Webservers 		: IIS, Netscape, Apache
+*  Web App servers 	: Tomcat, WebLogic, WebSphere
+*  Web Platforms	: Windows NT, Solaris 
+*  Web Database		: MS SQL Server, Oracle, Sybase,IMS DB/DC,  DB2
+*  Mainframe databases	: MS DB/DC,  DB2, VSAM
+*  Utility Packages	: MS Word, MS PowerPoint, MS FrontPage, Adobe Photoshop
+*  Mainframe Languages	: COBOL II , PL/1, FORTRAN, C, C++,LIBRARIAN
+*  Mainframe Utilities	: TSO/SPF, CLIST, REXX, SYNCSORT, FILEAid, OS/JCL,XPEDITER
+*  Mainframe apps:     	: MARK IV, EASYTRIEVE
+
+
+
+2) Visu Gowni  --- 3.5 YEARS EXPERIENCE   (DB2 UDB)
+Operating Systems	: MVS/ESA, OS/390, AIX, SUN SOLARIS 8 and WINDOWS NT/2000.
+Hardware/Servers	: IBM ES/9000, IBM 3090, NT and Solaris.
+Languages		: VS COBOL II, OS/VS COBOL, JAVA, C, C++, JCL, EASY TRIEVE, CLIST, REXX and SQL.
+OLTPs			: CICS, ADS/o
+RDBMSs			: DB2-UDB, DB2-OS/390, SYBASE and ORACLE
+Tools and Utilities	: ERWIN, QMF, XPEDITER, HYPERSTATION, PLAY BACK, ENDEVOR, SPUFI, INFO/MAN, CHANGEMAN, 
+			  MQ SERIES, IBM Websphere, Trilogy and INTERTEST
+
+
+3) Nagappan U  --- 4 YEARS EXPERIENCE  (Oracle)
+Oracle 8i DBA, Oracle11i implementations, Oracle Enterprise Manager2.2, Oracle Forms & Reports, JDBC, Servlets, Sybase SQL Anywhere, Apache server, Windows NT and UNIX (Irix, Solaris), Shell scripts, HTML (hand code), XML, JavaScript, DHTML, CSS, shell scripts, PhotoShop, Dreamweaver, Homesite, Flash, Fireworks, and FORTRAN.
+
+
+
+4) Deepak G ---  Web methods certified Enterprise Server developer  (1 year experience)
+Operating System : Unix (Sun OS), Linux, MsDos, Windows NT/95
+Languages 	 : C,  C++, Java , Smalltalk, dlx, charm++, MPI, Java Script, Servlets, PNUTS,TCL
+Middleware 	 : CORBA, Web-methods Enterprise Server
+Packages 	 : DataSweep Advantage(For Implementing  Manufacturing Execution System)
+
+
+
+5) Srinivas V  --- Vignette   (1.5 years experience)
+Web Development
+Vignette Story Server 4.2/5.0, Netscape Enterprise Server 3.62, TCL 7.2/8.2, ASP 2.0, IIS 4.0, MTS 2.0, JavaScript, VBScript, C, Java , JSP, XML, HTML 4.0, DHTML, Visual InterDev 6.0, FRONT PAGE, Dream weaver Development Tools & Technologies Visual Basic 6.0/5.0, Photoshop Acrobat.
+Databases : SQL Server 6.5/7.0, Oracle 7.3, MS Access 97, FoxPro
+Operating Systems : Windows NT 4.0, Windows 98/95/3.1, Unix, Sun Solaris, MSDOS
+Languages : C, Java, PL/SQL, SQL, Pascal, Fortran 
+
+
+6) Sudip G    ---  Oracle DBA  (1 year experience)
+Hardware	: HP-9000 Series, Magnum Series, Sun Sparc Series, IBM H50 (RS/6000) Unix Servers, Siemens RM 6000 			  Unix servers, IPC Dynasty PCs (Pentium 2/ 3)
+Op  Systems 	: HP-UX 9.x/ 10.x, Windows NT 4.0, Sun Solaris 2.5/ 2.6, SINIX 5.43, AIX 4.3.3
+Languages	: C, C++, HTML, Perl, Unix Shell Scripting
+RDBMS 		: Oracle 7.x/ 8.0/ 8i, Informix 7.3
+Tools		: PL/SQL, Stored Procedures and Triggers, Designer 2000, Developer 2000 (Forms 4.5, Reports 2.5), 			  Pro*C, Forms 3.0, Oracle Web Application Server with PL/SQL Web Toolkit, Platinum ERWIN (ERX 3.5.2)
+
+
+
+7) Suresh K   --- Webmethods certified, JAVA/Javascript certified.  (1.5 years experience)
+Web Technologies	: SERVLETS, JSP, DSP, Active Server Pages (ASP), JAVA Script, DHTML, and IIS 3.0 
+Operating Systems	: Windows-NT, Windows-95
+Languages		: J2EE,EJB,Java,XML,XSL,RMI, SQL, C and C++. 
+Application Server      : SilverStream,IBM WebSphere RDBMS Oracle7.3, MS SQL Server7.0
+Tools			: B2BDeveloper, WebMethods Adapters, VisualCafe, JBuilder, Visual InterDev6.0, FrontPage 98 
+
+
+8) Sachin D  --- 10 years experience
+Programming Languages : COBOL II, COBOL/370, NATURAL II, C/C++, PL/SQL, Perl, XML, XSLT, HTML, JAVA 2, VB6.0, EASYTREVE, DYL280, SQL, UML, Shell Scripting, PB 5.0/6.0
+Data Bases : DB2, ADABAS, IMS/DB-DC, SYBASE 11.x, Oracle 7.x/8.0, VSAM, MS ACCESS
+Tools and Utilities : TSO/ISPF, CICS, APS, XPEDITER, FILE-AID, QMF, DEBUGGER, ISPF/TSO, PB 6.0, Silk-Performer, Rational Rose, Quintic, Playback
+Training and Supplementary Courses : Solaris System & Network Administration iPlanet Application Server 6.0  Administration Workshop 
+Certificate program in JAVA Programming 
+Certificate program in XML Programming 
+Certificate program in UML Programming 
+Networking Fundamentals
+
+
+9) Pandu S  ---  Oracle   6 years experience  (only for South California)
+Oracle versions 7.x and 8.x	
+Application Development : Oracle Financials 10.7/11i (Accounts Payable, Accounts Receivable and Fixed Assets) 
+Design tools : Oracle Forms 6/6i and Reports 6/6i (Developer 6/6i) Oracle Forms 4.5 and Oracle Reports 2.5 (Developer/2000) 
+Data model / Logical Design : Power Soft S-Designer versions 5 and 6	
+Desktop operating systems : Windows NT Workstation 4.0, Windows 98, Windows 95 
+Network operating systems : Windows 2000, Windows NT Server 4.0
+Programming languages : ANSI C, PL/SQL, SQL*Plus
+
+
+10) Indranil L  --- 2 years experience --- Oracle, Sybase, SQL
+Platform 	 : SUN 3K Enterprise, SUN CPCI 1500, HP 9000 E35, Supermax XL (Mini)
+O/S	 	 : SOLARIS 2.5.1/2.6/2.7, HP-UX 9.04, Red Hat Linux, Windows- 95/98/NT.
+Databases	 : Oracle 8, Sybase 11.5, SQL Server, ADABAS-C/D, Watcom SQL 4.0
+Language 	 : C, Pro*C, Shell Script, Natural, Entire Connection, Oracle Forms 2.3, Power Builder 4.0
+Security Software: Natural Security
+Tools	  	 : Predict
+
+11) RAO     (UNIX Admin)                                                                 
+* Over Five Years  of experience in System Administration, and Customer Support for various Organizations.
+* Well experienced in integrating various Systems in Heterogeneous environments. 
+* Good at Shell Scripting and AWK programming. 
+* Exposure  to various tools and technologies such as CDE, Veritas Volume Manager, Raid Technologies and Admintool.
+* Nearly Twelve Years of experience in Project Management, Testing, Integration, Installation & Commissioning of Supervisory Control and Data Acquisition (SCADA) systems.
+HardWare           :  SUNSPARC Ultra’s  E6500, E4500, E3000, E450, Workstations Ultra-10, HP 9000, IBM RS 6000, IBM PC Machines.
+Operating Systems  :  Solaris 2.8 /2.7 / 2.6 / 2.5, SunOS, HP –UX 10.20, 11.x, AIX 4.3.2,DOS, Windows NT 4.0, Windows  2000,Windows 98/95  
+Languages          :  Java,HTML, C++, C,PLSQL, Cobol, Perl, awk, Shell Scripts.
+Tools              :  Solstice adminsuite, Veritas Volume Management, CDE
+Shell Skills       :  Vi,,awk,sed,perl.
+RDBMS              :  Oracle 7.X
+Networking         :  TCP/IP,NFS, NIS, DNS
+WebServers         :  Apache webserver,SunWebserver,
+Application Servers:  Netscape Enterprise Serverr
+
+
+12)AJITH ANUGU (JAVA)
+Over five years of experience in Information Technology.
+Experienced skills in All Phases of the system Development Life cycle.
+Analysis, Design, Development, Implementation of Client/Server, N-Tier, Internet/Intranet  applications. 
+Well acquainted with Business Rules and Workflow of  enterprise organizations.
+Languages		: Java, HTML, C, and SQL.
+Internet		: Active Server Pages (ASP), Applets and Servlets.
+Libraries and API’s	: JDK, AWT, and Swing.
+GUI			: JBuilder, Visual Basic 5.0/6.0, and D2K.
+Operating System	: Windows NT, Windows 95/98,Windows 2000 and Ms-Dos.
+Scripting Languages	: Java Script, VB Script.
+RDBMS			: Oracle 8i, SQL Server 6.5.
+Tools			: Visual Inter Dev,VisualSourceSafe,VisualageForJava.
+WebServers		: IIS 4.0.
+Others			: JDBC, ODBC, Ms-Word, Ms-Access 
+
+
+13)Metuku Reddy  (oracle DBA/developer)
+Install, Configure, Upgrade and Maintain Oracle Database, server and application tools.
+Create primary database storage structures and primary objects, storage parameters of the tablespaces and tables and Rollback Segments required 
+Manage Tablespaces, Rollback Segments, Redo Logs and other Database Objects. 
+Performance Tuning and Optimization of Oracle 7.3.4 and Oracle 8.0.5
+Using tools like Explain plan, UTLBSTAT and UTLESTAT, SQL Trace and TKPROF for performance tuning.
+Monitor Database operations using Server Manager and SQL scripts. 
+Created users, roles and privileges for database security, manipulated tablespaces 
+and their space allocation, created profiles for Restricted User Security
+Create Tables, Indexes, Views, Sequences and Database Links to develop applications. 
+Create physical and logical database models using ERwin Data Modelling tool 
+(Used Forward Engineering and Reverse Engineering tools)
+Planned and Performed Daily, Weekly and Monthly Cold & Hot Backups. 
+Tested and implemented restore procedures for Complete and Incomplete Recovery
+Tuned SGA parameters like Shared Pool, Buffer Cache, Redo Log Buffer. 
+
+
+14)MANOJ  BEERAVELLI  (Delphi,AIX,Linux)
+Software engineer with three plus years of development experience. 
+Enjoys working in high stress situations where creativity, problem solving, 
+and leadership skills are utilized. Experienced in all phases of software development 
+including design, coding, test, and support. 
+Languages		Operating Systems	Applications		Scripting Languages
+Delphi 4.0 / 5.0	Windows 95 / 98, NT 4.0	Oracle 7.X / 8.X	VB Script
+Visual Basic 5.0 / 6.0	IBM AIX	Informix 7.0	Java Script
+SQL, PL/SQL		MS-SQL Server 6.5	HTML
+C, Java, EJB		Crystal Reports	Visual InterDev, IIS
+Crystal Reports		PVCS/SourceSafe	
+
+
+15)Gopi  (Sun certified JAVA programmer)  5 YEARS experience
+Sun Certified Java Programmer, an IT professional with 5 years of experience with 
+Object-Oriented and Client/Server Programming Design and Development.
+Expertise in Java(J2EE, JFC Swings, Java Servlets, Java Server Pages, Ejb, XML, 
+JDBC, RMI, Corba, WebSphere 3.5, WebLogic 5.1.0, Oracle, DB2, Sybase, SqlServer 
+and TeraData) Programming Internet technology, Network applications, Database 
+Connectivity & distributed computing. Proven record of success in design, development 
+and implementation of software applications using object oriented technology.
+Operating Systems     	:    Ms win95/98/NT, OS/2, MS-DOS, Unix, Linux
+Languages        	:    Pascal, C, Cobol, Java Script, VB Script, C++ and Java
+Web Tools        	:    HTML, XML, ASP, CGI with Perl and JavaServlets
+RDBMS        		:    Oracle, SQL Server and DB2
+GUI            		:    Developer 2000, Visual Basic and Power Builder
+MiddleWare        	:    RMI, CORBA
+Java Development Tools  :    VisualAge, VisualCafe and Jbuilder
+Internet Servers        :    Netscape Server, Java Web Server, Apache and IIS 4.0
+
+
+
+16)Ram (UDB DB2 DBA)  8 years experience
+Having 8 years of experience in Implementation and support of business 
+applications and with 4 and 1/2 years of experience in DATA BASE ADMINISTRATION, 
+DATA WARE HOUSING and DATA REPLICATION. Expertise in DB2 DATA BASE ADMINISTRATION 
+like creation, maintenance, backup, recovery strategies, performance monitoring, 
+tuning, maintenance of logs, problem identification and resolution, security and 
+disaster recovery planning using IBM DB2 UDB V 7.1, SQL SERVER, IBM AIX, Sun Solaris, 
+Windows- NT, Control Center, Visual explain, Platinum Erwin/ERX, BMC Utilities and tools, SQLGUY, QUEST, DPROPR, DJRA V 2.1 and good experience in shell scripting.
+HARDWARE	 : IBM RS/6000, Net Commerce V 3.0., Web Sphere commerce suite, 
+IBM mainframe ES/9000, IBM 3090, PC/AT 486-586,Pentium machines. 
+OPERATING SYSTEMS: AIX 4.3.1, Sun Solaris V 5.7, Windows NT 4.0/95, MVS/ESA
+LANGUAGES	 : SQL, Cobol, Cobol II, Java V 1.2, Java script, HTML
+RDBMS:		   Oracle 8.1.5, DB2, IDMS
+GUI and tools    : Control Center, Visual explain, Platinum Erwin/ERX, SQLGUY, QUEST, 
+		   DPROPR, DJRA V 2.1
+Other S/W:       : CICS /ESA V4R1, TSO, ISPF, JCL, QMF, VSAM, PL/I, DB2PM, MF-Revolve, 
+		   Expeditor, DATA JOINER, SPUFI, DB2 utilities, DB2 UDB, DDL, DML, 
+DCL, CA7 Job Scheduler, File Aid DB2, Panvellette, Endeavor, Intertest, QMF, DCLGENS, TSQ, TDQ. 
+
+
+
+17)Kumar    (QA-tester)   5 YEARS experience
+Software Quality Assurance Testing, Analyst and Development. 
+Proficient in software Quality Assurance testing of Web and Client/Server based applications.  
+Expertise includes preparing and executing software test plans and user requirement analysis, 
+testing and implementation of test cases on various systems 
+manually and using automated tools like WinRunner, LoadRunner. 
+·	Manual Testing
+·	White Box Testing
+·	Black Box Testing
+·	DataBase Testing
+·	Regression Testing
+·	Performance / Stress Testing
+·	Datawarehouse testing
+·	Functional Testing
+·	Batch processing
+·	System Testing
+·	Testing Methodology
+Operating Systems  	Windows NT 4.0, Windows 95/98,2000, MS-Dos, HP UNIX
+RDBMS			Oracle 8i/7.x, SQL Server 6.5/ 7.0, MS-Access
+Testing tools 		WinRunner, LoadRunner, Test Director, QA Partner/Silk Etest,Eload,PVCS
+Languages		Visual Basic 6.0, SQL,PL/SQL, C, C++, Java, COBOL           
+Web Development		DHTML, HTML, ASP, Visual InterDev 6.0, FrontPage, 
+			IIS, MTS, Datawarehouse.
+Scripting languages	VBScript, JavaScript, TSL, 4 Test Language 
+Reports			Crystal Reports, Business objects
+
+
+
+18)Savio C (Broadvision,jrun,java)
+Programmer Analyst activity in the implementation of Web applications using 
+BroadVision and JRun. Four years experience in analysis, design and development 
+of client/server applications using PB and VB. Experienced in environments 
+requiring direct customer interaction during specifications, design, 
+development and product implementation phases.
+BroadVision Tools:	BroadVision 5/4.1 Command Center, Built-in Components, Non Built-in Components. 
+Java Technologies:	JRun 3.1,Java Beans, Servlets, JavaServerPages
+Languages	 :	Java, SQL, C, HTML, JavaScript,XML
+Database	 :	Sybase, MS-SQL Server, Oracle
+Packages & Tools :	Together, JRun Studio, Dreamweaver, CVS,
+			Visual Source Safe (VSS), ClearQuest,
+			Visual Basic 5.0, Power Builder 5.0/4.0, 
+			MS-Access, Clarify 7.0
+Operating Systems:	Unix, Windows 95/98 and NT 4.0
+
+
+
+19)  Lokanath Subudhi ( VB, ASP, VB Script)				
+FIVE years experience in system design, development and 
+implementation of Internet/Intranet, Multi-Tier, Clients-Server application using VB, ASP, VB Script, Java Script, HTML, DHTML, 
+XML, XSL, COM, DCOM, IIS, MTS, UML, SQL Server, C++, Activex controls, MS-Access and Crystal Reports. Currently learning .NET and C#.
+INDUSTRY :        Marketing, Shipping, Financial and HR.
+LANGUAGES:  	  VB 4.0 5.0 / 6.0, C, C++, VC++, C#, Shell Scripting and UML(Rational Rose).
+OPERATING SYSTEM: BSD UNIX 3.0, LINUX 7.0, MS-DOS, WINDOWS 95/NT and WIN 2000.
+DATABASE:	  MS SQL 6.5 / 7.0 and MS-Access
+WEB-DESIGN TOOLS: IIS 5.0, ASP 2.0/3.0, HTML, DHTML, Dream Weaver, Front Page, 
+VBScript, JavaScript, Crystal Report, Visual Interdev, Visual SourceSafe, ActiveX, 
+XML and XSL/XSLT
+COMPONENT DESIGN: COM/DCOM component using VB
+MIDDLE TIER:	  MTS 2.0
+METHODOLOGY:	  OOPS, Normalization, Client/Server Applications
+HARDWARE:	  IBM-PC, SUN SPARC.
+
+
+
+20)RAVI  RANGA NATHAN  (Certified Oracle DBA)
+Ravi is a Certified Oracle 8.0 DBA and has five years of overall 
+experience in the IT Industry with over three years as an Oracle DBA. Experience includes database administration, design, 
+implementation and development of applications in ORACLE on UNIX platforms. Involved with all aspects of the Software Life Cycle 
+in client-server environments. Proficient in administration of Oracle database, installation and tuning of Oracle database. 
+Have strong programming skills in writing/ maintaining SQL and PL/SQL Oracle database backend programming. 
+Environment		Sun Solaris, HP-UX, HP-9000, Dec-Alpha, Windows NT 4.0, 
+Win 95/98/2000, MS DOS 6.22, Sun Ultra, Sun Sparc, IBM Compatibles, Pentium
+RDBMS			Oracle 7.1, 7.3, 8.0, 8i, Sybase 10.0, MS-Access 7.0/97
+Languages		SQL, PL/SQL, J-SQL,  T-SQL, Unix Shell Scripting, COBOL, 
+C, C++, PASCAL, LISP, PROLOG
+GUIs			Developer 2000, Visual Basic
+Packages		DBASE, LOTUS 123, VPP, FOXPRO
+Technologies		OLTP/OLAP, ODBC, OLE-DB, ADO
+
+
+21)MANOJ KUMAR VARSHNEY  (java, c++ ,vc++)  (4.5 YEARS experience)
+Software development using OOPS Programming.
+Extensively worked on C, C++, VC++, JAVA, Visual Basic and MS-SQL Server.
+Experience with Networking concepts, Shell Scripting, Relational Database 
+concepts application development and software support tools such as Visual Studio, Internet Information Server (IIS), 
+Visual Source Safe, Visual Café.
+Knowledge of Web development using HTML and Microsoft Front Page.
+Extensively worked on Windows NT/95/98, UNIX.
+Operating Systems	: UNIX, Windows 95/98/NT, MS-DOS.
+Languages		: C, C++, VC++, Java (Swings, Applet, Servelet, JDBC)
+GUI			: Visual Basic 5.0/6.0.
+RDBMS			: MS-SQL 6.5/7.0, MS-Access 7.0.
+Component Technology	: COM/DCOM, MTS, Active-X.
+Internet		: HTML, DHTML, VBScript, ASP 2.0/3.0
+Other Tools		: Internet Information Server 4.0, Weblogic Server, 
+			  Visual Source Safe 6.0, Crystal Report 8.0, Visual Café 3.0.
+
+
+
+
+
+For resumes and details Please contact Ron K, email: nshah@paranz.com or phone: 1800 931 9660 -310
+
+Thanks & Regards,
+
+Nicholas S & Ron K
+Technical Recruiter
+PARANZ- North East Branch
+Phone   :1 800 931 9660  ext 310
+Fax     :  888 467 1811
+Email   :  Nshah@paranz.com
+Site    :  www.Paranz.com
+
+------------------------------------------------------------
+This mail has been sent to hr@clevengerassoc.com 
+To be removed click here
+mailto:NShah@Paranz.com?Subject=Remove#hr@clevengerassoc.com
+
+To be removed from our mailing list please reply with "remove" in the subject line and include your original email address/addresses" in the body. Please include clevengerassoc complete list of email addresses to be removed.We will immediately update our list accordingly.Please note that we take due care to remove all the mails with the reply of remove.
+---------------------------------------------------------

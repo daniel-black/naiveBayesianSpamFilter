@@ -1,0 +1,113 @@
+Return-Path: <James32@operamail.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 17748 invoked from network); 30 Apr 2001 14:04:22 -0000
+Received: from unknown (HELO home.busan.hs.kr) (210.180.182.7)
+  by bfsmedia.sk.ca with SMTP; 30 Apr 2001 14:04:22 -0000
+Received: from MILKYWAY [195.228.106.130]
+	(HELO netscape.com)
+	by home.busan.hs.kr (AltaVista Mail V2.0/2.0 BL23 listener)
+	id 0000_004f_3aee_4d4e_78cd;
+	Mon, 30 Apr 2001 22:44:46 -0700
+From: Joseph@nandomail.com
+Subject: Are you an online detective?
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+To: Tomas@mypersonalemail.com
+Date: Mon, 30 Apr 2001 06:49:01 -0800
+Message-Id: <0klkmpnvd7cvtj2t3d4.7o8e0j5lv3n@netscape.com>
+X-Mailer: Mozilla 4.07 [en] (Win98; I)
+Content-Length: 3576
+Lines: 91
+
+<html>
+<head>
+<title>WebDetective2001</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div align="center">
+  <table width="95%" border="1" cellspacing="0" cellpadding="3" 
+align="center" bordercolor="#000066">
+    <tr>
+      <td bgcolor="#E6E6E6" height="28">
+        <div align="center"><font size="4" face="Verdana, Arial, Helvetica, 
+sans-serif"><font color="#990000" size="6" face="Arial, Helvetica, 
+sans-serif"><b><font color="#CC0000" face="Times New Roman, Times, serif">Web
+          Detective 2001&#153;</font></b></font></font></div>
+      </td>
+    </tr>
+  </table>
+  <table width="95%" border="1" cellspacing="0" cellpadding="3" 
+align="center" bordercolor="#000066" height="18">
+    <tr>
+      <td height="17">
+        <div align="center"><font size="4" face="Verdana, Arial, Helvetica, 
+sans-serif"><b><font size="7" face="Verdana, Arial, Helvetica, 
+sans-serif"><b><font color="#660000"><font size="3" face="Arial, Helvetica, 
+sans-serif" color="#990000">The
+          easy way to find the Truth about anyone and anything 
+with</font><font size="3" face="Arial, Helvetica, sans-serif">
+          <font color="#000099">Web Detective 2001&#153;
+</font></font></font></b></font></b></font></div>
+      </td>
+    </tr>
+  </table>
+  <p><font size="3" face="Arial, Helvetica, sans-serif"><b><font 
+color="#330000"><font color="#000099" size="4" face="Verdana, Arial, Helvetica,
+ sans-serif">Stop
+    Wasting Your Time on Search Engines that are Dead Ends!</font><font 
+color="#660000" size="4"><br>
+    <font size="3" color="#000000">Discover tons of secret information for 
+your<br>
+    Personal and Business needs with <font color="#000099"><i><font 
+color="#990000">Web
+    Detective 2001&#153;
+</font></i></font></font></font></font></b></font></p>
+  <hr size="1" width="95%" align="center">
+  <table width="95%" border="1" cellspacing="0" cellpadding="0" 
+bordercolor="#000066">
+    <tr>
+      <td bgcolor="#E5E5E5">
+        <div align="center"><b><font face="Times New Roman, Times, serif" 
+size="5" color="#000099"><font face="Verdana, Arial, Helvetica, 
+sans-serif"><i>Web
+          Detective 2001&#153;</i></font></font><font face="Verdana, Arial, 
+Helvetica, sans-serif" size="5" color="#990000">
+          <i>helps you...</i></font></b></div>
+      </td>
+    </tr>
+  </table>
+  <p><b><font size="2" face="Arial, Helvetica, sans-serif"><font 
+color="#660000" size="3"><b><font color="#000000">Locate
+    e-mails, phone numbers, and addresses.<br>
+    Find information on your friends, neighbors, relatives or boss.<br>
+    Find debtors and locate hidden assets.<br>
+    Check driving and criminal records.<br>
+    Investigate your family history, birth, death and Social Security Records.
+<br>
+    Locate old classmates, missing family member.<br>
+    Find your long lost Love and other confidential information.
+</font></b></font></font></b></p>
+  <p><b><font face="Arial, Helvetica, sans-serif" size="4" 
+color="#0000FF"><u><br>
+    <a href="http://www.webhostcorp.com/members/screenmeyou/index.html">Click Here to Start your Online 
+Investigations</a></u></font></b></p>
+  <p><br>
+  </p>
+  <hr size="1" width="75%">
+  <p>
+
+If you would like to be removed from our mailing list, <a 
+href="mailto:wdremoval@yahoo.com?subject=Please Remove Me From Your Mailing 
+List">click here.</a>
+
+</p>
+  <hr size="1" width="75%">
+  <font size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright &copy;
+
+  2001 WebDetective2001. All Rights Reserved.</font></div>
+</body>
+</html>
+

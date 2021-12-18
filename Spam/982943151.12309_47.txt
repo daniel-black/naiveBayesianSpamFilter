@@ -1,0 +1,241 @@
+Return-Path: <FileLoad@fileload.com>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 32212 invoked from network); 23 Feb 2001 04:09:54 -0000
+Received: from unknown (HELO data1) (root@207.201.78.194)
+  by bfsmedia.sk.ca with SMTP; 23 Feb 2001 04:09:54 -0000
+Received: from localhost (mysql@localhost)
+	by data1 (8.9.3/8.8.7) with SMTP id UAA09237;
+	Thu, 22 Feb 2001 20:52:03 -0700
+Date: Thu, 22 Feb 2001 20:52:03 -0700
+From: FileLoad@fileload.com
+Received: by fileload.com (bulk_mailer v1.13); Thu, 22 Feb 2001 19:40:06 -0700
+Subject: ADV: Buy Over 300 Classic Books on CD for Just $39.95
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="MESSAGE_MIME_BOUNDARY-0000001"
+To: undisclosed-recipients:;
+Message-ID: <bulk.6792.20010222194006@fileload.com>
+Content-Length: 8780
+Lines: 222
+
+--MESSAGE_MIME_BOUNDARY-0000001
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+
+Have you read all the classics, like Tarzan and Moby Dick?  Do you have access to all the really great literature, 
+like Shakespeare’s plays and Whitman’s poetry?  NOW YOU CAN!!  We have a collection of the greatest literature ever written, 
+over 300 titles, including children’s classics, all on CD!  Books like Tom Sawyer, Twenty Thousand Leagues Under the Sea,
+ Billy Budd, To Kill a Mockingbird, Pride and Prejudice, Beowulf, Utopia, The War of the Worlds, The Secret Garden, 
+The Taming of the Shrew and many, many more.  
+
+You can have all this classic literature on an easy to access, easy to read, printable and portable CD for just $39.95.  
+We have also included PDA reader information so you can download the literature and read it from your Palm, Visor or other PDA!  
+This CD is perfect for anyone: the student, the traveler, the senior, or the literature lover in your home.  Act Now!  
+Go to <http://www.fileload.com/> for more details.
+
+You are receiving this email because you elected to receive business opportunity information via email.  
+If you have received this email in error, or you wish to not receive email from us, please unsubscribe using the link below. 
+ Your name will be removed from our list.
+
+This email complies with all current local, state, and federal legislation and the FTC guidelines regarding UCE
+
+
+
+---------------------------------------------------------------------
+* To remove yourself from this mailing list, point your browser to:
+http://207.201.78.194/index
+* Enter your email address in the field provided and click "Unsubscribe".
+---------------------------------------------------------------------
+
+
+--MESSAGE_MIME_BOUNDARY-0000001
+Content-Type: text/html; charset="iso-8859-1"
+Content-Disposition: inline
+
+<html>
+<head>
+<LINK rel="stylesheet" type="text/css" href="http://www.fileload.com/rm_default.css">
+<META name="keywords" content=",Cash,Tree,Net, Make, Money">
+<title>FileLoad Offer</title>
+</head>
+<body  bottommargin=0 topmargin=0 rightmargin=0 marginheight=0 marginwidth=0 leftmargin=0 bgcolor="#ffffff">
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" background="http://www.fileload.com/images/rmbackground.gif">
+	<tr>
+		<td><a href="http://www.fileload.com/index" target="_top"><img src="http://www.fileload.com/images/rmlogo2.gif" border="0" alt=""></a></td>
+	</tr>
+</table>
+<table width=640 cellpadding=0 cellspacing=0 border=0>
+	<tr>
+		<td></td>
+	</tr>
+</table>
+<table width=640 cellpadding=0 cellspacing=0 border=0 align=center>
+	<tr>
+		<td align=center><font class=pagetitle>Have You Read All The Classic Literature You Want To?</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><font class=subtitle>Do You Want To Own <font color="Red">Timeless Masterpieces</font> Like 
+			<a href=#books><font color="Red">Anne of Green Gables</font></a>, 
+			<a href=#books><font color="Red">A Connecticut Yankee in King Arthur's Court</font></a>,
+			<a href=#books><font color="Red">Paradise Lost</font></a>, and 
+			<a href=#books><font color="Red">Uncle Tom's Cabin?</font></a></font>
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><font color="Navy" class=subtitle>You Can Own All These And</font><font class=subtitle color=red> HUNDREDS </font>
+			<font color="Navy" class=subtitle>More On</font><font class=subtitle color=red> CD!!</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center>We have a collection of more than <font color="Red">300</font> of the finest literature ever 
+			written on one CD.  <font color="Navy">Literature enlightens the mind, soothes the soul, and inspires and educates all who touch it.</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center>You can own almost forgotten titles like <a href=#books><font color="Red"><b>Agrippa</b></font></a>, 
+			<a href=#books><font color="Red"><b>Paradise Found</b></font></a>, 
+			and <a href=#books><font color="Red"><b>The Trojan Women.</b></font></a> </td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center>You will have access to important historical documents like 
+			<a href=#books><font color="Red"><b>Jefferson's First Inaugural Address</b></font></a>, 
+			<a href=#books><font color="Red"><b>The Magna Charta</b></font></a>, 
+			and <a href=#books><font color="Red"><b>The Monroe Doctrine.</b></font></a></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center>Lose yourself in the magnificent poetry of Longfellow</b></font></a>, 
+		<a href=#books><font color="Red"><b>William Blake</b></font></a>, 
+		<a href=#books><font color="Red"><b>Tennyson</b></font></a>, 
+		<a href=#books><font color="Red"><b>Carl Sandburg</b></font></a>, 
+		and many others.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><a href=#books><font color="Red"><b>Shakespeare</b></font></a>, 
+			<a href=#books><font color="Red"><b>Dickens</b></font></a>, 
+			<a href=#books><font color="Red"><b>Twain</b></font></a>, 
+			<a href=#books><font color="Red"><b>Euripides</b></font></a>, 
+			<a href=#books><font color="Red"><b>Stevenson</b></font></a>, 
+			<a href=#books><font color="Red"><b>Burns</b></font></a>, 
+			<a href=#books><font color="Red"><b>Poe</b></font></a>, 
+			<a href=#books><font color="Red"><b>Burroughs</b></font></a>, 
+			<a href=#books><font color="Red"><b>London</b></font></a> 
+			and <a href=#books><font color="Red"><b>Chaucer</b></font></a> 
+			are just a few of the hundreds of authors whose masterpieces are on this CD, all in 
+			<font color="Red"><b>easy to read, 
+			printable, 
+			portable format. </b></font> 
+			You can even load them onto <font color="Red"><b>your PDA!</b></font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center>This collection of classic literature is perfect for the <font color="Green"><b>student</b></font>, 
+		the <font color="Green"><b>traveler</b></font>, 
+		the <font color="Green"><b>senior who needs large print</b></font>, 
+		or anyone who <font color="Green"><b>just loves literature.</b></font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center>Act Now and we will include a collection of <font color="Red"><b>Children's Literature</b></font> that includes 
+		<a href=#books><font color="Red"><b>Aesop's Fables</b></font></a>, 
+		<a href=#books><font color="Red"><b>Alice's Adventures in Wonderland</b></font></a>, 
+		many fairy tales and much more!</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><b>S.I. Hayakawa says this about literature:</b><br>
+			<font color="Fuchsia">"In a real sense, people who have read good literature have lived more than people 
+			who cannot or will not read. It is not true that we have only one life to live; 
+			if we can read, we can live as many more lives and as many kinds of lives as we wish." </font>
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><font class=subtitle color=red>You Can Bring All The Wonder Of These</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><font class=subtitle color=red>Masterpieces Into Your Home On One CD</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=center><font class=subtitle color=red>For Just $39.95! (Price includes shipping.*)</font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td align=right>*Please allow 1-2 weeks for delivery.</td>
+	</tr>
+	<tr>
+		<td><a name=books>&nbsp;</td>
+	</tr>
+</table>
+<table width=640 cellpadding=0 cellspacing=0 border=0 align=center>
+	<tr>
+		<td align=center><font class=pagetitle><a href="http://www.fileload.com/">ORDER NOW!</a></font></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+</body>
+</html>
+<html>
+<body>
+<table align=center>
+	<tr>
+		<td align=center>
+You are receiving this email because you elected to receive business opportunity information via email.  
+<br>If you have received this email in error, or you wish to not receive email from us, please unsubscribe using the link below. 
+<br> Your name will be removed from our list.
+<br>
+<br>This email complies with all current local, state, and federal legislation and the FTC guidelines regarding UCE
+<br>
+<br>
+<br>---------------------------------------------------------------------
+<br>* To remove yourself from this mailing list, point your browser to:
+<br><a href="http://207.201.78.194/index">http://207.201.78.194/index</a>
+<br>* Enter your email address in the field provided and click "Unsubscribe".
+<br>---------------------------------------------------------------------</td>
+	</tr>
+</table>
+<image src="http://www.fileload.com/graphic.php" width=1 height=1>
+</body>
+</html>
+
+
+
+--MESSAGE_MIME_BOUNDARY-0000001--
+
+

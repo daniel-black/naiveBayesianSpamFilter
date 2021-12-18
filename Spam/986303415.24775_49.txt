@@ -1,0 +1,78 @@
+Return-Path: <2222travel@aol.com>
+Delivered-To: em-ca-bob.smith@em.ca
+Received: (qmail 28342 invoked from network); 3 Apr 2001 09:13:47 -0000
+Received: from unknown (HELO www.lematin.press.ma) (212.217.67.35)
+  by em.ca with SMTP; 3 Apr 2001 09:13:47 -0000
+Received: from win10145.iad.dn.net (161.58.180.234 [161.58.180.234]) by www.lematin.press.ma with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id GLPPAKM7; Tue, 3 Apr 2001 09:13:04 -0000
+From: 1111travel@aol.com
+MIME-Version: 1.0
+X-Encoding: MIME
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_713441374748"
+Date: Tue, 03 Apr 2001 05:13:49 -0500
+X-Mailer: 11111travel@aol.com
+To: 22travel@aol.com
+Reply-To: 111travel@aol.com
+Message-Id: <1gi72n03.3rh3cd@win10145.iad.dn.net>
+Return-Path: 1111travel@aol.com
+Subject: You're A Winner
+Received: from win10145.iad.dn.net [161.58.180.234] by 0d176h.win10145.iad.dn.net with SMTP; Tue, 03 Apr 2001 05:13:49 -0500
+Content-Length: 1326
+Lines: 55
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_713441374748
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+
+------=_NextPart_713441374748
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+</head>
+
+<body>
+
+<p>Sign back up for your free Vacation Package for two.
+Congratulations,<br>
+you are a winner for one of our fantastic Vacation Packages. Your called 
+about your tickets within 7-10 days. You must click on the link below and fill 
+out the
+information exactly as it will appear on your tickets. You may leave the 
+second
+party blank if you are not sure who will be going with you but you must 
+contact
+us via telephone at least 10 days prior to departure with the second 
+passenger's
+name. This will all be explained to you in the brochures coming out to you. 
+If
+you have any questions contact me via e-mail at traveler_54@hotmail.com. 
+Please
+keep in mind<br>
+that there are 50 winners of this trip and it might take me a little while to
+get back to you.<br>
+<br>
+<br>
+Thanks Pete<br>
+<br>
+<a href=3D"http://209.61.189.13/jhgfd/">Please Click Here</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To Be Removed Please Respond With A Blank Email.</p>
+
+</body>
+
+</html>
+
+------=_NextPart_713441374748--
+

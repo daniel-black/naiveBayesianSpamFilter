@@ -1,0 +1,123 @@
+Return-Path: <Gfl0678@evcom.net>
+Delivered-To: em-ca-bait-20010329045302@em.ca
+Received: (qmail 20720 invoked from network); 29 Apr 2001 23:18:14 -0000
+Received: from collide.evcom.net (216.10.32.7)
+  by em.ca with SMTP; 29 Apr 2001 23:18:14 -0000
+Received: from zothommog.evcom.net (root@zothommog.evcom.net [216.10.32.8])
+	by collide.evcom.net (8.11.3/8.11.3) with ESMTP id f3TNI4c22372
+	for <bait-20010329045302@em.ca>; Sun, 29 Apr 2001 19:18:04 -0400
+Received: from _[248.157.140.90]_by (mia-tcr7-80.dyn.evcom.net [216.10.44.80])
+	by zothommog.evcom.net (8.9.3/8.9.3/Debian 8.9.3-21) with SMTP id TAA00738
+	for <bait-20010329045302@em.ca>; Sun, 29 Apr 2001 19:18:01 -0400
+From: gary francis <Gfl0678@evcom.net>
+Message-Id: <200104292318.TAA00738@zothommog.evcom.net>
+X-Authentication-Warning: zothommog.evcom.net: Host mia-tcr7-80.dyn.evcom.net [216.10.44.80] claimed to be _[248.157.140.90]_by
+Received: from  [24.179.220.209] by _[248.157.140.90]_by with SMTP id A33C33E1 Sun, 29 Apr 2001 18:56:20 PDT
+To: bait-20010329045302@em.ca
+Subject: Stock Promoters and Rip-offs    
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Date: Sun, 29 Apr 2001 19:13:37
+Content-Length: 4442
+Lines: 100
+
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Tequesta Capital Corp</title>
+</head>
+
+<body>
+
+<p align="center"><font face="Times New Roman" size="5"><b>Public Company
+CEO'S</b></font></p>
+<p align="center"><font face="Times New Roman" size="5"><i>Get Mass&nbsp;Exposure
+Through Tequesta Capital's Opt-in E-mailing</i></font></p>
+<p><font face="Times New Roman" size="3"><span style="mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Many
+IR Firms and Stock Promoters are ineffective because they:</span>&nbsp;</font></p>
+<p><font face="Times New Roman" size="3">1) a non-proactive approach, place your corporate profile on a website and have the same
+investors look at the site over and over again&nbsp;</font></p>
+<p><font face="Times New Roman" size="3">2) the other extreme, pump and
+dump, which hurts your company, your shareholder base, investors buying into the
+program and creates negative attraction from the regulators.</font></p>
+<p><font face="Times New Roman" size="3"><span style="mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><span style="mso-spacerun: yes">&nbsp;</span>In
+times of market volatility, directed, intelligent, aggressive marketing attracts
+attention in the Wall Street investment community.<span style="mso-spacerun: yes">&nbsp;&nbsp;
+</span>Learn about Tequesta’s high rate of success from emailing over 12
+million opt- in names to the investment community.
+The program is targeted not over exposed.<span style="mso-spacerun: yes">&nbsp;&nbsp;
+</span>Simply, fill out the information below:</span></font></p>
+
+<form action="mailto:total_opt@netzero.net?subject=New Busines Lead" method="POST" encType="text/plain">
+  <center>
+  <table cellSpacing="0" cellPadding="0" width="400" border="0">
+    <tbody>
+      <tr>
+        <td vAlign="top">
+          <p>&nbsp;
+          <table cellSpacing="0" cellPadding="1" width="400" border="0">
+            <tbody>
+              <tr>
+                <td width="*"><font face="Times New Roman" size="2">Name<br>
+                  <input maxLength="50" size="31" name="name"></font></td>
+                <td width="*" colSpan="2"><font face="Times New Roman" size="2">Email<br>
+                  <input maxLength="50" size="30" name="email"></font></td>
+              </tr>
+              <tr>
+                <td width="*" colSpan="3"><font face="Times New Roman" size="2">Corporate
+                  Name<br>
+                  <input maxLength="110" size="62" name="address"></font></td>
+              </tr>
+              <tr>
+                <td width="*"><font face="Times New Roman" size="2">City<br>
+                  <input maxLength="50" size="30" name="city"></font></td>
+                <td width="*"><font face="Times New Roman" size="2">State/Province<br>
+                  <input size="12" name="state"></font></td>
+                <td width="*"><font face="Times New Roman" size="2">Zip<br>
+                  <input maxLength="50" size="10" name="zip"></font></td>
+              </tr>
+              <tr>
+                <td width="*"><font face="Times New Roman" size="2">Symbol<br>
+                  <input maxLength="50" size="17" name="symbol"></font></td>
+                <td width="*" colSpan="2"><font face="Times New Roman" size="2">Work
+                  Phone<br>
+                  <input maxLength="50" size="30" name="work_phone"></font></td>
+              </tr>
+              <tr>
+                <td width="*" colSpan="3">
+                  <hr SIZE="1">
+                </td>
+              </tr>
+              <tr>
+                <td width="*" colSpan="3"><font face="Times New Roman"><input type="submit" value="Submit Your Information" name="submit">
+                  We will contact you</font></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  </center>
+</form>
+<p>&nbsp;</p>
+
+<form method="POST">
+  <p>&nbsp; If you want to be&nbsp; removed from your database <a href="mailto:removebox0678@netzero.net?subject=unsubscribe">CLICK
+  HERE</a></p>
+</form>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
+
+
+

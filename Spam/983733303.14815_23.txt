@@ -1,0 +1,82 @@
+Return-Path: <tripwinner@msn.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 17837 invoked from network); 4 Mar 2001 10:50:04 -0000
+Received: from unknown (HELO gw.csti.yar.ru) (root@212.192.194.61)
+  by bfsmedia.sk.ca with SMTP; 4 Mar 2001 10:50:04 -0000
+Received: from win10116.iad.dn.net ([161.58.176.161])
+	by gw.csti.yar.ru (8.8.8/8.8.8/Debian/GNU) with SMTP id NAA11548
+	for <goose.kennels@bfsmedia.com>; Sun, 4 Mar 2001 13:51:22 +0300
+From: tripwinner@msn.com
+Message-Id: <82km5j11iyccf7sft.nc2u4y7hwt3b2wk@win10116.iad.dn.net>
+MIME-Version: 1.0
+X-Encoding: MIME
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_4248524274884587433052"
+X-Mailer: tripwinner@msn.com
+Reply-To: tripwinner@msn.com
+To: tripwinner@msn.com
+Subject: Congratulations, You're a finalist
+Date: Sun, 04 Mar 2001 05:49:58 -0500
+Content-Length: 1661
+Lines: 60
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_4248524274884587433052
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+------=_NextPart_4248524274884587433052
+Content-Type: text/html;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1252">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<title>You signed up back in May for our free cruise tickets for two</title>
+</head>
+
+<body>
+
+<p>You signed up back in May for our free Vacation Packages for two.
+Congratulations,<br>
+you are a finalist for one of our free Vacation Packages. Your tickets will 
+be delivered to you
+within 7-10 days via US Mail. You must click on the link below and fill out 
+the
+information exactly as it will appear on your tickets. You may leave the 
+second
+party blank if you are not sure who will be going with you but you must 
+contact
+us via telephone at least 10 days prior to departure with the second 
+passenger's
+name. This will all be explained to you in the brochures coming out to you. 
+If
+you have any questions contact me via e-mail at cuisewinner@hotmail.com. 
+Please
+keep in mind<br>
+that there are 50 winners of this trip and it might take me a little while to
+get back to you.<br>
+<br>
+<br>
+Thanks Pete<br>
+<br>
+<a href=3D"http://161.58.176.161/">Please Click Here</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To Be Removed Please Respond With A Blank Email.</p>
+
+</body>
+
+</html>
+
+------=_NextPart_4248524274884587433052--
+

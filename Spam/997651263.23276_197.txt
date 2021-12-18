@@ -1,0 +1,55 @@
+Return-Path: <Stealth123@btamail.net.cn>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 19806 invoked from network); 12 Aug 2001 05:00:57 -0000
+Received: from mail.net4you.net (root@194.177.128.111)
+  by em.ca with SMTP; 12 Aug 2001 05:00:57 -0000
+Received: from avmail.net4you.net (avmail.net4you.net [194.177.128.115])
+	by mail.net4you.net (8.8.8/8.8.5) with ESMTP id GAA23227;
+	Sun, 12 Aug 2001 06:59:13 +0200
+From: Stealth123@btamail.net.cn
+Received: (from root@localhost)
+	by avmail.net4you.net (8.11.3/8.11.3/SuSE Linux 8.11.1-0.5) id f7C4wCS10692;
+	Sun, 12 Aug 2001 06:58:12 +0200
+Received: from perkytits.nu (mail.net4you.net [194.177.128.111])
+	by avmail.net4you.net (8.11.3/8.11.3/SuSE Linux 8.11.1-0.5) with SMTP id f7C4w8u10655;
+	Sun, 12 Aug 2001 06:58:09 +0200
+Message-Id: <200108120458.f7C4w8u10655@avmail.net4you.net>
+To: <Undisclosed.Recipients@btamail.net.cn>
+Subject: Bulk Friendly Hosting only $300 month..
+Date: Sat, 11 Aug 2001 22:08:35 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: Stealth123@btamail.net.cn
+X-Virus-Scanned: by AMaViS perl-11
+Content-Length: 499
+
+
+Bulk friendly offshore website hosting only $300 per month.
+Bulk Mail advertise your website risk free.
+More hits and business than you can imagine.
+
+100mb space
+MYSQL
+SSL
+CGI
+PHP
+PERL
+FTP Access
+Linux Server
+Unlimited Band Width
+Front Page Extensions
+
+NO PORN OR CASINO.    NO PORN OR CASINO
+
+Resellers welcome.
+
+Also: Bulk Friendly POP3 mailboxes available.
+Never lose your mailbox again.
+
+Reply with "99" in subject field for more info.
+
+To be removed, Reply with "Remove" in the subject field.

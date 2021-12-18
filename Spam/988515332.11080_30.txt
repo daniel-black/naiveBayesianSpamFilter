@@ -1,0 +1,17 @@
+Return-Path: <mememe@10509.com>
+Delivered-To: bfsmedia-sales@bfsmedia.com
+Received: (qmail 9216 invoked from network); 29 Apr 2001 00:23:02 -0000
+Received: from tungsten.btinternet.com (194.73.73.81)
+  by bfsmedia.sk.ca with SMTP; 29 Apr 2001 00:23:02 -0000
+Received: from host213-122-24-26.btinternet.com ([213.122.24.26] helo=mail.btinternet.com)
+	by tungsten.btinternet.com with smtp (Exim 3.03 #83)
+	id 14tev8-0001sz-00; Sun, 29 Apr 2001 01:18:39 +0100
+Date: Sun, 29 Apr 01 01:06:50 EST
+From: mememe@10509.com
+To: Friend@public.com
+Subject: ##
+Message-ID: <>
+Content-Length: 3
+Lines: 1
+
+##

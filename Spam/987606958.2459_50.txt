@@ -1,0 +1,216 @@
+Return-Path: <marketing@voicegenie.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22312 invoked from network); 18 Apr 2001 14:13:20 -0000
+Received: from dns.array.ca (HELO monoid.array.ca) (192.197.248.194)
+  by em.ca with SMTP; 18 Apr 2001 14:13:20 -0000
+Received: from logan.voicegenie.com (logan [205.150.90.87])
+	by monoid.array.ca (8.9.3/8.9.3) with ESMTP id JAA09007;
+	Wed, 18 Apr 2001 09:08:14 -0400 (EDT)
+Received: from teal (teal.array.ca [205.150.90.27])
+	by logan.voicegenie.com (8.9.3/8.9.3) with SMTP id IAA24206;
+	Wed, 18 Apr 2001 08:59:37 -0400 (EDT)
+Reply-To: <marketing@voicegenie.com>
+From: "Marketing" <marketing@voicegenie.com>
+To: <marketing@voicegenie.com>
+Subject: IVR IS DEAD: WHY VOICEXML IS REPLACING IT_s
+Date: Wed, 18 Apr 2001 09:02:19 -0400
+Message-ID: <NFBBIPNGNMMGKGCNKBOBKEAPCAAA.marketing@voicegenie.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Length: 6973
+
+*******************************************************************
+You are receiving this e-mail because we thought this important message
+would be of interest to you. VoiceGenie Technologies is at the forefront of
+providing solutions that allow users through any phone to access the Voice
+Web through an industry leading VoiceXML Gateway.
+
+We try to send our e-mails only to interested parties.
+
+To be removed from further mailings, reply to this message with-REMOVE-in
+the subject line and indicate the e-mail address to be removed.
+____________________________________________________________________
+
+VoiceGenie's VoiceXML solution is more cost effective than traditional
+proprietary IVR, is standards based and has carrier grade reliability, with
+ultimate efficiency and customer satisfaction.
+
+Would you like to discuss your Voice Web project with us? VoiceGenie will
+help you.
+Please visit : http://www.voicegenie.com/contact_65.html
+
+Visit VoiceGenie Today:
+http://www.voicegenie.com/ads/home65.html
+
+VoiceGenie's VoiceXML Voice Web Newsletter: Pass this on if you know of a
+colleague who would like to read about the VoiceXML voice services industry!
+
+*****************   CONTENTS  ************************
+
+NEWS
+
+1.    Find out why VoiceXML is replacing IVR.
+2.    VoiceGenie Launches GeniePartner Program
+3.    New VoiceXML Developer Tools: VoiceGenie Announces GenieTracer(tm)!
+4.    New VoIP: VoiceGenie Announces Complete Voice Web Solution with VoIP
+5.    VoiceXML White Paper: Voice Genie helps you make the best decision.
+6.    I dream of Genie, Just what you've been wishing for: the Voice
+Web,article by Andrew Wahl, Canadian Business Magazine
+7.    Where speech meets the Web, article by Rob Marchand.
+8.    VoiceGenie offers extensive Professional Development Services.
+
+VOICEXML VOICE WEB TECHNOLOGY
+
+9.     Learn Speech Application Design Using VoiceXML at VoiceGenie
+10.    Developing VoiceXML applications? Check out our Platinum Developers
+Node.
+11.    Complete Developer Packages now available.
+
+****************    NEWS  *************************
+
+1.
+Find out why VoiceXML is replacing IVR. The Business Advantages of VoiceXML
+versus proprietary technology  and IVR systems, an article by John Hibel,
+VoiceGenie Director of Business Development. To see the copy of the full
+article please go to the second issue of the VoiceXML Review published by
+the VoiceXML Forum:
+
+http://www.voicexmlreview.org/Feb2001/features/business_advantages.html#.
+
+__________________________________________________
+
+2.
+VoiceGenie Launches GeniePartner Program, Voice Web products leader partners
+with key technology providers, systems integrators & distributors to
+voice-enable the enterprise.
+To see the full release please go to:
+http://www.voicegenie.com/press_release65b.html
+_________________________________________________
+
+3.
+New VoiceXML Developer Tools: VoiceGenie Announces GenieTracer(tm), the
+PC-Based VoiceXML Run-time Simulator for Rapid Voice Web Application
+Development.
+
+To see the full release please go to:
+http://www.voicegenie.com/press_release65.html
+___________________________________________________
+
+4.
+New VoIP solution: VoiceGenie Announces Complete Voice Web Solution with
+VoIP, VoiceXML Gateway Version 5.0 First To Extend VoiceXML Services To
+VoIP.
+
+To see the full release please go to:
+http://www.voicegenie.com/press_release65a.html
+
+____________________________________________________
+
+5.
+Voice Genie offers a new White Paper to help you make the best VoiceXML
+decision. "Speaking Freely About The VoiceGenie VoiceXML Gateway and The
+VoiceXML Interpreter"
+
+Download the PDF at http://www.voicegenie.com/products_more_info65.html
+
+_____________________________________________________
+
+6.
+I dream of Genie, Just what you've been wishing for: the Voice Web, article
+by Andrew Wahl, Canadian Business Magazine.
+
+To see the copy of the full article please go to:
+http://www.canadianbusiness.com/magazine_items/2001/apr16_01_genie.shtml
+
+______________________________________________________
+
+
+7.
+VoiceXML: Where Speech Meets the Web, article by Rob Marchand, A lesson on
+VoiceXML and how it can be used. To see the copy of the full article please
+go to the first issue of the VoiceXML Review published by the VoiceXML
+Forum:
+
+http://www.voicexmlreview.org/columns/Jan2001_first_words.html
+
+______________________________________________________
+
+
+8.
+VoiceGenie offers extensive Professional Development Services including
+complete end to end VoiceXML designing, building, testing, and deployment
+services. For a no obligation consultation by VoiceGenie's VoiceXML experts
+please click below and indicate Professional Development Services in the
+information box:
+
+http://www.voicegenie.com/contact_65.html
+
+
+****** VOICEXML VOICE WEB TECHNOLOGY *************
+
+9.
+Learn Speech Application Design Using VoiceXML at VoiceGenie. The VoiceXML
+Voice Web and applications to support it are growing at a tremendous pace.
+Make sure you are at the forefront of Speech Application Design by
+participating in VoiceGenie's New Advanced courses now offered for a short
+time only at a special low introductory cost. Learn VoiceXML from the market
+leading specialists.
+
+To Learn more about Speech Application Design Using VoiceXML please go to:
+http://www.voicegenie.com/learn_65.html
+
+_________________________________________________________________
+
+10.
+VoiceGenie's Platinum Developer's Node allows our customers to deploy their
+service on a commercial basis, within a highly reliable and controlled
+environment, prior to committing to full-scale deployment. For additional
+details please click below and indicate Platinum Developers Node in the
+information box:
+
+http://www.voicegenie.com/products_more_info65.html
+
+_________________________________________________________________
+
+11.
+The VoiceGenie Developer Package allows developers to bring a full platform
+into their network for the lowest cost when on site hardware and integration
+is a necessity. For additional details please click on the URL below and
+indicate Developer Package in the information box:
+
+http://www.voicegenie.com/contact_65.html
+
+
+****************************************************************************
+>From time to time VoiceGenie Technologies distributes a e-newsletter update
+to its member list, containing the latest information about VoiceGenie
+Technologies, our VoiceXML Gateway products, and the VoiceXML, Voice Web
+industry in general.
+
+Do you know of someone who would like to read about the VoiceXML voice
+services industry?
+Pass this on and register at : http://www.voicegenie.com/signup65.html
+
+E-mail information will not be distributed or sold for any other purpose
+other than this e-mail subscription.
+
+VoiceGenie Technologies
+http://www.voicegenie.com/ads/home65.html
+
+VoiceGenie Technologies Developers Workshop
+http://www.voicegenie.com/developer_65.html
+****************************************************************************
+*
+
+
+
+
+
+

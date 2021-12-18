@@ -1,0 +1,36 @@
+Return-Path: <MakeYurPenisGrow@hotmail.com>
+Spam-Apparently-To: <burton@bfsmedia.com>
+Received: (qmail 12472 invoked from network); 1 Apr 2001 03:41:24 -0000
+Received: from unknown (HELO afond?hq.afond.com.sg) (203.127.20.228)
+  by bfsmedia.sk.ca with SMTP; 1 Apr 2001 03:41:24 -0000
+From: MakeYurPenisGrow@hotmail.com
+To: 
+Subject: hi
+Date: Sat, 31 Mar 2001 07:25:23 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_36DC_00007DDD.00004A12"
+
+------=_NextPart_000_36DC_00007DDD.00004A12
+Content-Type: text/html;
+
+<HTML>
+<BODY>
+<HTML>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function fullScreen(theURL) {
+window.open("http://www.freehostlake.com/members/justin3727/", '', 'fullscreen=yes, scrollbars=auto');
+}
+//  End -->
+</script>
+</HEAD>
+
+<BODY>
+<FONT SIZE=5><B>
+<CENTER><a href="http://www.freehostlake.com/members/justin3727/" onClick="fullScreen('full-screen.html');">Guys, add 2-4 inches to your penis within a few short weeks, Guaranteed!  Our program provides time tested methods, proven to work by top medical professionals. Our program has an over 98% success rate, and results are a promise. You have nothing to lose! CLICK HERE TO SEE!!</a></CENTER>
+<HTML>
+</BODY></HTML>
+
+

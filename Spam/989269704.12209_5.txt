@@ -1,0 +1,35 @@
+Return-Path: <ccole@topsender.com>
+Delivered-To: bfsmedia-info@bfsmedia.com
+Received: (qmail 21493 invoked from network); 7 May 2001 20:16:18 -0000
+Received: from unknown (HELO topsender.com) (38.138.29.4)
+  by bfsmedia.sk.ca with SMTP; 7 May 2001 20:16:18 -0000
+From: "Chris Coleman" <ccole@topsender.com>
+Subject: The best anonymous email software http://www.jetmailing.com/
+Content-Type: multipart/related;
+	boundary="------NEXT_PART_00000015";
+	type="text/html"
+Content-Length: 1052
+Lines: 22
+
+This is a multi-part message in MIME format.
+
+--------NEXT_PART_00000015
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-ID: <00000013$00000015@topsender.com>
+Content-Length: 832
+
+PEJPRFk+DQpBcyB0aGUgb25seSBuby1wcm94eS11c2VkIHByb2dyYW0gYXZhaWxhYmxlLCBKZXRM
+ZXR0ZXJzIFByb2Zlc3Npb25hbDxCUj4NCnByb3ZpZGVzIHN1cGVyIGZhc3QsIG11bHRpLWNoYW5u
+ZWwgbWFpbGluZyBvZiB1cCB0byAxMDAsMDAwIGFub255bW91czxCUj4NCm1lc3NhZ2VzIHBlciBo
+b3VyLkpldExldHRlcnMgUHJvZmVzc2lvbmFsIGlzIHRoZSBvcHRpbXVtIHNvbHV0aW9uIGZvcjxC
+Uj4NCnByb2Zlc3Npb25hbHMgaW4gZW1haWwgbWFya2V0aW5nLjxCUj4NCkpldExldHRlcnMgUHJv
+ZmVzc2lvbmFsIHJ1bnMgdW5kZXIgVW5peCBPUyBhbmQgdXNlcyBQb3N0Z3JlU1FMIHNlcnZlci4N
+CjxCUj4NCjxCUj4NCkxvb2sgZm9yIGNvbXBsZXRlIGluZm9ybWF0aW9uIGF0IDxBIGhyZWY9Imh0
+dHA6Ly93d3cuamV0bWFpbGluZy5jb20vIj5odHRwOi8vd3d3LmpldG1haWxpbmcuY29tLzwvQT4N
+Cjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxi
+cj4NCjxicj4NCjxicj4NCjxhIGhyZWY9Im1haWx0bzp1bnN1YmRzQHRvcHNlbmRlci5jb20iPlRv
+IHJlbW92ZSBmcm9tIG1haWxpbmcgbGlzdDwvYT4NCjwvQk9EWT4=
+
+--------NEXT_PART_00000015--
+

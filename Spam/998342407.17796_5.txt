@@ -1,0 +1,141 @@
+Return-Path: <returnmails@qandatoday.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 15654 invoked from network); 20 Aug 2001 20:14:15 -0000
+Received: from qandatoday.com (HELO www.qandatoday.com) (216.35.46.10)
+  by daedelus.bfsmedia.com with SMTP; 20 Aug 2001 20:14:15 -0000
+Received: (from q2adm@localhost)
+	by www.qandatoday.com (8.9.3/8.9.3) id UAA95847
+	for bluegoose.kennels@bfsmedia.com; Mon, 20 Aug 2001 20:11:35 GMT
+	(envelope-from returnmails@qandatoday.com)
+Date: Mon, 20 Aug 2001 20:11:35 GMT
+Message-Id: <200108202011.UAA95847@www.qandatoday.com>
+To: bluegoose.kennels@bfsmedia.com
+From: "ExpoKey.com" <cs@expokey.com>
+Subject: You have to see it yourself.
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=_3a9df624a2d55a8fe8a77934f4b6c1da"
+Content-Length: 6125
+Lines: 121
+
+
+This is a MIME encoded message.
+I.
+
+--=_3a9df624a2d55a8fe8a77934f4b6c1da
+Content-Type: multipart/alternative;
+	boundary="=_861085c1a02758546bfe28da0e172ec2"
+
+
+--=_861085c1a02758546bfe28da0e172ec2
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+
+This message is brought to you by ExpoKey.com. We appreciate your privacy.
+
+If you do not wish to get any more offers from us, please find the details
+for unsubscription below.  
+
+---------------
+
+Tired of regular search engines?
+Looking for companies in your field of business in specific countries? 
+
+Meet your suppliers and customers in ExpoKey.com!
+
+ExpoKey.com is much more than an intelligent search machine. It is the
+world's first and largest interactive online exhibition center.
+
+ExpoKey.com is an innovative and pioneering approach fully utilizing the
+potential of the Internet to reach millions of customers and suppliers all
+over the world.
+
+Register now as an exhibitor and get $100 in services. Registration is
+FREE!!
+
+
+If you can't click on these links, simply copy-paste them to your browser
+address bar.
+
+Click here to register with ExpoKey.com:
+http://www.expokey.com/register.php
+
+Click here to read a press release:
+http://www.expokey.com/Exhibition_Center/documents/art.html
+
+To read more about ExpoKey.com, click here:
+http://www.expokey.com/Exhibition_Center/index/languages/languages.htm
+
+---------------
+
+To unsubscribe from this list, please click the following link:
+http://service.qandatoday.com/redirect/45634.446.660447.2041.html
+
+--=_861085c1a02758546bfe28da0e172ec2
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjx0aXRsZT5VbnRpdGxlZCBEb2N1bWVudDwvdGl0bGU+DQo8bWV0YSBo
+dHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1pc28t
+ODg1OS0xIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQo8IS0tDQoudGV4dCB7ICBmb250LWZh
+bWlseTogdmVyZGFuYTsgZm9udC1zaXplOiAxNHB4OyBjb2xvcjogIzY2NjY5OTsgdGV4dC1kZWNv
+cmF0aW9uOiBub25lOyBmb250LXdlaWdodDogbm9ybWFsfQ0KYTpsaW5rIHsgIGZvbnQtZmFtaWx5
+OiAidmVyZGFuYSI7IGNvbG9yOiAjMDAwMENDOyB0ZXh0LWRlY29yYXRpb246IG5vbmV9DQphOnZp
+c2l0ZWQgeyAgZm9udC1mYW1pbHk6ICJ2ZXJkYW5hIjsgY29sb3I6ICM2NjY2OTk7IHRleHQtZGVj
+b3JhdGlvbjogbm9uZX0NCmE6aG92ZXIgeyAgZm9udC1mYW1pbHk6ICJ2ZXJkYW5hIjsgY29sb3I6
+ICM2NjY2OTk7IHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lfQ0KLnNtYWxsIHsgIGZvbnQtZmFt
+aWx5OiAidmVyZGFuYSI7IGZvbnQtc2l6ZTogMTBweDsgY29sb3I6ICMwMDAwOTk7IHRleHQtZGVj
+b3JhdGlvbjogbm9uZX0NCi5wZWFsa2lyaSB7ICBmb250LWZhbWlseTogInZlcmRhbmEiOyBmb250
+LXNpemU6IDE4cHg7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgY29sb3I6ICM2NjY2OTk7IGZvbnQt
+d2VpZ2h0OiBib2xkfQ0KLmltcF90ZXh0IHsgIGZvbnQtZmFtaWx5OiB2ZXJkYW5hOyBmb250LXNp
+emU6IDE0cHg7IGNvbG9yOiAjRkYwMDAwOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IGZvbnQtd2Vp
+Z2h0OiBib2xkfQ0KLS0+DQo8L3N0eWxlPg0KPC9oZWFkPg0KDQo8Ym9keSBiZ2NvbG9yPSIjRkZG
+RkZGIiB0ZXh0PSIjMDAwMDAwIj4NCjxwIGNsYXNzPSJzbWFsbCI+VGhpcyBtZXNzYWdlIGlzIGJy
+b3VnaHQgdG8geW91IGJ5IEV4cG9LZXkuY29tLiBXZSBhcHByZWNpYXRlIA0KICB5b3VyIHByaXZh
+Y3kuPGJyPg0KICBJZiB5b3UgZG8gbm90IHdpc2ggdG8gZ2V0IGFueSBtb3JlIG9mZmVycyBmcm9t
+IHVzLCBwbGVhc2UgZmluZCB0aGUgZGV0YWlscyBmb3IgdW5zdWJzY3JpcHRpb24gDQogIGJlbG93
+Lg0KPGhyIHdpZHRoPSI1MCUiIGFsaWduPSJsZWZ0Ij4NCjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9y
+ZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPg0KICA8dHI+DQogICAgPHRk
+IHdpZHRoPSIyMHB4IiBoZWlnaHQ9IjMwcHgiIGNvbHNwYW49IjQiIGJnY29sb3I9IkZGRkZDQyI+
+Jm5ic3A7PC90ZD4NCiAgPC90cj4NCiAgPHRyPg0KICAgIDx0ZCB3aWR0aD0iMjAiPiZuYnNwOzwv
+dGQ+DQogICAgPHRkPjxocj4NCiAgICAgIDxwIGNsYXNzPSJwZWFsa2lyaSI+VGlyZWQgb2YgcmVn
+dWxhciBzZWFyY2ggZW5naW5lcz88YnI+DQogICAgICAgIExvb2tpbmcgZm9yIGNvbXBhbmllcyBp
+biB5b3VyIGZpZWxkIG9mIGJ1c2luZXNzIGluIHNwZWNpZmljIGNvdW50cmllcz8gPGJyPjxicj5N
+ZWV0IHlvdXIgc3VwcGxpZXJzIGFuZCBjdXN0b21lcnMgaW4gRXhwb0tleS5jb20hPC9wPg0KICAg
+ICAgPHAgY2xhc3M9InRleHQiPkV4cG9LZXkuY29tIGlzIG11Y2ggbW9yZSB0aGFuIGFuIGludGVs
+bGlnZW50IHNlYXJjaCBtYWNoaW5lLiANCiAgICAgICAgSXQgaXMgdGhlIHdvcmxkJ3MgZmlyc3Qg
+YW5kIGxhcmdlc3QgaW50ZXJhY3RpdmUgb25saW5lIGV4aGliaXRpb24gY2VudGVyLiANCiAgICA8
+YnI+PGJyPg0KCSAgICBFeHBvS2V5LmNvbSBpcyBhbiBpbm5vdmF0aXZlIGFuZCBwaW9uZWVyaW5n
+IGFwcHJvYWNoIGZ1bGx5IHV0aWxpemluZyB0aGUgDQogICAgICAgIHBvdGVudGlhbCBvZiB0aGUg
+SW50ZXJuZXQgdG8gcmVhY2ggbWlsbGlvbnMgb2YgY3VzdG9tZXJzIGFuZCBzdXBwbGllcnMgDQog
+ICAgICAgIGFsbCBvdmVyIHRoZSB3b3JsZC4gPC9wPg0KICAgICAgPHAgY2xhc3M9InRleHQiPjxi
+PlJlZ2lzdGVyIG5vdyBhcyBhbiBleGhpYml0b3IgYW5kIGdldCAkMTAwIGluIHNlcnZpY2VzLiA8
+L2I+DQogICAgICAgIDxzcGFuIGNsYXNzPSJpbXBfdGV4dCI+PGI+UmVnaXN0cmF0aW9uIGlzIEZS
+RUUhITwvYj48L3NwYW4+PC9wPg0KPGhyPg0KICAgICAgPC90ZD4NCgkgIDx0ZCB3aWR0aD0iMjBw
+eCI+Jm5ic3A7PC90ZD4NCiAgICA8dGQgYWxpZ249ImNlbnRlciIgd2lkdGg9IjIwMHB4Ij4NCiAg
+ICAgIDxwPjxhIGhyZWY9Imh0dHA6Ly9zZXJ2aWNlLnFhbmRhdG9kYXkuY29tL3JlZGlyZWN0LzQx
+MTMyLjQ0Ni42NjA0NDcuMjAzNy5odG1sIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6
+Ly93d3cuZXhwb2tleS5jb20vRXhoaWJpdGlvbl9DZW50ZXIvcGljL2VtYWlsL21haWxfMi5naWYi
+IHdpZHRoPSIyMDAiIGhlaWdodD0iNzMiIGJvcmRlcj0iMCI+PC9hPjwvcD4NCiAgICAgIDxwIGNs
+YXNzPSJzbWFsbCI+PGEgaHJlZj0iaHR0cDovL3NlcnZpY2UucWFuZGF0b2RheS5jb20vcmVkaXJl
+Y3QvNjU5NTUuNDQ2LjY2MDQ0Ny4yMDM4Lmh0bWwiIHRhcmdldD0iX2JsYW5rIj5jbGljayANCiAg
+ICAgICAgaGVyZSB0byByZWFkIGEgcHJlc3MgcmVsZWFzZTwvYT4gPC9wPg0KICAgIDwvdGQ+DQog
+IDwvdHI+DQogIDx0cj4NCiAgICA8dGQgaGVpZ2h0PSIzMHB4IiBiZ2NvbG9yPSJGRkZGQ0MiPiZu
+YnNwOzwvdGQ+DQogICAgPHRkIGJnY29sb3I9IkZGRkZDQyIgY2xhc3M9InBlYWxraXJpIj48YSBo
+cmVmPSJodHRwOi8vc2VydmljZS5xYW5kYXRvZGF5LmNvbS9yZWRpcmVjdC8xNjMwOS40NDYuNjYw
+NDQ3LjIwMzkuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiPjxiPlJlZ2lzdGVyIHdpdGggRXhwb0tleS5j
+b208L2I+PC9hPiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Imh0dHA6Ly9zZXJ2aWNl
+LnFhbmRhdG9kYXkuY29tL3JlZGlyZWN0LzcwMzI4LjQ0Ni42NjA0NDcuMjA0MC5odG1sIiB0YXJn
+ZXQ9Il9ibGFuayI+PGI+QWJvdXQgRXhwb0tleS5jb208L2I+PC9hPiANCiAgICA8L3RkPg0KICAg
+IDx0ZCBiZ2NvbG9yPSJGRkZGQ0MiIGNvbHNwYW49IjIiPiZuYnNwOzwvdGQ+DQogIDwvdHI+DQo8
+L3RhYmxlPg0KPHAgY2xhc3M9InNtYWxsIj48YSBocmVmPSJodHRwOi8vc2VydmljZS5xYW5kYXRv
+ZGF5LmNvbS9yZWRpcmVjdC80NTYzNC40NDYuNjYwNDQ3LjIwNDEuaHRtbCI+VW5zdWJzY3JpYmUg
+ZnJvbSB0aGlzIGxpc3Q8L2E+PC9wPg0KPC9ib2R5Pg0KPC9odG1sPg0KPEJSPjxJTUcgU1JDPSJo
+dHRwOi8vc2VydmljZS5xYW5kYXRvZGF5LmNvbS9keW5faW1hZ2VzL3RyYWNraW5nLzA2ODQ0LjQ0
+Ni42NjA0NDcucG5nIiBCT1JERVI9MCBBTFQ9IiI+
+
+
+--=_861085c1a02758546bfe28da0e172ec2--
+
+--=_3a9df624a2d55a8fe8a77934f4b6c1da--
+

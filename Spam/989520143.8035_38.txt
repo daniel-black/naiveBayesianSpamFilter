@@ -1,0 +1,310 @@
+Return-Path: <a_jardine@7emails.cc>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 20181 invoked from network); 10 May 2001 05:46:35 -0000
+Received: from unknown (HELO server.hcphotonics.com.tw) (203.70.131.189)
+  by bfsmedia.sk.ca with SMTP; 10 May 2001 05:46:34 -0000
+Received: from 63.49.72.237 (pool-63.49.72.237.tmpa.grid.net [63.49.72.237]) by server.hcphotonics.com.tw with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id J80RP8YA; Sun, 6 May 2001 16:03:50 +0800
+Message-ID: <0000343c6011$000051f2$00006c55@63.49.72.237>
+To: <Undisclosed Recipients>
+From: a_jardine@7emails.cc
+Subject: Your Invited
+Date: Sun, 06 May 2001 03:40:42 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 8602
+Lines: 289
+
+<html>
+<body bgcolor=3D"#FFFF99" link=3D"#0000EE" vlink=3D"#551A8B" alink=3D"#FF0=
+000">
+Dear Candidate,<br>
+<br>
+You were recently selected by The Office of  The Managing Director<br>
+for a free listing on The International Executive Guild's CD-ROM.<br>
+<br>
+Our researchers gather information from many recognized<br>
+sources, including professional associations and societies, trade<br>
+organizations, newspaper and magazine publications, web<br>
+presence, and referrals from existing members.<br>
+<br>
+As a highly respected professional in your field of expertise, we<br>
+believe your contributions merit very serious consideration for<br>
+inclusion on The International Executive Guild's CD-ROM.<br>
+To maintain the level of accuracy, we ask you to click on the<br>
+web address highlighted below and fill out the brief bit of<br>
+information required for inclusion.<br>
+<br>
+There is no cost or obligation to be listed on The International<br>
+Executive Guild's CD-ROM.<br>
+<br>
+Remember, this site is for executives, professionals, & entrepreneurs<br>
+only!<br>
+<br>
+Congratulations,<br>
+Office of the Managing Director<br>
+<br><br>
+<hr width=3D"100%">
+<center>
+<p><b><i>If you wish to be removed from our list, please submit your reque=
+st</i></b>
+<br><b><i><font face=3D"Times New  Roman,Times">at the bottom of this emai=
+l.</font></i></b></center>
+
+<hr width=3D"100%">
+<table WIDTH=3D"695">
+<br><script language=3D"JavaScript">
+
+<!--
+function validate_form() {
+  validity =3D true; // assume valid
+  if (!check_empty(document.form.Name.value))
+        { validity =3D false; alert('Name field is empty!'); }
+if (!check_empty(document.form.Company.value))
+        { validity =3D false; alert('Company field is empty!'); }
+if (!check_empty(document.form.Address.value))
+        { validity =3D false; alert('Address field is empty!'); }
+if (!check_empty(document.form.City.value))
+        { validity =3D false; alert('City field is empty!'); }
+if (!check_empty(document.form.State.value))
+        { validity =3D false; alert('State field is empty!'); }
+if (!check_empty(document.form.Zip.value))
+        { validity =3D false; alert('Zip Code field is empty!'); }
+if (!check_empty(document.form.busphone.value))
+        { validity =3D false; alert('Day Time Phone field is empty!'); }
+if (!check_empty(document.form.Email.value))
+        { validity =3D false; alert('Email field is empty!'); }
+    if (validity)
+        alert ("Thank you for your registration. "
+                + "Your form is now being passed to your browser's "
+                + "Mail Delivery Sub-System for regular email delivery."
+                + "All email addresses are removed from our sytem"
+                + "upon registration.  Please click OK to proceed");
+  return validity;
+}
+
+function check_empty(text) {
+  return (text.length > 0); // returns false if empty
+}
+
+// -->
+
+</script>
+     
+  
+<!-- CHANGE EMAIL ADDRESS IN ACTION OF FORM -->
+
+<form name=3D"form"  method=3D"post" action=3D"mailto:pqr11040@yahoo.com?S=
+UBJECT=3DInternet Lead" enctype=3D"text/plain" onSubmit=3D"return validate=
+_form()">
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td VALIGN=3DTOP COLSPAN=3D"2">
+<center><b><i><font size=3D+3>International Executive
+Guild</font></i>
+<br><font size=3D+2>Registration Form</font>
+<br>(US and Canada Only)</b>
+<br>
+<hr width=3D"100%"></center>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=3DTOP COLSPAN=3D"2"><i><font face=3D"arial,helvetica" size=3D+0=
+>Please
+fill out this form if you would like to be included in The International
+Executive Guild's Registry. For accuracy and publication purposes, please
+complete and send this form at the earliest opportunity. There is no
+charge or obligation to be listed in The International Executive
+Guild's Registry.</font></i>
+<br>
+<hr width=3D"100%"></td>
+</tr>
+
+<tr>
+<td></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">Your Name</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"Name" SIZE=3D"=
+29" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">Your Company</td>
+
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"Company" SIZE=3D=
+"29" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">Title</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"Title" SIZE=3D=
+"29" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">Address</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"Address" SIZE=3D=
+"29" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">City</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"City" SIZE=3D"=
+29" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">State or Province</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"State" SIZE=3D=
+"3" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">Country</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><select name=3DCountry size=3D1>
+<option selected>USA<option>Canada</option></select></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">ZIP/Postal Code</td>
+<td ALIGN=3DLEFT VALIGN=3DCENTER WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D=
+"Zip" SIZE=3D"12" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT WIDTH=3D"300">Day Time Telephone</td>
+<td ALIGN=3DLEFT WIDTH=3D"300"><input TYPE=3D"TEXT" NAME=3D"busphone" SIZE=
+=3D"22" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td><div align=3Dright>Home Phone</div></td>
+<td><input TYPE=3D"TEXT" NAME=3D"homephone" SIZE=3D"22" MAXLENGTH=3D"60">(=
+Not To Be Published)</td>
+</tr>
+
+<tr>
+<td>
+<div align=3Dright>Email</div>
+</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"Email" SIZE=3D"30" MAXLENGTH=3D"60"></td>
+</tr>
+
+<tr>
+<td></td>
+
+<td></td>
+</tr>
+</table>
+
+<center>
+<p>
+<hr width=3D"100%"><b><font face=3D"ARIAL,HELVETICA" size=3D-1>TO
+HELP US IN CONSIDERING YOUR APPLICATION, PLEASE TELL US A LITTLE ABOUT
+YOURSELF...</font></b>
+<br>
+<hr width=3D"100%"></center>
+
+<center><table WIDTH=3D"81%" >
+<caption>
+<center><TBODY>
+<br></TBODY></center>
+</caption>
+
+<tr>
+<td ALIGN=3DRIGHT VALIGN=3DTOP WIDTH=3D"300"><b><font face=3D"arial,helvet=
+ica" size=3D-1>Your
+Business</font></b></td>
+
+<td>
+<div align=3Dright><input TYPE=3D"TEXT" NAME=3D"business" SIZE=3D"50" MAXL=
+ENGTH=3D"60"></div>
+<font face=3D"arial,helvetica" size=3D-1>(Financial
+Svcs, Banking, Computer Hardware, Software, Professional Svcs, Chemicals,
+Apparel, Aerospace, Food, Government, Utility, etc.)</font></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT VALIGN=3DTOP WIDTH=3D"300"><b><font face=3D"arial,helvet=
+ica" size=3D-1>Type
+of Organization</font></b></td>
+
+<td>
+<div align=3Dright><input TYPE=3D"TEXT" NAME=3D"Orgtype" SIZE=3D"50" MAXLE=
+NGTH=3D"60"></div>
+<font face=3D"arial,helvetica"><font size=3D-1>(Mfg,
+Dist/Wholesaler, Retailer, Law Firm,</font></font></font>
+<br><font face=3D"arial,helvetica"><font size=3D-1>Investment
+Bank, Commercial Bank, University,</font></font></font>
+<br><font face=3D"arial,helvetica"><font size=3D-1>Financial
+Consultants, Ad Agency, Contractor, Broker, etc.)</font></font></font></td=
+>
+</tr>
+
+<tr>
+<td VALIGN=3DTOP WIDTH=3D"300">
+<div align=3Dright><b><font face=3D"arial,helvetica"><font size=3D-1>Your
+Business Expertise</font></font></font></b></div>
+</td>
+
+<td>
+<div align=3Dright><input TYPE=3D"TEXT" NAME=3D"expertise" SIZE=3D"50" MAX=
+LENGTH=3D"60"></div>
+<font face=3D"arial,helvetica"><font size=3D-1>(Corp.Mgmt,
+Marketing, Civil Engineering,</font></font></font>
+<br><font face=3D"arial,helvetica" size=3D-1>Tax
+Law, Nuclear Physics, Database Development, Operations, Pathologist, Mortg=
+age
+Banking, etc.)</font></td>
+</tr>
+
+<tr>
+<td ALIGN=3DRIGHT VALIGN=3DTOP WIDTH=3D"300"><b><font face=3D"arial,helvet=
+ica" size=3D-1>Major
+Product Line</font></b></td>
+
+<td>
+<div align=3Dright><input TYPE=3D"TEXT" NAME=3D"product" SIZE=3D"50" MAXLE=
+NGTH=3D"60"></div>
+<font face=3D"arial,helvetica" size=3D-1>(Integrated
+Circuits, Commercial Aircraft, Adhesives, Cosmetics, Plastic Components,
+Snack Foods, etc.)</font></td>
+</tr>
+</table></center>
+
+<center>
+<font face=3D"arial,helvetica" size=3D-1>
+<p><input name=3Dsubmit type=3Dsubmit value=3D" Submit By E-Mail "><input =
+name=3Dreset type=3Dreset value=3D" Clear Form ">
+<br><b>Note: Submitting this form will
+be made by email, not by use of www. Confirmation of its delivery
+is made by browsing your outgoing mail.</b>
+<br>
+<hr width=3D"100%"><b><i>Thank
+you for filling in this form, we will contact you with more information.</=
+i></b>
+<br>
+<hr width=3D"100%">
+<br><b><font size=3D+1>List Removal</font></b>
+<br><b><font size=3D-1><a href=3D"mailto:bf007us@yahoo.com?subject=3Dremov=
+e">Click
+Here</a></font></b></center>
+
+</body>
+</html>
+
+
+

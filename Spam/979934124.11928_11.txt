@@ -1,0 +1,18 @@
+Return-Path: <me>
+Delivered-To: bfsmedia-design@bfsmedia.com
+Received: (qmail 14440 invoked from network); 19 Jan 2001 19:30:59 -0000
+Received: from c822798-a.tcma1.wa.home.com (HELO ) (24.16.245.54)
+  by bfsmedia.sk.ca with SMTP; 19 Jan 2001 19:30:59 -0000
+Message-ID: <4120011519193656121>
+X-EM-Version: 5, 0, 0, 13
+X-EM-Registration: #00E0540A10C21200AF00
+From: me
+To: design@bfsmedia.com
+Date: Fri, 19 Jan 2001 11:36:56 -0800
+MIME-Version: 1.0
+Content-Type: text/html; charset=US-ASCII
+Content-Length: 3
+Lines: 2
+
+n
+

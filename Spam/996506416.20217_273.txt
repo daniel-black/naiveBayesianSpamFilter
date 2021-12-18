@@ -1,0 +1,26 @@
+Return-Path: <bravenet_return@bravenet.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23086 invoked from network); 30 Jul 2001 14:38:48 -0000
+Received: from mail2.bravenet.com (HELO arwen.bravenet.com) (63.147.25.152)
+  by em.ca with SMTP; 30 Jul 2001 14:38:48 -0000
+Received: from frodo.bravenet.com (rob.sf.bravenet.com [172.16.0.38])
+	by arwen.bravenet.com (Postfix) with ESMTP id 322D2616F
+	for <bruceg@em.ca>; Mon, 30 Jul 2001 07:38:46 -0700 (PDT)
+Received: by frodo.bravenet.com (Postfix, from userid 1010)
+	id 497D75CFC; Mon, 30 Jul 2001 07:38:45 -0700 (PDT)
+To: bruceg@em.ca
+Subject: Confirm your subscription
+From: roi@computerbay.com
+Message-Id: <20010730143845.497D75CFC@frodo.bravenet.com>
+Date: Mon, 30 Jul 2001 07:38:45 -0700 (PDT)
+Content-Length: 400
+
+Please click link below to confirm your ComputerBay.com NewsLetter subscription.
+
+http://pub45.bravenet.com/elist/add.php?usernum=3818681556&id=4243378
+
+
+-----------------------------------------------------------------------
+Tired of your job? Post a FREE Resume & get hired fast!
+http://www.bravenet.com/out.php?id=865
+                                                                  (3818681556)

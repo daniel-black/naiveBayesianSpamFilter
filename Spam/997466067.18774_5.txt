@@ -1,0 +1,66 @@
+Return-Path: <HotelIndex@abac.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 8996 invoked from network); 10 Aug 2001 05:17:31 -0000
+Received: from femail29.sdc1.sfba.home.com (24.254.60.19)
+  by em.ca with SMTP; 10 Aug 2001 05:17:31 -0000
+Received: from C1576003-A.marin1.sfba.home.com ([65.11.36.253])
+          by femail29.sdc1.sfba.home.com
+          (InterMail vM.4.01.03.20 201-229-121-120-20010223) with SMTP
+          id <20010810051605.ZNCG12516.femail29.sdc1.sfba.home.com@C1576003-A.marin1.sfba.home.com>;
+          Thu, 9 Aug 2001 22:16:05 -0700
+Mime-version: 1.0
+Content-type: text/html; charset = "iso-8859-1"
+Subject: 15-Question Emotions Survey
+From: US Hotel Index <HotelIndex@abac.com>
+Date: Thu, 9 Aug 2001 22:15 -0700
+To: Hotel Guest <HotelGuest@abac.com>
+Content-transfer-encoding: quoted-printable
+Message-Id: <20010810051605.ZNCG12516.femail29.sdc1.sfba.home.com@C1576003-A.marin1.sfba.home.com>
+Content-Length: 2322
+Lines: 45
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD/ HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Hotel Research Study</TITLE></HEAD>
+<BODY><BR><FONT SIZE =3D 2>
+<P>Dear Friend,</P>
+
+<P>We believe that choosing a hotel is strongly influenced by consumer emot=
+ions. Obviously, consumers select a hotel because they like the price or lo=
+cation. But we also know that a hotel experience, whether it's for business=
+ or pleasure, will affect our moods and emotions. Our emotions may influenc=
+e what hotel we will select or avoid.</P>
+
+<P>The goal of this study is to examine what feelings contribute to the sel=
+ection of a hotel. Please click this link to evaluate your most recent hote=
+l stay:</P>
+<P><a href =3D "http://www.hotelimprovement.com/MMHI/mmhisurvey.asp">http:/=
+/www.hotelimprovement.com/MMHI/mmhisurvey.asp</a></P>
+
+<P>Thank you!</P>
+
+------Confidentiality Statement------<P>
+This is a one-time research study. If you do not respond you will NEVER be =
+contacted again. Therefore, THERE IS NO NEED TO UNSUBSCRIBE.  Please do not=
+ respond to this email. If you wish to contact us, please use the following=
+ link:<p>
+<a href =3D "mailto: EmotionStudy@MarketMetrix.net">EmotionStudy@MarketMetr=
+ix.net</a><P>
+This email is simply an invitation to participate in a brief survey. There =
+is nothing for sale, it is not sent for political purposes or meant to be u=
+npleasant in any way. We understand and respect your need for privacy. Any =
+recipient may simply choose not to respond and discard the message. If you =
+choose to participate, under no circumstances will personal information be =
+shared with anyone.<P>
+This research study deals with the impact of emotions on customer satisfact=
+ion and hotels. As with all consumer research, this requires consumer feedb=
+ack. All that we request is that you provide your honest opinion of your sa=
+tisfaction with your most recent hotel stay. If you have stayed in a hotel =
+in the past year, you are eligible to participate. The results will be made=
+ available to hotels across the country so that they can make improvements =
+based on your feedback. If you participate, you will receive highlights of =
+the results.<P>
+Help shape the future of the hotel industry. Please click the above link an=
+d become part of this important study.
+<P>Thank you!</P>
+</BODY></HTML>
+

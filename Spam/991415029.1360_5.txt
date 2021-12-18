@@ -1,0 +1,45 @@
+Return-Path: <achandross@offrhode.com>
+Delivered-To: bfsmedia-sales@bfsmedia.com
+Received: (qmail 1134 invoked from network); 1 Jun 2001 16:30:06 -0000
+Received: from unknown (HELO portra.eduict.net) (root@210.180.129.210)
+  by bfsmedia.sk.ca with SMTP; 1 Jun 2001 16:30:06 -0000
+Received: from mail4.offrhode.com (PPPa41-ResaleDetroit1-2R7402.dialinx.net [4.16.192.198])
+	by portra.eduict.net (8.9.3/8.9.3) with SMTP id BAA24306;
+	Sat, 2 Jun 2001 01:13:22 +0900
+To: estockert@schwarb.com
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Reply-To: fe33rfdfd@ematic.com
+Subject: re: contest confirmation..
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Message-Id: <7nhmvcnu8a7o.6kh70kxb1k7@mail4.offrhode.com>
+From: achane1@offrhode.com
+Date: Fri, 01 Jun 2001 12:26:55 -0500
+Content-Length: 893
+Lines: 24
+
+<HTML><font face="Verdana" size="3" ptsize="10"><b>Thank you for entering.
+</b><BR>
+<BR>
+<b>You have been specially selected to qualify for the following:</b></font>
+<p><font face="Verdana" size="3" ptsize="10"><b>Grand prize &nbsp;&nbsp;- 
+Florida Bahamas vacation and cruise<BR>
+1st prize &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Airline tickets<BR>
+Other Prizes - 3 days and 2 nights hotel accommodations<BR>
+<BR>
+Please confirm your entry within 24 hours of receipt of this confirmation.
+</b><BR>
+<BR>
+<a HREF="http://disc.offrhode.com"><b>Click here to 
+confirm</b></a></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>
+Confirmation number - zy345ki490a</b></font></p>
+<p><font face="Verdana" size="3" ptsize="10"><b>Batch number - 
+2189</b></font></p>
+<p>&nbsp;</p>
+<p><font size="1">to be removed reply to this message with &quot;remove' in 
+the
+subject line</font></p>
+</HTML>
+

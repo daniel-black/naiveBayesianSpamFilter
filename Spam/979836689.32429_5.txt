@@ -1,0 +1,90 @@
+Return-Path: <lance2@linkusnow.net>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 30739 invoked from network); 18 Jan 2001 16:25:40 -0000
+Received: from unknown (HELO ibcom.co.kr) (211.108.60.92)
+  by bfsmedia.sk.ca with SMTP; 18 Jan 2001 16:25:40 -0000
+Received: (qmail 18446 invoked from network); 18 Jan 2001 16:27:02 -0000
+Received: from 1cust30.tnt3.detroit.mi.da.uu.net (HELO mail.linkusnow.net) (63.59.212.30)
+  by ibizcom.co.kr with SMTP; 18 Jan 2001 16:27:02 -0000
+Message-Id: <7o544hh3xh4b4.5moj2q6jyn@mail.linkusnow.net>
+Subject: Car shopping? Use us to find the lowest price.
+Content-Type: text/html;
+	 charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+X-Mailer: Mozilla 4.7 [en] (Win95;U)
+To: networkshosts@juno.com
+CC: timolmst@juno.com,
+	timolmst@juno.com,
+	timolmst@juno.com,
+	timolmst@juno.com,
+	timolmst@juno.com,
+	timolmst@juno.com,
+	timolmstead@juno.com,
+	timolnar@juno.com,
+	timolodee@juno.com
+Date: Thu, 18 Jan 2001 11:01:25 -0500
+From: lance1@linkusnow.net
+Content-Length: 1914
+Lines: 61
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Get The Lowest Price On Your New Car Without Negotiating For 
+Hours</title>
+</head>
+
+<body>
+
+<table border="0">
+  <tbody>
+    <tr>
+      <td vAlign="top" align="left" width="224" height="13"><img height="225" 
+src="http://www.linkusnow.net/cars/carpic.jpg" width="224" border="0"></td>
+      <td><font face="VERDANA,ARIAL" color="#0000a0" size="4"><center><b>Get 
+The
+        Lowest Price On Your New Car<br>
+        Without Negotiating For Hours!</b><font size="2">
+        <p>&nbsp;
+        <p align="center">Would you like to get a straight-forward answer 
+from<br>
+        a sales professional that does not have to &quot;check with his
+        manager&quot;?<br>
+        <p>&nbsp;
+        <table border="0">
+          <tbody>
+            <tr>
+              <td align="left"><font color="#ff0000" size="2"><b>
+                <ul>
+                  <li>Prices based on dealer invoice.
+                  <li>No aggravation.
+                  <li>Instant Quotes online.
+                  <li>All brands, new, used, take your pick.</b></font><b>
+                <p>&nbsp;</p>
+                </li>
+                </b>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <font face="VERDANA,ARIAL" color="#0000a0" size="5"><b><a 
+target="_blank" href="http://www.linkusnow.net/cars">Click
+        Here</a>
+        <p>&nbsp;
+        <p><font face="VERDANA,ARIAL" color="#0000a0" size="1"><a 
+href="http://www.linkusnow.net/remove">To
+        be removed from future mailings click here</a></font></p>
+        </b></font></font></center></font></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+
+</html>
+

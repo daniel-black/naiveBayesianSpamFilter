@@ -1,0 +1,201 @@
+Return-Path: <offer1@campaign.mediaring.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 1938 invoked from network); 22 Mar 2001 22:26:52 -0000
+Received: from mrussjex4096.mediaring.com (HELO 198.169.201.64) (216.35.101.96)
+  by em.ca with SMTP; 22 Mar 2001 22:26:52 -0000
+From: MediaRing.com<offer1@campaign.mediaring.com>
+To: bait@em.ca
+Return-Path: offer1@campaign.mediaring.com
+Subject: e-Referral: If you build it, they will come
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=ygj6363baab7d9405293d4c6a64a21757d2
+DATE: Thu, 22 Mar 2001 14:26:52 -0800
+Content-Length: 9647
+Lines: 186
+
+--ygj6363baab7d9405293d4c6a64a21757d2
+Content-Type: text/html; charset=iso-8859-1
+
+<HTML>
+<HEAD>
+<TITLE>March Newsletter</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD> 
+<BODY BGCOLOR=#CCCCCC TOPMARGIN=0 background="v_images/bg.gif">
+<div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><b><font color="#000000"><br>
+  If you are unable to view this email newsletter in HTML format, please cut and 
+  paste the following URL into your web browser. </font></b><font color="#000000"><font size="2">http://www.mediaring.com/domore/newsletter/march/marchL90.html</font></font></font> 
+  <hr>
+  <br>
+</div>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#FF9900"> 
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=marmrlogo"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/logo_04.gif" width="148" height="50" border="0"></a></td>
+          <td>
+<!-- L90 BANNER STARTS HERE! --> <iframe noresize="NORESIZE" frameborder="0" width=468 height=60
+marginwidth="0" marginheight="0" scrolling="NO"
+src="http://ads.admonitor.net/adengine.cgi?F527|1001|1|iframe|C7888|||_admon
+itor"> 
+            <script language="JavaScript"
+src="http://ads.admonitor.net/adengine.cgi?F527|1001|1|jscript|C7888|||_admo
+nitor"></script>
+            <noscript><a 
+href="http://ads.admonitor.net/clicktrack.cgi?F527|1001|1|image2|C7888|||"
+target=_admonitor><img
+src="http://ads.admonitor.net/adengine.cgi?F527|1001|1|image2|C7888|||"
+border=0 width=468 height=60></a></noscript><br>
+            </iframe> <!-- L90 BANNER ENDS HERE!--></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td bgcolor="#660000" width="15">&nbsp;</td>
+    <td bgcolor="#FF9900"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/spacer.gif" width="601" height="10"></td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+      <table width="616" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width=15 bgcolor="#CC6600" ><img src="http://www.mediaring.com/domore/newsletter/march/v_images/spacer.gif" width="15" height="15"></td>
+          <td width=250 bgcolor="#FFCC33" align="center" valign="bottom"> 
+            <table width="200" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td>
+                  <div align="center"><b><font face="Arial, Helvetica, sans-serif"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/title.gif" width="200"> 
+                    </font></b></div>
+                </td>
+              </tr>
+              <tr>
+                <td><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                  <font size="1">Web</font></font><font size="1" face="Arial, Helvetica, sans-serif">m</font><font size="2" face="Arial, Helvetica, sans-serif"><font size="1">asters, community
+                  builders, here's a program 
+                  for you. MediaRing is offering you up to <font size="2"><b>15%</b></font> 
+                  of all calling account sales generated from your web site with 
+                  the <br><font size="2"><b><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=marereferral">e-Referral 
+                  program</a></b></font><b>.</b><br>
+                  <br>
+                  Simply insert an e-Referral Program button on your web page 
+                  and every time a visitor clicks on this button and buys a PC-to-Phone 
+                  calling account, you'll earn a percentage of the sale. <br>
+                  <br>
+                  Best of all, it costs you nothing to join. Click here to find 
+                  out more about this money-making incentive.</font><br>
+                  <br>
+                  </font></td>
+              </tr>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="v_images/spacer.gif" width="230" height="10"></td>
+                <td width="20" height="20"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/coner.gif" width="20" height="20"></td>
+              </tr>
+            </table>
+          </td>
+          <td bgcolor="#FFFFFF" valign="top"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=maingif"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/main.jpg" width="350" height="365" border="0"></a><br>
+            <img src="v_images/spacer.gif" width="350" height="10"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#FFFFFF"> 
+    <td>
+      <table width="616" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width=15 bgcolor="#660000"><img src="v_images/spacer.gif" width="15" height="15"></td>
+          <td width=150 valign="bottom"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr align="center"> 
+                <td><font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font size="4"><b><font color="#CC0000">5 
+                  cents </font></b></font>promo to China continues.</font><br>
+                  <br>
+                  <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=mao" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/chn.jpg" width="100" height="100" border="0"></a> 
+                  </font></td>
+              </tr>
+            </table>
+          </td>
+          <td width=1 bgcolor="CCCCCC"></td>
+          <td width=150><img src="v_images/spacer.gif" width="150" height="5"> 
+            <table width="99%" border="0" cellspacing="10" cellpadding="0">
+              <tr width=149 align="center"> 
+                <td> 
+                  <p><font size="4" face="Arial, Helvetica, sans-serif"><b><font color="#CC0000">3.9 
+                    cents</font></b></font><font size="1" face="Arial, Helvetica, sans-serif"> 
+                    to the US Call the US at only 3.9 cents/min. <br>
+                    <br>
+                    </font><font size="4" face="Arial, Helvetica, sans-serif"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=lincoln" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/us.jpg" width="100" height="100" border="0"></a> 
+                    </font> </p>
+                   
+                  </td>
+              </tr>
+            </table>
+          </td>
+          <td width=1 bgcolor="CCCCCC"><img src="v_images/spacer.gif" width="1" height="1"></td>
+          <td valign="bottom"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr align="center"> 
+                <td><font face="Arial, Helvetica, sans-serif" size="1"><br>
+                  <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=help" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/help.jpg" width="100" height="100" border="0"></a><br>
+                  <br>
+                  Help yourself or help others... <br>
+                  at the MediaRing Help Forum.</font></td>
+              </tr>
+            </table>
+          </td>
+          <td width=1 bgcolor="CCCCCC"><img src="v_images/spacer.gif" width="1" height="1"></td>
+          <td valign="bottom"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr align="center" valign="bottom"> 
+                <td><font size="1" face="Arial, Helvetica, sans-serif"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=vzmania" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/mania.gif" width="100" height="100" border="0"></a> 
+                  <br>
+                  Good laughs.<br>
+                  Good times.</font> <font size="1" face="Arial, Helvetica, sans-serif"> 
+                  </font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td bgcolor="#660000" width="15">&nbsp;</td>
+    <td bgcolor="#FFFFFF"><img src="http://www.mediaring.com/domore/newsletter/march/v_images/spacer.gif" width="601" height="10"></td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#330000" align="right"> 
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<br>
+<hr>
+<div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">MediaRing 
+  takes your privacy seriously. To learn more about MediaRing's use of personal 
+  information, please read our <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=marnewsrowpp">Privacy 
+  Policy</a>.<br>
+  If you do not wish to receive future email newsletters from us, you may unsubscribe 
+  from this mailing list by clicking the link below. <br>
+  Please DO NOT REPLY to this message.<br>
+  <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=marnewsrowreg">http://regsrv.mediaring.com/webpage/</a><br>
+  Copyright &copy2001 MediaRing Ltd. All rights reserved.</font> </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<img src="http://em2.mediaring.com/cgi-bin/em/em2?a=marnewsrowopen" width="1" height="1">
+</BODY>
+</HTML>
+
+--ygj6363baab7d9405293d4c6a64a21757d2--
+.
+

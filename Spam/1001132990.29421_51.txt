@@ -1,0 +1,193 @@
+Return-Path: <mixup2001111@yahoo.com>
+Delivered-To: bfsmedia-bluegoose.kennels@bfsmedia.com
+Received: (qmail 32468 invoked from network); 21 Sep 2001 22:26:10 -0000
+Received: from unknown (HELO exchange-01.kimag.de) (213.69.54.66)
+  by agamemnon.bfsmedia.com with SMTP; 21 Sep 2001 22:26:10 -0000
+Received: from locos.com (gw.kimagintern.de [172.16.0.1]) by exchange-01.kimag.de with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+	id RV6N531J; Fri, 21 Sep 2001 22:02:49 +0200
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 1.3  
+From: MORE WEB TRAFFIC <mixup2001111@yahoo.com>
+To: EXTRA TRAFFIC <abbaness@abbaness.org>
+Cc: 
+Bcc: info@network-2001.net,,,
+Subject: SEARCH ENGINE TRAFFIC
+Content-Length: 7663
+Lines: 173
+
+Dear Webmaster;
+ 
+Are you ready to drive Targeted traffic to your site; open a
+floodgate of targeted visitors ready, willing and able to buy
+from you?
+ 
+Our program works so well, that we will install this program on
+your server with a 100% money back guarantee.
+ 
+If our Search Engine Magic robot fails to bring you at least 5
+first page listing from major search engines in the first 3 weeks
+we refund all of your money, period! (Note Package B customers
+are guaranteed 10 first page listings)
+ 
+Our program will work for just about any web site, and generates
+traffic from the major search engines. So if you sell candy, car
+parts or anything else for that matter, this program can help you
+drive more targeted traffic to your web site from the major
+search engines.
+ 
+We have marketed web businesses for well over 5 years and we have
+tried it all, from top 100 programs, partner programs, pic posts,
+linking and so on. The one thing we have found out, is that some
+of the best paying traffic comes from the major search engines.
+ 
+Three or 4 years ago you could create a doorway page, load that
+page with just keywords, then copy that page a couple of hundred
+times and submit them all to the major engines. In a matter of
+days you would have top listings on all of the major search
+engines. 
+ 
+If you not aware of it, those days are gone forever. Gaining top
+positions on the major search engines is getting harder and
+harder. Besides the fierce competition from millions of new
+sites, the search engines themselves have set a gauntlet of
+hurdles to jump through.
+ 
+Each engine has it's own rules and trying to develop your site to
+their rules is a nightmare. For example you have a nice
+graphical looking site do you really want to add 500 hundred
+words to the front page of the site to meet an engines
+requirements? If your site has frames, Flash, a splash page, or
+developed in ASP are you willing to totally redo your site? Are
+you ready to make significant changes to your site and wait 3
+months or more to see if they work?. Then make additional
+changes and wait another 3 months? Sorry to say, but that is
+frustration you are looking at to get good search engine
+positioning.
+ 
+However, their is a better way!
+ 
+You have heard the phrase " I liked it so much I bought the
+company", well that is what happened. My company has developed
+hundreds of web sites, from simple sites to complex sites for
+Fortune 500 companies. Over the last couple of years our clients
+and ourselves tired of the search engine game. Instead of just
+quitting we decided to do something about it.
+ 
+What we discovered was a group brilliant out of the box thinking
+engineers that developed a totally new way to get top positions
+in the search engines. This team developed a product called
+"Stealth Position"
+ 
+The absolute brilliant part is that once Stealth Position is
+installed on your UNIX server (NT site require mirror site),
+you will never make doorway pages, or submit to the engines
+again!
+ 
+And yes you will get at least 5 first page listing in the first 3
+weeks or you do not pay. (10 first page listings in the first 3
+weeks for package B customers)
+ 
+This is how it works......
+ 
+1. Template Directory. Stealth Position will read who is calling
+for a page. If this page request is from a surfer, they will get
+only your main home page, or what ever page you want served up to
+the public. This also helps protect your doorway pages from
+theft by other web masters. If a search engine spider requests a
+page, Stealth Position will pull a page from a template area on
+your server designed just for that engine's spider.
+ 
+So, search engines like: Excite, Go, Yahoo,
+Google, Northern Light, Fast Search (Alltheweb), WebCrawler,
+Netscape, Hotbot, Ask Jeeves, Lycos, Aolnetfind, Hotbot/Lycos,
+Goto, Search MSN, Direct Hit, MSN UK, MSN Australia, Canada.com,
+Answers.au, Sprinks, Open Directory, Dogpile, FindWhat, and
+About.com get special pages served up just for them.
+ 
+2. Page Creation On The Fly. Once Stealth Position determines
+which spider is calling, the script will pull a random page from
+a template area on your server. Then, it create a page on the
+fly, changing the title, top keywords, lesser important keywords,
+and meta tags. It even changes the document date for that file
+on your server! As a result, the page is designed specifically
+for that spider.
+ 
+3. Page Links Generator. Any good web master knows that it is
+important to add links to their doorway pages. This is how we
+get other important pages spidered. Well, Stealth Position does
+this for you, too. I am not talking about sticking the same
+links time and time again to the bottom of all pages created.
+Stealth Position will generate random links from all directories
+it creates on your server, so this way the spiders will have lots
+of fun crawling hundreds and hundreds of pages on your server.
+ 
+And since all the pages are created on the fly, your chances of
+getting a top spot on a major search engine are very high.
+ 
+This program is truly an 'install and forget' application.
+
+4. Automatic search engines submissions with Cron. Another
+amazing feature is we let your server do the Engine submissions
+for you. With a Cron script Stealth Position will submit to all
+the major engines for you. Indexing is done at a predetermined
+time and date. The program builds a list of URL's from the
+directories and files it creates; over time, it indexes all of
+them to the major search engines. So just set it and forget it.
+You will be indexed week after week and it's all automatic.
+ 
+And remember every time a spider comes in it will see a new file
+document date, and be served with a new page, and new random
+links.
+ 
+5. Submits as a browser; This program also submits all pages to
+the search engines as a web browser. The search engines will
+believe, that all the pages the program is submitting for
+indexing are being submitted right from the web, not from your
+server and definitely not from one of those "$39.95 waste your
+time and money search engine submitters."
+ 
+6. Special Randomizer And Limiter Prevent "Spam alarms". Stealth
+Position is a smart program, and was designed to be search engine
+friendly. The program will wait several seconds between page
+submissions before submitting to the same engine again. This
+avoids getting a "too many pages added" error from the engines,
+and also a possible IP block.
+ 
+7. 80% of our clients come from referrals from other search
+engine placement companies that tired of producing mediocre
+and/or slow results for their clients (their is a good chance you
+are one of them) .
+ 
+8. Want to know more? You have nothing to lose! This complete
+program comes installed on your server with a 100% money back
+guarantee.
+ 
+Packages
+ 
+Package A - Guarantee - Minimum 5 first page listing in 3
+Weeks. Includes 10 - 15 key targeted phrases on one domain.
+Monthly search engine reports for the first 3 months.
+ 
+Package B - Guarantee - Minimum 10 first page listings in
+3 weeks Includes 20 - 30 key targeted phrases setup on two
+domains Also Package B is an unlimited domain license; you may
+have as many domains installed with Stealth Position as you wish
+(all must point to the same domain).
+Monthly search engine reports for the first 3 months
+ 
+For more info please call us toll free at:
+ 
+                   877-306-5773
+ 
+Thank You.
+ 
+ 
+This message is sent in compliance of the new email
+bill section 301.Per Section 301, Paragraph (a)(2)(C) of S. 1618. We
+will comply with all removal requests. To be removed type remove in the
+subject line and mailto:mixup2001111@yahoo.com this is the only way
+to be removed. Hitting reply will NOT remove you.
+

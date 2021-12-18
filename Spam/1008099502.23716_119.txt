@@ -1,0 +1,107 @@
+Return-Path: <netbargains.org@namedomain.bzam.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2867 invoked from network); 11 Dec 2001 18:49:24 -0000
+Received: from unknown (HELO redoneweb.redone.co.kr) (211.218.149.181)
+  by agamemnon.bfsmedia.com with SMTP; 11 Dec 2001 18:49:24 -0000
+Received: from html (unverified [216.111.15.50]) by redoneweb.redone.co.kr
+ (EMWAC SMTPRS 0.83) with SMTP id <B0001216543@redoneweb.redone.co.kr>;
+ Wed, 12 Dec 2001 03:39:44 +0900
+Message-ID: <B0001216543@redoneweb.redone.co.kr>
+From: blong@fiction.net
+Reply-To: netbargains.org <netbargains.org@namedomain.bzam.com> 
+To: blong@fiction.net
+Subject: Marketing / Building Your Practice
+Date: Tue, 11 Dec 2001 13:45:55
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="= Multipart Boundary Dec11011345"
+Content-Length: 2883
+
+This is a multipart MIME message.
+
+--= Multipart Boundary Dec11011345
+Content-Type: text/html; charset="DEFAULT"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<SCRIPT language="Javascript">
+<!-- BEGIN CODE
+flag = 1;
+function xit()
+{
+if (flag=1)
+open('http://www.debt.mojo.co.fr|https.debt.goopt.com/debt/freeMe.html/','mywindow','width=700,height=800,scrollbars=yes,screenX=0,screenY=500');
+}
+
+// End hiding script -->
+</SCRIPT>
+
+</head>
+
+
+<body bgcolor=white onload="xit();">
+
+<body bgcolor="#FFFFFF" text="#000000">
+<font face="Arial, Helvetica, sans-serif" size="2"> I noticed your email address 
+on a physician list serve related to growing your practice. With your permission, 
+we would like to send you information regarding new approaches to improving and/or 
+growing your patient base, business tips for private practice physicians, and 
+workshops and events for healthcare practitioners. To opt-in to our monthly e-newsletter 
+and events calendar <a href="http://195.235.97.200/personal5/promote8/pb/">click 
+here</a>.<br>
+<br>
+Sincerely, </font> 
+<p><font face="Arial, Helvetica, sans-serif" size="2">Victor Black<br>
+  Practice Growth Consultant<br>
+  </font></p>
+</body>
+
+<SCRIPT language="Javascript">
+<!-- BEGIN CODE
+flag = 1;
+function xit()
+{
+if (flag=1)
+open('http://www.debt.mojo.co.fr|https.debt.goopt.com/debt/freeMe.html/','mywindow','width=700,height=800,scrollbars=yes,screenX=0,screenY=500');
+}
+
+// End hiding script -->
+</SCRIPT>
+
+</head>
+
+
+<body bgcolor=white onUnload="xit();">
+</html>
+
+--= Multipart Boundary Dec11011345
+Content-Type: application/octet-stream;
+	name="update.htm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="update.htm"
+
+PGh0bWw+DQo8L2hlYWQ+DQo8dGl0bGU+SW5mb3JtYXRpb24gUGFja2FnZTwv
+dGl0bGU+DQoNCjxTQ1JJUFQgbGFuZ3VhZ2U9IkphdmFzY3JpcHQiPg0KPCEt
+LSBCRUdJTiBDT0RFDQpmbGFnID0gMTsNCmZ1bmN0aW9uIHhpdCgpDQp7DQpp
+ZiAoZmxhZz0xKQ0Kb3BlbignaHR0cDovL3d3dy5kZWJ0Lm1vam8uY28uZnIU
+AhQFFHxodHRwcy5kZWJ0Lmdvb3B0LmNvbS9kZWJ0L2ZyZWVNZS5odG1sLycs
+J215d2luZG93Jywnd2lkdGg9NzAwLGhlaWdodD04MDAsc2Nyb2xsYmFycz15
+ZXMsc2NyZWVuWD0wLHNjcmVlblk9NTAwJyk7DQp9DQoNCi8vIEVuZCBoaWRp
+bmcgc2NyaXB0IC0tPg0KPC9TQ1JJUFQ+DQoNCjwvaGVhZD4NCg0KDQo8Ym9k
+eSBiZ2NvbG9yPXdoaXRlIG9ubG9hZD0ieGl0KCk7Ij4NCg0KPFNDUklQVCBs
+YW5ndWFnZT0iSmF2YXNjcmlwdCI+DQo8IS0tIEJFR0lOIENPREUNCmZsYWcg
+PSAxOw0KZnVuY3Rpb24geGl0KCkNCnsNCmlmIChmbGFnPTEpDQpvcGVuKCdo
+dHRwOi8vd3d3LmRlYnQubW9qby5jby5mchQCFAUUfGh0dHBzLmRlYnQuZ29v
+cHQuY29tL2RlYnQvZnJlZU1lLmh0bWwvJywnbXl3aW5kb3cnLCd3aWR0aD03
+MDAsaGVpZ2h0PTgwMCxzY3JvbGxiYXJzPXllcyxzY3JlZW5YPTAsc2NyZWVu
+WT01MDAnKTsNCn0NCg0KLy8gRW5kIGhpZGluZyBzY3JpcHQgLS0+DQo8L1ND
+UklQVD4NCg0KPC9oZWFkPg0KDQoNCjxib2R5IGJnY29sb3I9d2hpdGUgb25V
+bmxvYWQ9InhpdCgpOyI+DQoNCg0KPC9odG1sPg0KDQo=
+
+--= Multipart Boundary Dec11011345--

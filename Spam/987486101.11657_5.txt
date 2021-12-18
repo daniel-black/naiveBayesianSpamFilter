@@ -1,0 +1,471 @@
+Return-Path: <partrik65@hotmail.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 27928 invoked from network); 17 Apr 2001 04:14:56 -0000
+Received: from smtp-out003.onemain.com (HELO smtp02.mail.onemain.com) (63.208.208.73)
+  by bfsmedia.sk.ca with SMTP; 17 Apr 2001 04:14:55 -0000
+Received: (qmail 11917 invoked from network); 17 Apr 2001 04:14:02 -0000
+Received: from ip216-26-44-52.dsl.du.teleport.com (HELO Received:?from?nwcst313.netaddress.usa.net??204.68.23.58??) ([216.26.44.52]) (envelope-sender <partrik65@hotmail.com>)
+          by smtp02.mail.onemain.com (qmail-ldap-1.03) with SMTP
+          for <goonedout@webtv.net>; 17 Apr 2001 04:14:02 -0000
+Message-ID: <00003063103b$000051f0$00007b3e@Received: from nwcst313.netaddress.usa.net (204.68.23.58) >
+To: <BargainHunter>
+From: partrik65@hotmail.com
+Subject: Mortgage Rates DROP! Lenders COMPETE for your Business!!
+Date: Mon, 16 Apr 2001 21:17:53 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Length: 12665
+Lines: 448
+
+<html>
+
+<head>
+
+<META NAME=3D"GENERATOR" CONTENT=3D"Arachnophilia 3.9">
+<META NAME=3D"FORMATTER" CONTENT=3D"Arachnophilia 3.9">
+
+<title>Lender's Network</title>
+
+<style fprolloverstyle>A:hover {color: #FF0000}
+
+</style>
+
+</head>
+
+<body bgcolor=3D"tan" background=3D"">
+
+<B><CENTER><FONT SIZE=3D"5" COLOR=3D"#000000" FACE=3D"Times New Roman"><U>=
+<B><CENTER>The Lenders Network!</CENTER></B></U></FONT></CENTER></B>
+
+<th align=3D"center" nowrap width=3D"334" height=3D"190" valign=3D"top">
+<p>
+<h3 align=3D"center"><font color=3D"#000000"><font face=3D"Tahoma"> Where =
+mortgage lenders compete for
+
+</font><b><i><u><font face=3D"Tahoma"> your</font></u></i></b><font face=3D=
+"Tahoma">
+
+ business!
+<center><h3><font color=3D#0000ff>Current Information For</h3></center>
+<SCRIPT language=3DJavaScript>
+<!--
+
+// Begin
+
+var months=3Dnew Array(13);
+
+months[1]=3D"January";
+
+months[2]=3D"February";
+
+months[3]=3D"March";
+
+months[4]=3D"April";
+
+months[5]=3D"May";
+
+months[6]=3D"June";
+
+months[7]=3D"July";
+
+months[8]=3D"August";
+
+months[9]=3D"September";
+
+months[10]=3D"October";
+
+months[11]=3D"November";
+
+months[12]=3D"December";
+
+var time=3Dnew Date();
+
+var lmonth=3Dmonths[time.getMonth() + 1];
+
+var date=3Dtime.getDate();
+
+var year=3Dtime.getYear();
+
+
+
+// Y2K Fix by Isaac Powell
+
+// http://onyx.idbsu.edu/~ipowell
+
+
+
+if ((navigator.appName =3D=3D "Microsoft Internet Explorer") && (year < 20=
+00))
+
+year=3D"19" + year;
+
+if (navigator.appName =3D=3D "Netscape")
+
+year=3D1900 + year;
+
+document.write("<center>" + lmonth + " ");
+
+document.write(date + ", " + year + "</center>");
+
+// End
+
+// --></SCRIPT>
+</font>
+<table border=3D"0" width=3D"750">
+
+  <tr>
+
+    <td width=3D"389" height=3D"190" valign=3D"top"><b><font face=3D"Arial=
+" color=3D"#000000"><br>
+
+      The "Lenders Network" is a 100% FREE TO BUYER Service.  Fill in our =
+<a href=3D"#form">
+
+ <i><font color=3D#0000ff>5 Minute quote request form</font></i></a> and w=
+e will instantly submit your loan request to
+
+      our competing lenders!</font></b><p><font face=3D"Arial" color=3D"#0=
+00000">The<b>
+
+      financial experts</b> comprising the "Lender's Network" represent hu=
+ndreds of loan programs, <br>
+including</font></p>
+
+      <blockquote>
+        <blockquote>
+          <ul>
+            <li><b> <font face=3D"Arial" color=3D"#000000"> purchase loans=
+</font></b></li>
+            <li><b><font face=3D"Arial" color=3D"#000000">refinance</font>=
+</b></li>
+            <li><b><font face=3D"Arial" color=3D"#000000">debt
+              consolidation</font></b></li>
+            <li><b><font face=3D"Arial" color=3D"#000000">home improvement=
+&nbsp;</font></b></li>
+            <li><b><font face=3D"Arial" color=3D"#000000">second mortgages=
+</font></b></li>
+            <li><b><font face=3D"Arial" color=3D"#000000">no income
+              verification</font></b></li>
+          </ul>
+        </blockquote>
+      </blockquote>
+
+		<td>
+			<p><font face=3D"Arial">Our Network of Lenders are <b><u>Licensed and R=
+egistered</u></b> to do business in all 50 U.S. States.  You will often be=
+ <b><u>contacted with an offer</u></b> the very same day you fill out the =
+form!<P>
+
+<u><b><font color=3D#0000ff>NEVER SETTLE FOR A SINGLE QUOTE!</font></b></u=
+><p>
+
+
+<p><font face=3D"Arial"> You can save <i><b><u>Thousands Of Dollars</u></b=
+></i> over the course of your loan with just a 1/4 of 1% Drop in your rate=
+!  The information you provide to
+our extensive database of <b>Financial Experts</b> will result in offer's =
+meeting the exact criterion you requested.</font><br><p>
+
+<font color=3D#0000ff><b>Get MULTIPLE OFFER'S and get the loan you want...=
+and DESERVE!</b></font><br>
+		</td>
+
+
+      </p>
+
+</table>
+
+
+
+<script language=3D"JavaScript">
+<!--
+function validate_form() {
+	validity =3D true; // assume valid
+	if (!check_empty(document.form.Name.value))
+	{ validity =3D false; alert('Name field is empty!'); }
+	if (!check_empty(document.form.Address.value))
+	{ validity =3D false; alert('Address field is empty!'); }
+	if (!check_empty(document.form.City.value))
+	{ validity =3D false; alert('City field is empty!'); }
+	if (!check_empty(document.form.PostalCode.value))
+	{ validity =3D false; alert('Zip Code field is empty!'); }
+	if (!check_empty(document.form.HPhone.value))
+	{ validity =3D false; alert('Home Phone field is empty!'); }
+	if (!check_empty(document.form.WPhone.value))
+	{ validity =3D false; alert('Work Phone field is empty!'); }
+	if (!check_empty(document.form.PropertyValue.value))
+	{ validity =3D false; alert('Property Value field is empty!'); }
+	if (!check_empty(document.form.Mortgage1.value))
+	{ validity =3D false; alert('Current Mortgage field is empty!'); }
+	if (!check_empty(document.form.PurchasePrice.value))
+	{ validity =3D false; alert('Purchase Price field is empty!'); }
+	if (!check_empty(document.form.YearAquired.value))
+	{ validity =3D false; alert('Year Aquired field is empty!'); }
+	if (!check_empty(document.form.Employer.value))
+	{ validity =3D false; alert('Employer field is empty!'); }
+	if (!check_empty(document.form.BorrowRequest.value))
+	{ validity =3D false; alert('Amount to borrow field is empty!'); }
+	if (!check_empty(document.form.CurrentIntRate.value))
+	{ validity =3D false; alert('Interest Rate Field is empty!'); }
+	if (!check_empty(document.form.MonthlyGrIncome.value))
+	{ validity =3D false; alert('Monthly Gross Income field is empty!'); }
+	if (!check_empty(document.form.MonthlyDebt.value))
+	{ validity =3D false; alert('Monthly Debt field is empty!'); }
+	(validity)
+	alert ("Thank you for your registration! "
+		+ "Your form is now being passed to your browser's "
+		+ "Mail Delivery Sub-System for NORMAL"
+		+ " NON-ENCRYPTED email delivery."
+		+ " All email addresses are removed from our system"
+	+ " upon registration. Please click OK to proceed");
+	return validity;
+}
+function check_empty(text) 
+	{
+	return (text.length > 0); // returns false if empty
+} // -->
+</script>
+
+<CENTER><B><font face=3D"Tahoma" size=3D"2">THIS<a name=3D"form"></a> FORM=
+ IS FOR A <U>HOME LOAN</U> REQUEST ONLY</B></CENTER></P>
+
+        <p><font size=3D"2" face=3D"Tahoma"><B><U>* All fields are require=
+d; please enter
+
+        "N/A"  in those fields which do not apply to your circumstances.</=
+U></B></font>
+<!-- CHANGE EMAIL ADDRESS IN ACTION OF FORM -->
+<form name=3D"form"
+method=3D"post"
+action=3D"mailto:fourteen77@uole.com?SUBJECT=3DMortgage Contact 2"
+enctype=3D"text/plain"
+onSubmit=3D"return validate_form()">
+<table BORDER CELLPADDING=3D2 WIDTH=3D"500" BGCOLOR=3D"#CDCDCD" >
+<tr>
+<td NOWRAP WIDTH=3D"225"></td>
+
+<td WIDTH=3D"275" BGCOLOR=3D"#CDCDCD"></td>
+</tr>
+
+<tr>
+<td>Name:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"Name" VALUE=3D"" SIZE=
+=3D"29" MAXLENGTH=3D"60">*</td>
+</tr>
+
+<tr>
+<td>Address:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"Address" VALUE=3D"" S=
+IZE=3D"29" MAXLENGTH=3D"50">*</td>
+</tr>
+
+<tr>
+<td>City:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"City" VALUE=3D"" ID=3D=
+"City" SIZE=3D"29" MAXLENGTH=3D"30">*</td>
+</tr>
+
+<tr>
+<td>State(US Only):</td>
+
+<td BGCOLOR=3D"#CDCDCD"><select NAME=3D"State" SIZE=3D"1" ID=3D"State"><op=
+tion VALUE=3D"AK">AK<option VALUE=3D"AR">AR<option VALUE=3D"AZ">AZ<option =
+VALUE=3D"CA">CA<option VALUE=3D"CO">CO<option VALUE=3D"CT">CT<option VALUE=
+=3D"DC">DC<option VALUE=3D"DE">DE<option VALUE=3D"FL">FL<option VALUE=3D"G=
+A">GA<option VALUE=3D"HI">HI<option VALUE=3D"IA">IA<option VALUE=3D"ID">ID=
+<option VALUE=3D"IL">IL<option VALUE=3D"IN">IN<option VALUE=3D"KS">KS<opti=
+on VALUE=3D"KY">KY<option VALUE=3D"LA">LA<option VALUE=3D"MA">MA<option VA=
+LUE=3D"MD">MD<option VALUE=3D"ME">ME<option VALUE=3D"MI">MI<option VALUE=3D=
+"MN">MN<option VALUE=3D"MO">MO<option VALUE=3D"MS">MS<option VALUE=3D"MT">=
+MT<option VALUE=3D"NC">NC<option VALUE=3D"ND">ND<option VALUE=3D"NE">NE<op=
+tion VALUE=3D"NH">NH<option VALUE=3D"NJ">NJ<option VALUE=3D"NM">NM<option =
+VALUE=3D"NV">NV<option VALUE=3D"NY">NY<option VALUE=3D"OH">OH<option VALUE=
+=3D"OK">OK<option VALUE=3D"OR">OR<option VALUE=3D"PA">PA<option VALUE=3D"R=
+I">RI<option VALUE=3D"SC">SC<option VALUE=3D"SD">SD<option VALUE=3D"TN">TN=
+<option VALUE=3D"TX">TX<option VALUE=3D"UT">UT<option VALUE=3D"VA">VA<opti=
+on VALUE=3D"VT">VT<option VALUE=3D"WA">WA<option VALUE=3D"WI">WI<option VA=
+LUE=3D"WV">WV<option VALUE=3D"WY">WY&nbsp;</select>*</td>
+</tr>
+
+<tr>
+<td>Zip/Postal Code:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"PostalCode" VALUE=3D"=
+" SIZE=3D"11" MAXLENGTH=3D"10">*</td>
+</tr>
+
+<tr>
+<td>Home Phone:&nbsp;</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"text" NAME=3D"HPhone" SIZE=3D"12" M=
+AXLENGTH=3D"12">*</td>
+</tr>
+
+<tr>
+<td>Work Phone:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"text" NAME=3D"WPhone" SIZE=3D"12" M=
+AXLENGTH=3D"12">*</td>
+</tr>
+
+<tr>
+<td>Email Address:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><input TYPE=3D"TEXT" NAME=3D"Email" VALUE=3D"" SIZ=
+E=3D"20" MAXLENGTH=3D"100">*</td>
+</tr>
+
+<tr>
+<td>Best Time to Call:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><select NAME=3D"CallTime" SIZE=3D"1"><option VALUE=
+=3D"Morning at Home">Morning
+at Home<option VALUE=3D"Morning at Work">Morning at Work<option VALUE=3D"A=
+fternoon at Home">Afternoon
+at Home<option VALUE=3D"Afternoon at Work">Afternoon at Work<option VALUE=3D=
+"Evening at Home">Evening
+at Home<option VALUE=3D"Late Evening at Work">Late Evening at Home</select=
+>*</td>
+</tr>
+<tr>
+<td>Do You Own Your Home?</td>
+
+<td><select NAME=3D"Homeowner"><option value=3D"Yes">Yes</option><option v=
+alue=3D"No">No</option></select><b><font size=3D-2>Mobile
+Homes DO NOT Qualify</font></b></td>
+</tr>
+
+<tr>
+<td>Current Property Value:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"PropertyValue" VALUE=3D"" SIZE=3D"14" MAX=
+LENGTH=3D"100">*
+<b><font size=3D-2></font></b></td>
+</tr>
+
+<tr>
+<td>1st Mortgage Owed:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"Mortgage1" VALUE=3D"" SIZE=3D"14" MAXLENG=
+TH=3D"100">*&nbsp;</td>
+</tr>
+
+<tr>
+<td>2nd Mortgage Owed:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"Mortgage2" VALUE=3D"" SIZE=3D"14" MAXLENG=
+TH=3D"100">*
+<b><font size=3D-2>If Applicable or "NA"</font></b></td>
+</tr>
+
+<tr>
+<td>Mortgage Type:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><select NAME=3D"FirstType" SIZE=3D"1"><option VALU=
+E=3D"Fixed">Fixed<option VALUE=3D"Adjustable">Adjustable</select>*</td>
+</tr>
+
+<tr>
+<td>Purchase Price:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"PurchasePrice" VALUE=3D"" SIZE=3D"14" MAX=
+LENGTH=3D"100">*&nbsp;</td>
+</tr>
+
+<tr>
+<td>Year Acquired:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"YearAcquired" VALUE=3D"" SIZE=3D"14" MAXL=
+ENGTH=3D"100">*&nbsp;</td>
+</tr>
+
+<tr>
+<td>Property Type:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><select NAME=3D"PropertyType" SIZE=3D"1"><option V=
+ALUE=3D"Single Family Residence">Single Family Residence<option VALUE=3D"C=
+ondo">Condo<option VALUE=3D"Townhouse">Townhouse<option VALUE=3D"2-4 Plex"=
+>2-4 Plex<option VALUE=3D"Other">Other</select>*</td>
+</tr>
+
+<tr>
+<td>Employer:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"Employer" VALUE=3D"" SIZE=3D"14" MAXLENGT=
+H=3D"100">*&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>Amount You Wish To Borrow:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"BorrowRequest" VALUE=3D"" SIZE=3D"14" MAX=
+LENGTH=3D"100">*</td>
+</tr>
+
+<tr>
+<td>Interest Rate on Current Mortgage:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"CurrentIntRate" VALUE=3D"" SIZE=3D"14" MA=
+XLENGTH=3D"100">*</td>
+</tr>
+
+<tr>
+<td>Monthly Gross Household Income:</td>
+
+<td><input TYPE=3D"TEXT" NAME=3D"MonthlyGrIncome" VALUE=3D"" SIZE=3D"14" M=
+AXLENGTH=3D"100">*</td>
+</tr>
+
+<tr>
+<td>Monthly Debt <font size=3D-2>(excluding current mortgage(s))</font></t=
+d>
+
+<td><input TYPE=3D"TEXT" NAME=3D"MonthlyDebt" VALUE=3D"" SIZE=3D"14" MAXLE=
+NGTH=3D"100">*</td>
+</tr>
+
+<tr>
+<td NOWRAP WIDTH=3D"225">Credit Rating:</td>
+
+<td WIDTH=3D"275" BGCOLOR=3D"#CDCDCD"><select NAME=3D"CreditRating"><optio=
+n value=3D"Please Select">Please
+Select</option><option value=3D"Excellent">Excellent</option><option value=
+=3D"Good">Good</option><option value=3D"Fair">Fair</option><option value=3D=
+"Poor">Poor</option></select>*</td>
+</tr>
+
+<tr>
+<td>Loan Interested In:</td>
+
+<td BGCOLOR=3D"#CDCDCD"><select NAME=3D"LoanInterested"><option VALUE=3D"C=
+onsolidation">Debt
+Consolidation</option><option VALUE=3D"Second">Second Mortgage (Home Equit=
+y)</option><option VALUE=3D"Improvement">Home
+Improvement</option><option VALUE=3D"Refinance">Refinance</option><option =
+VALUE=3D"Purchase">Purchase</option></select>*</td>
+</tr>
+</table><p>
+
+<input Type=3D"Submit" VALUE=3D"Submit Form" name=3D"Submit">&nbsp;<input =
+Type=3D"Reset" VALUE=3D"Clear Form"></form>
+<p>
+<hr WIDTH=3D"100%">
+<center>Email List Removal
+<br><b><a href=3D"mailto:fourteen77@uole.com?subject=3Dremove">Click Here<=
+/a></b></center>
+
+</body>
+</html>
+
+
+
+
+

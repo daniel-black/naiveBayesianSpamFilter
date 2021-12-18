@@ -1,0 +1,75 @@
+Return-Path: <linux-kernel-owner@vger.kernel.org>
+Delivered-To: bruce-lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 14220 invoked from network); 26 Mar 2001 10:29:40 -0000
+Received: from vger.kernel.org (199.183.24.194)
+  by bruce-guenter.dyndns.org with SMTP; 26 Mar 2001 10:29:40 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id <S132400AbRCZKYn>; Mon, 26 Mar 2001 05:24:43 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org
+	id <S132405AbRCZKYd>; Mon, 26 Mar 2001 05:24:33 -0500
+Received: from web13603.mail.yahoo.com ([216.136.175.114]:38919 "HELO
+	web13603.mail.yahoo.com") by vger.kernel.org with SMTP
+	id <S132400AbRCZKYU>; Mon, 26 Mar 2001 05:24:20 -0500
+Message-ID: <20010326102339.49945.qmail@web13603.mail.yahoo.com>
+Received: from [193.251.130.96] by web13603.mail.yahoo.com; Mon, 26 Mar 2001 02:23:39 PST
+Date:	Mon, 26 Mar 2001 02:23:39 -0800 (PST)
+From:	mani elisabeth <eli_mani@yahoo.com>
+Subject: ASSISTANCE
+To:	linux-kernel@vger.kernel.org
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1757
+
+FROM : MRS ELIZABETH NKEIRU-MANI
+
+RE : MONEY TRANSFER.
+
+Dear Sir, 
+
+I know my message will come to you as a surprise.
+Don’t worry I was totally convinced to write you in
+reference of the transfer of US$23 M to your account
+for onward investment (hotel industries) in your
+country. I am Mrs ELIZABETH NKEIRU MANI the second
+wife of the former chief of defence-staff late General
+HANIS MANI MANI of Guinea Bissau. My late husband was
+killed just last year December following his role as a
+rebel leader against the past government of Guinea
+Bissau as of 1998. Following this political crisis, we
+were forced to leave our country to Abidjan the
+capital city of Cote d’Ivoire for our life sake. It is
+here in Abidjan he deposited this said money in a
+private security company as a family valuables. We got
+to know about this information and as well able to
+recover all the relevant documents regards to this
+deposits through his foreign adviser here in Abidjan.
+If you are thus and truly disposed to assist us in
+transferring of this fund kindly write me through my
+e-mail address. More information about the lifting of
+this funds legally follows immediately after your and
+positive reply. 
+
+NB: Please kindly contact my son JAMES with interest
+on phone number (225) 07-60-29-61.
+
+Thank “you for your maximum co-operation.
+
+MRS ELIZABETH NKEIRU MANI For the family.
+
+
+
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail. 
+http://personal.mail.yahoo.com/
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

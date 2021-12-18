@@ -1,0 +1,98 @@
+Return-Path: <adam.brett@mail.internetseer.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4494 invoked from network); 31 Jul 2001 21:46:16 -0000
+Received: from unknown (HELO internetseer.com) (198.139.155.33)
+  by em.ca with SMTP; 31 Jul 2001 21:46:16 -0000
+Received: (qmail 25062 invoked by alias); 31 Jul 2001 21:42:09 -0000
+Received: from unknown (HELO uranus) (198.139.155.32)
+  by 198.139.155.33 with SMTP; 31 Jul 2001 21:42:09 -0000
+Message-ID: <7542354.996615937774.JavaMail.promon@uranus>
+Date: Tue, 31 Jul 2001 17:45:37 -0400 (EDT)
+From: adam.brett@mail.internetseer.com
+Reply-To: cs-adam.brett@mail.internetseer.com
+To: bruceg@em.ca
+Subject: Your Web Site is Not Responding
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_592_7364874.996615937772"
+Content-Length: 3641
+
+------=_Part_592_7364874.996615937772
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+There appears to be a problem in reaching your Web site at
+http://www.myxa.com/elm.html.
+
+   Time of Error: 2001-07-31 17:45:34
+   Error Type: 404 Not Found
+
+InternetSeer, a Web site monitoring company, is conducting an
+ongoing study of the true connectivity of the Web. As recommended
+by the Robots Guidelines, this email is being sent to explain our
+research activities and to let you know about the difficulty in
+connecting to your site.
+
+If you would like InternetSeer to continue to alert you at no charge
+whenever there is a problem reaching your Web site, click here:
+http://scclick.internetseer.com/sitecheck/clickthrough.jsp?I5s57f5g5l5e5j55V5qVwWRIp21M5vVH5d6v6u55P5qQxPz5m5c5eTUK5aHAU6u5d6vNN5bRIC5bQxHI52P5s5d=e3
+
+InternetSeer does not store or publish the content of your pages,
+but rather uses availability and link information for our research.
+
+Click here to learn more about InternetSeer.
+http://scclick.internetseer.com/sitecheck/clickthrough.jsp?I5s57f5g5l5e5j55V5qVwWRIp31M5vVH5d6v6u55P5qQxPz5m5c5eTUK5aHAU6u5d6vNN5bRIC5bQxHI52P5s5e=e3
+
+Adam Brett
+Survey Manager
+cs-adam.brett@mail.internetseer.com
+
+Note: If you prefer not to receive these occasional alerts regarding
+the availability of your Web site, reply to this email with Cancel
+in the subject line. Please leave a full copy of this message in the
+body of your reply email.
+
+##bruceg@em.ca##
+
+
+------=_Part_592_7364874.996615937772
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<html>
+        <head>
+                <title>Your Web Site is Not Responding</title>
+        </head>
+        <body>
+                There appears to be a problem in reaching your Web site at <a href="http://www.myxa.com/elm.html">http://www.myxa.com/elm.html</a>.
+        
+        <blockquote>
+                <p><b>Time of Error</b>: 2001-07-31 17:45:34<br>
+                   <b>Error Type</b>: 404 Not Found
+        </blockquote>
+
+                <p>InternetSeer, a Web site monitoring company, is conducting an ongoing study
+                of the true connectivity of the Web. As recommended by the Robots Guidelines, this email is
+        being sent to explain our research activities and to let you know about the difficulty
+        in connecting to your site.&nbsp;
+
+                <p>If you would like InternetSeer to continue to alert you at no charge whenever there is a
+                problem reaching your Web site, <a href="http://scclick.internetseer.com/sitecheck/clickthrough.jsp?I5s57f5g5l5e5j55V5qVwWRIp21M5vVH5d6v6u55P5qQxPz5m5c5eTUK5aHAU6u5d6vNN5bRIC5bQxHI52P5s5d=e3"> click here</a>.&nbsp;
+
+                <p><b>
+                InternetSeer does not store or publish the content of your pages</b>, but rather uses
+                availability and link information for our research.<p><a href="http://scclick.internetseer.com/sitecheck/clickthrough.jsp?I5s57f5g5l5e5j55V5qVwWRIp31M5vVH5d6v6u55P5qQxPz5m5c5eTUK5aHAU6u5d6vNN5bRIC5bQxHI52P5s5e=e3">Click
+        here</a> to learn more about InternetSeer.
+
+                <p>Adam Brett<br>
+                Survey Manager<br>
+                <a href="mailto:cs-adam.brett@mail.internetseer.com">cs-adam.brett@mail.internetseer.com</a>
+
+        <p><font size="2">Note: If you prefer not to receive these occasional alerts regarding the availability of your
+        Web site, reply to this email with Cancel in the subject line. Please leave a full copy of
+        this message in the body of your reply email.<br>
+       </font>##bruceg@em.ca##
+       </body>
+</html>
+------=_Part_592_7364874.996615937772--
+

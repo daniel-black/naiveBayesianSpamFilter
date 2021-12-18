@@ -1,0 +1,51 @@
+Return-Path: <owner-openssl-dev@openssl.org>
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 25192 invoked from network); 14 Sep 2001 23:39:40 -0000
+Received: from ossp1.ossp.org (HELO ossp.org) (62.208.181.50)
+  by lorien.untroubled.org (192.168.1.3) with ESMTP; 14 Sep 2001 23:39:40 -0000
+Received: by mail.ossp.org (Sendmail 8.11.0+/smtpfeed 1.12) for openssl-dev-L2
+	id f8ENb9S33366; Sat, 15 Sep 2001 01:37:09 +0200 (CEST)
+Received: by mail.ossp.org (Sendmail 8.11.0+) via ESMTP for <openssl-dev-L@ossp.org>
+	from opensource.ee.ethz.ch id f8ENb8W33363; Sat, 15 Sep 2001 01:37:08 +0200 (CEST)
+Received: by en5.engelschall.com (Sendmail 8.9.2/smtpfeed 1.06) for openssl-dev-L
+	id BAA09964; Sat, 15 Sep 2001 01:36:10 +0200 (MET DST)
+Received: by en5.engelschall.com (Sendmail 8.9.2) via ESMTP for <openssl-dev@openssl.org>
+	from coveryourbases.com id BAA09956; Sat, 15 Sep 2001 01:36:02 +0200 (MET DST)
+Received: from mail.teddybearden.com by coveryourbases.com
+	with SMTP (MDaemon.v3.5.7.R)
+	for <openssl-dev@openssl.org>; Fri, 14 Sep 2001 16:35:08 -0700
+To: openssl-dev@openssl.org
+From: "The Teddy Bears Den www.teddybearsden.com"<info@teddybearden.com>
+Date: Thu, 14 Sep 100 16:37:45 -0700
+Subject: Free Teddy Screen Saver at the Teddy Bears Den
+X-Mailer: mail.teddybearden.com
+X-Return-Path: info@teddybearden.com
+X-MDaemon-Deliver-To: openssl-dev@openssl.org
+Message-ID: <MDAEMON-F200109141635.AA350495md50000039526@coveryourbases.com>
+Sender: owner-openssl-dev@openssl.org
+Precedence: bulk
+Reply-To: openssl-dev@openssl.org
+X-Sender: "The Teddy Bears Den www.teddybearsden.com"<info@teddybearden.com>
+X-List-Manager: OpenSSL Majordomo [version 1.94.4]
+X-List-Name: openssl-dev
+Content-Length: 681
+
+Hello from the Teddy Bears Den,
+
+We were just writing to tell you about our free Teddy Bear Screen Saver. You can download it at:
+
+http://www.teddybearsden.com/screensaver/installden.exe
+
+or just visit our site to learn more about the art of making your own bears. 
+
+We hope this email wasn't an inconvenience. 
+
+Thanks... the bear team.
+A home for bearaholics everywhere.
+www.teddybearsden.com
+
+
+______________________________________________________________________
+OpenSSL Project                                 http://www.openssl.org
+Development Mailing List                       openssl-dev@openssl.org
+Automated List Manager                           majordomo@openssl.org

@@ -1,0 +1,117 @@
+Return-Path: <listmaster@specialtysalesonline.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 27451 invoked from network); 28 Mar 2001 20:11:18 -0000
+Received: from unknown (HELO db3.specialtysalesonline.com) (204.118.192.198)
+  by bfsmedia.sk.ca with SMTP; 28 Mar 2001 20:11:18 -0000
+Received: (from root@localhost)
+	by db3.specialtysalesonline.com (8.11.0/8.11.0) id f2SKASF10432;
+	Wed, 28 Mar 2001 15:10:28 -0500
+Date: Wed, 28 Mar 2001 15:10:28 -0500
+From: Specialty Online Sales <listmaster@specialtysalesonline.com>
+Message-Id: <200103282010.f2SKASF10432@db3.specialtysalesonline.com>
+Content-Type: multipart/alternative;
+    boundary="----------=_985810227-9993-36274"
+Content-Transfer-Encoding: binary
+Mime-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+To: gn@bfsmedia.com
+Subject: Join Shopping & Investing Club...
+Comments: ****52616e646f6d4956ef4ec2382117a0b3168c5ebb9177bab7e05a4399615146227a36b1f4b0ea9529
+Content-Length: 6237
+Lines: 95
+
+This is a multi-part message in MIME format...
+
+------------=_985810227-9993-36274
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+This is not Junk Mail. See our Anti-Spam Alert below...
+
+This is an invitation for you to review the newest concepts in both
+Shopping and Investing. Visit our web site at
+http://specialtysalesonline.com/cgi-bin/redirect.cgi?52616e646f6d495692206e041d748a6512dd87d49079a0f0ec8e03d38db88d1e and
+review these concepts to see if they fit into your style. Click on the
+link to seamlessly explore.
+
+SHOPPING: Each month SpecialtyOnlineSales.com will present a category of
+products (usually four to six items), direct from the manufacturer to
+you. There will be a limited quantity of these items available for a
+limited time. You can review and make a selection by clicking onto our
+store at Yahoo.com. Your purchase will be shipped directly to your home
+or office. Then, each month, we will send you an e-mail itemizing the
+newest selections.
+
+INVESTING: Are you an online investor? Do you want to gain an edge on
+the big boys? SpecialtyOnlineSales.com is a clearinghouse for an
+Investing Consortium. You still do all of your own investing and handle
+all of your own money, but you do it in consort with many other club
+members. SOS2001.net is a consortium of independent traders interested
+in maximizing their investment potential by acting as a collective
+block. Volume of trading can influence price and subsequent
+participation. Click on our site to review this newest concept.
+
+ANTI-SPAM ALERT: This e-mail invitation was sent to you because at some
+time you opted-into a list and asked to receive information on special
+offers. If this e-mail is not acceptable to you, please reply by
+clicking the link below and we will remove you immediately from any
+further mailings. Click here:
+http://sos2001.net/cgi-bin/optout.cgi?52616e646f6d495692206e041d748a6512dd87d49079a0f0ec8e03d38db88d1e
+
+------------=_985810227-9993-36274
+Content-Type: text/html
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<title>Join Shopping &amp; Investing Clubs...</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<p><font size="2" face="Verdana, Arial">This is not Junk 
+Mail. See our <font color="#006600"><b>Anti-Spam Alert</b></font> below...</font></p>
+<p><font size="2" face="Verdana, Arial">This is an invitation for you to review the newest concepts in both Shopping and Investing. Visit our web site at <a href="http://sos2001.net/cgi-bin/redirect.cgi?52616e646f6d4956748d00d1501759e92b466f96560174def7952b1790fb278a"><font color="#CC0000"><b>SpecialtyOnlineSales.com</b></font></a> and review these concepts to see if they fit into your style. Click on the link to seamlessly explore.</font><br>
+</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td><img src="http://store6.yimg.com/I/sos2000_1628_679728" width="24" height="21"></td>
+<td><font size="5" color="#CC0000" face="Verdana, Arial"><u>S<font size="4">HOPPING</font>:</u></font></td>
+</tr>
+<tr> 
+<td>&nbsp;</td>
+<td bgcolor="#FFE6E6"><font size="2" face="Verdana, Arial">Each month <a href="http://sos2001.net/cgi-bin/redirect.cgi?52616e646f6d4956748d00d1501759e92b466f96560174def7952b1790fb278a"><font color="#CC0000"><b>SpecialtyOnlineSales.com</b></font></a> will present a category of products (usually four to six items), direct from the manufacturer to you. There will be a limited quantity of these items available for a limited time. You can review and make a selection by clicking onto our store at <b><a href="http://sos2001.net/cgi-bin/redirect.cgi?52616e646f6d4956748d00d1501759e92b466f96560174def7952b1790fb278a"><font color="#CC0000">Yahoo.com</font></a></b>. Your purchase will be shipped directly to your home or office. Then, each month, we will send you an e-mail itemizing the newest selections.</font></td>
+</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td> 
+<img src="http://store6.yimg.com/I/sos2000_1628_679728" width="24" height="21">
+</td>
+<td><font size="5" color="#003399" face="Verdana, Arial"><u>I<font size="4">NVESTING</font>:</u></font></td>
+</tr>
+<tr> 
+<td>&nbsp;</td>
+<td bgcolor="#E6EEFF"> 
+<p><font size="2" face="Verdana, Arial">Are you an online investor? Do you want to gain an edge on the <i>big boys</i>? <a href="http://sos2001.net/cgi-bin/redirect.cgi?52616e646f6d4956748d00d1501759e92b466f96560174def7952b1790fb278a"><font color="#003399"><b>SpecialtyOnlineSales.com</b></font></a> is a clearinghouse for an Investing Consortium. You still do all of your own investing and handle all of your own money, but you do it in consort with many other club members. <a href="http://sos2001.net/cgi-bin/redirect.cgi?52616e646f6d4956748d00d1501759e92b466f96560174def7952b1790fb278a"><font color="#003399"><b>SOS2001.net</b></font></a> is a consortium of independent traders interested in maximizing their investment potential by acting as a collective block. Volume of trading can influence price and subsequent participation. Click on our site to review this newest concept.</font></p>
+</td>
+</tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td><img src="http://store6.yimg.com/I/sos2000_1628_679728" width="24" height="21"></td>
+<td><font size="5" color="#006600" face="Verdana, Arial"><u>A<font size="4">NTI</font>-S<font size="4">PAM</font> A<font size="4">LERT</font>:</u></font></td>
+</tr>
+<tr> 
+<td>&nbsp;</td>
+<td bgcolor="#E6FFE6"><font size="2" face="Verdana, Arial">This e-mail invitation was sent to you because at some time you opted-into a list and asked to receive information on special offers. If this e-mail is not acceptable to you, please reply by clicking the link below and we will remove you immediately from any further mailings. Click here: <a href="http://sos2001.net/cgi-bin/optout.cgi?52616e646f6d4956748d00d1501759e92b466f96560174def7952b1790fb278a"><font color="#006600"><b>SpecialtyOnlineSales.com</b></font></a></font></td>
+</tr>
+</table>
+</body>
+</html>
+------------=_985810227-9993-36274--

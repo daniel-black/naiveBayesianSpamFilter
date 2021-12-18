@@ -1,0 +1,57 @@
+Return-Path: <contact@sea-river-news.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2697 invoked from network); 31 May 2001 13:32:31 -0000
+Received: from arouen-102-1-1-156.abo.wanadoo.fr (HELO TmpStr) (193.252.204.156)
+  by em.ca with SMTP; 31 May 2001 13:32:31 -0000
+Reply-To: "sea-river-news"<contact@sea-river-news.com>
+From: "sea-river-news"<contact@sea-river-news.com>
+To: "" <bruceg@em.ca>
+Organization: Sea-River-news
+X-Priority: 3
+X-MSMail-Priority: Normal
+Subject: La Lettre de Sea-River
+Sender: "sea-river-news"<contact@sea-river-news.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 31 May 2001 15:21:05 +0200
+Content-Length: 1496
+
+<html>
+<head>
+<title>La Lettre de Sea-River n° 8</title>
+<meta http-equiv="Content-Type" content="text/html; 
+charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<font face="Arial, Helvetica, sans-serif" size="2">Bonjour, </font> 
+<p><font face="Arial, Helvetica, sans-serif" size="2">Nous avons le 
+plaisir de 
+  vous pr&eacute;senter <b>La Lettre de Sea-River</b> 
+consacr&eacute;e &agrave; 
+  la p&ecirc;che, &agrave; l'environnement et au milieu 
+aquatique</font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">Vous pouvez 
+d&eacute;couvrir 
+  la lettre de cette semaine en suivant le lien ci-dessous :</font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><a 
+href="http://www.sea-river-news.com/08.htm"><b>www.sea-river-news.
+com/08.htm</b></a></font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">Si vous &ecirc;tes 
+int&eacute;ress&eacute;s 
+  <b>abonnez-vous gratuitement en envoyant un email vide</b> &agrave; 
+:</font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><a 
+href="mailto:abonnement@sea-river-news.com?subject=subscribe"><b>a
+bonnement</b></a></font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">Vous ne recevrez 
+plus cette 
+  proposition et nous ne conservons pas votre email dans nos 
+fichiers.</font></p>
+<p><font face="Arial, Helvetica, sans-serif" 
+size="2">Cordialement,</font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">l'Equipe de 
+Sea-River</font><br>
+</p>
+</body>
+</html>

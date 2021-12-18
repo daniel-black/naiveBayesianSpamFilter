@@ -1,0 +1,280 @@
+Return-Path: <offer2@campaign.mediaring.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 9991 invoked from network); 15 Jun 2001 22:20:17 -0000
+Received: from mrussjex4032.mediaring.com (HELO 198.169.201.64) (216.35.101.32)
+  by em.ca with SMTP; 15 Jun 2001 22:20:17 -0000
+From: MediaRing.com<offer2@campaign.mediaring.com>
+To: bait@em.ca
+Return-Path: offer2@campaign.mediaring.com
+Subject: Use VoizFone and Save!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=ygj0d99b18c006f14960b813272e02afa72
+DATE: Fri, 15 Jun 2001 14:11:27 -0700
+Content-Length: 15179
+Lines: 265
+
+--ygj0d99b18c006f14960b813272e02afa72
+Content-Type: text/html; charset=iso-8859-1
+
+<HTML>
+<HEAD>
+<TITLE>June Newsletter</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD> 
+<BODY TOPMARGIN=0 background="http://www.mediaring.com/domore/newsletter/mayimage/bg.gif">
+<center><img src="http://em2.mediaring.com/cgi-bin/em/em2?a=junnewsusopen&u=6859325" width="1" height="1"></center>
+<div align="center"><font size="1" face="Arial, Helvetica, sans-serif"><b><font color="#000000"><br>
+  If you are unable to view this email newsletter in HTML format, please cut and 
+  paste the following URL into your web browser. </font></b>
+  <br>
+  <font color="#000000"><font size="2">http://www.mediaring.com/domore/newsletter/juneuscan.html</font></font></font> 
+  <hr>
+  <br>
+</div>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#FF9900"> 
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsuslogo&u=6859325"><img src="http://www.mediaring.com/domore/newsletter/mayimage/logo_04.gif" width="148" height="50" border="0"></a></td>
+          <td>
+<a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusnetzero&u=6859325"
+target=_admonitor><img
+src="http://www.mediaring.com/domore/newsletter/v_images/468x60_12k.gif"
+border=0 width=468 height=60></a><br>
+            </td> 
+          </tr>
+      </table>
+    </table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr> 
+    <td bgcolor="#CC9933" width="15">&nbsp;</td>
+    <td bgcolor="#FFFF99"><img src="http://www.mediaring.com/domore/newsletter/mayimage/spacer.gif" width="100" height="10"></td>
+  </tr>
+</table>
+<table width="617" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td> 
+      <table width="616" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width=15 bgcolor="#FFFF99"><img src="http://www.mediaring.com/domore/newsletter/mayimage/spacer.gif" width="1" height="1"></td>
+          <td width=250 bgcolor="#FFCC99" align="center"> 
+            <table width="220" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td> 
+                  <div align="center"><b><font size="5" color="#FF0033">VoizFone</font></b></div>
+                </td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td> <font face="Arial, Helvetica, sans-serif" size="1"> 
+                  You can save money each time you make long-distance and international phone calls 
+                  by using VoizFone. VoizFone is MediaRing's PC-to-Phone service. 
+                  All you need is a microphone and speakers and you're set to 
+                  make calls. Good quality sound at unbelievably low prices. <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsussignup&u=6859325">Sign up</a> for VoizFone now!</font></td>
+</tr>
+</table><br>
+           <table width="220" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+<td><center>
+                    <table width="120" border="1" cellspacing="0" cellpadding="0">
+                      <tr align="top"> 
+                        <td align="top" width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1">US</font></b></font></td>
+                        <td width="60"> <font face="Arial, Helvetica, sans-serif" size="1" color="#FF0033"><b> 
+                          $0.039/min </b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1">Canada</font></b></font></td>
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1"> 
+                          $0.039/min </font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1">Singapore</font></b></font></td>
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1"> 
+                          $0.04/min </font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1">China</font></b></font></td>
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1"> 
+                          $0.07/min </font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1">Germany</font></b></font></td>
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1"> 
+                          $0.08/min </font></b></font></td>
+                      </tr>
+                      <tr> 
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1">Australia</font></b></font></td>
+                        <td width="60"><font color="#FF0033"><b><font face="Arial, Helvetica, sans-serif" size="1"> 
+                          $0.08/min</font></b></font></td>
+                      </tr>
+                    </table>
+                    <font face="Arial, Helvetica, sans-serif" size="1"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusrates&u=6859325" target="_blank">Click 
+                    here to see all our VoizFone rates</a> </font> 
+                  </center>
+</td>
+</tr></table><br>
+            <table width="220" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td> 
+                  <p><font face="Arial, Helvetica, sans-serif" size="1"> We believe 
+                    in offering our customers the best rates and best quality. 
+                    Here's what some of our users say:</font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="1"><i>“With 
+                    my girlfriend in China, my phone bills were always huge. Now 
+                    I phone her through VoizFone! Thanks MediaRing! I've saved 
+                    a bundle!</i>” Albert- Canada</font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="1"> “<i>I 
+                    have family in North America and Asia so it was always costly 
+                    to call them very often. Since I discovered VoizFone, I can 
+                    call them as often as I want because it's so cheap. Great 
+                    job MediaRing!</i>.” Muhammad- Malaysia</font> <font size="1" face="Arial, Helvetica, sans-serif"> 
+                    <br>
+                    <br>
+                    </font></p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td bgcolor="#FFFF99" valign="top" width="351"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusgif&u=6859325" target="_blank"><img src="http://stage.mediaring.com/domore/newsletter/june/mainjune2_01.jpg" width="350" height="263" border="0"></a><br>
+            <img src="http://stage.mediaring.com/domore/newsletter/june/mainjune1_02.gif" width="350" height="77"> 
+            <br>
+            <br>
+            <center>
+              <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusdad&u=6859325"><img src="http://stage.mediaring.com/domore/newsletter/june/halfbanner2.gif" align="middle" border="0"></a> 
+            </center> 
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center" height="200">
+  <tr bgcolor="#FFFFFF"> 
+    <td height="200"> 
+      <table width="600" border="0" cellspacing="0" cellpadding="0" height="190">
+        <tr> 
+          <td width=25 bgcolor="#FFCC99"><img src="http://www.mediaring.com/domore/newsletter/mayimage/spacer.gif" width="1" height="1"></td>
+          <td width=175 valign="bottom"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr align="center" valign="top" width="173"> 
+                <td> 
+                  <font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font size="4"><b><font color="#CC0000">June 
+                    Promo.</font></b></font></font></font> <font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif"><font size="4"><b><font color="#CC0000">Call 
+                    UK for 2.5&cent; /min</font></b></font></font><br><br>
+                    Save even more on those calls to your loved ones. <br>
+                    <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusuk&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/aprilimage/uk.jpg" width="100" height="100" border="0"></a><br>
+                    <b><font color="#CC0000">*Rates reduced from 5&cent;/min</font></b></font> 
+                    <font face="Arial, Helvetica, sans-serif" size="1" color="#CC0000">*Does 
+                  not apply to mobile &amp special services</font> </td>
+              </tr>
+            </table>
+          </td>
+          <td width="1" bgcolor="#CCCCCC"></td>
+          <td width="150"><img src="http://www.mediaring.com/domore/newsletter/mayimage/spacer.gif" width="1" height="1"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0" height="190">
+              <tr width="150" align="center"> 
+                <td height="241"> 
+                  <font size="1" face="Arial, Helvetica, sans-serif"><font size="4" face="Arial, Helvetica, sans-serif"><b><font color="#CC0000">What's 
+                    my password?</font></b></font></font><br><br>
+                  <font size="1" face="Arial, Helvetica, sans-serif"><font size="1" face="Arial, Helvetica, sans-serif">Yes, 
+                    you are a member..<br>
+                  </font><font size="4" face="Arial, Helvetica, sans-serif"><a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsuspwd&u=6859325" target="_blank"><img src="http://stage.mediaring.com/domore/newsletter/june/forgetpassword.gif" border="0" width="100" height="100"></a> 
+                  </font></font><br>
+                  <font face="Arial, Helvetica, sans-serif" size="1">Login 
+                    with you MediaRing Account Email:<br>bait@em.ca</font>
+                  
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width=0 bgcolor="CCCCCC"><img src="http://www.mediaring.com/domore/newsletter/v_images/spacer.gif" width="1" height="1"></td>
+          <td width="150"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0" height="190" bordercolorlight="150">
+              <tr width="150" align="center"> 
+                <td height="241"> 
+                  <font face="Arial, Helvetica, sans-serif" size="4" color="#CC0000"><b>Update 
+                    my profile!</b></font><br><br>
+                  <b><font face="Arial, Helvetica, sans-serif" size="1" color="#000000">Wanna 
+                    win stuff</font></b><font face="Arial, Helvetica, sans-serif" size="1">?<br>
+                  <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusprofile&u=6859325" target="_blank"><img src="http://www.mediaring.com/domore/newsletter/aprilimage/update.jpg" width="100" height="100" border="0"></a><br>
+                    </font>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width=0 bgcolor="CCCCCC"><img src="http://www.mediaring.com/domore/newsletter/v_images/spacer.gif" width="1" height="1"></td>
+          <td width="150"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0" height="190" bordercolorlight="150">
+              <tr align="center" width="150"> 
+                <td height="241"> 
+                  <font face="Arial, Helvetica, sans-serif" size="4" color="#CC0000"><b>This 
+                    month's winners! </b></font><br><br>
+                  <font face="Arial, Helvetica, sans-serif" size="1">You've 
+                    won a PrePaid PIN!<br>
+                  <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsuswin&u=6859325" target="_blank"><img src="http://stage.mediaring.com/domore/newsletter/june/winner.gif" width="100" height="100" border="0"></a><br>
+                    </font>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td bgcolor="#CC9933" width="15">&nbsp;</td>
+    <td bgcolor="#FFCC99"><img src="http://www.mediaring.com/domore/newsletter/mayimage/spacer.gif" width="1" height="1"></td>
+  </tr>
+</table>
+<table width="616" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr bgcolor="#FFFF99" align="right"> 
+    <td><!-- L90 BANNER STARTS HERE! --> <iframe noresize="NORESIZE" frameborder="0" width=468 height=60
+marginwidth="0" marginheight="0" scrolling="NO"
+src="http://ads.admonitor.net/adengine.cgi?F527|1001|1|iframe|C7888|||_admon
+itor"> 
+            <script language="JavaScript"
+src="http://ads.admonitor.net/adengine.cgi?F527|1001|1|jscript|C7888|||_admo
+nitor"></script>
+            <noscript><a 
+href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusl90&u=6859325"
+target=_admonitor><img
+src="http://ads.admonitor.net/adengine.cgi?F527|1001|1|image2|C7888|||"
+border=0 width=468 height=60></a></noscript><br>
+            </iframe> <!-- L90 BANNER ENDS HERE!--></td>
+  </tr>
+ </table>
+<center>
+<table width="616">
+    <tr bgcolor="#CCCCFF"> 
+      <td height="131"> 
+        <div align="center">
+          <font face="Verdana, Arial, Helvetica, sans-serif" size="1"> You 
+            are receiving this email as a result of agreeing to accept MediaRing 
+            email offers and newsletters at time of registration. If you do not 
+            wish to receive future email newsletters from us, you may unsubscribe 
+            from this mailing list by clicking the link below. Please <b>DO NOT 
+            REPLY</b> to this message.<br>
+          <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsusreg&u=6859325">Unsubscribe</a><br>
+            <br>
+          MediaRing takes your privacy seriously. To learn more about MediaRing's 
+          use of personal information, please read our <a href="http://em2.mediaring.com/cgi-bin/em/em2?p=junnewsuspp&u=6859325"><br>
+          Privacy 
+          Policy</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+          <br>
+            Copyright &copy2001 MediaRing Ltd. All Rights Reserved.</font> 
+          </div>
+</td>
+</tr>
+</table>
+</center>
+</BODY>
+</HTML>
+
+--ygj0d99b18c006f14960b813272e02afa72--
+.
+

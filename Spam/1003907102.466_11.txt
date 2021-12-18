@@ -1,0 +1,108 @@
+Return-Path: <ecfo@aol.com>
+Delivered-To: bfsmedia-timolnar@bfsmedia.com
+Received: (qmail 10290 invoked from network); 24 Oct 2001 06:15:48 -0000
+Received: from unknown (HELO shopping.zonai.com) (200.50.22.12)
+  by agamemnon.bfsmedia.com with SMTP; 24 Oct 2001 06:15:48 -0000
+Received: from 12.64.49.72 ([12.64.49.72]) by shopping.zonai.com  with Microsoft SMTPSVC(5.5.1877.197.19);
+	 Wed, 24 Oct 2001 02:00:46 -0400
+To: <Undisclosed Recipients>
+From: ecfo@aol.com
+Subject: $250,000 Policy - $6.95 per Month                                                  23545
+Date: Thu, 25 Oct 2001 06:20:04 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Errors-To: Microsoft Internet Mail 4.70.1154
+Return-Path: Microsoft Internet Mail 4.70.1154
+Message-ID: <0d01046000618a1VIRT01ECOM@shopping.zonai.com>
+Content-Length: 2350
+Lines: 85
+
+<HTML>
+<BODY>
+<head>
+<title>COPY ANY DVD MOVIE</title>
+<script language=3D"JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init=3D=3Dtrue) with (navigator) {if ((appName=3D=3D"Netscape")&&(pa=
+rseInt(appVersion)=3D=3D4)) {
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; onresize=3D=
+MM_reloadPage; }}
+  else if (innerWidth!=3Ddocument.MM_pgW || innerHeight!=3Ddocument.MM_pgH=
+) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+</head>
+
+<body>
+
+<table border=3D"1" width=3D"68%" bordercolor=3D"#008000" bordercolorlight=
+=3D"#000080"
+bordercolordark=3D"#0000FF">
+  <tr>
+    <td width=3D"100%"><p align=3D"center"><big><big><big><font face=3D"Ar=
+ial Black" color=3D"#FF0000">Save
+      70% Off Your Life Insurance</font></big></big></big></p>
+    <p align=3D"center"><font face=3D"Arial Black" color=3D"#008040"><img
+    src=3D"http://www.twelvetenstore.com/~insur/1-log.jpg" width=3D"180" h=
+eight=3D"160"
+    alt=3D"1-log.jpg"></font>
+    <font face=3D"Arial" color=3D"#000080">
+    <br>
+    </font>
+    <font face=3D"Arial">Double Your Life Insurance At </font><b><font fac=
+e=3D"Arial" color=3D"#FF0000" size=3D"5">NO
+    EXTRA COST&nbsp;</font></b>
+    <p align=3D"center"><b><font face=3D"Arial" size=3D"5">$250,000 policy=
+</font><font face=3D"Arial" size=3D"3">&nbsp;</font></b>
+    <p align=3D"center"><b><font face=3D"Arial" size=3D"5">for $6.50 per m=
+onth</font></b>
+    <p align=3D"center"><font face=3D"Arial" color=3D"#000080">
+    <strong><a href=3D"http://www.twelvetenstore.com/~insur/" target=3D"_b=
+lank">CLICK HERE FOR MORE INFO</a>
+    </strong></font>
+    <p align=3D"center">&nbsp;</td>
+  </tr>
+</table>
+<script language=3D"JavaScript">
+//this code is the beginning of the right click and key disable
+function right(e) { 
+if (navigator.appName =3D=3D 'Netscape' && 
+(e.which =3D=3D 3 || e.which =3D=3D 2)) 
+return false; 
+else if (navigator.appName =3D=3D 'Microsoft Internet Explorer' && 
+(event.button =3D=3D 2 || event.button =3D=3D 3)) { 
+alert("This Action Not Allowed!"); 
+return false; 
+} 
+return true; 
+} 
+
+function keypressed() { 
+alert("This Action Not Allowed!"); 
+} 
+document.onmousedown=3Dright; 
+document.onkeydown=3Dkeypressed; 
+</script>
+
+
+<p>&nbsp;</p>
+</body>
+</html>
+
+<p><p><p><p><p><p><p><p><p><p>
+
+
+
+
+<html><p><p>
+</BODY>
+</HTML>
+
+

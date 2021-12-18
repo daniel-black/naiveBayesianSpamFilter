@@ -1,0 +1,32 @@
+Return-Path: <patty@panthermountain.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 12004 invoked from network); 21 Jan 2001 03:18:01 -0000
+Received: from ns13.callwave.com (HELO callwave.com) (63.77.208.228)
+  by em.ca with SMTP; 21 Jan 2001 03:18:01 -0000
+Received: (qmail 11481 invoked from network); 20 Jan 2001 19:17:17 -0800
+Received: from callwave.com (HELO www.callwave.com) (care@callwave.com)
+  by callwave.com with SMTP; 20 Jan 2001 19:17:17 -0800
+To: bait@em.ca
+From: patty stewart <patty@panthermountain.net>
+Reply-to: patty@panthermountain.net
+Subject: Fax-to-email Service
+Content-Length: 485
+Lines: 17
+
+Check out CallWave's Fax-to-Email Service! They
+give you a FREE fax number for receiving faxes in
+your e-mail.
+
+Once you've got the fax number you no longer have to
+pay for a dedicated fax line. You can retrieve faxes
+from anywhere that you have e-mail access and you can
+forward the faxes via e-mail.
+
+You can get a free fax number by visiting
+http://www.faxwave.com?r=tyf_fax_ref
+
+patty stewart
+
+Personal message from patty stewart:
+
+thought this would come in handy................

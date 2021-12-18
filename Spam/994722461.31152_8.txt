@@ -1,0 +1,45 @@
+Return-Path: <u1@how.com>
+Delivered-To: bfsmedia-training@bfsmedia.com
+Received: (qmail 30354 invoked from network); 9 Jul 2001 21:17:58 -0000
+Received: from unknown (HELO master) (210.241.236.149)
+  by bfsmedia.sk.ca with SMTP; 9 Jul 2001 21:17:58 -0000
+Received: from 213.2.48.226 ([63.178.144.51]) by master with Microsoft SMTPSVC(5.0.2172.1);
+	 Tue, 10 Jul 2001 05:12:45 +0800
+Message-ID: <00001d8069de$00006bcd$000075fa@213.0.30.43>
+To: <Undisclosed Recipients>
+From: u1@how.com
+Subject: Hey
+Date: Tue, 10 Jul 2001 04:59:16 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: u1@how.com
+Return-Path: u1@how.com
+X-OriginalArrivalTime: 09 Jul 2001 21:12:47.0298 (UTC) FILETIME=[E7256A20:01C108BB]
+Content-Length: 424
+Lines: 21
+
+<HTML>
+<BODY>
+
+<FONT face=3D"MS Sans Serif">
+<FONT size=3D2> <head>  <BR>
+<BR>
+</head>  <BR>
+<BR>
+<body>  <BR>
+<BR>
+<p><font size=3D"5">Congratulations&nbsp; You won</font></p>  <BR>
+<BR>
+<a href=3D"http://lookatthis.net/vacation">Please Click Here</a></p><BR>
+ <p>OR GO TO&nbsp; http://www.lookatthis.net/travel/index.htm</p><BR>
+ <p>&nbsp;</p><BR>
+ <p>&nbsp;</p><BR>
+ <p>&nbsp;</p><BR>
+<BR>
+</FONT></FONT></BODY></HTML>
+
+

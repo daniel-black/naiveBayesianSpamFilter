@@ -1,0 +1,77 @@
+Return-Path: <owner-openssl-dev@openssl.org>
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 10365 invoked from network); 2 Jun 2001 19:44:56 -0000
+Received: from unknown (HELO garibaldi.untroubled.org) (192.168.1.1)
+  by lorien.untroubled.org with SMTP; 2 Jun 2001 19:44:56 -0000
+Received: (qmail 6132 invoked from network); 2 Jun 1996 19:46:49 -0000
+Received: from ossp1.ossp.org (HELO ossp.org) (62.208.181.50)
+  by garibaldi.untroubled.org with SMTP; 2 Jun 1996 19:46:49 -0000
+Received: by mail.ossp.org (Sendmail 8.11.0+/smtpfeed 1.12) for openssl-dev-L2
+	id f52JjFu96981; Sat, 2 Jun 2001 21:45:15 +0200 (CEST)
+Received: by mail.ossp.org (Sendmail 8.11.0+) via ESMTP for <openssl-dev-L@ossp.org>
+	from opensource.ee.ethz.ch id f52JjFl96977; Sat, 2 Jun 2001 21:45:15 +0200 (CEST)
+Received: by en5.engelschall.com (Sendmail 8.9.2/smtpfeed 1.06) for openssl-dev-L
+	id VAA20291; Sat, 2 Jun 2001 21:30:37 +0200 (MET DST)
+Received: by en5.engelschall.com (Sendmail 8.9.2) via SMTP for <openssl-dev@openssl.org>
+	from email.com id VAA19887; Sat, 2 Jun 2001 21:15:45 +0200 (MET DST)
+From: <markc_pete@email.com>
+To: openssl-dev@openssl.org
+Subject: pete.                                                                                                                                                                                   2
+Date: Sat, 2 Jun 2001 15:18:41
+Message-Id: <818.608422.562624@email.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Sender: owner-openssl-dev@openssl.org
+Precedence: bulk
+Reply-To: openssl-dev@openssl.org
+X-Sender: <markc_pete@email.com>
+X-List-Manager: OpenSSL Majordomo [version 1.94.4]
+X-List-Name: openssl-dev
+Content-Length: 2062
+
+
+<html>
+<head>
+<title>pete.</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<a href="http://www.petenoise.com/"><img src="http://www.teamiag.com/data/promotions/2.large.gif" alt="pete." border="0" vspace="5" hspace="5" align="right"></a><font face="Arial, Helvetica, sans-serif" size="-1">Hey 
+gang,<br>
+<br>
+Are you into Linkin Park? How about Tool? If you like your rock hard and loud, 
+then you're probably already aware of Finger Eleven, Boy Hits Car, Alien Antfarm, 
+Fuel, Papa Roach, STP, Professional Murder Music, Limp Bizkit, Filter, and Sevendust. 
+I'm writing you to tell you about Warner Bros. newest hit act <b>pete</b>.<br>
+<br>
+<b>pete.</b> is currently touring the country with various bands. They're playing 
+with Professional Murder Music in Lincoln NE, Dumpster Juice in Minneapolis MN, 
+Blister in Denver CO, Boy Hits Car and Alien Antfarm in LA, Buckcherry in Lubbock 
+TX and Edgewater in Dallas.. and that's just in the next month.<br>
+<br>
+And as you're reading this, pete's first single &quot;Sweet Daze&quot; is headed 
+to radio across the country. You can find out more about the band at <a href="http://www.petenoise.com">www.petenoise.com</a>. 
+There you can enter to win tickets to see them for life!<br>
+<br>
+To hear Sweet Daze, click the link below. <br>
+<br>
+<a href="http://www.wbr.com/petenoise/sweetdaze.ram">Sweet Daze</a><br>
+<br>
+Check the band out, I'm sure you won't be dissapointed.<br>
+<br>
+Mark Cunningham<br>
+it's a gas management / marketing<br>
+<b><a href="http://www.petenoise.com/">http://www.petenoise.com/</a></b><br>
+<br>
+<br>
+<br>
+<br>
+<a href="mailto:markc_pete@email.com?subject=REMOVE"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">click 
+here to unsubscribe</font></a><br>
+</font> 
+</body>
+</html>
+______________________________________________________________________
+OpenSSL Project                                 http://www.openssl.org
+Development Mailing List                       openssl-dev@openssl.org
+Automated List Manager                           majordomo@openssl.org

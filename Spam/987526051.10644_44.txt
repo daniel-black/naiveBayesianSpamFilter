@@ -1,0 +1,211 @@
+Return-Path: <poli871@yahoo.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15744 invoked from network); 17 Apr 2001 16:46:25 -0000
+Received: from accounting.umsmed.edu (HELO gwia.umsmed.edu) (192.207.213.132)
+  by em.ca with SMTP; 17 Apr 2001 16:46:25 -0000
+Received: from pob23uifesi.cic.org.ar ([61.48.316.4]) by ris5s2.daidacent14sere
+	(ip238.miami41.fl.pub-ip.psi.net [38.37.111.238])
+	by gwia.umsmed.edu; Mon, 16 Apr 2001 15:20:18 -0500
+Message-ID: <0000393e0897$00003865$00000d85@hbnouifecj.cc.com.ar([64.44.310.4]) by irs5s2.daidacentotere.chua.caimetv.net.ie (8.9.1a/8.9.1/1.0) with SMTP id NAA11975 ([213.005.316.4])>
+To: <Res11>
+From: poli871@yahoo.com
+Subject: THE CONTRARIAN - Buy Alert on NICM
+Date: Mon, 16 Apr 2001 16:19:56 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: poli871@yahoo.com
+Content-Length: 6857
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<title>THE STOCKDOUBLER</title>
+</head>
+
+<body>
+
+<div align=3D"center">
+  <table border=3D"0" width=3D"647" cellspacing=3D"0" cellpadding=3D"0" he=
+ight=3D"736">
+    <tr>
+      <td width=3D"645" bgcolor=3D"#000080" height=3D"199" valign=3D"top" =
+align=3D"left">
+        <p align=3D"left"><font color=3D"#FFFFFF"><font face=3D"Arial" siz=
+e=3D"4"><b><br>
+        </b></font><font face=3D"Arial" size=3D"3"><b>
+        THE
+        CONTRARIAN - NEW BUY RECOMMENDATION</b></font><font face=3D"Arial"=
+ size=3D"4"><b><br>
+        <br>
+        NATIONAL INSTITUTE COMPANIES OF AMERICA</b></font><br>
+        <br>
+        <font face=3D"Arial" size=3D"3"><b>Symbol: NICM<br>
+        Listed:           OTC Pink Sheets<br>
+        Recent Price: .06<br>
+        52 Week Range: .04 - .77<br>
+        Shares Outstanding:       99 Million
+        </b></font></font></td>
+    </tr>
+    <tr>
+      <td width=3D"645" bgcolor=3D"#FAF3C5" height=3D"537" valign=3D"top" =
+align=3D"left">
+        <p align=3D"left"><font face=3D"Arial" size=3D"3" color=3D"#000080=
+"><br>
+        The NASDAQ just finished its worst 1st quarter ever, while OTC and=
+ pink
+        sheet stock activity dried up. The Contrarian waited for the dust =
+to
+        settle, and now presents our first new idea of 2001: National Inst=
+itute
+        Companies of America.<br>
+        <br>
+        In order for a stock to move up, there must first be retail intere=
+st.
+        NICM was one of the Top 20 most active stocks on the entire pink s=
+heet
+        market (out of 3000+) in March. Next, we look for a bargain price,=
+ and
+        NICM is down 90% from last year's peak. Finally, we look for a
+        fundamental reason to buy. In NICM's case, it is the recent
+        announcement to buy back up to 10% of their outstanding shares.<br=
+>
+        <br>
+        A buy back is exciting to the market for many reasons. It shows th=
+at
+        management believes that the stock is undervalued - in fact, it is
+        selling below book value. Likewise, it is bullish that excess cash=
+ is
+        available to repurchase the shares.<br>
+        <br>
+        NICM offers services and produces fee income for community and
+        independent banks. They also provide estate and financial planning
+        products and investment banking services.<br>
+        <br>
+        The Contrarian suggests making purchases up to the .20 area, with =
+a
+        long-term target of .40 plus.<br>
+        <br>
+        For inquiries and to
+        subscribe to future communications, please complete the form and t=
+hen submit.&nbsp;</font></p>
+        <table height=3D"178">
+          <tr>
+            <th align=3D"center" nowrap width=3D"334" height=3D"174" valig=
+n=3D"top">
+              <h3 align=3D"center"><font face=3D"Tahoma" color=3D"#000000"=
+><script
+              language=3D"JavaScript">
+<!--
+function validate_form() {
+	validity =3D true; // assume valid
+	if (!check_empty(document.form.Name.value))
+	{ validity =3D false; alert('Name field is empty!'); }
+	if (!check_empty(document.form.Email.value))
+	{ validity =3D false; alert('Email field is empty!'); }
+		(validity)
+	alert ("Thank you for your information! "
+		+ "Your form is now being passed to your browser's "
+		+ "Mail Delivery Sub-System for NORMAL"
+		+ " NON-ENCRYPTED email delivery."
+		+ " You will be contacted as soon as we receive"
+	+ " your information request. Please click OK to proceed");
+	return validity;
+}
+function check_empty(text) 
+	{
+	return (text.length > 0); // returns false if empty
+} // -->
+</script>
+              <center><b><font face=3D"Tahoma" size=3D"2"><a name=3D"form"=
+></a></font></b></center><font
+              face=3D"Tahoma" size=3D"2"><!-- CHANGE EMAIL ADDRESS IN ACTI=
+ON OF FORM -->
+              </h3>
+              <form name=3D"form" method=3D"post"
+              action=3D"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#110;&#97=
+;&#115;&#112;&#116;&#101;&#114;&#49;&#53;&#64;&#117;&#111;&#108;&#46;&#99;=
+&#111;&#109;&#46;&#97;&#114;&#63;&#115;&#117;&#98;&#106;&#101;&#99;&#116;&=
+#61;&#73;&#110;&#102;&#111;&#45;&#78;&#73;&#67;&#77;"
+              enctype=3D"text/plain" onSubmit=3D"return validate_form()">
+                <table BORDER=3D"0" cellpadding=3D"0" WIDTH=3D"500" cellsp=
+acing=3D"0">
+                  <tr>
+                    <td NOWRAP WIDTH=3D"225" bgcolor=3D"#000080">&nbsp;</t=
+d>
+                    <td WIDTH=3D"275" bgcolor=3D"#000080">&nbsp;</td>
+                  </tr>
+                </font></font>
+              <tr>
+                <td bgcolor=3D"#000080">
+                  <div align=3D"CENTER">
+                    <p align=3D"right"><font color=3D"#FFFFFF" size=3D"3" =
+face=3D"Arial"><b>Name:</b></font>
+                  </div>
+                </td>
+                <td bgcolor=3D"#000080"><font face=3D"Arial" size=3D"2"
+                  color=3D"#FFFFFF"><input TYPE=3D"TEXT" NAME=3D"Name" VAL=
+UE SIZE=3D"29"
+                  MAXLENGTH=3D"60"> &nbsp;</font></td>
+              </tr>
+              <tr>
+                <td bgcolor=3D"#000080">
+                  <div align=3D"CENTER">
+                    <p align=3D"right"><font color=3D"#FFFFFF" size=3D"3" =
+face=3D"Arial"><b>Email
+                    Address:</b></font>
+                  </div>
+                </td>
+                <td bgcolor=3D"#000080" align=3D"left"><font face=3D"Arial=
+" size=3D"2"
+                  color=3D"#FFFFFF"><input type=3D"TEXT" name=3D"Email" va=
+lue
+                  size=3D"29" maxlength=3D"40"></font></td>
+              </tr>
+              <tr>
+                <td bgcolor=3D"#000080">
+                  <p align=3D"right"><font face=3D"Arial" size=3D"2" color=
+=3D"#FFFFFF"><input
+                  type=3D"Submit" value=3D"Submit Form" name=3D"Submit"></=
+font></p>
+                </td>
+                <td bgcolor=3D"#000080"><font face=3D"Arial" size=3D"2"
+                  color=3D"#FFFFFF"><input type=3D"Reset" value=3D"Clear F=
+orm"
+                  name=3D"Reset"></font></td>
+              </tr>
+              <tr>
+                <td colspan=3D"2">
+        <p align=3D"left"><font face=3D"Arial" size=3D"3" color=3D"#000080=
+"><br>
+        The
+        publisher of The Contrarian is on retainer to NICM at $5000/month,=
+ and
+        may buy or sell shares at any time.&nbsp; Please contact us for fu=
+rther
+        information. <a
+        href=3D"mailto:whpost15@yahoo.com?subject=3DNo-NICM">CLICK
+        HERE</a> to unsubscribe from further communication.</font>
+                </td>
+              </tr>
+              </table>
+              </form>
+          </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</body>
+
+</html>
+
+
+

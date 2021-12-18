@@ -1,0 +1,56 @@
+Return-Path: <illznaka23@servicenetbest.com>
+Delivered-To: em-ca-smith.family@em.ca
+Received: (qmail 23817 invoked from network); 28 Sep 2001 19:40:08 -0000
+Received: from unknown (HELO service.zebeck.com) (211.218.48.65)
+  by agamemnon.bfsmedia.com with SMTP; 28 Sep 2001 19:40:08 -0000
+Received: from mail3.servicenetbest.com (unverified [65.90.169.23]) by service.zebeck.com
+ (EMWAC SMTPRS 0.83) with SMTP id <B0001201725@service.zebeck.com>;
+ Sat, 29 Sep 2001 04:46:58 +0900
+Importance: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+Date: Fri, 28 Sep 2001 14:36:42 -0500
+Content-Type: text/html;
+	 charset=us-ascii
+Content-Transfer-Encoding: 7BIT
+Subject: Boost Your Windows Reliability!!
+To: mikeed2@em.fcnbd.com
+From: illznaka23@servicenetbest.com
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+Message-Id: <53omxb7o3b2airv.62i6px@mail3.servicenetbest.com>
+Received: from mail3.servicenetbest.com [192.168.1.35] by 6b303.mail3.servicenetbest.com with SMTP; Fri, 28 Sep 2001 14:36:42 -0500
+Content-Length: 1253
+Lines: 32
+
+<html>
+<body>
+
+<p>Dear Windows User,<br>
+<br>
+Now you can boost the reliability of ordinary Windows 95, 98 and ME to nearly
+the level of Windows NT or 2000, Microsoft's professional and industrial version
+of Windows.<br>
+<br>
+The new WinFix is a very effective way to improve the reliability of Windows,
+because it makes Windows fault-tolerant and self-repairing.<br>
+<br>
+And WinFix is very safe, because it operates completely independent of Windows.<br>
+<br>
+<u><font color="#0000ff"><a href="http://three.servicenetbest.com/">CLICK HERE</a></font></u> to find out more about WinFix, the safest, most effective way to keep you working, by keeping your PC working non-stop.<br>
+<br>
+Arlen Dixon, CEO<br>
+Pinewood Software Marketing<br>
+<br>
+-------------------------------------------------------<br>
+<br>
+This announcement is intended for PC users who asked to be kept<br>
+informed about new developments in Windows technology.<br>
+</p>
+<p><font size="1">We apologize for any email you may have inadvertently
+received.<br>
+Please <a href="http://four.servicenetbest.com">CLICK HERE</a> to be removed from
+future mailings.</font></p>
+<img src="http://sixteen.servicenetbest.com/gifcounter.cgi?winfix" border="0" width="1" height="1">
+</body>
+</html>
+

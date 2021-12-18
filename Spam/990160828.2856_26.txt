@@ -1,0 +1,77 @@
+Return-Path: <sexymail@idirect.ca>
+Delivered-To: em-ca-bob.smith@em.ca
+Received: (qmail 10544 invoked from network); 18 May 2001 03:35:44 -0000
+Received: from mail.flashhost.com (HELO smtp1.flashhost.com) (209.244.251.14)
+  by em.ca with SMTP; 18 May 2001 03:35:44 -0000
+Received: from mail.nsiweb.com [216.126.91.52] by smtp1.flashhost.com
+  (SMTPD32-6.06) id A81F116D00D2; Thu, 17 May 2001 23:33:51 -0400
+Message-Id: <990157462.706@nsiweb.com>
+Date: Thu, 17 May 2001 23:44:22 2000
+To: bob.smith@em.ca
+From: sexymail@idirect.ca (Be A Millionaire)
+Subject: BE A MILLIONAIRE
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Length: 960
+Lines: 60
+
+<html>
+
+<head>
+<title>Help Me Be A Millionaire.com</title>
+</head>
+<script LANGUAGE="Javascript">
+<!-- //
+
+function intro()
+{
+	if ((navigator.appVersion.indexOf("Mac")!=-1) &&
+(navigator.userAgent.indexOf("MSIE")!=-1) &&
+(parseInt(navigator.appVersion)==4))
+	{
+	skip()
+	}
+	else 
+	{ 
+	popup()
+	}
+
+}
+function skip()
+{
+	location.href="http://www.helpmebeamillionaire.com";
+}
+function popup()
+{
+	
+
+	version = parseFloat(navigator.appVersion.substring(navigator.appVersion.indexOf('.')-1,navigator.appVersion.length));
+	if (version >= 4)
+	{
+		if (navigator.appName=="Netscape")
+		{
+			
+			location.href="http://www.helpmebeamillionaire.com";
+		
+		}
+		if (navigator.appName=="Microsoft Internet Explorer")
+		{
+			
+			window.open("http://www.helpmebeamillionaire.com","screen","fullscreen=yes");
+		}
+	}
+	else
+	{
+		location.href="http://www.helpmebeamillionaire.com";
+	}
+
+
+}
+// -->
+</script>
+
+<body LINK="#000000" BGCOLOR="#000000" onLoad="intro()">
+</body>
+</html>
+
+

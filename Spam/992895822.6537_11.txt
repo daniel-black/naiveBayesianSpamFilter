@@ -1,0 +1,17 @@
+Return-Path: <R_Glimm@hotmail.com>
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 5252 invoked from network); 18 Jun 2001 17:11:51 -0000
+Received: from 64-205-108-174.client.dsl.net (HELO hotmail.com) (64.205.108.174)
+  by bfsmedia.sk.ca with SMTP; 18 Jun 2001 17:11:51 -0000
+From: R_Glimm@hotmail.com
+To: goose.kennels@bfsmedia.com
+Subject: E-book
+Content-type: text/html; charset=ISO-8859-1
+Content-Length: 274
+Lines: 5
+
+     
+     <a href="http://www.snail-magic.com/">http://www.snail-magic.com/</a><br><br>
+     If you wish to remove your email address from our mailing list please send a letter to <a href="mailto:unsubks@cmx-sex.com">unsubks</a><br>
+     Subject and text are unimportant.
+
