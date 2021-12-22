@@ -2,7 +2,7 @@
 
 This project closely follows the steps laid out by Paul Graham in his essay [A Plan For Spam](http://www.paulgraham.com/spam.html). The result is a naive Bayesian spam
 filter trained on a mix of emails from the [Enron Emails](https://www.kaggle.com/wanderfj/enron-spam?select=enron3) data set and the 2001 emails from 
-[Untroubled.org]http://untroubled.org/spam/).
+[Untroubled.org](http://untroubled.org/spam/).
 
 I'll briefly describe the four modules and how to build and test the filter yourself.
 
