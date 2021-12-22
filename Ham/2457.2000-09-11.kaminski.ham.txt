@@ -4,7 +4,7 @@ thank you very much for your prompt reply and for the information you sent
 me . i have incorporated this information in the program and am sending you
 it again for one last confirmation . ( in particular , i hope that i have your
 job title and organization name correct ? ) .
-measuring energy risk  ) tackling price volatility , adapting var , scenario
+measuring energy risk  ) tackling price volatility , adapting var , scenario
 modelling and regulatory requirements
 the challenge of modeling price dynamics in the energy markets .
 - seasonality

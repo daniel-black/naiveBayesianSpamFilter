@@ -1,5 +1,5 @@
 Subject: xms - expense management system availability
-concur technologies  , expense management system ( xms ) is now available to all
+concur technologies  , expense management system ( xms ) is now available to all
 ets employees . you can prepare your expense report , send it for approval ,
 and transmit it for payment using the intranet . it is more " user - friendly "
 than the previous excel - based form and efficiently integrates with the sap
@@ -16,7 +16,7 @@ password
 the first time you log in , the password is upper case enron . the system will
 guide you through confirming your personal information and changing your
 password . the enron code of ethics prohibits the sharing of passwords and
-logging on as another person . please observe enron  , s policy .
+logging on as another person . please observe enron  , s policy .
 if you can ' t log in to the system , go to the it central web page from the
 enron intranet home page and select " services "
 click " security requests " click " erequest " ( or call 713 - 853 - 5536 ) .

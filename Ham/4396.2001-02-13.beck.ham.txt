@@ -9,12 +9,12 @@ gas and electricity , with ees ' s na gas and power positions included , and wit
 a separate business unit sub - limit for ees .
 policy amendments were as follows :
 u clarify the cross - commodity trading policy to specify that trading limits
-are to be applied against enron  , s consolidated commodity positions on an
-individual commodity group basis ; enron  , s consolidated daily position report
+are to be applied against enron  , s consolidated commodity positions on an
+individual commodity group basis ; enron  , s consolidated daily position report
 should provide required market risk disclosures by primary commodity group ;
-( for example , enron  , s exposure to the north american natural gas market shall
+( for example , enron  , s exposure to the north american natural gas market shall
 be aggregated across the company ) .
- ) delegate cross - commodity trading approval among established commodity
+ ) delegate cross - commodity trading approval among established commodity
 groups to the respective business units offices of the chairman , with
 appropriate reporting to the enron corp . chief risk officer .
 u specify the operational control requirement that all trades executed over
@@ -43,13 +43,13 @@ cross - commodity trading guidelines . i will distribute the entire updated
 policy as soon as we incorporate the bod ' s comments .
 v . operations and controls .
 b . position reporting . " . . . for purposes of limit monitoring and aggregation
-of enron  , s consolidated trading results , enron  , s consolidated daily position
+of enron  , s consolidated trading results , enron  , s consolidated daily position
 report should include the net open position , maturity / gap position , profit or
 loss , and potential exposure ( var ) for approved commodity groups consolidated
 across the company without regard to which business unit undertook the
 trading activity . in those instances where limits are granted to a business
 unit for a basket of commodities , reporting for individual commodity risk
-books shall be maintained to facilitate aggregation of enron  , s actual
+books shall be maintained to facilitate aggregation of enron  , s actual
 consolidated commodity specific exposure . management reporting may
 separately provide business unit sub - limit monitoring and trading results
 aggregated according to management lines . "
@@ -58,7 +58,7 @@ the enron corp . chief risk officer or his designee ( s ) will be authorized to
 enter into transactions on behalf of enron . the chief risk officer must also
 maintain a record of those employees responsible for the individual commodity
 groups ( commodity group manager ) as specified in the appendices . individuals
-will be assigned as commodity leaders to manage enron  , s aggregate position
+will be assigned as commodity leaders to manage enron  , s aggregate position
 across the company as determined necessary by the chief risk officer . . . "
 vi . policy amendment authority
 b . cross - commodity position authorization . if in the ordinary course of its
@@ -77,10 +77,10 @@ financial instruments other than those which that trader has explicit
 authority to trade ( i . e . the business unit office of the chairman for north
 american natural gas may authorize a trader in the coal group to trade gas
 with the north american natural gas desk ) . for limit monitoring purposes
-of enron  , s consolidated trading results , these cross - commodity positions
+of enron  , s consolidated trading results , these cross - commodity positions
 shall be captured by individual commodity to facilitate aggregation and
-reporting of enron  , s consolidated exposure by commodity in the daily position
-report ( coal desk  , s gas position will be aggregated with the north american
+reporting of enron  , s consolidated exposure by commodity in the daily position
+report ( coal desk  , s gas position will be aggregated with the north american
 natural gas commodity group . )
 if you have any questions , feel free to call vlady at x 36954 , me at x 30429 ,
 or david port at x 39823 .

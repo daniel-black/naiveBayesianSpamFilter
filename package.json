@@ -1,0 +1,24 @@
+{
+  "name": "naivebayesianspamfilter",
+  "version": "1.0.0",
+  "description": "a naive bayesian spam filter",
+  "main": "tests.js",
+  "dependencies": {
+    "array-shuffle": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-black/naiveBayesianSpamFilter.git"
+  },
+  "author": "Daniel Black",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-black/naiveBayesianSpamFilter/issues"
+  },
+  "homepage": "https://github.com/daniel-black/naiveBayesianSpamFilter#readme",
+  "type": "module"
+}

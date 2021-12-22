@@ -8,7 +8,7 @@ symbol : ( u a c p )
 current price : $ 0 . 28
 10 days target price : $ 1 . 25
 3 months target price : $ 1 . 66
- u a c p  currently trading at $ 0 . 28 and is headed to $ 1 . 25
+ u a c p  currently trading at $ 0 . 28 and is headed to $ 1 . 25
 the company released ground breaking news about its voip division ! ! although some would argue that voip is still maturing , corporate users are extremely interested in implementing the technology , creating exponential growth . within the last four years , voip minutes increased from less than 0 . 5 to 2 percent of outbound international calls , according to research from telegeography . additionally , predictions as to the size of the market itself vary , with allied business intelligence projecting the voip market to grow from $ 3 . 7 billion in 2000 to $ 12 . 3 billion in 2006 and synergy research projecting the voip equipment market to grow to $ 13 . 3 billion by 2005 .
 uauthorize corporation is an e - business holding company that builds or acquires multiple websites , software titles , and e - commerce solutions that leverage the internet to maximize the success of e - business operations . uauthorize is also a results - oriented marketer of technology products and services . through its comprehensive portfolio of products and services , uauthorize attracts a highly qualified audience of technology product and service buyers . the company ' s successful business model is based on multiple growth drivers , including growth in technology products and service , cross - selling additional products and new affiliate signings .
 profile :

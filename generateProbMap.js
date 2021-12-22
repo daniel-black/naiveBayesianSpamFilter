@@ -1,23 +1,5 @@
-const fs = require('fs');
-const stringifyMap = require('./processEmails').stringifyMap;
-const buildMapfromFile = require('./judge').buildMapfromFile;
-
-// GIVES US A NICE INTERFACE FOR BUILDING PROBABILITY MAPS TO BE
-// USED IN TESTING DIFFERENT TWEAKS AND PARAMETERS
-
-// main();
-
-function main() {
-  // provide 3 to 6 command line arguments
-  // swc.txt hwc.txt fileout.txt minShared lowProb highProb
-  const args = process.argv.slice(2);
-  if (args.length !== 6) return -1;
-  let [swc, hwc, fileOut, minShared, lowProb, highProb] = args;
-
-  console.log('Building probability map...');
-  buildProbMapFromWcFiles(swc, hwc, fileOut, +minShared, +lowProb, +highProb);
-  console.log('Done!');
-}
+import { stringifyMap } from './processEmails.js';
+import * as fs from 'fs';
 
 // like buildProbFromWcFiles but with the spam and ham maps prebuilt
 function buildProbMap(spamMap, hamMap, fileOut, minShared=5, lowProb=0.01, highProb=0.99) {
@@ -38,8 +20,8 @@ function buildProbMap(spamMap, hamMap, fileOut, minShared=5, lowProb=0.01, highP
       probMap.set(key, lowProb);
     }
   }
-  analyzeMap(probMap);
-  console.log(`writing probMap to ${fileOut} --- probMap size: ${probMap.size}`);
+  // analyzeMap(probMap);
+  // console.log(`writing probMap to ${fileOut} --- probMap size: ${probMap.size}`);
   fs.writeFileSync(fileOut, stringifyMap(probMap));
 }
 
@@ -47,9 +29,9 @@ function buildProbMap(spamMap, hamMap, fileOut, minShared=5, lowProb=0.01, highP
 // minShared, lowProb, and highProb to create a customizable probability map. 
 // The probability map is then saved to a file named fileOut, to be used in 
 // filtering/testing
-function buildProbMapFromWcFiles(swc, hwc, fileOut, minShared, lowProb, highProb) {
-  const spamMap = buildMapfromFile(swc);
-  const hamMap = buildMapfromFile(hwc);
+export function buildProbMapFromWcFiles(swc, hwc, fileOut, minShared, lowProb, highProb) {
+  const spamMap = buildMapFromFile(swc);   // something probably wrong with buildMapFromFile
+  const hamMap = buildMapFromFile(hwc);
   buildProbMap(spamMap, hamMap, fileOut, minShared, lowProb, highProb);
 }
 
@@ -70,4 +52,14 @@ function analyzeMap(map) {
   for (let i = 0; i < 30; i++) {
     console.log(arr[i]);
   }
+}
+
+export function buildMapFromFile(filename) {
+  let map = new Map();
+  let data = fs.readFileSync(filename, {encoding: 'utf8', flag: 'r'}).split('\n');
+  for (let i = 0; i < data.length; i++) {
+    let [token, count] = data[i].split(': ');
+    map.set(token, +count);
+  }
+  return map;
 }

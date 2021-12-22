@@ -19,7 +19,7 @@ rheadquarter _ name _
 raddress _
 rcity _ rstate _ rzip _
 dear sir or madam :
-enron corp . (  & enron  8 ) believes in conducting its business affairs in
+enron corp . (  & enron  8 ) believes in conducting its business affairs in
 accordance with the highest ethical standards . accordingly , employees of
 enron and its subsidiaries are required to comply with enron ' s business
 ethics policy which requires an employee to conduct himself / herself in a

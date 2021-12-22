@@ -17,7 +17,7 @@ if you are unsure as to which approach you should use , please call me .
 please remember that all time for this period must be submitted before 3 : 00
 pm cst , on june 30 th .
 for those of you using ehronline :
-first of all , congratulations on taking this next step toward enron  , s vision
+first of all , congratulations on taking this next step toward enron  , s vision
 of empowering the employee . by using the new ehronline feature , you are
 helping enron to realize the value in this sap implementation . hopefully ,
 you too , will receive value from having instant access to your personal
@@ -40,7 +40,7 @@ confidential . if you do not receive your information by the end of the day
 on june 22 nd , please call the coe at ( 713 ) 345 - 4 sap to obtain your id and
 password .
 the apollo & beyond team has teamed with ebs to deliver training on how to
-enter time using ehronline via ebs  , new product enroncast . this tool is
+enter time using ehronline via ebs  , new product enroncast . this tool is
 available to you on your desktop . you can access enroncast at
 www . enroncast . com and follow the instructions .
 step by step guides - http : / / sap . enron . com / coe
@@ -67,7 +67,7 @@ you with assistance if you are experiencing problems . the coe is available
 24 hours a day from monday at 7 : 00 am cst through friday at 7 : 00 pm cst . you
 can contact the coe at ( 713 ) 345 - 4 sap .
 dedicated support personnel
-during the time period right after the initial  & go live  8 the project team has
+during the time period right after the initial  & go live  8 the project team has
 dedicated additional resources to help support you . these resources can be
 contacted at :
 marla hernandez at x 39763 for now and after 6 / 22 at x 31645 at workstation #

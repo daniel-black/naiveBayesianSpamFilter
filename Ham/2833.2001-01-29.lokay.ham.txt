@@ -34,17 +34,17 @@ your social security number and w - 2 box one data and your w - 2 data will
 automatically transfer via the internet into the appropriate locations in the
 turbotax form .
 q . is this a secure transaction ?
-a . intuit  , s turbotax atr service combines open financial exchange ( ofx ) , the
+a . intuit  , s turbotax atr service combines open financial exchange ( ofx ) , the
 standard technology used in e - finance , with 128 - bit military - grade encryption
 to create an advanced security protocol that ensures the highest level of
 security and confidentiality when obtaining financial data to populate your
 turbotax form over the internet .
 q . how do i participate in this program ?
-a . only employees using intuit  , s turbotax 2000 tax preparation and filing
+a . only employees using intuit  , s turbotax 2000 tax preparation and filing
 software can take advantage of this web - based atr service . turbotax software
 and the atr web - based filing service can be accessed at
 www . probusinesstaxes . com .
-q . what if i already own turbotax 2000  ( does this still work ?
+q . what if i already own turbotax 2000  ( does this still work ?
 a . yes , all copies of turbotax 2000 contain the automated tax return service
 option .
 q . overall what are the benefits to me ?

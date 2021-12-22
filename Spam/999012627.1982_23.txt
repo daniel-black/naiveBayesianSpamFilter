@@ -4,7 +4,7 @@ Received: (qmail 17166 invoked from network); 28 Aug 2001 13:16:28 -0000
 Received: from dns.beauty-e-shop.com.tw (HELO beauty-e-shop.com.tw) (211.21.210.77)
   by daedelus.bfsmedia.com with SMTP; 28 Aug 2001 13:16:28 -0000
 Received: from 110 [63.180.7.30] by beauty-e-shop.com.tw [211.21.210.79]
-	¨Ï¥Î SMTP (MDaemon.v3.5.2.R)
+	 SMTP (MDaemon.v3.5.2.R)
 	for <bluegoose.kennels@bfsmedia.com>; Tue, 28 Aug 2001 18:17:52 +0800
 Message-ID: <0000542916a9$00000e1f$000036d9@x133>
 To: <HomeLoans705@yahoo.co.uk>

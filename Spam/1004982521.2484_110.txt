@@ -18,7 +18,7 @@ X-OriginalArrivalTime: 05 Nov 2001 17:37:33.0437 (UTC) FILETIME=[8D0ADAD0:01C166
 Content-Length: 2886
 Lines: 83
 
-h5o51924362?bob.smith@em.ca#
+
 
 --WC_MAIL_PaRt_BoUnDaRy_05151998
 Content-Type: text/html
@@ -41,42 +41,42 @@ investor has all of the
 tools needed to level the playing field and make
 better more timely investment
 decisions.
-<p><b>This costs nothing.</b> We’re
+<p><b>This costs nothing.</b> Were
 simply passing along some of the best
-investing tools that we’ve come across in
-our travels on the ‘Net. So,
-we’ve put together in essence, The Investor’s
+investing tools that weve come across in
+our travels on the Net. So,
+weve put together in essence, The Investors
 Tool Box with which you can
 now trade like a pro and enjoy the profits.
 <b>Absolutely FREE!</b>
-<p>There’s no hidden fee or catch. Here are the first of
-many gems we’ve
+<p>Theres no hidden fee or catch. Here are the first of
+many gems weve
 discovered:
 <p><b>-- Free Real-Time Quotes:</b> Why wait 15
 minutes to see what your
-stocks are doing? The Pro’s don’t … why should you? No
+stocks are doing? The Pros dont  why should you? No
 investor should
 be without.
 <p><b>-- Insider Trading Data:</b> If the insiders
 are selling what does
-that tell you? It’s even better to know when they’re
+that tell you? Its even better to know when theyre
 buying. Want to know
 when they file and BEFORE they sell?
 <p><b>-- After Hours
-Quotes:</b> There’s trading going on after the markets
+Quotes:</b> Theres trading going on after the markets
 close. Add this to
 your trading arsenal and watch and play the wild after
 hours market.
 <p><b>--
 Level 2 Quotes:</b> How strong is a stock price? Take a look at
 how many
-buyers &amp; sellers are on the Bid &amp; Ask. You’ll know when
-it’s time to buy
+buyers &amp; sellers are on the Bid &amp; Ask. Youll know when
+its time to buy
 or sell.
 <p><b>-- Research Reports:</b> Real research from INDEPENDENT sources
 on
-even the smallest of companies. There’s always some gem of info that
-you’re
+even the smallest of companies. Theres always some gem of info that
+youre
 bound to find. Do your homework!
 <p><b>-- Late and Breaking News:</b>
 Would you like a chance to read and
@@ -88,7 +88,7 @@ knows?
 color="#3333FF"><a
 href="http://www.edataemail.com/furtherinfo.asp?id=1924362&info=MoreInfo">click here</a></font> to receive all of the
 valuable links to these
-great tools listed above. We’ll send you all the
+great tools listed above. Well send you all the
 tools you need and other
 great financial info from our
 affiliates.

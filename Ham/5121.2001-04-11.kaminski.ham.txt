@@ -7,10 +7,10 @@ assumed to be correlated geometric brownian motion processes ( i . e . the price
 process assumptions are consistent with standard black - 76 model assumptions
 extended to two commodities ) .
 the payoff for a call option is :
-payoff = max ( 0 , a  ) b  ) k ) .
+payoff = max ( 0 , a  ) b  ) k ) .
 where :
 a = nxwti ( delivery price for nymex )
-b = posting price = ( wti swap )  ) ( posting basis )
+b = posting price = ( wti swap )  ) ( posting basis )
 k = posting bonus ( fixed ) .
 the only complication of this option as compared to most other spread options
 is that leg " b " of the spread is a combination of three prices , the two

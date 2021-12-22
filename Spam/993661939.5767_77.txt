@@ -26,19 +26,19 @@ X-Mailing-List:	linux-kernel@vger.kernel.org
 Content-Length: 421
 
 
-최신형PC
-CPU……….933 (인텔)
-RAM………128 (삼성정품133)
-HDD………30 G
-MONITER.17"(삼성77E)
+PC
+CPU.933 ()
+RAM28 (133)
+HDD30 G
+MONITER.17"(77E)
 
-모두43만원
+43
 
-관심있으세요
+
 
  http://comzon.atozpia.com/news/news.html
 
-이리로 오세요
+ 
 -
 To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
 the body of a message to majordomo@vger.kernel.org

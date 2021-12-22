@@ -28,7 +28,7 @@ objective of coming up with final cds and dbs pricing .
 brief description of each model shown in the diagram .
 public firm versus private firm
 what we have as first cut for modeling primarily public firms .
-our understanding on public versus private firms  , credit risk
+our understanding on public versus private firms  , credit risk
 characteristics , data availability and possible modeling approaches .
 our proposed approach / plan towards development of private firm model ,
 including comparative analysis , model development , etc . .
@@ -36,9 +36,9 @@ portfolio level business feasibility analysis
 accounting breakeven analysis
 portfolio theory
 alternative ( short term ) measures
-kmv  , private firm model
-moody  , s riskcalc model for private firms
-comparison of kmv vs moody  , s private firm model
+kmv  , private firm model
+moody  , s riskcalc model for private firms
+comparison of kmv vs moody  , s private firm model
 future strategy
 development of private firm pricing models ( short - and long - tenor modelso
 completion of parent / subsidiary model

@@ -5,7 +5,7 @@ process is powerful . . . if we provide meaningful feedback .
 management , when determining performance ratings , participating in prc
 meetings , and providing feedback to employees , depends on the comments
 received via pep . for the users of pep information to fully understand the
-employee  , s performance and the ratings identified , specific comments are
+employee  , s performance and the ratings identified , specific comments are
 needed to explain each rating , including the overall rating . it ' s most
 beneficial to describe specifically what the employee did and why their
 action was productive or why it needs improvement .
@@ -29,7 +29,7 @@ communication " jack communicates well . " " jack was called on to provide writt
 updates for the ajax project and he clearly conveyed pertinent information
 that was easy to read , timely and suited for his audience . the accounting &
 finance management team commented on how his reports saved them time . "
-teamwork " sue  , s a poor team player . " " when we got to  + crunch  , time sending out year - end
+teamwork " sue  , s a poor team player . " " when we got to  + crunch  , time sending out year - end
 reports , sue chose to spend a day preparing her goals for next year , instead
 of pitching in and helping check figures and box up reports with everyone
 else . we missed the shipping deadline and our reports were received a day
@@ -44,7 +44,7 @@ big deals and contributes significantly to the success of ets , he lacks the
 ability to gain the support and commitment of others when dealing with
 support groups across departmental lines . for greater success , he should
 listen more and provide rationale for his ideas and directives . "
-technical " bill  , s technical skills are weak . " " on three occasions , bill misaligned
+technical " bill  , s technical skills are weak . " " on three occasions , bill misaligned
 columns or overlaid critical data when updating departmental , electronic
 spreadsheets . these errors caused more than 30 hours of rework and
 approximately 8 hours of overtime to fix the mistakes . "

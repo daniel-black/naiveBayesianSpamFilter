@@ -38,7 +38,7 @@ techniques . suppose you have some data set ( e . g . , a data set of financial
 records of companies ) and you want to rate the companies based on this ( or
 some other information ) . linear programming and semi - definite programming
 methods are used for this purpose . with these techniques we are able to
-calculate credit rating of investment companies ( aaa , bbb ,  ( ) . similar
+calculate credit rating of investment companies ( aaa , bbb ,  ( ) . similar
 techniques can be used for scoring of credit card applications and other
 classification problems .
 i am interested in applied projects in energy , risk management , and financial

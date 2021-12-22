@@ -5,7 +5,7 @@ Received: from adsl-151-198-17-236.nnj.adsl.bellatlantic.net (HELO 195.210.0.205
   by bfsmedia.sk.ca with SMTP; 19 Jun 2001 11:23:02 -0000
 Message-Id: <lwgabcsuhapmjn.davkedhaofsgydlrd@195.210.0.205>
 To: @bfsmedia.com
-X-Mailer: ÐÏà¡±á
+X-Mailer: 
 Date: Tue, 19 Jun 2001 04:14:10 -0800
 Content-Type: text/plain;
 	charset="iso-8859-1"

@@ -17,38 +17,38 @@ enron communications changes name to enron broadband services ( ebs )
 new name reflects refined strategy for revolutionizing broadband networks and
 applications
 for internal release : january 20 , 2000
-houston / portland  ) enron corp ( nyse : ene ) today unveiled a new identity for
+houston / portland  ) enron corp ( nyse : ene ) today unveiled a new identity for
 its broadband services unit , enron broadband services ( ebs ) , formerly enron
-communications . the new name underscores enron  , s vision of creating a global
+communications . the new name underscores enron  , s vision of creating a global
 platform for premium broadband delivery services .
-at the heart of enron broadband services  , vision are four components that
+at the heart of enron broadband services  , vision are four components that
 will change the way broadband applications are developed and delivered :
 ? the enron intelligent network ( ein ) , a state of the art high capacity fiber
 optic network
-? enron  , s broadband operating system ( bos )
+? enron  , s broadband operating system ( bos )
 ? bandwidth intermediation for real - time bandwidth - on - demand
-? enron  , s application services for managing and delivering streaming content
- & enron broadband services is uniquely positioned to lead the way in business
-broadband services and applications ,  8 said ken rice , ceo of enron broadband
-services .  & we see a future in which the broadband operating system has the
+? enron  , s application services for managing and delivering streaming content
+ & enron broadband services is uniquely positioned to lead the way in business
+broadband services and applications ,  8 said ken rice , ceo of enron broadband
+services .  & we see a future in which the broadband operating system has the
 most applications written to it , the ein hosts more content than any other
-network , and ebs is the world  , s largest aggregator of bandwidth .  8
-about enron  , s solution
+network , and ebs is the world  , s largest aggregator of bandwidth .  8
+about enron  , s solution
 the enron intelligent network is based on a distributed server architecture ,
-a pure internet protocol strategy , enron  , s global fiber and satellite
+a pure internet protocol strategy , enron  , s global fiber and satellite
 distribution , and the embedded software intelligence that sets it apart from
 other network providers . the enron intelligent network and the enron
 broadband operating sysytem enable a new breed of application services ,
 called epowered services , which transport rich media and live , streaming
-video , up to 50 times faster than the public internet . a carrier using enron  ,
+video , up to 50 times faster than the public internet . a carrier using enron  ,
 s technology can transmit a broadcast quality 5 - gigabyte video file , such as
-a full - length movie , in 16 seconds  ) something that takes seven hours on a
+a full - length movie , in 16 seconds  ) something that takes seven hours on a
 t - 1 line .
 the enron broadband operating system provides the intelligence to the enron
 intelligent network . it acts as a control system through a series of software
 interfaces that connect it to all the elements of the network , both the
 physical elements and the software components . the bos makes all the elements
-of the network subject to dynamic change and optimization  ) a key requirement
+of the network subject to dynamic change and optimization  ) a key requirement
 to enabling the next generation of applications on the internet and
 guaranteed quality of service . for example , the bos makes it possible to
 optimize the use of bandwidth capacity and engage in bandwidth trading ,
@@ -57,7 +57,7 @@ bandwidth they use .
 about enron broadband services
 enron broadband services , formerly enron communications , is a leading
 provider of high quality , broadband internet content and applications . the
-company  , s business model combines the power of the enron intelligent network ,
+company  , s business model combines the power of the enron intelligent network ,
 broadband operating system ( bos ) , bandwidth trading and intermediation
 services , and high - bandwidth applications , to fundamentally improve the
 experience and functionality of the internet . enron introduces the broadband
@@ -68,11 +68,11 @@ that will allow network providers to scale to meet the demands that
 increasingly complex applications require . a wholly owned subsidiary of
 enron corp . ( nyse : ene ) , enron broadband services can be found on the web at
 www . enron . net .
-enron corp is one of the world  , s leading electricity , natural gas and
+enron corp is one of the world  , s leading electricity , natural gas and
 communications companies . the company , which owns approximately $ 34 billion
 in energy and communications assets , produces electricity and natural gas ,
 develops , constructs and operates energy facilities worldwide , delivers
 physical commodities and financial and risk management services to customers
 around the world , and is developing an intelligent network platform to
-facilitate online business . enron  , s internet address is www . enron . com , and
-the stock is traded under the ticker symbol ,  & ene .  8
+facilitate online business . enron  , s internet address is www . enron . com , and
+the stock is traded under the ticker symbol ,  & ene .  8

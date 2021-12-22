@@ -16,4 +16,4 @@ storage ) .
 spreadsheet software in the browser ) .
 ? a new message ticker using internally generated documents . ( see hot stuff )
 ? customization within a category ( see publications ) .
-?  & contact us  8 allows quick response to production support issues .
+?  & contact us  8 allows quick response to production support issues .

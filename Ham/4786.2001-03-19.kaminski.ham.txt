@@ -6,7 +6,7 @@ henwood energy services , inc . ( henwood ) recently announced a major new
 release of its trading and
 scheduling software , and the overall realignment of its energy trading and
 risk management functions into a
-new , strategic lineup of products . henwood  , s established etrm and
+new , strategic lineup of products . henwood  , s established etrm and
 webscheduler enerprise software
 products have been re - launched into physical trading ( webscheduler ) , trade
 capture and settlements
@@ -16,7 +16,7 @@ more strategically meet the needs of the rapidly changing energy markets
 throughout north america . the
 release of the new webscheduler ( version 5 . 0 ) , combines a new henwood
 scheduling version with
-henwood  , s nerc tagging and iso communication functions to create a
+henwood  , s nerc tagging and iso communication functions to create a
 comprehensive physical
 management system .
 " the release of the version 5 webscheduler marks an exciting day , both for
@@ -25,7 +25,7 @@ companies responsible for managing financial and physical energy transactions
 across north america , "
 explained derek porter , vice president - software products . " our new product
 version release and overall
-product realignment clearly shows henwood  , s dedication to meet the trading
+product realignment clearly shows henwood  , s dedication to meet the trading
 needs of today and anticipate
 the challenges of tomorrow . "
 the new webscheduler is a comprehensive physical management product that
@@ -62,7 +62,7 @@ america , australasia , and europe , serving clients that include eight of the
 ten top utilities in north
 america , in addition to energy services providers and power marketers . for
 more information about
-henwood  , s trading and risk management applications , please contact derek
+henwood  , s trading and risk management applications , please contact derek
 porter at 916 - 569 - 0985
 ( email : dporter @ hesinet . com ) . additional information about henwood can be
 obtained by visiting

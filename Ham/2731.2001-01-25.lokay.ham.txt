@@ -9,11 +9,11 @@ identify yourself as enron .
 lorna
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 title : north american electric power & north american natural gas conference
-call and web presentation  * the potential impact of a recession on us gas &
+call and web presentation  * the potential impact of a recession on us gas &
 power markets
 url : http : / / www 20 . cera . com / eprofile ? u = 35 & m = 2221
 topic : the potential impact of a recession on u . s . gas
-netscape navigator 3 . 02 or higher ; or sun hot java  v
+netscape navigator 3 . 02 or higher ; or sun hot java  v
 close all desktop applications and disable your screen saver
 technical assistance :
 us callers : if you are experiencing difficulties during the call , you may

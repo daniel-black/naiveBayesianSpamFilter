@@ -13,7 +13,7 @@ Content-Type: Multipart/Mixed;
 Subject: DaZoneUSA proudly presents new release of Webebuilder 5.1
 From: general@dazoneusa.com
 Reply-To: sales@dazoneusa.com
-Date: Sat, 29 Sep 2001 07:00:48 +0900 (대한민국 표준시)
+Date: Sat, 29 Sep 2001 07:00:48 +0900 ( )
 To: bruceg@em.ca
 Content-Length: 9709
 

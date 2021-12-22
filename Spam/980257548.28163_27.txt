@@ -10,7 +10,7 @@ Content-Type: text/html;
 	charset="iso-8859-1"
 Content-Transfer-Encoding: 7BIT
 Message-Id: <bnmnvlusrqjwbym.sboayfhkkdtlvungbarn@craig17>
-X-Mailer: ÐÏà¡±á
+X-Mailer: 
 Subject: Find Out Anything About AnyOne !
 Content-Length: 675
 Lines: 31

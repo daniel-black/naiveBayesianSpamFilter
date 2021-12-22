@@ -36,7 +36,7 @@ their accelerated solutions environment in dallas , texas .
 i am personally extending an invitation to you to participate in this design
 session . this is a critical two - day event to be held february 12 th and 13 th
 in dallas , texas . this work session is based on a unique approach called a
-designshop  v . it is a very focused , activity - driven event that is composed of
+designshop  v . it is a very focused , activity - driven event that is composed of
 various modules and exercises performed in small and large groups . if you
 have not attended one of the designshops related to sap , you will likely
 regard this session as different from any working session you have previously

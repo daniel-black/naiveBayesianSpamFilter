@@ -23,4 +23,4 @@ can view and interactively rotate the graphics without any additional
 software .
 additionally livegraphics 3 d is able to show animations , calculate
 stereo graphics , integrate hyperlinks , and display bitmap
-backgrounds . 
+backgrounds . 

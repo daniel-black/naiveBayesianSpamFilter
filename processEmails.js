@@ -2,30 +2,27 @@
 // ALSO, SOME OF THE SPAM EMAILS ARE FROM: http://untroubled.org/spam/  's 2001 spam set
 //  hamWordCount:  49,813 tokens
 // spamWordCount: 117,201 tokens
-const fs = require('fs');
-const path = require('path');
 
-const hamPath = __dirname + '/Ham';
-const spamPath = __dirname + '/Spam';
+import * as fs from 'fs';
+import path from 'path';
 
-const sep1 = /[\s._,:\+\#=;'"~?!@<>\(\)\[\]\{\}\*\/\\]+|[�]+/;
+// const __dirname = path.resolve();
 
-writeWordCountToFile(spamPath, sep1, 'swcAllSep1.txt');
+export const separators = /[\s._,:\+\#=;'"~?!@<>\(\)\[\]\{\}\*\/\\]+|[]+/;
 
-// Given a path to a folder, a regex, and a fileOut name,
+
+// Given a path to a folder and a fileOut name,
 // the function iterates over every file in the folder, tokenizing
-// the text of the file on separators provided by the regex. The
+// the text of the file on separators. The
 // tokens are then entered into a map, which is converted
 // to a string using the 'stringifyMap()' function and finally
 // written to an output file
-function writeWordCountToFile(dirPath, regex, fileOut) {
-  let tMap = new Map();
-  const files = fs.readdirSync(dirPath); 
-  for (let i = 0; i < files.length; i++) {
-    let file = path.join(dirPath, files[i]);
+export function createWordCountFile(path, files, fileOut) {
+  let tMap = new Map();                               
+  for (let i = 0; i < files.length; i++) {          
+    let filename = path + files[i];     
     try {
-      const text = fs.readFileSync(file, { encoding: "utf8", flag: "r" });
-      const tokens = text.split(regex);
+      const tokens = tokenizeFile(filename);
       for (let i = 0; i < tokens.length; i++) {
         let t = tokens[i];
         if (!isNaN(t) || t.startsWith('-')) continue;
@@ -38,6 +35,7 @@ function writeWordCountToFile(dirPath, regex, fileOut) {
       }
     } catch (err) {
       console.error(err);
+      process.exit();
     }
     if (i === files.length - 1) {
       console.log(`Map being converted to ${fileOut} is of size: ${tMap.size}`);
@@ -47,7 +45,7 @@ function writeWordCountToFile(dirPath, regex, fileOut) {
 }
 
 // turns a map into a string to be written to a file
-function stringifyMap(map) {
+export function stringifyMap(map) {
   let str = '';
   for (let [key, val] of map) {
     str += key + ': ' + val + '\n';
@@ -55,4 +53,7 @@ function stringifyMap(map) {
   return str;
 } 
 
-module.exports = { stringifyMap, sep1 };
+// takes a filename and returns an array of tokens
+export function tokenizeFile(filename) {
+  return fs.readFileSync(filename, { encoding: "utf8", flag: "r" }).split(separators);
+}

@@ -8,7 +8,7 @@ Received: from mail
 	Wed, 28 Nov 2001 23:52:07 +0800
 Message-ID: <TiFcDxNei1kZeF@party.seed.net.tw>
 From: blueunion@timormail.com
-To: 泛藍軍支持者
+To: x
 Subject:=?big5?Q?=AAx=C2=C5=ADx=B9=CE=B5=B2=A6w=A9w=C1p=B7=F9=A5=FE=A4O=A9=D4=A9=EF=B7=ED=BF=EF=C3=E4=BDt=AD=D4=BF=EF=A4H(=BA=F1=ADx=A4=E4=AB=F9=AA=CC=BD=D0=B3w=A4=A9=A7R=B0=A3=A1A=A9=EA=BAp=A1A=A5=B4=C2Z=A4F=A1^?=
 MIME-Version: 1.0
 Content-Type: multipart/related;

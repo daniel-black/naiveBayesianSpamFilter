@@ -29,26 +29,26 @@ Content-Length: 818
  28866
 
 -------
-$B-j#J#M#P$N!X#E%a!<%k#D#M!Y$r$*FO$1CW$7$^$9!#(B
+$B-j#J#M#P$N!X#E%a!<%k#D#M!Y$r$*FO$1CW$7$^$9!#(B
 -------
 
 --------------------------
 http://www2.snowman.ne.jp/~nnet/
- $B%N!<%9%M%C%H(B
- $B!&#C#G#IL5NA%@%&%s%m!<%I%Z!<%8(B
- $B!&7G<(HD!"%A%c%C%H!"%"%/%;%9%m%0!"%+%&%s%?!<!"%U%)!<%`%G%3!<%I(B
-$B!!$=$NB>B??t$"$j(B
- $B!&%*!<%@!<#C#G#I$b<u$1IU$1$F$$$^$9!#(B
- $B!&%I%3%b$,1?1D$9$k%I%3%M%C%H%l%s%?%k%5!<%P!<%5!<%S%9!#(B
-$B!!%G%#%l%/%H%jMFNL(B500$B#M#B!'(B8000$B1_!A(B
+ $B%N!<%9%M%C%H(B
+ $B!&#C#G#IL5NA%@%&%s%m!<%I%Z!<%8(B
+ $B!&7G<(HD!"%A%c%C%H!"%"%/%;%9%m%0!"%+%&%s%?!<!"%U%)!<%`%G%3!<%I(B
+$B!!$=$NB>B??t$"$j(B
+ $B!&%*!<%@!<#C#G#I$b<u$1IU$1$F$$$^$9!#(B
+ $B!&%I%3%b$,1?1D$9$k%I%3%M%C%H%l%s%?%k%5!<%P!<%5!<%S%9!#(B
+$B!!%G%#%l%/%H%jMFNL(B500$B#M#B!'(B8000$B1_!A(B
 
 http://www2.snowman.ne.jp/~nnet/
 --------------------------
 
 -------
-$B$3$N%a!<%k$O>pJsDs6!4k6H$+$i$N0MMj$K$h$j(B
-JMP$B$+$iG[?.$7$F$*$j$^$9!#(B
-$B-j%8%'%$%(%`%T!<(B   randy@iris.ocn.ne.jp
+$B$3$N%a!<%k$O>pJsDs6!4k6H$+$i$N0MMj$K$h$j(B
+JMP$B$+$iG[?.$7$F$*$j$^$9!#(B
+$B-j%8%'%$%(%`%T!<(B   randy@iris.ocn.ne.jp
 -
 To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
 the body of a message to majordomo@vger.kernel.org

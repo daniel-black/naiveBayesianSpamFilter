@@ -11,7 +11,7 @@ routines , 3 ) excel spreadsheet interface ,
 4 ) sam _ audit . dll .
 dr . vince kaminski , dr . stinson gibner and myself have spent about one year
 in developing this model .
-with traders  , feedback incorporated , the model results are close to reality .
+with traders  , feedback incorporated , the model results are close to reality .
 although there are features to be included ,
 we believe the model is ready for your review . we look forward to your
 comments and suggestions .

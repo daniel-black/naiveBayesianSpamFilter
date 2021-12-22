@@ -38,7 +38,7 @@ release :
 " metarouter sends signals throughout distributed networks to determine the
 optimal connectivity paths for any size bandwidth capacity from anywhere in
 the world . capable of processing thousands of connections per second ,
-metarouter significantly enhances enron  , s ability to automate circuit
+metarouter significantly enhances enron  , s ability to automate circuit
 provisioning . "
 there may be two separate questions to ask here . first , in the context of
 the current market ( or the market which may develop in the next 1 - 2 years ) ,

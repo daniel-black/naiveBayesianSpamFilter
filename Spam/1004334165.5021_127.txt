@@ -7,7 +7,7 @@ Received: from QRJATYDI (DGFCNT [211.91.41.134]) by penavicotj.penavicotj.com wi
 	id VM4CGWXK; Sat, 27 Oct 2001 14:47:08 +0800
 From: "John" <Myink4all@excite.com>
 To: User
-Subject: BuyManufactureDirectOnInkjets&LaserCartridgesSave75%-85%
+Subject: BuyManufactureDirectOnInkjets&LaserCartridgesSave75%-85%
 X-Priority: 3
 X-MSMail-Priority: Normal
 X-Mailer: MMailer v3.0

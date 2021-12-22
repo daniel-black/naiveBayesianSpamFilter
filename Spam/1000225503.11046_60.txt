@@ -3,7 +3,7 @@ Delivered-To: bfsmedia-training@bfsmedia.com
 Received: (qmail 30268 invoked from network); 11 Sep 2001 05:11:42 -0000
 Received: from unknown (HELO proxy.baohua.com.cn) (61.144.253.60)
   by agamemnon.bfsmedia.com with SMTP; 11 Sep 2001 05:11:42 -0000
-Received: from plain (π‹¿Ì‘± [210.83.133.199]) by proxy.baohua.com.cn with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+Received: from plain ( [210.83.133.199]) by proxy.baohua.com.cn with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
 	id SNWC051F; Tue, 11 Sep 2001 13:08:57 +0800
 From: 
 To: training@bfsmedia.com

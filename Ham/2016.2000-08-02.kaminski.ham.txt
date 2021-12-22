@@ -116,7 +116,7 @@ chapter 9 focuses on the risk management of energy derivative positions . ?
 in this chapter we discuss the management of price risk for institutions
 that trade options or other derivatives and who are then faced with the
 problem of managing the risk through time . ? we begin with delta hedging a
-portfolio containing derivatives and look at extensions to gamma hedging  )
+portfolio containing derivatives and look at extensions to gamma hedging  )
 illustrating the techniques using both spot and forward curve models . ? the
 general model presented in chapter 8 is ideally suited to multi - factor
 hedging of a portfolio of energy derivatives and this is also discussed .
@@ -139,9 +139,9 @@ numerical examples of applying these techniques to energy derivatives .
 ?
 before we begin we stress that the models and methods we present in this
 book are tools which should be used with the benefit of an understanding of
-how both the  + tool  , and the market works . ? the techniques we describe are
-certainly not  & magic wands  8 which can be waved at data and risk management
+how both the  + tool  , and the market works . ? the techniques we describe are
+certainly not  & magic wands  8 which can be waved at data and risk management
 problems to provide instant and perfect solutions . ? to quote from the
-riskmetrics technical document  &  ( no amount of sophisticated analytics will
-replace experience and professional judgement in managing risk .  8 . ? however ,
+riskmetrics technical document  &  ( no amount of sophisticated analytics will
+replace experience and professional judgement in managing risk .  8 . ? however ,
 the right tools , correctly used make the job a lot easier !

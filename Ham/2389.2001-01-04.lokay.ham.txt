@@ -42,7 +42,7 @@ flow , improve customer coverage and promote quality information transfer to
 our trading organization ;
 c ) increase deal quality and earnings quality with the goal to ( i ) allocate
 our resources towards the best transactions and ( ii ) significantly increase
-our 
+our 
 d ) promote real time decision making and a closer tie between our trading and
 origination ( mid - market and structured ) organizations in order to better
 align those functions to reduce the amount of un - productive internal focus ;
@@ -53,7 +53,7 @@ critical to meeting our goals next year .
 with these objectives in mind , patterned after the successful business models
 in calgary and portland , effective immediately the following changes are
 being implemented :
-a ) east power  ) a single east power team incorporating trading , mid - market
+a ) east power  ) a single east power team incorporating trading , mid - market
 and origination will be formed under the co - leadership of kevin presto and
 janet dietrich who will report to the enron americas - office of the chairman
 ( ea ooc ) . this team will have one income statement , one book and a joint
@@ -65,42 +65,42 @@ origination income , provide coverage , deal flow , lead strategy formulation ,
 provide information and generate strategic positions . overall , the team will
 be rewarded based upon increasing the value of the book , meeting
 coverage / deal flow targets and meeting its strategic / growth goals in the
-eastern power markets . the team will be responsible for covering the iou  , s ,
-muni  , s / co - ops , industrials and ipp  , s and will utilize all ena  , s product
+eastern power markets . the team will be responsible for covering the iou  , s ,
+muni  , s / co - ops , industrials and ipp  , s and will utilize all ena  , s product
 capabilities including the power commodity , assets and capital . the team will
 further be broken down into several key strategic regions and business units
 including :
-( i ) ercot  ) managed by doug gilbert smith and bruce sukaly ;
-( ii ) ne  ) managed by dana davis and jeff ader ;
-( iii ) midwest  ) managed by fletch sturm and ed baughman ;
-( iv ) se  ) managed by rogers herndon and ozzie pagan ;
-( v ) east power development  ) managed by ben jacoby ;
+( i ) ercot  ) managed by doug gilbert smith and bruce sukaly ;
+( ii ) ne  ) managed by dana davis and jeff ader ;
+( iii ) midwest  ) managed by fletch sturm and ed baughman ;
+( iv ) se  ) managed by rogers herndon and ozzie pagan ;
+( v ) east power development  ) managed by ben jacoby ;
 ( vi ) east power structuring - managed by bernie aucoin ; and
-( vii ) east power fundamentals and the 
-east gas  ) a single east gas team incorporating trading , mid - market and
+( vii ) east power fundamentals and the 
+east gas  ) a single east gas team incorporating trading , mid - market and
 origination will be formed under the co - leadership of scott neal and frank
 vickers who will be returning from portland to join this team .
-west gas  ) in a similar manner , a west gas team will be formed co - managed by
+west gas  ) in a similar manner , a west gas team will be formed co - managed by
 phillip allen and barry tycholiz , who will be joining us in houston from the
 canadian team . the denver office under mark whitt will be integrated under
 this team .
-central gas  ) in a similar manner , a central gas team will be formed
+central gas  ) in a similar manner , a central gas team will be formed
 co - managed by hunter shively and laura luce . the chicago office will be
 integrated into this team .
-texas gas  ) the texas gas team will be managed by tom martin . this team will
+texas gas  ) the texas gas team will be managed by tom martin . this team will
 continue to manage the gas trading business around hpl until the pending sale
 is concluded in q 2 2001 . after the sale of hpl , this team will build a texas
 gas business without ownership of the hpl assets .
-financial  ) this group will continue to be managed by john arnold with no
+financial  ) this group will continue to be managed by john arnold with no
 significant changes .
-derivatives  ) this group , lead by fred lagrasta , will offer derivative and
+derivatives  ) this group , lead by fred lagrasta , will offer derivative and
 financial mid - market products and services to the natural gas market
-specifically targeting cfo  , s and treasury departments . fred will continue to
+specifically targeting cfo  , s and treasury departments . fred will continue to
 maintain certain existing mid - market accounts with a number of producer and
 industrial accounts where relationships are well formed . otherwise ,
 mid - market coverage will gravitate to the regions . the new york office gas
 marketing efforts will continue to be managed by fred .
-upstream products  ) this group , lead by jean mrha , will develop several
+upstream products  ) this group , lead by jean mrha , will develop several
 distinct product offerings for the upstream segment of the gas market . this
 group will develop and market the product in conjunction with the regions .
 this is consistent with our desire to have a broader product offering and
@@ -110,17 +110,17 @@ relationships in canada , physical storage re - engineering , compressor
 services , wellhead liquidity products and offshore asset and capital
 products . in addition , jean will manage our bridgeline joint venture with
 texaco .
-gas structuring  ) this group will be lead by ed mcmichael , reporting to frank
+gas structuring  ) this group will be lead by ed mcmichael , reporting to frank
 vickers , will provide structuring and deal support to all the gas teams .
-gas fundamentals  ) this group will be lead by chris gaskill , reporting to
+gas fundamentals  ) this group will be lead by chris gaskill , reporting to
 hunter shively , will provide fundamentals to all the gas teams .
 julie gomez will continue to support the gas floor through several identified
 projects including long - term supply / demand analysis and , natural gas
 transportation capacity trading opportunities .
 there is an expectation of some customer overlap between the gas and power
-groups ; for example , the combination utilities and the ipp  , s . the teams will
+groups ; for example , the combination utilities and the ipp  , s . the teams will
 coordinate with regard to the combination utilities like con . edison or
-pg & e . with regard to the ipp  , s , to the extent that the product offering
+pg & e . with regard to the ipp  , s , to the extent that the product offering
 involves an underlying power position , the power teams will manage . we have
 asked janet dietrich to coordinate such overlaps between the two
 organizations in houston .
@@ -128,7 +128,7 @@ e ) technical / restructuring - in the effort to consolidate and centralize our
 technical resources ( engineering , development , operations , pipeline ) to
 ensure that this skill base is available to all ena groups and utilized
 productively across the organization , brian redmond will form and manage the
-technical services group . this group will manage ena  , s technical risks and
+technical services group . this group will manage ena  , s technical risks and
 will provide , on a cost basis , technical services for the entire ena
 organization . this group will manage the interface with ee therefore , eliminating the need to change legal entities et al .
 if you are currently a commercial employee of ena or esa you will continue to

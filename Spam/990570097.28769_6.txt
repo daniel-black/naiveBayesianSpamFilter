@@ -15,11 +15,11 @@ Received: from [211.58.56.16] (helo=mo1.hananet.net)
 Received: from meco901 ([211.204.1.52]) by mo1.hananet.net
           (Netscape Messaging Server 4.15) with SMTP id GDR3QY00.K10 for
           <info-sather@gnu.org>; Wed, 23 May 2001 04:06:34 +0900 
-From: "온라인코리아"<olk@olk.co.kr>
+From: ""<olk@olk.co.kr>
 To: info-sather@gnu.org
-Subject: info-sather님 안녕하세요? 
+Subject: info-sather? 
 X-AD2000-Serial: 1033
-X-AD2000-Register: "박재현" <olk@olk.co.kr>
+X-AD2000-Register: "" <olk@olk.co.kr>
 MIME-Version: 1.0
 Content-Type: text/html
 Content-Transfer-Encoding: base64

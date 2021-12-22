@@ -4,7 +4,7 @@ the spreadsheet is based on a total of 24 london users . we have a total of
 14 avistar users installed in london .
 i believe the following london departments may have been charged for the
 incorrect number of users :
-fin  , l trading - $ 74 , 418 . 83 based on 4 units but have 5 users
+fin  , l trading - $ 74 , 418 . 83 based on 4 units but have 5 users
 rate & currency ( john greene not listed ? )
 342 - 100467
 softs mg - $ 42 , 857 . 23 based on 4 units but have only 1 user

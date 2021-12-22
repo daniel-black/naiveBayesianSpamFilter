@@ -1,6 +1,6 @@
 Subject: key dates and impact of upcoming sap implementation
 over the next few weeks , project apollo and beyond will conduct its final sap
-implementation  ) this implementation will impact approximately 12 , 000 new
+implementation  ) this implementation will impact approximately 12 , 000 new
 users plus all existing system users . sap brings a new dynamic to enron ,
 enhancing the timely flow and sharing of specific project , human resources ,
 procurement , and financial information across business units and across
@@ -29,7 +29,7 @@ services , enron engineering and construction company , enron investment
 partners , enron north america , enron renewable energy corporation ( houston
 only ) , the international regions , gas pipeline group , global finance , global
 it , enron networks , and global products .
-existing sap users currently supported by the center of expertise ( coe )  )
+existing sap users currently supported by the center of expertise ( coe )  )
 including the london coe .
 people will be impacted gradually over the next few weeks :
 june 12 - current sap users may notice ( and may use ) new features in some of

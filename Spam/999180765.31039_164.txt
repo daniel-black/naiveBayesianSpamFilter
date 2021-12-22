@@ -5,7 +5,7 @@ Received: from unknown (HELO em.ca) (211.219.153.249)
   by em.ca with SMTP; 30 Aug 2001 06:46:58 -0000
 From:  <join@sshow.co.kr>
 To:  <bruceg@em.ca>
-Subject: [광고제휴] 국내 최대 성인방송국 쌩쇼에서 한가지 제안을 드립니다.
+Subject: []    .
 Date: Thu, 30 Aug 2001 14:43:42 +0900
 MIME-Version: 1.0
 X-Mailer: INFOMailer Ver 2.5
@@ -21,8 +21,8 @@ Content-Length: 12896
 <style>
 A 		{text-decoration:none}
 A:hover	{text-decoration:underline}
-body,table,tr,td{font-family:돋움,Arial,Helvetica,sans-serif;font-size: 12px;color:#303030;line-height:16px}
-font	{font-family:돋움, Arial, Helvetica, sans-serif;font-size: 12px;line-height:16px;letter-spacing:-1px}
+body,table,tr,td{font-family:,Arial,Helvetica,sans-serif;font-size: 12px;color:#303030;line-height:16px}
+font	{font-family:, Arial, Helvetica, sans-serif;font-size: 12px;line-height:16px;letter-spacing:-1px}
 font1 	{line-height:18px}
 </style>
 </HEAD>
@@ -88,34 +88,34 @@ font1 	{line-height:18px}
 <table width="98%" border="0" cellspacing="0" cellpadding="0" align="center">
 <tr>
 <td>
-<p><font face="굴림, 돋움" size=-1><br>
-안녕하세요. 국내 최고의 성인방송국 <font color="#FF0000"><b>쌩쇼</b></font>
-온라인 제휴 담당자 입니다.<br>
+<p><font face=", " size=-1><br>
+.   <ont color="#FF0000"><b></b></font>
+  .<br>
 <br>
-<b><font color="#FF0000">쌩쇼</font></b>는 귀사의 사이트를 통한 온라인 광고
-Win-Win 프로젝트를 진행하고 싶습니다.<br>
+<b><font color="#FF0000"></font></b>     
+Win-Win   .<br>
 <br>
-귀사의 사이트에서 국내 최고의 성인방송국 <b><font color="#FF0000">쌩쇼</font></b>의
-베너를 연결해 주시고 베너를 통해 얻어<br>
+    <b><font color="#FF0000"></font></b>
+    <br>
 <br>
-지는 수익의 30%를 드리겠습니다. 또한 매출 상승에 따른 볼륨 커미션도 있습니다.<br>
+ 30% .       .<br>
 <br>
-정확한 수익금을 매일매일 실시간으로 직접 확인하실 수 있도록 제작이 되어 있습니다.<br>
+          .<br>
 <br>
-귀사의 사이트에서 <b><font color="#FF0000">쌩쇼</font></b> 베너를 클릭한 회원이
-30일간의 클릭 유효기간을 설정해 두고<br>
+ <b><ont color="#FF000"<font></b>   
+30    <br>
 <br>
-있습니다. </font><font face="굴림, 돋움" size=-1>즉 <b><font color="#FF0000">쌩쇼</font></b> 베너를 클릭하면 30일 동안은
-귀사의 수익으로 진행됩니다.<br>
+. </font><font face=", " size=-1> <><font color="#F000"></font></b>   30 
+  .<br>
 <br>
-※ 한번 사이트를 둘러보시고 귀하의 현명한 판단을 부탁드립니다.<br>
+    .<br>
 <br>
 </font></p>
 <hr width="500" align="center" size="1" noshade>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center"><font face="굴림, 돋움" size=-1>
-<a href='http://ns.ssangshow.co.kr:7777/bin/checker?mode=5&mid=52&obj=1000000&uid=9&email=bruceg@em.ca&seq=131772' target='_blank'><b>[ 온라인 제휴사 가입 ]</b></a>
+<td align="center"><font face=", " size=-1>
+<a href='http://ns.ssangshow.co.kr:7777/bin/checker?mode=5&mid=52&obj=1000000&uid=9&email=bruceg@em.ca&seq=131772' target='_blank'><b>[   ]</b></a>
 </font></td>
 </tr>
 </table>
@@ -160,90 +160,90 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 </tr>
 <tr>
 <td height="10" align="left" class="font">
-<p><font face="굴림, 돋움" size=-1><b><img src="http://www.linkagent.co.kr/mail/img0824/icon.gif" width="11" height="9">
-쌩쇼광고 진행절차<br>
+<p><font face=", " size=-1><b><img src="http://www.linkagent.co.kr/mail/img0824/icon.gif" width="11" height="9">
+ <br>
 <br>
 <br><center>
-</b></font><font face="굴림, 돋움" size="3" color="#FF0000"><b>제휴신청</b></font><b><font face="굴림, 돋움" size="3">
+</b></font><font face=", " size="3" color=#F0000"><b></b></font><b><font face=", " size="3">
 <font color="#FF0000"><img src="http://www.linkagent.co.kr/mail/img0824/hand.gif" width="32" height="17">
-파트너 자동등록<img src="http://www.linkagent.co.kr/mail/img0824/hand.gif" width="32" height="17">
-배너달기<br></font></center>
+<img src="http://www.linkagent.co.kr/mail/img0824/hand.gif" width="32" height="17">
+<br></font></center>
 <br>
 <br>
 <br>
 <br>
-</font></font></b><font face="굴림, 돋움" size=-1><b><img src="http://www.linkagent.co.kr/mail/img0824/icon.gif" width="11" height="9">
-광고커미션 지급안내</b></font></p>
+</font></font></b><font face=", " size=-1><b><img src="http://www.linkagent.co.kr/mail/img0824/icon.gif" width="11" height="9">
+</b></font></p>
 <table width="95%" border="0" cellspacing="0" cellpadding="0" align="center">
 <tr>
-<td> <font face="굴림, 돋움" size=-1>쌩쇼 월별 가입금액 및 월별 수익금 내역</font><br>
+<td> <font face=", " size=-      </font><br>
 <br>
 <table width="98%" border="1" cellspacing="0" cellpadding="2" bordercolor="#000000" align="center">
 <tr bgcolor="#666666">
-<td align="center"><font color="#FFFFFF">쌩쇼 가입개월</font></td>
-<td align="center"><font color="#FFFFFF">쌩쇼 가입금액</font></td>
-<td align="center"><font color="#FFFFFF">30% 커미션</font></td>
-<td align="center"><font color="#FFFFFF">33% 커미션</font></td>
-<td align="center"><font color="#FFFFFF">35% 커미션</font></td>
+<td align="center"><font color="#FFFFFF"> </font></td>
+<td align="center"><font color="#FFFFFF"> </font></td>
+<td align="center"><font color="#FFFFFF">30% </font></td>
+<td align="center"><font color="#FFFFFF">33% </font></td>
+<td align="center"><font color="#FFFFFF">35% </font></td>
 </tr>
 <tr>
 <td align="center">&nbsp;</td>
 <td align="center">&nbsp;</td>
-<td align="center">700만원 이하</td>
-<td align="center">700만원 이상</td>
-<td align="center">1500만원 이상</td>
+<td align="center">700 </td>
+<td align="center">700 </td>
+<td align="center">1500 </td>
 </tr>
 <tr>
-<td align="center"><b><font color="#000000">1 개월</font></b></td>
-<td align="center">13,200원</td>
-<td align="center">3,960원</td>
-<td align="center">4,356원</td>
-<td align="center">4,620원</td>
+<td align="center"><b><font color="#000000">1 </font></b></td>
+<td align="center">13,200</td>
+<td align="center">3,960</td>
+<td align="center">4,356</td>
+<td align="center">4,620</td>
 </tr>
 <tr>
-<td align="center"><b><font color="#000000">2 개월</font></b></td>
-<td align="center">22,000원</td>
-<td align="center">6,600원</td>
-<td align="center">7,260원</td>
-<td align="center">7,700원</td>
+<td align="center"><b><font color="#000000">2 </font></b></td>
+<td align="center">22,000</td>
+<td align="center">6,600</td>
+<td align="center">7,260</td>
+<td align="center">7,700</td>
 </tr>
 <tr>
-<td align="center"><b><font color="#000000">3 개월</font></b></td>
-<td align="center">33,000원</td>
-<td align="center">9,900원</td>
-<td align="center">10,890원</td>
-<td align="center">11,550원</td>
+<td align="center"><b><font color="#000000">3 </font></b></td>
+<td align="center">33,000</td>
+<td align="center">9,900</td>
+<td align="center">10,890</td>
+<td align="center">11,550</td>
 </tr>
 <tr>
-<td align="center"><b><font color="#000000">6 개월</font></b></td>
-<td align="center">66,000원</td>
-<td align="center">19,800원</td>
-<td align="center">21,780원</td>
-<td align="center">23,100원</td>
+<td align="center"><b><font color="#000000">6 </font></b></td>
+<td align="center">66,000</td>
+<td align="center">19,800</td>
+<td align="center">21,780</td>
+<td align="center">23,100</td>
 </tr>
 <tr>
-<td align="center"><b><font color="#000000">12개월</font></b></td>
-<td align="center">110,000원</td>
-<td align="center">33,000원</td>
-<td align="center">36,300원</td>
-<td align="center">38,500원</td>
+<td align="center"><b><font color="#000000">12</font></b></td>
+<td align="center">110,000</td>
+<td align="center">33,000</td>
+<td align="center">36,300</td>
+<td align="center">38,500</td>
 </tr>
 </table>
 <br>
-※ 매월 파트너 회원의 매출에 따른 커미션 차등 지급을 하고 있습니다. 참조 바랍니다.<br>
+       .  .<br>
 </td>
 </tr>
 </table>
-<p><font face="굴림, 돋움" size=-1><br>
+<p><font face=", " size=-1><br>
 <br>
-<img src="http://www.linkagent.co.kr/mail/img0824/icon.gif" width="11" height="9"><b> 고 품격을
-자랑하는 쌩쇼<br>
+<img src="http://www.linkagent.co.kr/mail/img0824/icon.gif" width="11" height="9"><b>  
+<br>
 <br>
 </b></font></p>
 <table width="98%" border="0" cellspacing="1" cellpadding="1">
 <tr>
-<td colspan="4" height="30"><font face="굴림, 돋움" size=-1>국내
-성인방송국 중 최고의 기술진과 스탭들이 쌩쇼를 이렇게 만들고 있습니다.</font></td>
+<td colspan="4" height="30"><font face=", " size=-1>
+       .</font></td>
 </tr>
 <tr align="center" valign="middle">
 <td height="100"><img src="http://www.linkagent.co.kr/mail/img0824/snap01.gif" width="110" height="81" border="1"></td>
@@ -252,8 +252,8 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 <td height="100"><img src="http://www.linkagent.co.kr/mail/img0824/snap04.gif" width="110" height="81" border="1"></td>
 </tr>
 </table>
-<p><font face="굴림, 돋움" size=-1> &nbsp;미모의 IJ와 함께 매일밤 쌩~라이브로 즐기는
-성인방송국입니다.</font></p>
+<p><font face=", " ize=-1> &nsp;IJ   ~ 
+.</font></p>
 <b></b></td>
 </tr>
 <tr>
@@ -296,16 +296,16 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 </tr>
 <tr>
 <td height="48">
-<p><font face="굴림, 돋움" size=-1>성인방송 사이트라고 광고진행을 미루십니까?<br>
-인터넷이란 좋은 매체입니다. 하지만 전세계의 네티즌들이성인 관련 컨텐츠를<br>
-찾아 다니는 하루 시간은 얼마나 될까요?<br>
-대부분의 네티즌은 성인사이트의 URL을 머리에 기억하지 않습니다.<br>
-</font><font face="굴림, 돋움" size=-1> 확실한 성인방송을 이끌어 가는 쌩쇼와 함께
-하시면 많은 광고수익을 올리실 수 있습니다.<br>
-참고로 쌩쇼는 인터넷 성인방송 협회에 등록을 하고 심의 및 국내 허가 수준에서 열심히<br>
-하고 있습니다. 쌩쇼의 파트너들 중 개인이 운영하는 많은 사이트에서도 매월 높은 광고<br>
-집행비용을 받아가고 있습니다.<br>
-쌩쇼의 CPS광고가 귀사의 운영에 많은 도움이 되었으면 합니다.<br>
+<p><font face=", " size=->  ?<br>
+  .    <br>
+   ?<br>
+   R   .<br>
+</font><font face=", " size-1>      
+     .<br>
+           <br>
+       탓  <br>
+  .<br>
+ CPS      .<br>
 </font></p>
 </td>
 </tr>
@@ -324,15 +324,15 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 <table width="596" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" class="font" width="1" height="30"></td>
-<td align="center" class="font" height="30"><font color="4B4B4B">광고제안
-메일을 받고 싶지 않으신 분은 "메일 수신거부" 버튼을 클릭해 주세요.</font></td>
+<td align="center" class="font" height="30"><font color="4B4B4B">
+    " "   .</font></td>
 </tr>
 <tr>
 <td align="center" class="font" width="1" height="30" rowspan="3"></td>
 <td align="center" class="font" height="30">
 <p><b>
-<a href='http://www.linkagent.co.kr/reject.html?user_email=bruceg@em.ca' target='_blank'>[ 메일수신거부 ]</a>
-<a href='http://ns.ssangshow.co.kr:7777/bin/checker?mode=5&mid=52&obj=1000001&uid=9&email=bruceg@em.ca&seq=131772' target='_blank'>[ 계약서 다운받기 ]</a>
+<a href='http://www.linkagent.co.kr/reject.html?user_email=bruceg@em.ca' target='_blank'>[  ]</a>
+<a href='http://ns.ssangshow.co.kr:7777/bin/checker?mode=5&mid=52&obj=1000001&uid=9&email=bruceg@em.ca&seq=131772' target='_blank'>[  ]</a>
 </b></p>
 </td>
 </tr>
@@ -340,9 +340,9 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 <td align="center" class="font" height="15"></td>
 </tr>
 <tr>
-<td align="center" class="font" height="30"><font color="#000000">쌩쇼는
-신용을 소중히 여깁니다. <font color="#FF0000"><b>신용과 브랜드파워</b></font>가 있는 쌩쇼와
-광고제휴를 맺으세요.</font></td>
+<td align="center" class="font" height="30"><font color="#000000">
+탓  . <fontcolr="#FF0000"><b </b></font>  
+ .</font></td>
 </tr>
 </table>
 <table width="596" border="0" cellspacing="0" cellpadding="0">
@@ -357,8 +357,8 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 </table>
 <table width="596" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td height="19" bgcolor="D4D4D4" align="center" class="font" valign="bottom"><font color="4b4b4b">보다
-자세한 문의 사항은</font><img src="http://www.linkagent.co.kr/mail/img0824/icon-arrow.gif" width="31" height="12"><a href="mailto:Join@sshow.co.kr" class="font"><font color="blue" class="font">Join@sshow.co.kr</font></a></td>
+<td height="19" bgcolor="D4D4D4" align="center" class="font" valign="bottom"><font color="4b4b4b">
+  </font><img src="http://www.linkagent.co.kr/mail/img0824/icon-arrow.gif" width="31" height="12"><a href="mailto:Join@sshow.co.kr" class="font"><font color="blue" class="font">Join@sshow.co.kr</font></a></td>
 </tr>
 </table>
 
@@ -370,7 +370,7 @@ Win-Win 프로젝트를 진행하고 싶습니다.<br>
 <tr>
 <td width="10"><img src="http://www.linkagent.co.kr/mail/img0824/img-3.gif" width="10" height="21"></td>
 <td width="580" bgcolor="4B4B4B" align="center" valign="bottom"><font color="#FFFFFF" class="font1">Copyright
-2001ⓒ Dream Contents Corp, All rights reserved.</font></td>
+2001 Dream Contents Corp, All rights reserved.</font></td>
 <td width="10"><img src="http://www.linkagent.co.kr/mail/img0824/img-4.gif" width="10" height="21"></td>
 </tr>
 </table>

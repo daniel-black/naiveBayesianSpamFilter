@@ -3,7 +3,7 @@ Delivered-To: bfsmedia-gn@bfsmedia.com
 Received: (qmail 32701 invoked from network); 23 Jan 2001 21:00:22 -0000
 Received: from cust-169-221.as06.phnx.eli.net (HELO craig6342) (209.210.169.221)
   by bfsmedia.sk.ca with SMTP; 23 Jan 2001 21:00:22 -0000
-X-Mailer: ÐÏà¡±á
+X-Mailer: 
 From: edetect50@altavista.com
 Subject: Find Out Anything About AnyOne !
 Message-Id: <qtmcqoofupmvcfkbvig.agufbinpc@craig6342>

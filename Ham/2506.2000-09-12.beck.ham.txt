@@ -18,7 +18,7 @@ consolidated trade information with centralized access .
 background
 the definition of a data warehouse is a place to consolidate information
 originating from multiple transaction processing systems and platforms into a
-common database repository . the idea of an enron  & trade warehouse  8
+common database repository . the idea of an enron  & trade warehouse  8
 originated from members of the london office and has been expanded to include
 the houston systems . the need for a trade warehouse stems from the
 requirement of multiple departments needing to access consolidated deal

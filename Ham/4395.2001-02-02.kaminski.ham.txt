@@ -3,7 +3,7 @@ harvard business school is doing a 5 - year business case study on enron .
 below is the information that i have regarding their visit . the name of
 the case study is modern giants ( attached below )
 ( they are interested in developing a clearer picture of the architecture and
-design of enron  , s organization , products , and services - - how the company and
+design of enron  , s organization , products , and services - - how the company and
 its key businesses have been put together and how they work on a daily ,
 quarterly , and annual basis . )
 mm

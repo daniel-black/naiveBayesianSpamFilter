@@ -8,11 +8,11 @@ Received: from 3w-pop3-aa.korea.com ([172.31.1.4]) by 3w-smtp-ac.korea.com with 
 Received: from thrunet ([210.205.197.156]) by 3w-pop3-aa.korea.com with Microsoft SMTPSVC(5.0.2195.1600);
 	 Thu, 19 Apr 2001 05:21:52 +0900
 Date: Thu, 19 Apr 2001 05:16:32 +0900
-From: "온라인코리아"<olk@olk.co.kr>
+From: ""<olk@olk.co.kr>
 To: bruceg@em.ca
-Subject: bruceg님 안녕하세요? 
+Subject: bruceg? 
 X-AD2000-Serial: 1033
-X-AD2000-Register: "박재현" <olk@olk.co.kr>
+X-AD2000-Register: "" <olk@olk.co.kr>
 MIME-Version: 1.0
 Content-Type: text/html
 Content-Transfer-Encoding: base64

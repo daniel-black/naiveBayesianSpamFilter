@@ -10,7 +10,7 @@ servers .
 how will it affect me as a user ? as a user you will be able to search the gpg
 intranet , create your own mygpg . com page and update content you are
 responsible for whenever you need .
- ( . as a webmaster ?
+ ( . as a webmaster ?
 by utilizing content management tools , webmasters will be able to focus on
 development efforts . standards will be put in place regarding navigation ,
 graphics , content and performance . tools will be available to check the

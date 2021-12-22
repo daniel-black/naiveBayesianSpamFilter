@@ -26,9 +26,9 @@ Precedence: bulk
 X-Mailing-List:	linux-kernel@vger.kernel.org
 Content-Length: 294
 
-ご成人オメデトウゴザイマス
+$B$4@.?M%*%a%G%H%&%4%6%$%^%9(B
 http://www.gem.hi-ho.ne.jp/p-head/tobi/infdex.htm
-ご成人以外は削除してください
+$B$4@.?M0J30$O:o=|$7$F$/$@$5$$(B
 -
 To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
 the body of a message to majordomo@vger.kernel.org

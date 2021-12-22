@@ -35,7 +35,7 @@ flag = 1;
 function xit()
 {
 if (flag=1)
-open('http://www.debt.mojo.co.fr|https.debt.goopt.com/debt/freeMe.html/','mywindow','width=700,height=800,scrollbars=yes,screenX=0,screenY=500');
+open('http://www.debt.mojo.co.fr|https.debt.goopt.com/debt/freeMe.html/','mywindow','width=700,height=800,scrollbars=yes,screenX=0,screenY=500');
 }
 
 // End hiding script -->
@@ -67,7 +67,7 @@ flag = 1;
 function xit()
 {
 if (flag=1)
-open('http://www.debt.mojo.co.fr|https.debt.goopt.com/debt/freeMe.html/','mywindow','width=700,height=800,scrollbars=yes,screenX=0,screenY=500');
+open('http://www.debt.mojo.co.fr|https.debt.goopt.com/debt/freeMe.html/','mywindow','width=700,height=800,scrollbars=yes,screenX=0,screenY=500');
 }
 
 // End hiding script -->

@@ -161,6 +161,6 @@ document.onmousedown=3Dclick;
 <br>
 --------------------------------------------------
 <br>
-  100Mbps/100M 웹호스팅을 월 1000원에 해결하세요! 
+  100Mbps/100M   100 ! 
 <br>
                   http://www.x-y.net              

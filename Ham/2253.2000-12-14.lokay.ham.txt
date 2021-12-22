@@ -7,7 +7,7 @@ in the past , enron corporate / north american users have used the security
 resource request system ( srrs ) lotus notes database for their security
 request needs including new hire / contractor / temporary access and
 terminations . in response to the business reorganization , the it security and
-controls group is working to streamline enron  , s security request structure
+controls group is working to streamline enron  , s security request structure
 and create one single request database for all groups to use , erequest ,
 located at http : / / itcentral . enron . com /
 please click on the following link to retrieve the erequest training guide :

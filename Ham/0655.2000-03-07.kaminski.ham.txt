@@ -17,21 +17,21 @@ center , it departments face more pressure to keep critical systems up
 and running as well as secure . no chief information officer or network
 manager wants to have to tell the ceo that their e - commerce site has
 been broken into and customer credit card data copied . stories like that
-tend to stick in a potential customer  , s mind more than an expensive
+tend to stick in a potential customer  , s mind more than an expensive
 super bowl ad .
-it  , s hard enough to keep up with the latest new technologies , never mind
+it  , s hard enough to keep up with the latest new technologies , never mind
 latest security patch for your operating system or e - commerce
-application . but we  , re here to help .
-once a week we  , ll publish a list of patches and alerts from all the
-major vendors and security organizations with links to the source . we  , ll
+application . but we  , re here to help .
+once a week we  , ll publish a list of patches and alerts from all the
+major vendors and security organizations with links to the source . we  , ll
 also provide other ( hopefully ) useful resources for the security -
 conscious it manager .
 comments and suggestions are always welcome ! send mail to
 jmeserve @ nww . com .
 now on with the latest patches and alerts :
 security glitch hits foundry switches
-from this week  , s network world : a security problem has cropped up in
-foundry networks  , serveriron switches that make the devices susceptible
+from this week  , s network world : a security problem has cropped up in
+foundry networks  , serveriron switches that make the devices susceptible
 to denial - of - service attacks .
 read the story :
 download the patch :
@@ -49,7 +49,7 @@ both freebsd and debian are reporting a problem with the htdig package
 that runs on their respective platforms . the problem is with the
 htsearch and could allow a user to read any file on the local machine
 accessible to the user id that the script is running under ( which in
-most cases is  + nobody  , ) .
+most cases is  + nobody  , ) .
 for more information from debian :
 http : / / www . debian . org / security /
 to download a patch from freebsd :
@@ -58,7 +58,7 @@ http : / / www . freebsd . org / ports /
 nmh linux package patched
 versions of nmh prior to 1 . 0 . 3 have a vulnerability that could allow
 malicious users to modify the mime headers in a mail message that may
-cause nmh  , s mshow command to execute arbitrary commands . a patch is
+cause nmh  , s mshow command to execute arbitrary commands . a patch is
 available at :
 * * * * * * * *
 zombie zapper 1 . 1 available

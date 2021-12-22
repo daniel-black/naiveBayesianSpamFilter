@@ -14,8 +14,8 @@ a . energy consulting background ( 2 slides )
 b . experience with computational market equilibrium modeling methodolgies ( 2
 slides )
 c . experience of key icf individuals ( 2 slides )
-2 . description of enron  , s modeling interests ( to be discussed with enron )
-3 . icf  , s intertemporal , interregional equilibrium model of the north american
+2 . description of enron  , s modeling interests ( to be discussed with enron )
+3 . icf  , s intertemporal , interregional equilibrium model of the north american
 natural gas analysis
 system ( nangas ) ( 14 slides )
 a . overview of nangas ( 2 slides )

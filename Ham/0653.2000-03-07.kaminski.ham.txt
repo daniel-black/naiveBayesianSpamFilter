@@ -13,7 +13,7 @@ terabytes of data , and the number of users accessing that information is
 skyrocketing . the subsequent requirements are forcing companies to
 rethink their storage strategies and to recognize the importance of
 storage management in the equation of efficient information delivery .
-it isn  , t just the volume of data or the higher scalability demands that
+it isn  , t just the volume of data or the higher scalability demands that
 are changing how businesses handle storage . the premium that companies
 place on much of their enterprise information is having a profound
 effect on their storage requirements . businesses demand fault - tolerant
@@ -34,7 +34,7 @@ there are several ways to efficiently manage storage . one of the best
 routes is consolidation that is , pooling resources and managing
 storage as a system , as opposed to a decentralized collection of file
 servers . this may sound like a throwback to an earlier era , when
-enterprise storage resided on mainframes . but it  , s actually a
+enterprise storage resided on mainframes . but it  , s actually a
 progressive step , as the consolidation has more to do with centralizing
 the planning , management , and ongoing support of storage systems than it
 does with the physical location of the files .
@@ -50,7 +50,7 @@ network - attached storage ( nas ) supplies it professionals with one
 answer , giving workstations and servers a way to gain direct access to
 stored data . nas devices , which have been widely available for years ,
 are optimized to process i / o transactions . though they promise better
-performance , they don  , t remove backups from the transport network .
+performance , they don  , t remove backups from the transport network .
 instead , they supply a relatively easy - to - deploy solution to cross -
 platform storage problems for most heterogeneous environments .
 many consider storage - area networks ( san ) to be the best long - term

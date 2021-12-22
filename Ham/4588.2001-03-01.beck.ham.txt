@@ -56,11 +56,11 @@ the as 400 . with the specified functionality it is believed that all
 operational and trading issues arising from obsf can be managed
 satisfactorily .
 the core functionality , which was due prior to the year - end , was released
-during january but was subsequently found to have introduced  + bugs  , to the
+during january but was subsequently found to have introduced  + bugs  , to the
 integrated business control processes . whilst an improvement on having no
-obsf functionality , the  + bugs  , have had an increasingly negative effect on
+obsf functionality , the  + bugs  , have had an increasingly negative effect on
 the control environment , compounded by the fact that it can not provide a
-guaranteed delivery for the  + bug  , fixes and non core  , reporting  ,
+guaranteed delivery for the  + bug  , fixes and non core  , reporting  ,
 functionality .
 this has given rise to the following concerns :
 ? there are insufficient experienced resources to fully reconcile stock at a

@@ -26,7 +26,7 @@ inbox 30 days
 message log / sent mail 30 days
 trash rollover from inbox for 15 days
 bulletin boards 30 days
-folders / archives e - mails placed in folders or archives  ) one year
+folders / archives e - mails placed in folders or archives  ) one year
 voice mail 90 days
 the corp it group responsible for maintaining compliance with this
 e - mail / voice mail policy will automatically purge e - mail and voice mail older

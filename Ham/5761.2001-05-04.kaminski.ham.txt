@@ -8,7 +8,7 @@ outlook you will only be allocated 100 mb of total mailbox space . ? ? if more
 than this amount of data is migrated to outlook you will not be able to send
 e - mail until it is below the 100 mb limit . ? cleaning up your notes email now
 will prevent this from happening to you .
-enron  , s messaging platform is migrating from lotus notes to microsoft outlook
+enron  , s messaging platform is migrating from lotus notes to microsoft outlook
 2000 worldwide . you will be accessing outlook for all of your email
 functions .
 why is enron migrating to outlook 2000 ?

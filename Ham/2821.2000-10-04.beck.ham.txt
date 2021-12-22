@@ -47,7 +47,7 @@ headcount cost - impact on operational leverage ratio
 investment cost - the specific costs associated with changing the operating
 platform
 development costs - people [ and hardware ]
-business analysts  , time
+business analysts  , time
 line management time
 user time ( including time for uat )
 consulting costs

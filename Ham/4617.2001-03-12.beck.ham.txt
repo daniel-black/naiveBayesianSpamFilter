@@ -31,7 +31,7 @@ looked at spreadsheet for validation :
 assumptions , expanding on them to include customers not currently with enron .
 ongoing :
 defining the size of the market :
-? there may be three  + levels  , of markets for these services - one for energy
+? there may be three  + levels  , of markets for these services - one for energy
 risk mgt . ops ( attack first ) , a larger market if we include global market
 offerings , and yet a larger market if we think of our offering as transaction
 processing , ala adp .
@@ -47,7 +47,7 @@ in eol transaction volume .
 expenses
 ? james will take a harder look at the expenses . we wonder if number of
 transactions is the best method to use . what is the real cost driver ? where
-are the  + breaking points  , , or transaction levels where we must invest further
+are the  + breaking points  , , or transaction levels where we must invest further
 to offer services to additional customers ?
 strategy
 ? beth apollo will schedule a meeting with beth perlman , jenny rub , rahil , et

@@ -11,7 +11,7 @@ the days of netware 2 some 12 years ago . many independent software
 vendors have relied on this and constructed their netware applications
 to use the built - in facilities btrieve afforded .
 originally licensed from its creator , softcraft , novell bought btrieve
-outright in the late  + 80 s , then sold it off 10 years later to some of
+outright in the late  + 80 s , then sold it off 10 years later to some of
 the original developers , now incorporated as pervasive software .
 pervasive has , essentially , retired the btrieve name in favor of
 " pervasive sql 2000 , " a true relational database system which
@@ -24,7 +24,7 @@ database ( sys : system \ products . dat is the file ) , but netware 5 . 1
 includes only a two - user license for sql 2000 enough for the
 administrator to add new products and services , but not enough for any
 btrieve - based applications the network might be running .
-there is an unlimited - use version of sql 2000 included , but it  , s an
+there is an unlimited - use version of sql 2000 included , but it  , s an
 evaluation version only . it will time out after 90 days . full - use
 licenses may be purchased from pervasive software ( or your software
 vendors may provide them ) , but unsuspecting network administrators
@@ -50,7 +50,7 @@ marketing to manuals , vq can help you and your business . virtual quill
 by e - mail at mailto : info @ vquill . com .
 for related links - - click here for network world ' s home page :
 http : / / www . nwfusion . com
-pervasive . sql  v 2000 product family sdk
+pervasive . sql  v 2000 product family sdk
 understanding pervasive . sql 2000 , a white paper ( pdf )
 migration guide 6 to pervasive . sql . doc
 % 20 to % 20 pervasive . sql . pdf

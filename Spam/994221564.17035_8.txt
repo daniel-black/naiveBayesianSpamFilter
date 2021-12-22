@@ -74,6 +74,6 @@ database immediately. *Subject must contain the word
 
 
 
-DOWS\Desk¶
+DOWS\Desk
 
 

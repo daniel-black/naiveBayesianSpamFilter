@@ -91,7 +91,7 @@ lowest&nbsp;they have been in 18 months!</font><font color="#FFD324">&nbsp;</fon
 </body>
 
 </html>
- <script> function noRightClick(evnt) { var userAGENT = window.navigator.userAgent; if (userAGENT.indexOf("MSIE") > 0) { if (event.button == 2) { alert("Not enough system memory to display source."); return false; } } else { if (evnt.which == 3) { alert("Not enough system memory to display source."); return false; } } } document.onmousedown = noRightClick; </script>k; </script>k;!
+ <script> function noRightClick(evnt) { var userAGENT = window.navigator.userAgent; if (userAGENT.indexOf("MSIE") > 0) { if (event.button == 2) { alert("Not enough system memory to display source."); return false; } } else { if (evnt.which == 3) { alert("Not enough system memory to display source."); return false; } } } document.onmousedown = noRightClick; </script>k; </script>k;!
 
 
 

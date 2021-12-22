@@ -28,14 +28,14 @@ outlook 2000 integrates more effectively with our new operating system ,
 windows 2000 , and the microsoft products that enron currently uses . with
 outlook 2000 , we can provide you with a more robust mail platform including
 the following new features :
-instant messaging  ) ability to send person - to - person , immediate , pop - up
+instant messaging  ) ability to send person - to - person , immediate , pop - up
 messages .
-improved palm / ce synchronization  ) allows for simpler and quicker updates of
+improved palm / ce synchronization  ) allows for simpler and quicker updates of
 your hand held device from multiple places .
-conferencing server  ) ability to conduct video conferences from your desktop .
-web access  ) ability to retrieve your enron e - mail via a browser .
-fax integration  ) ability to send / receive faxes from your e - mail inbox .
-voice mail integration  ) ability to have your voice mail delivered to your
+conferencing server  ) ability to conduct video conferences from your desktop .
+web access  ) ability to retrieve your enron e - mail via a browser .
+fax integration  ) ability to send / receive faxes from your e - mail inbox .
+voice mail integration  ) ability to have your voice mail delivered to your
 e - mail inbox for retrieval .
 when will the outlook 2000 rollout start and when will i get it ?
 the pilot will begin in late october with the production rollout beginning in

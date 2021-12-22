@@ -171,7 +171,7 @@ for specific cities and regions . weather forecasts , up to six days ahead ,
 and temperature differentials from periodic averages are now available .
 industry publications : website users can read a wide range of
 industry - specific publications including argus european natural gas , argus
-european electricity , the news from ngi  , s daily gas price index , bandwidth
+european electricity , the news from ngi  , s daily gas price index , bandwidth
 desk , coal daily and more .
 4 . new stack manager features
 the stack manager has been updated to facilitate price limit orders . you will
@@ -186,9 +186,9 @@ show a price which is better than an existing price limit order . instead , the
 system will show a price on the website equivalent to the prevailing price
 limit order while it is being filled . once the appropriate price limit orders
 are filled , then the website will again show your stack manager prices .
-it is important that you complete the  & maximum volume  8 field in the product
+it is important that you complete the  & maximum volume  8 field in the product
 properties window and that you select " allow price limit orders " . also , make
-sure that the price tick window in the stack manager  , s  & product properties  8
+sure that the price tick window in the stack manager  , s  & product properties  8
 field is appropriate for the product . if you do not do this , your customers
 will not be able to use price limit orders for your products .
 5 . your participation
