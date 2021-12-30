@@ -1,7 +1,7 @@
 Return-Path: <flo1598@ematic.com>
 Delivered-To: bfsmedia-design@bfsmedia.com
 Received: (qmail 18573 invoked from network); 3 Apr 2001 05:15:51 -0000
-Received: from unknown (HELO exchange.magazineluiza.intranet) (200.210.30.35)
+Received: from unknown
   by bfsmedia.sk.ca with SMTP; 3 Apr 2001 05:15:51 -0000
 Received: by exchange.magazineluiza.intranet with Internet Mail Service (5.5.2653.19)
 	id <2A9AT1S5>; Tue, 3 Apr 2001 02:19:45 -0300
