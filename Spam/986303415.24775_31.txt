@@ -3,11 +3,11 @@ Delivered-To: bfsmedia-design@bfsmedia.com
 Received: (qmail 18573 invoked from network); 3 Apr 2001 05:15:51 -0000
 Received: from unknown
   by bfsmedia.sk.ca with SMTP; 3 Apr 2001 05:15:51 -0000
-Received: by exchange.magazineluiza.intranet with Internet Mail Service (5.5.2653.19)
+Received: by 
 	id <2A9AT1S5>; Tue, 3 Apr 2001 02:19:45 -0300
-Received: from exchange.magazineluiza.intranet (localhost [127.0.0.1]) by exchange.magazineluiza.intranet with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+Received: from 
 	id 2A9AT1SZ; Tue, 3 Apr 2001 02:19:39 -0300
-Received: from 38.37.111.97 by exchange.magazineluiza.intranet (InterScan E-Mail VirusWall NT); Tue, 03 Apr 2001 02:19:36 -0300 (E. South America Standard Time)
+Received: from 38.37.111.97 by  (InterScan E-Mail VirusWall NT); Tue, 03 Apr 2001 02:19:36 -0300 (E. South America Standard Time)
 From: flo1598@ematic.com
 Reply-To: flo1598@ematic.com
 To: 45bg
